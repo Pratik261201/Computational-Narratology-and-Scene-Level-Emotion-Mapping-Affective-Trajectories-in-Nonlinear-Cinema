@@ -1,0 +1,4786 @@
+{
+  "source_file": "Kids vs. Aliens _2022_ - full transcript.txt",
+  "title": "Kids vs. Aliens",
+  "year": "2022",
+  "meta_description": null,
+  "num_scenes": 90,
+  "avg_scene_chars": 347,
+  "characters": [
+    "BILLY",
+    "DAD",
+    "DINO",
+    "GARY",
+    "GIRL",
+    "MAN",
+    "MILES",
+    "SAM",
+    "TRISH"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "[ Down-tempo music plays ]",
+      "raw_text": "How much longer till we go home? Captain decides when we go home! Can you go ask him? Jesus Christ! No one's gonna ask the captain what time they can go home! Got it, kid? Jesus. Empty. Got to soak them again, Cap! Gonna be a long one tonight, boys.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How much longer till we go home? Captain decides when we go home! Can you go ask him? Jesus Christ! No one's gonna ask the captain what time they can go home! Got it, kid? Jesus. Empty. Got to soak them again, Cap! Gonna be a long one tonight, boys."
+      ],
+      "scene_length_chars": 249,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00016139046056196094,
+        0.0008673936245031655,
+        0.0012295054038986564,
+        0.009480016306042671,
+        0.003532913513481617,
+        0.007833773270249367,
+        0.0018976270221173763,
+        0.4960692226886749,
+        0.0008230714593082666,
+        0.0031547017861157656,
+        0.00027008928009308875,
+        0.002812520368024707,
+        0.0020216365810483694,
+        0.0005233537522144616,
+        0.0013279130216687918,
+        0.00016924382362049073,
+        0.0023054310586303473,
+        9.258520003641024e-05,
+        4.981224992661737e-05,
+        0.0005217695725150406,
+        0.05500556901097298,
+        0.0004945624968968332,
+        0.004027168732136488,
+        0.000965198443736881,
+        0.00047170647303573787,
+        0.006197323091328144,
+        0.0031067407689988613,
+        0.7244393825531006
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "[ Energy resonates ]",
+      "raw_text": "Mother of Jesus. -What the fuck? -Jesus, Mary, and Joseph. What the fuck's that? Get the fuck down! Fuck! You boys all right? What the fuck was that?! I don't know.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Mother of Jesus. -What the fuck? -Jesus, Mary, and Joseph. What the fuck's that? Get the fuck down! Fuck! You boys all right? What the fuck was that?! I don't know."
+      ],
+      "scene_length_chars": 164,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.003561980789527297,
+        0.0006386890891008079,
+        0.992816686630249,
+        0.013653206638991833,
+        0.00150557782035321,
+        0.003745520021766424,
+        0.004889118485152721,
+        0.005162580870091915,
+        0.0052754199132323265,
+        0.007224075961858034,
+        0.004119515884667635,
+        0.010244825854897499,
+        0.0007631952175870538,
+        0.001957564614713192,
+        0.0020422760862857103,
+        0.0017196431290358305,
+        0.0027964303735643625,
+        0.0025519852060824633,
+        0.004854288417845964,
+        0.00039870612090453506,
+        0.0007426589145325124,
+        0.0009722628747113049,
+        0.002371531678363681,
+        0.00018443707085680217,
+        0.001020279130898416,
+        0.0023266742937266827,
+        0.008057584054768085,
+        0.009564732201397419
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "[ Dramatic music plays ]",
+      "raw_text": "What do you think it is? I don't think it's a plane. I don't think we should be here. Boys, we're -- we're getting out of here.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What do you think it is? I don't think it's a plane. I don't think we should be here. Boys, we're -- we're getting out of here."
+      ],
+      "scene_length_chars": 127,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00019073314615525305,
+        0.0006716115749441087,
+        0.0009438184788450599,
+        0.0007626568549312651,
+        0.0003593738074414432,
+        0.0005358461639843881,
+        0.3382132351398468,
+        0.251088947057724,
+        0.00022549073037225753,
+        0.0006530828541144729,
+        0.0005886713624931872,
+        0.0006925637717358768,
+        0.0013359136646613479,
+        0.0003105977666564286,
+        0.00020208493515383452,
+        0.00048764116945676506,
+        0.0008415322517976165,
+        0.000237020940403454,
+        0.00029180399724282324,
+        7.385772187262774e-05,
+        0.0056658098474144936,
+        0.0002953679650090635,
+        0.011344159953296185,
+        0.0009416034445166588,
+        0.0005229119560681283,
+        0.0008311658166348934,
+        0.027119530364871025,
+        0.8397851586341858
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "confusion",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "[ Underwater bellowing ]",
+      "raw_text": "-MAN: Aaah! -Bruce! Bruce! Bruce! Bruce! Bruce! -Bruce! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-MAN: Aaah! -Bruce! Bruce! Bruce! Bruce! Bruce! -Bruce! -"
+      ],
+      "scene_length_chars": 57,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004097379744052887,
+        0.004034849349409342,
+        0.005371319595724344,
+        0.0013781999005004764,
+        0.004507937468588352,
+        0.00011245864152442664,
+        0.00026627597981132567,
+        0.0011590360663831234,
+        0.000644972431473434,
+        0.0005896399961784482,
+        0.0007242888677865267,
+        0.001932515762746334,
+        0.0005808565765619278,
+        0.7291632890701294,
+        0.002768002450466156,
+        0.00016745543689467013,
+        0.002080996287986636,
+        0.0035347845405340195,
+        0.0004610717296600342,
+        0.0004337019345257431,
+        0.00040539135807193816,
+        0.018477847799658775,
+        0.004385878797620535,
+        0.0019975777249783278,
+        0.0005274909781292081,
+        0.0005494831129908562,
+        0.04826715588569641,
+        0.8143172860145569
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "excitement",
+        "surprise"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "excitement",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": "[ Water sloshes ]",
+      "raw_text": "Aah! CAPTAIN: Jimmy! Jimmy! J-Jimmy! J-Jimmy? Jim? Who's out there?!\n[ Creature growling ]\n[ Water splashes ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Aah! CAPTAIN: Jimmy! Jimmy! J-Jimmy! J-Jimmy? Jim? Who's out there?!"
+      ],
+      "scene_length_chars": 109,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0020870445296168327,
+        0.004981757141649723,
+        0.006257822271436453,
+        0.0006205770187079906,
+        0.0009674869361333549,
+        0.00024133079568855464,
+        0.010119033046066761,
+        0.5978969931602478,
+        0.000718273688107729,
+        0.000258847838267684,
+        0.00020126209710724652,
+        0.0008899574168026447,
+        0.0001861492492025718,
+        0.0032480978406965733,
+        0.0024240934289991856,
+        4.173624620307237e-05,
+        0.00043718895176425576,
+        0.0001528592692920938,
+        0.000458442053059116,
+        0.0001464243105147034,
+        0.00017201024456880987,
+        0.00012184720253571868,
+        0.0007191661861725152,
+        3.5130629839841276e-05,
+        8.795566827757284e-05,
+        0.0004600751562975347,
+        0.049008578062057495,
+        0.5655003190040588
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "surprise"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": "[ Up-tempo rock music plays ]",
+      "raw_text": "GARY: There's Dinos dead ahead! Fire the laser cannon! -Yeah! -Yeah!",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "There's Dinos dead ahead! Fire the laser cannon! -Yeah! -Yeah!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 68,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0017478024819865823,
+        0.0003529628156684339,
+        0.0003228317655157298,
+        0.0008441724930889904,
+        0.0033914106898009777,
+        0.0005634602275677025,
+        0.0002955677337013185,
+        0.0006500924355350435,
+        0.0009814739460125566,
+        0.000201285321963951,
+        0.00035636709071695805,
+        0.0002537697146181017,
+        0.00011811231524916366,
+        0.0014301333576440811,
+        0.00043049384839832783,
+        0.00016655700164847076,
+        0.000131959022837691,
+        0.00023239283473230898,
+        0.0001910822611534968,
+        9.748087177285925e-05,
+        0.001950725563801825,
+        0.0005204205517657101,
+        0.00034531179699115455,
+        0.00018828760948963463,
+        9.441201109439135e-05,
+        0.00011983534932369366,
+        0.0003538846503943205,
+        0.9989314675331116
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "approval",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": "[ Coughing ]",
+      "raw_text": "There's Dinos dead ahead. -Let's teach them how to die. -You'll die this time! This Dino spine is mine! Aaaaah! Let's go berserk! Yeah! GARY: Your Dino treachery ends here! No! No!\n[ Grunting ]\nStop! Stop it! Stop! Stop!\n[ Electricity crackling ]\n[ Grunting ]\n-\n[ Electricity crackling ]\n-",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "There's Dinos dead ahead. -Let's teach them how to die. -You'll die this time! This Dino spine is mine! Aaaaah! Let's go berserk! Yeah! GARY: Your Dino treachery ends here! No! No!",
+        "Stop! Stop it! Stop! Stop!",
+        "-",
+        "-"
+      ],
+      "scene_length_chars": 289,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003054106782656163,
+        0.006518542766571045,
+        0.6988312602043152,
+        0.3774081766605377,
+        0.0005051781190559268,
+        0.0008918614475987852,
+        0.002085700398311019,
+        0.000502352078910917,
+        0.001158533850684762,
+        0.002128136344254017,
+        0.01749112643301487,
+        0.002024069195613265,
+        0.002014154102653265,
+        0.010848852805793285,
+        0.05474329739809036,
+        0.000691267370712012,
+        0.002202551579102874,
+        0.002885569352656603,
+        0.00036729249404743314,
+        0.0007710621575824916,
+        0.0026466050185263157,
+        0.0016682986170053482,
+        0.000895220204256475,
+        0.0005011107423342764,
+        0.0007518786587752402,
+        0.0018830184126272798,
+        0.023897334933280945,
+        0.25844940543174744
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": "[ Screaming ]",
+      "raw_text": "It's the Dino Sorcerer. Prepare to die, you human fleshbags! -Eat him alive! -Yeah!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It's the Dino Sorcerer. Prepare to die, you human fleshbags! -Eat him alive! -Yeah!"
+      ],
+      "scene_length_chars": 83,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.01395932026207447,
+        0.0020036394707858562,
+        0.04572216048836708,
+        0.9515445232391357,
+        0.027255812659859657,
+        0.00047867148532532156,
+        0.0003131008124910295,
+        0.0004709792847279459,
+        0.00446293456479907,
+        0.005929820705205202,
+        0.0004842432972509414,
+        0.0015831339405849576,
+        0.0008460431126877666,
+        0.027524905279278755,
+        0.00215348182246089,
+        0.0012582263443619013,
+        0.0010393155971542,
+        0.0007409312529489398,
+        0.00011334390728734434,
+        0.0005248584784567356,
+        0.00941928755491972,
+        0.03137163445353508,
+        0.021562615409493446,
+        0.0033247529063373804,
+        0.0010563365649431944,
+        0.000936486292630434,
+        0.0069336663000285625,
+        0.05296214297413826
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "neutral",
+        "anger"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": "[ Chain saw buzzing ]",
+      "raw_text": "Do a dropkick! Aaah! Yeah! Ha ha! Your space magic doesn't scare me. Then clearly you don't understand the true power of the crystal. Give me the crystal! Never! You should have stayed extinct. DINO: Shit. Gary, this is stupid. GARY: What? What are you talking about? Yeah. What's wrong? This is so -- like... I got to shoot him in the head? That's it? Why does he get a sword and I don't? GARY: Well, first of all, you have a gun, stupid. Guns are better than swords. And, two, you're a girl. You don't use swords. Um, that's not true. Girls totally use swords. I kick ass with a sword. Well, guess what. One, I don't care. Two, I'm the director, so that's just how it's going to be. And three, we need to get the shot before it gets dark. So come on. Let's shoot this thing. Okay. Action! You should have stayed extinct.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Do a dropkick! Aaah! Yeah! Ha ha! Your space magic doesn't scare me. Then clearly you don't understand the true power of the crystal. Give me the crystal! Never! You should have stayed extinct. DINO: Shit. Gary, this is stupid. GARY: What? What are you talking about? Yeah. What's wrong? This is so -- like... I got to shoot him in the head? That's it? Why does he get a sword and I don't? GARY: Well, first of all, you have a gun, stupid. Guns are better than swords. And, two, you're a girl. You don't use swords. Um, that's not true. Girls totally use swords. I kick ass with a sword. Well, guess what. One, I don't care. Two, I'm the director, so that's just how it's going to be. And three, we need to get the shot before it gets dark. So come on. Let's shoot this thing. Okay. Action! You should have stayed extinct."
+      ],
+      "scene_length_chars": 822,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.06385097652673721,
+        0.02467823401093483,
+        0.09400759637355804,
+        0.010211590677499771,
+        0.01642964966595173,
+        0.009408699348568916,
+        0.010601693764328957,
+        0.6814166903495789,
+        0.011636304669082165,
+        0.0003704475238919258,
+        0.0007539025391452014,
+        0.012009324505925179,
+        0.0009157001622952521,
+        0.02226695977151394,
+        0.019897064194083214,
+        0.00045922776916995645,
+        0.0015928319189697504,
+        0.0007358978618867695,
+        0.0019984839018434286,
+        0.0011451386380940676,
+        0.020965244621038437,
+        0.002551104174926877,
+        0.006924717221409082,
+        0.00032022653613239527,
+        0.0002637226425576955,
+        0.0002350719296373427,
+        0.034153975546360016,
+        0.38034823536872864
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": "[ Bottle shatters ]",
+      "raw_text": "Holy shit. Are you okay? Ow! What the fuck? Who threw a beer bottle at me?! BILLY: I did. You little piss trap. This would be a great place to party. Oh, fucking teenagers. I always thought this place was abandoned. -It's Billy McDougal! Run! -Holy shit.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Holy shit. Are you okay? Ow! What the fuck? Who threw a beer bottle at me?! BILLY: I did. You little piss trap. This would be a great place to party. Oh, fucking teenagers. I always thought this place was abandoned. -It's Billy McDougal! Run! -Holy shit."
+      ],
+      "scene_length_chars": 254,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.14027626812458038,
+        0.006198424845933914,
+        0.9125975966453552,
+        0.07404082268476486,
+        0.0007585779530927539,
+        0.002408549888059497,
+        0.009495395235717297,
+        0.029669595882296562,
+        0.0030066289473325014,
+        0.03175906836986542,
+        0.005649312399327755,
+        0.42155495285987854,
+        0.0034355020616203547,
+        0.012120740488171577,
+        0.007517857011407614,
+        0.0017096169758588076,
+        0.0073691075667738914,
+        0.005700642708688974,
+        0.0022201109677553177,
+        0.0005149504286237061,
+        0.0015337447402998805,
+        0.005333624314516783,
+        0.00461160484701395,
+        0.001239577541127801,
+        0.0011024982668459415,
+        0.002755548572167754,
+        0.32299450039863586,
+        0.001056782086379826
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disgust",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "disgust"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": "[ Indistinct shouting ]",
+      "raw_text": "Guys, guys! Are you fucking serious? You ruined the fucking movie! Get out of our clubhouse, and stop smoking in here. This place is a fucking dump. I'm gonna put this clown to sleep. No, Miles, don't. GARY: Yeah, kick his ass! Yeah, smile when I knock your fucking mouth out. GARY: Get him! BILLY: Hey, whoa, whoa. Oh! Stop! Stop it! -MILES: Fuck off! -SAM: Leave him alone. MILES:",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Guys, guys! Are you fucking serious? You ruined the fucking movie! Get out of our clubhouse, and stop smoking in here. This place is a fucking dump. I'm gonna put this clown to sleep. No, Miles, don't. GARY: Yeah, kick his ass! Yeah, smile when I knock your fucking mouth out. GARY: Get him! BILLY: Hey, whoa, whoa. Oh! Stop! Stop it! -MILES: Fuck off! -SAM: Leave him alone. MILES:"
+      ],
+      "scene_length_chars": 382,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005125790368765593,
+        0.0034627090208232403,
+        0.9966418743133545,
+        0.03863117843866348,
+        0.0011121787829324603,
+        0.003636366920545697,
+        0.0016735290409997106,
+        0.0016074520535767078,
+        0.0052932738326489925,
+        0.006162289064377546,
+        0.006361435633152723,
+        0.017033472657203674,
+        0.0013889709953218699,
+        0.0024727159179747105,
+        0.002188321202993393,
+        0.0028098418843001127,
+        0.004630092065781355,
+        0.003832888090983033,
+        0.0028549563139677048,
+        0.0003272381145507097,
+        0.0010211451444774866,
+        0.0020313039422035217,
+        0.002521323738619685,
+        0.000299068953609094,
+        0.0021818536333739758,
+        0.003625409211963415,
+        0.008205198682844639,
+        0.007384099997580051
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 18,
+      "heading": "[ Grunting ]",
+      "raw_text": "I'm serious. Knock it off. Fuck off, man. I said knock it off! Fuck, man. MILES: Get the fuck off me! Jesus. Hey, please use your brain next time. -You good, man? -Yeah, I'm fine. Hey, haven't I seen you at school before? Oh, come on. You have. Yeah. Pretty girl like you. How could I not? Why the fuck are you hanging out with these losers anyway? Um, well, he's my brother, those are his friends, and they're not losers. Okay? TRISH: Um",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm serious. Knock it off. Fuck off, man. I said knock it off! Fuck, man. MILES: Get the fuck off me! Jesus. Hey, please use your brain next time. -You good, man? -Yeah, I'm fine. Hey, haven't I seen you at school before? Oh, come on. You have. Yeah. Pretty girl like you. How could I not? Why the fuck are you hanging out with these losers anyway? Um, well, he's my brother, those are his friends, and they're not losers. Okay? TRISH: Um"
+      ],
+      "scene_length_chars": 438,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006615771912038326,
+        0.001614014501683414,
+        0.9894912242889404,
+        0.03229851648211479,
+        0.001975105609744787,
+        0.005412893835455179,
+        0.004928708542138338,
+        0.00801355205476284,
+        0.0032949834130704403,
+        0.005131454207003117,
+        0.00794603768736124,
+        0.025031298398971558,
+        0.0016101242508739233,
+        0.0010124812833964825,
+        0.001628446625545621,
+        0.003001929959282279,
+        0.001554736401885748,
+        0.0011271557305008173,
+        0.011559626087546349,
+        0.0006728977896273136,
+        0.0012175001902505755,
+        0.0009231951553374529,
+        0.005289657507091761,
+        0.00014703781926073134,
+        0.0006172927096486092,
+        0.001483971020206809,
+        0.014313419349491596,
+        0.014758668839931488
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 19,
+      "heading": "[Chuckles]",
+      "raw_text": "Why don't you have friends your own age? I do. I'm just babysitting them.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Why don't you have friends your own age? I do. I'm just babysitting them."
+      ],
+      "scene_length_chars": 73,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00040022138273343444,
+        0.0002983342274092138,
+        0.00026321597397327423,
+        0.0009312774636782706,
+        0.0011329315602779388,
+        0.0008551139035262167,
+        0.0005619940930046141,
+        0.010211840271949768,
+        0.00045801440137438476,
+        0.0002578728599473834,
+        0.0004298293497413397,
+        0.0003534726274665445,
+        0.00013469242549035698,
+        0.000319438026053831,
+        0.00015824825095478445,
+        0.0001409497344866395,
+        0.00011848740541609004,
+        0.00015499271103180945,
+        0.00018806441221386194,
+        5.143005182617344e-05,
+        0.0005253384006209671,
+        0.0001469261187594384,
+        0.00021321845997590572,
+        9.880511061055586e-05,
+        0.00011629521759459749,
+        0.00020322980708442628,
+        0.00012519357551354915,
+        0.9981403350830078
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "heading": "[ Scoffs ]",
+      "raw_text": "Babysitting? You wanted to be in our movie, didn't you? -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Babysitting? You wanted to be in our movie, didn't you? -"
+      ],
+      "scene_length_chars": 57,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0012013865634799004,
+        0.0007151932222768664,
+        0.0006087492220103741,
+        0.0008346853428520262,
+        0.0037421302404254675,
+        0.0037570178974419832,
+        0.009402520954608917,
+        0.9946926236152649,
+        0.011035510338842869,
+        0.004226055461913347,
+        0.003002170007675886,
+        0.002264616312459111,
+        0.0003922717005480081,
+        0.001416943734511733,
+        0.0010601362446323037,
+        0.00020806393877137452,
+        0.0009442798909731209,
+        0.0006712775211781263,
+        0.0020125398878008127,
+        0.0009209232521243393,
+        0.0035929232835769653,
+        0.00012139524915255606,
+        0.002176772803068161,
+        0.00015787326265126467,
+        0.0005175230326130986,
+        0.004930507391691208,
+        0.0007256405660882592,
+        0.028632869943976402
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "desire"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "heading": "[ Whispering ]",
+      "raw_text": "Stop it. -Why are you telling me to stop? -Please. -You got a boyfriend, Sam? No. You fucking anybody?\n[ Scoffs ]\nStop. Gross.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Stop it. -Why are you telling me to stop? -Please. -You got a boyfriend, Sam? No. You fucking anybody?",
+        "Stop. Gross."
+      ],
+      "scene_length_chars": 126,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0015862779691815376,
+        0.0020714467391371727,
+        0.9914882183074951,
+        0.31516116857528687,
+        0.0010613194899633527,
+        0.0016645588912069798,
+        0.0028644429985433817,
+        0.006318255793303251,
+        0.0015205518575385213,
+        0.006620223168283701,
+        0.015404115431010723,
+        0.07568872720003128,
+        0.001609933446161449,
+        0.0009580828482285142,
+        0.0011465466814115644,
+        0.0021125045605003834,
+        0.0012817474780604243,
+        0.0015631909482181072,
+        0.0009848398622125387,
+        0.000225504714762792,
+        0.0005398482317104936,
+        0.0004439127224031836,
+        0.0006496855639852583,
+        0.00019066566892433912,
+        0.0012491507222875953,
+        0.0026015713810920715,
+        0.002371156122535467,
+        0.0030950000509619713
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 23,
+      "heading": "[ Laughs ]",
+      "raw_text": "She's not your type, Billy. She's still a kid. Look at how she dresses. Sam's way cooler than you, you troglodytes. What's a troglodyte? Oh, it's like a -- like a caveman. It's calling them, like, underdeveloped, stupid. -That's you guys. -Why the fuck are we still here? This shit is lame. Let's dip. GARY: Yeah, run away. I hope to see you around, Sam. They're lucky I didn't leave them in a pile of blood. Yeah, those guys are assholes. Yeah, they weren't very nice. GARY: Come on, Jack. Say something meaner. JACK: They were dumb. BROADCASTER: Divers are still searching for three fishermen whose boat was found adrift earlier this week. Many people reported seeing a fiery object fall from the sky that same evening. It is unknown if the two events are related, but police are asking for any witnesses to come forward. In other news, Halloween is only two days away. Do you know what costume you'll be wearing? Coming up, we've got some great ideas.\n[ Cellphone chimes ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "She's not your type, Billy. She's still a kid. Look at how she dresses. Sam's way cooler than you, you troglodytes. What's a troglodyte? Oh, it's like a -- like a caveman. It's calling them, like, underdeveloped, stupid. -That's you guys. -Why the fuck are we still here? This shit is lame. Let's dip. GARY: Yeah, run away. I hope to see you around, Sam. They're lucky I didn't leave them in a pile of blood. Yeah, those guys are assholes. Yeah, they weren't very nice. GARY: Come on, Jack. Say something meaner. JACK: They were dumb. BROADCASTER: Divers are still searching for three fishermen whose boat was found adrift earlier this week. Many people reported seeing a fiery object fall from the sky that same evening. It is unknown if the two events are related, but police are asking for any witnesses to come forward. In other news, Halloween is only two days away. Do you know what costume you'll be wearing? Coming up, we've got some great ideas."
+      ],
+      "scene_length_chars": 975,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.1441555917263031,
+        0.006429300177842379,
+        0.31991660594940186,
+        0.2758529484272003,
+        0.14290349185466766,
+        0.0009684849064797163,
+        0.01610872521996498,
+        0.007736498489975929,
+        0.005504340399056673,
+        0.021466216072440147,
+        0.05738772451877594,
+        0.0772956982254982,
+        0.014958665706217289,
+        0.3104720413684845,
+        0.010654520243406296,
+        0.0004397218581289053,
+        0.002724836580455303,
+        0.0023922626860439777,
+        0.001494367839768529,
+        0.0027572016697376966,
+        0.12965761125087738,
+        0.005266883876174688,
+        0.045896269381046295,
+        0.0010474631562829018,
+        0.0014675460988655686,
+        0.0035167632158845663,
+        0.0036434929352253675,
+        0.009360634721815586
+      ],
+      "goemotions_topk": [
+        "anger",
+        "excitement",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 25,
+      "heading": "[ Knock on door ]",
+      "raw_text": "GARY: Sam, why do you always lock your door? Sam, I know you're in there. Are you coming out to wrestle or not? Not right now. What? Come on. Why not? We need you. Because I don't feel like it. Come on. We need you for this movie. I thought you were gonna be my tag-team partner. Come on. Why not? Gary, I have homework.\n[ Cellphone chimes ]",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "Sam, why do you always lock your door? Sam, I know you're in there. Are you coming out to wrestle or not? Not right now. What? Come on. Why not? We need you. Because I don't feel like it. Come on. We need you for this movie. I thought you were gonna be my tag-team partner. Come on. Why not? Gary, I have homework."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 341,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.007897998206317425,
+        0.0020590131171047688,
+        0.0009577378514222801,
+        0.0014659487642347813,
+        0.0052787670865654945,
+        0.006839057430624962,
+        0.03566528111696243,
+        0.99406898021698,
+        0.010091663338243961,
+        0.0026257692370563745,
+        0.0005235194112174213,
+        0.0017219292931258678,
+        0.00042633668635971844,
+        0.00732687721028924,
+        0.000866799964569509,
+        0.0003015682159457356,
+        0.0007935180910862982,
+        0.0008413105388171971,
+        0.0010605519637465477,
+        0.0012579549802467227,
+        0.014905431307852268,
+        0.000336391938617453,
+        0.01581980101764202,
+        0.0003575736773200333,
+        0.0005020193639211357,
+        0.0012874857056885958,
+        0.00469774566590786,
+        0.030698779970407486
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "confusion",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 27,
+      "heading": "[ Playing mid-tempo music ]",
+      "raw_text": "Just shoot it without me. And don't do anything that'll get me in trouble. Fine. Be like that! ♪ You wanted me, and I didn't see it ♪ ♪ Now I'm so lost without you ♪ Get off me, dummy! GARY: Nice. Where's Sam? Uh, she needed to do homework. What the fuck? Why would she want a main role in the movie if she's not gonna be in it? Yeah, I know. I thought the exact same thing. It's kind of weird. She's never ditched us before. Jack, here are the glow sticks you wanted. Sweet. Thanks. What are you even doing? I already told you. I'm working on the grand finale for the movie, and it's going to be glorious. Sure. Yeah, just, um, don't blow anything up, please. No promises. Wait. So she totally ditched us for homework. Yeah. Well, guess what. Sucks to be her because she won't get to film the best movie ever. Let's film this fucking thing. It's pandemonium here as one half of the Berserkers faces off against the treacherous Dino Sorcerer. A match that's been 65 million years in the making. -Now let's rumble! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Just shoot it without me. And don't do anything that'll get me in trouble. Fine. Be like that! ♪ You wanted me, and I didn't see it ♪ ♪ Now I'm so lost without you ♪ Get off me, dummy! GARY: Nice. Where's Sam? Uh, she needed to do homework. What the fuck? Why would she want a main role in the movie if she's not gonna be in it? Yeah, I know. I thought the exact same thing. It's kind of weird. She's never ditched us before. Jack, here are the glow sticks you wanted. Sweet. Thanks. What are you even doing? I already told you. I'm working on the grand finale for the movie, and it's going to be glorious. Sure. Yeah, just, um, don't blow anything up, please. No promises. Wait. So she totally ditched us for homework. Yeah. Well, guess what. Sucks to be her because she won't get to film the best movie ever. Let's film this fucking thing. It's pandemonium here as one half of the Berserkers faces off against the treacherous Dino Sorcerer. A match that's been 65 million years in the making. -Now let's rumble! -"
+      ],
+      "scene_length_chars": 1015,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.27786585688591003,
+        0.0053359405137598515,
+        0.15195418894290924,
+        0.33194321393966675,
+        0.005431281868368387,
+        0.01895463839173317,
+        0.06555508822202682,
+        0.4807353615760803,
+        0.08235500752925873,
+        0.3231106400489807,
+        0.027306385338306427,
+        0.012710065580904484,
+        0.0075211431831121445,
+        0.12806592881679535,
+        0.006558026187121868,
+        0.28708121180534363,
+        0.01868114434182644,
+        0.004644846543669701,
+        0.014628439210355282,
+        0.008722958154976368,
+        0.27734851837158203,
+        0.0735846757888794,
+        0.021524515002965927,
+        0.03427063673734665,
+        0.010029539465904236,
+        0.0163123682141304,
+        0.18972599506378174,
+        0.5007930397987366
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 28,
+      "heading": "[ Bell dings ]",
+      "raw_text": "DINO: My kind was frozen in the dirt until the souls of your ancestors brought us back! I can't believe it! The Dino Sorcerer has brought the Berserker to his knees.\n[ Roars ]",
+      "characters": [
+        "DINO"
+      ],
+      "dialogues": [
+        {
+          "speaker": "DINO",
+          "text": "My kind was frozen in the dirt until the souls of your ancestors brought us back! I can't believe it! The Dino Sorcerer has brought the Berserker to his knees."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 175,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00023656172561459243,
+        0.0027415130753070116,
+        0.0034654203336685896,
+        0.00719786249101162,
+        0.0003983285278081894,
+        0.0002578190469648689,
+        0.012622869573533535,
+        0.0019273777725175023,
+        0.00012410602357704192,
+        0.0016776202246546745,
+        0.008912996388971806,
+        0.007123137358576059,
+        0.0030370354652404785,
+        0.0007423160132020712,
+        0.014992337673902512,
+        0.0004912613658234477,
+        0.0017138777766376734,
+        0.00021232177095953375,
+        5.750263517256826e-05,
+        0.000321107916533947,
+        0.00035113582271151245,
+        0.00035022731753997505,
+        0.0012610976118594408,
+        0.0005669221864081919,
+        0.00040591825381852686,
+        0.0022123283706605434,
+        0.8153371810913086,
+        0.40192195773124695
+      ],
+      "goemotions_topk": [
+        "surprise",
+        "neutral",
+        "fear"
+      ],
+      "goemotions_label": "surprise",
+      "goemotions_labels": [
+        "surprise",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 30,
+      "heading": "[ Grunting ]",
+      "raw_text": "Holy smokes, folks! We're watching history rewrite itself. Just because my tag-team partner isn't willing to help me because they have homework, that doesn't mean that I'm not ready to fight anything and anyone in this shithole universe to protect my Planet Earth.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Holy smokes, folks! We're watching history rewrite itself. Just because my tag-team partner isn't willing to help me because they have homework, that doesn't mean that I'm not ready to fight anything and anyone in this shithole universe to protect my Planet Earth."
+      ],
+      "scene_length_chars": 264,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0006603854126296937,
+        0.00023717398289591074,
+        0.030377104878425598,
+        0.977397084236145,
+        0.0008001544629223645,
+        0.0003909141814801842,
+        0.0003967209777329117,
+        0.0005847922875545919,
+        0.0005102124414406717,
+        0.015009707771241665,
+        0.02837100811302662,
+        0.0024928986094892025,
+        0.0013605037238448858,
+        0.0025664798449724913,
+        0.00048741200589574873,
+        0.0031448490917682648,
+        0.00046068316441960633,
+        0.0015346095897257328,
+        6.899460277054459e-05,
+        0.0002588372153695673,
+        0.002404481405392289,
+        0.0017008503200486302,
+        0.0018271818989887834,
+        0.0038367602974176407,
+        0.0002482151903677732,
+        0.0009709865553304553,
+        0.012585511431097984,
+        0.016658252105116844
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "anger",
+        "disapproval"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 31,
+      "heading": "[ Roars ]",
+      "raw_text": "The Dino Sorcerer is hurt. The fate of the planet comes down to this very moment. I'm unstoppable! Oh, fuck!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "The Dino Sorcerer is hurt. The fate of the planet comes down to this very moment. I'm unstoppable! Oh, fuck!"
+      ],
+      "scene_length_chars": 108,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0012657704064622521,
+        0.0007477354374714196,
+        0.02499745599925518,
+        0.020387839525938034,
+        0.0005360985524021089,
+        0.007859843783080578,
+        0.0005913554923608899,
+        0.0017170117935165763,
+        0.0027881301939487457,
+        0.620097279548645,
+        0.0007673545624129474,
+        0.0036611545365303755,
+        0.003943422809243202,
+        0.005613141693174839,
+        0.011772232130169868,
+        0.00033683268702588975,
+        0.14829497039318085,
+        0.0025678242091089487,
+        0.00019896503363270313,
+        0.007976844906806946,
+        0.011260571889579296,
+        0.008663661777973175,
+        0.007403798867017031,
+        0.013844670727849007,
+        0.012911214493215084,
+        0.79630446434021,
+        0.1099424734711647,
+        0.010179800912737846
+      ],
+      "goemotions_topk": [
+        "sadness",
+        "disappointment",
+        "grief"
+      ],
+      "goemotions_label": "sadness",
+      "goemotions_labels": [
+        "disappointment",
+        "sadness"
+      ]
+    },
+    {
+      "scene_id": 32,
+      "heading": "[ Groaning ]",
+      "raw_text": "My arm! I broke it! Go get my sister! Go, go! Jack, go! Don't be a wuss, man. You don't be a fucking dumbass! Get off my arm! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "My arm! I broke it! Go get my sister! Go, go! Jack, go! Don't be a wuss, man. You don't be a fucking dumbass! Get off my arm! -"
+      ],
+      "scene_length_chars": 127,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0019355558324605227,
+        0.0008314362494274974,
+        0.9930098056793213,
+        0.06074613705277443,
+        0.003986809868365526,
+        0.054919663816690445,
+        0.0009429847705177963,
+        0.0033744103275239468,
+        0.00432183314114809,
+        0.004052507691085339,
+        0.01967480778694153,
+        0.007725797593593597,
+        0.0011602245504036546,
+        0.0020499336533248425,
+        0.001944222953170538,
+        0.0015475413529202342,
+        0.002736527007073164,
+        0.002166760852560401,
+        0.004887699149549007,
+        0.0004828559176530689,
+        0.0006818505353294313,
+        0.0016521315556019545,
+        0.0032739939633756876,
+        0.0003899286384694278,
+        0.0013163440162315965,
+        0.0017615518299862742,
+        0.00954125914722681,
+        0.016570892184972763
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 33,
+      "heading": "[ Shrieking ]",
+      "raw_text": "-It's not my fault! Fuck, fuck, fuck! Mom and Dad are gonna piss! I just broke my arm. Can you stop yelling at me for fucking second? SAM: I didn't want to bike to the fucking hospital today, you moron! GARY: Too fucking bad! I broke my arm! God. Sam, this looks so cool! It's like glow-in-the-dark and everything. Why do you look like that? Like what? Like that. It looks stupid. Gary, you fell off a ladder. At least I was doing something for the movie. You really picked an inconvenient time to break your arm, honey. It's not like I planned it. Well, maybe next time you should. Your father and I have a flight tonight. But you just got back. We'll only be gone a couple of days. And you got your big sister to take care of you. No way. No, I was gonna go out for Halloween. Oh, honey, you look... different. -Yeah. See? -No, I don't. -You look different. -I literally don't. -Yes, you do. -DAD: I know it's important. I'm just dealing with some family shit. MOM: I'm sure you'll have a nice Halloween together. DAD: They're there now. Okay. Yeah. We're on our way. Hey, bud, we have to head off to the airport, okay? You're good to get home with Sam, right? I mean, yeah, sure, I can bike. Great. By Gary. We love you. Outside. What? What did I do? You're in trouble! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-It's not my fault! Fuck, fuck, fuck! Mom and Dad are gonna piss! I just broke my arm. Can you stop yelling at me for fucking second? SAM: I didn't want to bike to the fucking hospital today, you moron! GARY: Too fucking bad! I broke my arm! God. Sam, this looks so cool! It's like glow-in-the-dark and everything. Why do you look like that? Like what? Like that. It looks stupid. Gary, you fell off a ladder. At least I was doing something for the movie. You really picked an inconvenient time to break your arm, honey. It's not like I planned it. Well, maybe next time you should. Your father and I have a flight tonight. But you just got back. We'll only be gone a couple of days. And you got your big sister to take care of you. No way. No, I was gonna go out for Halloween. Oh, honey, you look... different. -Yeah. See? -No, I don't. -You look different. -I literally don't. -Yes, you do. -DAD: I know it's important. I'm just dealing with some family shit. MOM: I'm sure you'll have a nice Halloween together. DAD: They're there now. Okay. Yeah. We're on our way. Hey, bud, we have to head off to the airport, okay? You're good to get home with Sam, right? I mean, yeah, sure, I can bike. Great. By Gary. We love you. Outside. What? What did I do? You're in trouble! -"
+      ],
+      "scene_length_chars": 1274,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.7309793829917908,
+        0.012801864184439182,
+        0.4934549033641815,
+        0.06734278798103333,
+        0.10793264955282211,
+        0.28787025809288025,
+        0.03648824617266655,
+        0.09728886932134628,
+        0.019137222319841385,
+        0.03397428244352341,
+        0.1372283697128296,
+        0.2527576684951782,
+        0.006901222746819258,
+        0.015026969835162163,
+        0.16444750130176544,
+        0.002403154969215393,
+        0.03341600298881531,
+        0.07091468572616577,
+        0.2682678997516632,
+        0.005861984565854073,
+        0.38078755140304565,
+        0.018124941736459732,
+        0.00863937009125948,
+        0.0030191889964044094,
+        0.004335303325206041,
+        0.009141113609075546,
+        0.02512950450181961,
+        0.04215205833315849
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "anger",
+        "optimism"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "anger",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 34,
+      "heading": "[ Metal clangs ]",
+      "raw_text": "-Ow! This isn't fair. Look, we put our trust in you to be the responsible one. You bought him the ring. You were supposed to be in charge. I thought that meant something to you. No phone, no friends over. Is Gary allowed to have friends over there? Gary's punishment is having a broken arm. -Are you serious right now? -We've got to go. No, no, no. I will not be stuck at home with Gary. -You've got the cats. -We don't have any cats. If you ever want one, I will buy you one. Just keep an eye on your brother, okay? If we die, he's all you've got. See you when we get back.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-Ow! This isn't fair. Look, we put our trust in you to be the responsible one. You bought him the ring. You were supposed to be in charge. I thought that meant something to you. No phone, no friends over. Is Gary allowed to have friends over there? Gary's punishment is having a broken arm. -Are you serious right now? -We've got to go. No, no, no. I will not be stuck at home with Gary. -You've got the cats. -We don't have any cats. If you ever want one, I will buy you one. Just keep an eye on your brother, okay? If we die, he's all you've got. See you when we get back."
+      ],
+      "scene_length_chars": 574,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0005825256812386215,
+        0.002735868562012911,
+        0.026420429348945618,
+        0.002934844233095646,
+        0.0013036341406404972,
+        0.10933239758014679,
+        0.0050942134112119675,
+        0.3314073383808136,
+        0.012329136952757835,
+        0.007660917472094297,
+        0.1604612171649933,
+        0.008479964919388294,
+        0.006995581556111574,
+        0.0011115750530734658,
+        0.0309565681964159,
+        0.00017701531760394573,
+        0.03172842413187027,
+        0.0015064175240695477,
+        0.0029350952245295048,
+        0.0023903818801045418,
+        0.006829606369137764,
+        0.0016134167090058327,
+        0.05087053030729294,
+        0.0011659169103950262,
+        0.006498713046312332,
+        0.04484059289097786,
+        0.005434964317828417,
+        0.16403828561306
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "disapproval"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 35,
+      "heading": "[ Sighing ]",
+      "raw_text": "TRISH: What the fuck are we doing for Halloween? I don't know. I haven't heard shit. I just want to get fucked up and do some fucked-up shit. Billy, what are we doing? -Billy? -Billy. I'm working on something.\n[ Mockingly ]\nWorking on something. -\n[ Helicopter blades whirring ]\n-",
+      "characters": [
+        "TRISH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "TRISH",
+          "text": "What the fuck are we doing for Halloween? I don't know. I haven't heard shit. I just want to get fucked up and do some fucked-up shit. Billy, what are we doing? -Billy? -Billy. I'm working on something."
+        }
+      ],
+      "actions": [
+        "Working on something. -",
+        "-"
+      ],
+      "scene_length_chars": 280,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0009179005865007639,
+        0.006198466289788485,
+        0.9553256034851074,
+        0.9174637794494629,
+        0.0003475203411653638,
+        0.0016219079261645675,
+        0.10050514340400696,
+        0.019342739135026932,
+        0.006449722219258547,
+        0.14463676512241364,
+        0.014160079881548882,
+        0.09084217995405197,
+        0.005736269988119602,
+        0.0014129322953522205,
+        0.0029859633650630713,
+        0.0012089941883459687,
+        0.004119056276977062,
+        0.0014200086006894708,
+        0.0014523530844599009,
+        0.0017140310956165195,
+        0.011884521692991257,
+        0.001248650485649705,
+        0.0030820847023278475,
+        0.0007723449962213635,
+        0.0026825391687452793,
+        0.013007004745304585,
+        0.017764847725629807,
+        0.01313552912324667
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disappointment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 38,
+      "heading": "[ Police radio chatter ]",
+      "raw_text": "MAN: Going for another pass. Situation 14-9 confirmed. We have the location and remains of the fishermen. Do we have eyes on the target? Negative. Orders are to immediately detain the suspect who was reported, and the site is to be sealed and cleared. Copy. GARY: All right. Action! Aaaah! Your Dino treachery ends here. DINO: Surrender your earthly flesh! You'll never take my skin! GARY: And now dropkick him! What? I-I can't do that. GARY: Uh, just try it. Come on. But Sam's the dropkick expert. Eh, forget Sam. We need more dropkicks. -Come on, do it! -Come on, kick me! -GARY: Yeah, screw Sam! -All right. You're the boss. Sorry. I told you. Uh, just do the line! Give me the crystal! Yeah, now scream it this time! -Give me the crystal! -Car! What the fuck?! Guys! -You guys okay? -Yeah. What are you doing here?! I'm here to see your sister. -Dude! -What the hell?! Guys, you know what this means? He's gonna make you an uncle. Gross. No. This means war. Billy. Hey. Hi. I didn't know you were coming over. Yeah, you said your parents were gone, so I thought it'd be cool to come over. Nice place. This place is fucking perfect. Yep. This is my house. Jeez. Parents must be rich.",
+      "characters": [
+        "MAN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN",
+          "text": "Going for another pass. Situation 14-9 confirmed. We have the location and remains of the fishermen. Do we have eyes on the target? Negative. Orders are to immediately detain the suspect who was reported, and the site is to be sealed and cleared. Copy. GARY: All right. Action! Aaaah! Your Dino treachery ends here. DINO: Surrender your earthly flesh! You'll never take my skin! GARY: And now dropkick him! What? I-I can't do that. GARY: Uh, just try it. Come on. But Sam's the dropkick expert. Eh, forget Sam. We need more dropkicks. -Come on, do it! -Come on, kick me! -GARY: Yeah, screw Sam! -All right. You're the boss. Sorry. I told you. Uh, just do the line! Give me the crystal! Yeah, now scream it this time! -Give me the crystal! -Car! What the fuck?! Guys! -You guys okay? -Yeah. What are you doing here?! I'm here to see your sister. -Dude! -What the hell?! Guys, you know what this means? He's gonna make you an uncle. Gross. No. This means war. Billy. Hey. Hi. I didn't know you were coming over. Yeah, you said your parents were gone, so I thought it'd be cool to come over. Nice place. This place is fucking perfect. Yep. This is my house. Jeez. Parents must be rich."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1187,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.4983038306236267,
+        0.006839473266154528,
+        0.45041248202323914,
+        0.00876353308558464,
+        0.008405904285609722,
+        0.006407546810805798,
+        0.00896061584353447,
+        0.034048132598400116,
+        0.003391545731574297,
+        0.04283512756228447,
+        0.002621477236971259,
+        0.020687131211161613,
+        0.0017069884343072772,
+        0.0048256320878863335,
+        0.022361276671290398,
+        0.0023364690132439137,
+        0.011495029553771019,
+        0.0012743810657411814,
+        0.0031432928517460823,
+        0.0007435993175022304,
+        0.005849967710673809,
+        0.0038529466837644577,
+        0.06212710961699486,
+        0.00059548020362854,
+        0.005461996886879206,
+        0.005332186818122864,
+        0.048632726073265076,
+        0.04993703216314316
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "anger",
+        "realization"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 39,
+      "heading": "[ Chuckles ]",
+      "raw_text": "They should be. I mean, they work all the time, so... Yeah. So you gonna show me around, or what? No. Is this your room? Yes, but, oh, my gosh, close your eyes. -It's a disaster. -No, it's not. Whoa. This is cool. Kr-kr-kr. Yeah. Got a lot of neat stuff. -What is this? -Oh, my God, no. It's just something I was, like, working on. I thought maybe I'd, like, wear it for Halloween or something. Oh. I think it'd look very cute on you. Who is she? That is Valora. She's my favorite wrestler. She's cool. She stands for, like, strength and bravery and never surrendering to your enemies. Always kicking ass. Cool. I used to be into wrestling when I was kid. Think you could take me? You? No problem. All right, go easy on me. Oh! You like my moves? All right, yeah. Can I show you mine? Do you really think I'm pretty? I think you're beautiful. GARY: They're in here. Okay. You guys ready to make these guys wish they were never born? What do you think they're doing? Sucking and fucking, for sure. Well, suck time...is over. Holy shit. I know. -\n[ Electronic music blares ]\n-\n[ Indistinct shouting ]\nThis is for the beer bottle, you creep!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "They should be. I mean, they work all the time, so... Yeah. So you gonna show me around, or what? No. Is this your room? Yes, but, oh, my gosh, close your eyes. -It's a disaster. -No, it's not. Whoa. This is cool. Kr-kr-kr. Yeah. Got a lot of neat stuff. -What is this? -Oh, my God, no. It's just something I was, like, working on. I thought maybe I'd, like, wear it for Halloween or something. Oh. I think it'd look very cute on you. Who is she? That is Valora. She's my favorite wrestler. She's cool. She stands for, like, strength and bravery and never surrendering to your enemies. Always kicking ass. Cool. I used to be into wrestling when I was kid. Think you could take me? You? No problem. All right, go easy on me. Oh! You like my moves? All right, yeah. Can I show you mine? Do you really think I'm pretty? I think you're beautiful. GARY: They're in here. Okay. You guys ready to make these guys wish they were never born? What do you think they're doing? Sucking and fucking, for sure. Well, suck time...is over. Holy shit. I know. -",
+        "-",
+        "This is for the beer bottle, you creep!"
+      ],
+      "scene_length_chars": 1138,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.5005089640617371,
+        0.029889162629842758,
+        0.017558572813868523,
+        0.49033787846565247,
+        0.009390827268362045,
+        0.0017948984168469906,
+        0.01211617887020111,
+        0.07396382838487625,
+        0.004198889248073101,
+        0.0057794866152107716,
+        0.002062602899968624,
+        0.07213970273733139,
+        0.0009304069681093097,
+        0.008588355965912342,
+        0.001324737211689353,
+        0.001542415120638907,
+        0.0009780937107279897,
+        0.002631818875670433,
+        0.002850892022252083,
+        0.00042782642412930727,
+        0.009659888222813606,
+        0.004311794880777597,
+        0.007556712254881859,
+        0.0010074289748445153,
+        0.0010176091454923153,
+        0.0019465046934783459,
+        0.010965860448777676,
+        0.009508625604212284
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "annoyance",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 42,
+      "heading": "[ Indistinct shouting ]",
+      "raw_text": "BILLY: Aah! Fuck! SAM: Get out! MILES: You asshole! Fuck you up! You are fucking dead! Ow! You missed me, you little fuck! Oh, my God. I'm sorry, Sam. -\n[ Energy resonates ]\n-\n[ Music stops ]",
+      "characters": [
+        "BILLY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "BILLY",
+          "text": "Aah! Fuck! SAM: Get out! MILES: You asshole! Fuck you up! You are fucking dead! Ow! You missed me, you little fuck! Oh, my God. I'm sorry, Sam. -"
+        }
+      ],
+      "actions": [
+        "-"
+      ],
+      "scene_length_chars": 191,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006335561629384756,
+        0.0024652176070958376,
+        0.987888753414154,
+        0.012692401185631752,
+        0.0012336516520008445,
+        0.009407784789800644,
+        0.001727099297568202,
+        0.0021656558383256197,
+        0.007602130528539419,
+        0.02303237095475197,
+        0.0020289034582674503,
+        0.021028948947787285,
+        0.007289119530469179,
+        0.0031991361174732447,
+        0.004664971958845854,
+        0.0040794434025883675,
+        0.053761642426252365,
+        0.003948796074837446,
+        0.004520665854215622,
+        0.0008961833082139492,
+        0.0023571925703436136,
+        0.009683235548436642,
+        0.011397527530789375,
+        0.0013572321040555835,
+        0.051990900188684464,
+        0.08004376292228699,
+        0.01650051213800907,
+        0.003987222909927368
+      ],
+      "goemotions_topk": [
+        "anger",
+        "sadness",
+        "grief"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 45,
+      "heading": "[ All groan ]",
+      "raw_text": "What the hell? What was that? -Quit breathing on me. -Shut the fuck up! Gary, what the fuck did you do? That wasn't me. Gary, I am so sick of being responsible for all the stupid shit that you do. Grow up, stop being such a loser, and stay out of my fucking life. -And get of my room! -Get your hands off!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What the hell? What was that? -Quit breathing on me. -Shut the fuck up! Gary, what the fuck did you do? That wasn't me. Gary, I am so sick of being responsible for all the stupid shit that you do. Grow up, stop being such a loser, and stay out of my fucking life. -And get of my room! -Get your hands off!"
+      ],
+      "scene_length_chars": 305,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0029781910125166178,
+        0.0007574206683784723,
+        0.9950182437896729,
+        0.03373601660132408,
+        0.0018267331179231405,
+        0.005373834632337093,
+        0.0020888508297502995,
+        0.0027715901378542185,
+        0.004149668850004673,
+        0.0076005482114851475,
+        0.006930041126906872,
+        0.011084598489105701,
+        0.0013176510110497475,
+        0.0013979284558445215,
+        0.001480700564570725,
+        0.002320650964975357,
+        0.0025347615592181683,
+        0.002559986896812916,
+        0.0030606731306761503,
+        0.0003879022551700473,
+        0.0008884840062819421,
+        0.001001489581540227,
+        0.0021014781668782234,
+        0.00022370902297552675,
+        0.0016090775607153773,
+        0.002671578899025917,
+        0.004185468424111605,
+        0.006172322668135166
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 46,
+      "heading": "[ Boys groaning ]",
+      "raw_text": "Fuck you, Sam! I don't want to be in your shit life anyway! Stay out of mine! No, Billy, what are you -- ow! -Ow! -Get the fuck out of here before I rip your fucking shrimp dicks off! Well, guess what. If you even touch our shrimp dicks, you'll go to jail! Fucking pervert! Screw you, Billy. Gone.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck you, Sam! I don't want to be in your shit life anyway! Stay out of mine! No, Billy, what are you -- ow! -Ow! -Get the fuck out of here before I rip your fucking shrimp dicks off! Well, guess what. If you even touch our shrimp dicks, you'll go to jail! Fucking pervert! Screw you, Billy. Gone."
+      ],
+      "scene_length_chars": 297,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004217211622744799,
+        0.00127321551553905,
+        0.9969640374183655,
+        0.08043217658996582,
+        0.0013616185169667006,
+        0.002877388847991824,
+        0.002524044830352068,
+        0.004516454879194498,
+        0.0040076603181660175,
+        0.009226140566170216,
+        0.009977512061595917,
+        0.0483536571264267,
+        0.001991286873817444,
+        0.0019342462765052915,
+        0.0017689426895231009,
+        0.0017278689192607999,
+        0.0025908281095325947,
+        0.0024465618189424276,
+        0.0029290146194398403,
+        0.0003351485065650195,
+        0.0016737092519178987,
+        0.0014621356967836618,
+        0.0018425198504701257,
+        0.0002648772788234055,
+        0.0014186848420649767,
+        0.0020100350957363844,
+        0.006676822900772095,
+        0.006669989321380854
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 47,
+      "heading": "[ Both laugh ]",
+      "raw_text": "MILES: Man, Sam's changed. JACK: Hey, guys, what do you think that light was? -It really freaked me out. -I don't know. It sounded like a -- whaa! -- or something like that. I don't know. Hey, Gary, you all right? I fucking hate that guy. He ruins everything. Fucking hate that guy too. Right? He ruins everything. He's annoying. Hey, guys, look.",
+      "characters": [
+        "MILES"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MILES",
+          "text": "Man, Sam's changed. JACK: Hey, guys, what do you think that light was? -It really freaked me out. -I don't know. It sounded like a -- whaa! -- or something like that. I don't know. Hey, Gary, you all right? I fucking hate that guy. He ruins everything. Fucking hate that guy too. Right? He ruins everything. He's annoying. Hey, guys, look."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 346,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006872250232845545,
+        0.0011780147906392813,
+        0.8617596626281738,
+        0.9321052432060242,
+        0.0009132952545769513,
+        0.0013937504263594747,
+        0.02010904811322689,
+        0.007167459931224585,
+        0.001410063123330474,
+        0.027094101533293724,
+        0.005799001082777977,
+        0.015149206854403019,
+        0.0007748419302515686,
+        0.0020570463966578245,
+        0.0016586864367127419,
+        0.001969986828044057,
+        0.0004885693197138608,
+        0.0018741871463134885,
+        0.001371217891573906,
+        0.0008732578135095537,
+        0.001975595485419035,
+        0.0006141090416349471,
+        0.002435285598039627,
+        0.0003915920970030129,
+        0.00028801188454963267,
+        0.0011509866453707218,
+        0.007673902437090874,
+        0.002790361177176237
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "anger",
+        "disappointment"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 48,
+      "heading": "[ Energy resonating ]",
+      "raw_text": "GARY: That must be where it's coming from. Wait, guys, we don't know what that is. Don't be a chickenshit. Come on. GARY: Whoa! Look at that. MILES: Looks like something out of a movie or something. -GARY: Yeah. -JACK: Hey, don't go near it. -GARY: Why? -MILES: Yeah, why? JACK: Well, what if that light and sound was a ship exploding, and this is poisonous gas from whatever blew it up? Like napalm gas? Yeah. Or something from space, like aliens or something. You're just being paranoid. GARY: Why'd it turn off? Guys, we're gonna tell Sam about this, right? No. Fuck Sam. Yeah. I'd rather go punch myself in the dick. Anyone else hungry? Let's go chew something. Yeah. There's something weird going on around here. Wait. Hey, guys, wait up.\n[ Creature snarling ]",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "That must be where it's coming from. Wait, guys, we don't know what that is. Don't be a chickenshit. Come on. GARY: Whoa! Look at that. MILES: Looks like something out of a movie or something. -GARY: Yeah. -JACK: Hey, don't go near it. -GARY: Why? -MILES: Yeah, why? JACK: Well, what if that light and sound was a ship exploding, and this is poisonous gas from whatever blew it up? Like napalm gas? Yeah. Or something from space, like aliens or something. You're just being paranoid. GARY: Why'd it turn off? Guys, we're gonna tell Sam about this, right? No. Fuck Sam. Yeah. I'd rather go punch myself in the dick. Anyone else hungry? Let's go chew something. Yeah. There's something weird going on around here. Wait. Hey, guys, wait up."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 765,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002425756538286805,
+        0.01534427609294653,
+        0.023336190730333328,
+        0.08397705852985382,
+        0.0008337413892149925,
+        0.0013430594699457288,
+        0.13924255967140198,
+        0.5659348368644714,
+        0.0014871143503114581,
+        0.0009682346717454493,
+        0.006440604105591774,
+        0.4034787714481354,
+        0.05389413237571716,
+        0.003204076085239649,
+        0.3911678194999695,
+        0.0023403519298881292,
+        0.0034927872475236654,
+        0.0011480181710794568,
+        0.0014196084812283516,
+        0.005976335145533085,
+        0.029888303950428963,
+        0.0005059455870650709,
+        0.012221192009747028,
+        0.000554182450287044,
+        0.0006169660482555628,
+        0.0008579856948927045,
+        0.039753612130880356,
+        0.018740108236670494
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "disgust",
+        "fear"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "disgust",
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 50,
+      "heading": "[ Grunts softly ]",
+      "raw_text": "Crystal. We need the crystal. Aah! Something's got me! Help! -Yaah! -Yaah! Billy and his prick friends are hanging out with Sam in my backyard. Let's go spy on them. -Fuck yeah! Let's go! -Yeah! Haven't seen your brother and those little creeps around. Yeah. It's kind of nice. Yeah, that little shit must have finally learned his lesson. Are we partying tonight, or what? I don't know yet. Great. Another boring Halloween in this shithole town. Yeah, well, whatever you're doing is better than what I have to do. I have to take care of my little brother. Yeah. No, thanks. Well, shit. We got to do something. We should have a party. Yeah, you guys should totally do that. We should party in that old shitty barn. BILLY: No, the place is filled with little kids' shit. We should have it here. What? Well, yeah. That way, you can go.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Crystal. We need the crystal. Aah! Something's got me! Help! -Yaah! -Yaah! Billy and his prick friends are hanging out with Sam in my backyard. Let's go spy on them. -Fuck yeah! Let's go! -Yeah! Haven't seen your brother and those little creeps around. Yeah. It's kind of nice. Yeah, that little shit must have finally learned his lesson. Are we partying tonight, or what? I don't know yet. Great. Another boring Halloween in this shithole town. Yeah, well, whatever you're doing is better than what I have to do. I have to take care of my little brother. Yeah. No, thanks. Well, shit. We got to do something. We should have a party. Yeah, you guys should totally do that. We should party in that old shitty barn. BILLY: No, the place is filled with little kids' shit. We should have it here. What? Well, yeah. That way, you can go."
+      ],
+      "scene_length_chars": 832,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.22740072011947632,
+        0.0015466890763491392,
+        0.06660598516464233,
+        0.07450279593467712,
+        0.008945810608565807,
+        0.009717034175992012,
+        0.027299562469124794,
+        0.015737198293209076,
+        0.01639224961400032,
+        0.04342321306467056,
+        0.02806857042014599,
+        0.022901291027665138,
+        0.0013771187514066696,
+        0.10618332028388977,
+        0.03347054496407509,
+        0.0010391328250989318,
+        0.008208073675632477,
+        0.0089887585490942,
+        0.001586468075402081,
+        0.003354411106556654,
+        0.09565263241529465,
+        0.059811923652887344,
+        0.30652016401290894,
+        0.010205532424151897,
+        0.0007122596143744886,
+        0.001062973402440548,
+        0.09211158752441406,
+        0.00725561985746026
+      ],
+      "goemotions_topk": [
+        "realization",
+        "admiration",
+        "excitement"
+      ],
+      "goemotions_label": "realization",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 51,
+      "heading": "[ Chuckles ]",
+      "raw_text": "Yeah, right, that's not happening. Why not? I'm sure you have a costume. Yeah, she does. And it is very fucking cute. How about that? Why not? Um, because my parents will kill me. Fuck parents, man. Who cares what they think? You should just do what you want. Hold on. What if we just call your parents and ask them if we can have the party here? Problem solved. Think about what you just said. Sounds good, man. TRISH:",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yeah, right, that's not happening. Why not? I'm sure you have a costume. Yeah, she does. And it is very fucking cute. How about that? Why not? Um, because my parents will kill me. Fuck parents, man. Who cares what they think? You should just do what you want. Hold on. What if we just call your parents and ask them if we can have the party here? Problem solved. Think about what you just said. Sounds good, man. TRISH:"
+      ],
+      "scene_length_chars": 419,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.7292551398277283,
+        0.0009609363623894751,
+        0.2673402726650238,
+        0.41640374064445496,
+        0.016971781849861145,
+        0.39366695284843445,
+        0.16963675618171692,
+        0.537329912185669,
+        0.01748378574848175,
+        0.17551113665103912,
+        0.12095329165458679,
+        0.11165476590394974,
+        0.0007935616304166615,
+        0.007086419500410557,
+        0.02650441601872444,
+        0.009554375894367695,
+        0.008793872781097889,
+        0.006220520474016666,
+        0.0026326808147132397,
+        0.004521654918789864,
+        0.6041819453239441,
+        0.021466786041855812,
+        0.01689980737864971,
+        0.015808766707777977,
+        0.0030223128851503134,
+        0.00701914681121707,
+        0.01417736429721117,
+        0.0057894582860171795
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "optimism",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "annoyance",
+        "caring",
+        "curiosity",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 52,
+      "heading": "[ Laughing ]",
+      "raw_text": "Fuck you, Billy! Fucking freezing out here! Holy fuck! It's just water, you pussy. Fuck you guys! You're fucking drenched, bud.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck you, Billy! Fucking freezing out here! Holy fuck! It's just water, you pussy. Fuck you guys! You're fucking drenched, bud."
+      ],
+      "scene_length_chars": 127,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.003138960339128971,
+        0.001913663698360324,
+        0.9768849611282349,
+        0.023079510778188705,
+        0.0013362729223445058,
+        0.0015632398426532745,
+        0.0009573870338499546,
+        0.000678391195833683,
+        0.0024140863679349422,
+        0.0040224879048764706,
+        0.0017664463957771659,
+        0.006250578910112381,
+        0.0005632021930068731,
+        0.011775107122957706,
+        0.010684419423341751,
+        0.0007289490313269198,
+        0.0030151500832289457,
+        0.0027639002073556185,
+        0.0029199239797890186,
+        0.0003424703609198332,
+        0.0007675614324398339,
+        0.0036173518747091293,
+        0.0025927876122295856,
+        0.0003288020961917937,
+        0.0009428616613149643,
+        0.0011327945394441485,
+        0.026254020631313324,
+        0.005943454802036285
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 53,
+      "heading": "[ Laughs ]",
+      "raw_text": "Hey, we'll keep it small, and your parents won't find out. I promise. Billy. -I don't know. -Come on. I want to show you off to everyone at school. I want them to meet my new girlfriend. Really? And my parents won't find out? I swear on your life. Okay. Really? Let's have a party. We're having a party.\n[ Laughter ]\nParty! Whoo! Sam.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hey, we'll keep it small, and your parents won't find out. I promise. Billy. -I don't know. -Come on. I want to show you off to everyone at school. I want them to meet my new girlfriend. Really? And my parents won't find out? I swear on your life. Okay. Really? Let's have a party. We're having a party.",
+        "Party! Whoo! Sam."
+      ],
+      "scene_length_chars": 334,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.000732750166207552,
+        0.006367593538016081,
+        0.002336193574592471,
+        0.0049065793864429,
+        0.027992701157927513,
+        0.04297778010368347,
+        0.004846072290092707,
+        0.9151324033737183,
+        0.11612561345100403,
+        0.00261101545765996,
+        0.002068514237180352,
+        0.002935029799118638,
+        0.005903016310185194,
+        0.7188364267349243,
+        0.009595979005098343,
+        0.0009923913748934865,
+        0.009192205034196377,
+        0.21820281445980072,
+        0.004789356142282486,
+        0.007961882278323174,
+        0.39316225051879883,
+        0.0035986308939754963,
+        0.0036101306322962046,
+        0.011206247843801975,
+        0.003195112571120262,
+        0.003848928725346923,
+        0.004607800394296646,
+        0.17082124948501587
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "excitement",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "excitement",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 55,
+      "heading": "[ Laughing ]",
+      "raw_text": "Ha ha! All right, boys. Tonight we inflict maximum vengeance. MILES: Come on. GARY: Miles! TRISH: Ahh!\n[ Electronic music blaring ]\nHappy fucking Halloween!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Ha ha! All right, boys. Tonight we inflict maximum vengeance. MILES: Come on. GARY: Miles! TRISH: Ahh!",
+        "Happy fucking Halloween!"
+      ],
+      "scene_length_chars": 156,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0067304279655218124,
+        0.11921648681163788,
+        0.002926451852545142,
+        0.008299121633172035,
+        0.004698492586612701,
+        0.0002909675531554967,
+        0.00029166857711970806,
+        0.001486914581619203,
+        0.0019255669321864843,
+        0.0013702692231163383,
+        0.0012959421146661043,
+        0.0033948856871575117,
+        0.0013300469145178795,
+        0.9349732398986816,
+        0.0063961464911699295,
+        0.0012762831756845117,
+        0.0033838781528174877,
+        0.2790796756744385,
+        0.0003602215147111565,
+        0.0005703053320758045,
+        0.0023672026582062244,
+        0.0144736897200346,
+        0.004083116538822651,
+        0.010328718461096287,
+        0.0010652599157765508,
+        0.0009135698201134801,
+        0.06930328160524368,
+        0.00799407996237278
+      ],
+      "goemotions_topk": [
+        "excitement",
+        "joy",
+        "amusement"
+      ],
+      "goemotions_label": "excitement",
+      "goemotions_labels": [
+        "excitement"
+      ]
+    },
+    {
+      "scene_id": 57,
+      "heading": "[ People cheering ]",
+      "raw_text": "GIRL: Sam? Sam! Hey! What are you doing here? I never see you at parties. No, my party. This is my house. Have you seen, Billy? This is your house? Holy shit! Yeah, my parents would kill me. I mean, sometimes you just have to, like, do what you want. -You know? -Yeah, totally. Wouldn't be letting people paint on my walls, though, you know? What? Sorry. Excuse me. Whoo! Dallas, what the hell are you doing? What? Billy said you were cool with it. Would you do this to your parents' house? Billy, what the fuck? People can't smoke in here. Hey. What's wrong? Billy, this is seriously crazy. You said this was gonna be a small party. This is out of control. You have to help me do something. Look, Sam, people are having a good time. That's what's important. But the house is getting destroyed. Okay. Your parents are very rich. They can just fix it all. Billy, help me. My parents are gonna murder me.",
+      "characters": [
+        "GIRL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GIRL",
+          "text": "Sam? Sam! Hey! What are you doing here? I never see you at parties. No, my party. This is my house. Have you seen, Billy? This is your house? Holy shit! Yeah, my parents would kill me. I mean, sometimes you just have to, like, do what you want. -You know? -Yeah, totally. Wouldn't be letting people paint on my walls, though, you know? What? Sorry. Excuse me. Whoo! Dallas, what the hell are you doing? What? Billy said you were cool with it. Would you do this to your parents' house? Billy, what the fuck? People can't smoke in here. Hey. What's wrong? Billy, this is seriously crazy. You said this was gonna be a small party. This is out of control. You have to help me do something. Look, Sam, people are having a good time. That's what's important. But the house is getting destroyed. Okay. Your parents are very rich. They can just fix it all. Billy, help me. My parents are gonna murder me."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 902,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006364441942423582,
+        0.0019943052902817726,
+        0.8447514176368713,
+        0.13633276522159576,
+        0.0003081726608797908,
+        0.02368832938373089,
+        0.0035023479722440243,
+        0.019037483260035515,
+        0.013156989589333534,
+        0.09289084374904633,
+        0.016980890184640884,
+        0.049572404474020004,
+        0.0049522253684699535,
+        0.00355818634852767,
+        0.04310861602425575,
+        0.001974785001948476,
+        0.02432682365179062,
+        0.0015905823092907667,
+        0.00038463735836558044,
+        0.0014218415599316359,
+        0.09163796901702881,
+        0.005575502756983042,
+        0.0015631759306415915,
+        0.003204843495041132,
+        0.010884813964366913,
+        0.02700449712574482,
+        0.061998944729566574,
+        0.0022135276813060045
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disappointment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 58,
+      "heading": "[ Retching ]",
+      "raw_text": "Okay. -Party's over. -Come on, just let it go. -What do you mean, let it go? -Just chill the fuck out. You can't make all these people leave now. -It's my house. -Yeah, well, it's my party. Billy, is that your girlfriend or something? No, man. She's just the keys to the house. Okay, people, party's over. Safe drive. Actually, don't drive, please. Bye. -Get out. -Sam! What the fuck are you doing? Billy, stop. You're hurting me. You said we could have a party, and that's what we're gonna fucking do. Do you understand me? You scaring me. Good. Party's back on. Let's tear this place apart! Whoo! Go fucking break something. They're gonna regret trashing my house. Fucking teenagers. What is that costume even supposed to be? Bro, what's up with your house? It's being destroyed. We know you didn't get any candy, so we got you covered. Okay, what's the mission status, captain? Just hooked up the drone, and I'm locking down on the enemy. What do you think he's going to do? Something stupid. How do you know? Because it's Billy. He's bound to do something stupid. What a stupid idiot. Move. Get the fuck out of my way. Get the fuck out of my way. Nice costume, bitch. Get the fuck out. I need to piss. Come on, my dick's full! TRISH: Hey, Billy. There's a better bathroom in here. God is good. Holy shit. Is that Sam's room? I can't hear what they're saying. Shh. Be quiet and you listen. Take it out, Billy. Trish, I got to piss. Then do it. If you'll let me hold it. You are so fucking weird, Trish. Is that suck time? That's not suck time. Boys, we just hit the mother lode. TRISH:",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Okay. -Party's over. -Come on, just let it go. -What do you mean, let it go? -Just chill the fuck out. You can't make all these people leave now. -It's my house. -Yeah, well, it's my party. Billy, is that your girlfriend or something? No, man. She's just the keys to the house. Okay, people, party's over. Safe drive. Actually, don't drive, please. Bye. -Get out. -Sam! What the fuck are you doing? Billy, stop. You're hurting me. You said we could have a party, and that's what we're gonna fucking do. Do you understand me? You scaring me. Good. Party's back on. Let's tear this place apart! Whoo! Go fucking break something. They're gonna regret trashing my house. Fucking teenagers. What is that costume even supposed to be? Bro, what's up with your house? It's being destroyed. We know you didn't get any candy, so we got you covered. Okay, what's the mission status, captain? Just hooked up the drone, and I'm locking down on the enemy. What do you think he's going to do? Something stupid. How do you know? Because it's Billy. He's bound to do something stupid. What a stupid idiot. Move. Get the fuck out of my way. Get the fuck out of my way. Nice costume, bitch. Get the fuck out. I need to piss. Come on, my dick's full! TRISH: Hey, Billy. There's a better bathroom in here. God is good. Holy shit. Is that Sam's room? I can't hear what they're saying. Shh. Be quiet and you listen. Take it out, Billy. Trish, I got to piss. Then do it. If you'll let me hold it. You are so fucking weird, Trish. Is that suck time? That's not suck time. Boys, we just hit the mother lode. TRISH:"
+      ],
+      "scene_length_chars": 1588,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.08170732110738754,
+        0.0020066858269274235,
+        0.9717976450920105,
+        0.22563612461090088,
+        0.001740897074341774,
+        0.022328026592731476,
+        0.04692519083619118,
+        0.03316738083958626,
+        0.008558682166039944,
+        0.009478941559791565,
+        0.005189144983887672,
+        0.012868467718362808,
+        0.003402161644771695,
+        0.0034613858442753553,
+        0.089817114174366,
+        0.007604349870234728,
+        0.00646884273737669,
+        0.006008533760905266,
+        0.002982808742672205,
+        0.0033042491413652897,
+        0.00467608030885458,
+        0.003207189030945301,
+        0.004433419555425644,
+        0.0007417643791995943,
+        0.0015203079674392939,
+        0.0035856429021805525,
+        0.019205382093787193,
+        0.004601538646966219
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "fear"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 59,
+      "heading": "[ Laughing ]",
+      "raw_text": "Sorry, Jack, you shouldn't be seeing this. Fuck my life. JACK: Listen up, all you scumbags and scumballs. Now, pay attention to the TV. Hit 'em, Gary. When I was a kid, I thought I had the coolest sister in the world. God, Gary, what are you doing? But I was wrong. I mean, what happened to you, Samantha? You could have been tough. You could have kicked ass in the ring, and you could have been a legend. But then you walked away. You abandoned the ring... Let's go! You get that shit, Gary?! Yeah! ...the fans, Jack, Miles. You abandoned me and all the respect you earned for someone who treats you like shit.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sorry, Jack, you shouldn't be seeing this. Fuck my life. JACK: Listen up, all you scumbags and scumballs. Now, pay attention to the TV. Hit 'em, Gary. When I was a kid, I thought I had the coolest sister in the world. God, Gary, what are you doing? But I was wrong. I mean, what happened to you, Samantha? You could have been tough. You could have kicked ass in the ring, and you could have been a legend. But then you walked away. You abandoned the ring... Let's go! You get that shit, Gary?! Yeah! ...the fans, Jack, Miles. You abandoned me and all the respect you earned for someone who treats you like shit."
+      ],
+      "scene_length_chars": 611,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.012524770572781563,
+        0.0008525874000042677,
+        0.6292306184768677,
+        0.02532060071825981,
+        0.0008191600791178644,
+        0.009233457036316395,
+        0.006718850694596767,
+        0.019354337826371193,
+        0.001465321984142065,
+        0.22627797722816467,
+        0.03167804703116417,
+        0.011547412723302841,
+        0.03250397369265556,
+        0.0005540549173019826,
+        0.0020315044093877077,
+        0.002705544698983431,
+        0.038765113800764084,
+        0.0008074113284237683,
+        0.0013185045681893826,
+        0.0018854332156479359,
+        0.001948593300767243,
+        0.0015336265787482262,
+        0.044480714946985245,
+        0.0014961324632167816,
+        0.7324140667915344,
+        0.19971121847629547,
+        0.0014686357462778687,
+        0.001380851143039763
+      ],
+      "goemotions_topk": [
+        "remorse",
+        "anger",
+        "disappointment"
+      ],
+      "goemotions_label": "remorse",
+      "goemotions_labels": [
+        "anger",
+        "remorse"
+      ]
+    },
+    {
+      "scene_id": 60,
+      "heading": "[ Laughing ]",
+      "raw_text": "Oh, my God, Trish, Sam is such a fucking idiot. We throw the best party of the fucking year, and then she tries to kick everybody out. She's such a fucking moron, dude. What did you expect? She's not cool. She hangs out with little boys. Yo, Billy. Can't you see I'm doing someone -- something? Sam's little brother's on TV talking shit about you out there. Come on, let's go. Get the fuck up. Get your clothes on. Let's go. BILLY: Look, she fucking plays with action figures and is into wrestling. It was so fucking hard not to laugh in her fucking face when I found out. TRISH: Oh, my God. Did you see her costume tonight? She looks like a fucking child.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, my God, Trish, Sam is such a fucking idiot. We throw the best party of the fucking year, and then she tries to kick everybody out. She's such a fucking moron, dude. What did you expect? She's not cool. She hangs out with little boys. Yo, Billy. Can't you see I'm doing someone -- something? Sam's little brother's on TV talking shit about you out there. Come on, let's go. Get the fuck up. Get your clothes on. Let's go. BILLY: Look, she fucking plays with action figures and is into wrestling. It was so fucking hard not to laugh in her fucking face when I found out. TRISH: Oh, my God. Did you see her costume tonight? She looks like a fucking child."
+      ],
+      "scene_length_chars": 656,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.017397284507751465,
+        0.20435920357704163,
+        0.8831850290298462,
+        0.7931157350540161,
+        0.0004666956956498325,
+        0.0015308449510484934,
+        0.0038067123387008905,
+        0.025720398873090744,
+        0.0032084619160741568,
+        0.014433051459491253,
+        0.005319527350366116,
+        0.8332434892654419,
+        0.01512537058442831,
+        0.0025342688895761967,
+        0.0030708615668118,
+        0.0027292140293866396,
+        0.0034166898112744093,
+        0.00587732857093215,
+        0.0009989661630243063,
+        0.0009514748817309737,
+        0.006821902934461832,
+        0.0014076331863179803,
+        0.003989777993410826,
+        0.0006151616689749062,
+        0.00122694275341928,
+        0.0031266806181520224,
+        0.019311970099806786,
+        0.004343373700976372
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disgust",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ]
+    },
+    {
+      "scene_id": 61,
+      "heading": "[ Laughter ]",
+      "raw_text": "Take it out, Billy. BILLY: Trish, I got to piss. TRISH: Then do it. If you'll let me hold it. BILLY: You are so fucking weird, Trish. TRISH: Oh!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Take it out, Billy. BILLY: Trish, I got to piss. TRISH: Then do it. If you'll let me hold it. BILLY: You are so fucking weird, Trish. TRISH: Oh!"
+      ],
+      "scene_length_chars": 144,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0026962675619870424,
+        0.09068815410137177,
+        0.14239555597305298,
+        0.6000580191612244,
+        0.0015856291865929961,
+        0.0036695492453873158,
+        0.0005991928046569228,
+        0.0013419081224128604,
+        0.0006355820805765688,
+        0.0021290367003530264,
+        0.001859760144725442,
+        0.905718207359314,
+        0.005170867778360844,
+        0.0009210939751937985,
+        0.007495790719985962,
+        0.015293753705918789,
+        0.002272008452564478,
+        0.00308475480414927,
+        0.00042272781138308346,
+        0.0007607235456816852,
+        0.00617033988237381,
+        0.0012458623386919498,
+        0.0013726491015404463,
+        0.0014236986171454191,
+        0.000757062342017889,
+        0.0018504718318581581,
+        0.003977385815232992,
+        0.004115305840969086
+      ],
+      "goemotions_topk": [
+        "disgust",
+        "annoyance",
+        "anger"
+      ],
+      "goemotions_label": "disgust",
+      "goemotions_labels": [
+        "annoyance",
+        "disgust"
+      ]
+    },
+    {
+      "scene_id": 62,
+      "heading": "[ Laughs ]",
+      "raw_text": "-BILLY: Get it everywhere. -TRISH: I know!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-BILLY: Get it everywhere. -TRISH: I know!"
+      ],
+      "scene_length_chars": 42,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.008698415011167526,
+        0.0004119807854294777,
+        0.0015125218778848648,
+        0.005011805798858404,
+        0.008950361050665379,
+        8.055845682974905e-05,
+        0.00011082909622928128,
+        0.00024510500952601433,
+        0.0010309687349945307,
+        0.000977621879428625,
+        0.00013617351942230016,
+        0.0013573367614299059,
+        0.0001710783690214157,
+        0.022979645058512688,
+        0.001224145176820457,
+        9.59785029408522e-05,
+        0.0004438143514562398,
+        0.0016979827778413892,
+        0.0003262777463532984,
+        0.00022793179959990084,
+        0.0005003887927159667,
+        0.008401458151638508,
+        0.0036394710186868906,
+        0.0006774065550416708,
+        0.00013872579438611865,
+        0.0002822000242304057,
+        0.001438751583918929,
+        0.9874188303947449
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "excitement",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 63,
+      "heading": "[ Laughs ]",
+      "raw_text": "Oh, my God. GARY: That's the respect you deserve when you betray your teammates. Your boyfriend's pissing all over your room. This dumb little fucker is still in this house. You're the one with no life, and you're the one who's a gutless loser! Just like you and your stupid new friends! You good? That was a bit harsh at the end there. I really deserved it. So, yeah, fuck you, Billy and Daryl -- -Billy's here! -JACK: Let go of him! GARY: Get your pissy hands off me! Get off of me! BILLY: Move!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, my God. GARY: That's the respect you deserve when you betray your teammates. Your boyfriend's pissing all over your room. This dumb little fucker is still in this house. You're the one with no life, and you're the one who's a gutless loser! Just like you and your stupid new friends! You good? That was a bit harsh at the end there. I really deserved it. So, yeah, fuck you, Billy and Daryl -- -Billy's here! -JACK: Let go of him! GARY: Get your pissy hands off me! Get off of me! BILLY: Move!"
+      ],
+      "scene_length_chars": 497,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006468063220381737,
+        0.0014998356346040964,
+        0.9957348704338074,
+        0.030629996210336685,
+        0.0010659436229616404,
+        0.0026689476799219847,
+        0.0020159331616014242,
+        0.003613643115386367,
+        0.0049321409314870834,
+        0.008362023159861565,
+        0.0033082785084843636,
+        0.014732261188328266,
+        0.0015830609481781721,
+        0.0019693130161613226,
+        0.002278269035741687,
+        0.0021570215467363596,
+        0.00470808194950223,
+        0.0026527440641075373,
+        0.002898686332628131,
+        0.0002840796660166234,
+        0.0014573454391211271,
+        0.002080719918012619,
+        0.0022642058320343494,
+        0.00027561132446862757,
+        0.0032647002954035997,
+        0.004288951400667429,
+        0.006747114472091198,
+        0.005014719441533089
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 64,
+      "heading": "[ Laughs ]",
+      "raw_text": "GARY: What is this? Ritual murder? MILES: Looks like a circle jerk to me. BILLY: No, I'm not gonna murder you, kid. Just gonna break all the other bones in your shitty little body. Sam, help us. Yeah, Sam. Have a heart. We're so sorry. You boys like to wrestle, huh? -",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "What is this? Ritual murder? MILES: Looks like a circle jerk to me. BILLY: No, I'm not gonna murder you, kid. Just gonna break all the other bones in your shitty little body. Sam, help us. Yeah, Sam. Have a heart. We're so sorry. You boys like to wrestle, huh? -"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 268,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003733840712811798,
+        0.003728261450305581,
+        0.5620670318603516,
+        0.05049613118171692,
+        0.0009544912027195096,
+        0.0025173332542181015,
+        0.0016776960110291839,
+        0.08801499009132385,
+        0.002781238406896591,
+        0.009177574887871742,
+        0.0007284202729351819,
+        0.01952577941119671,
+        0.029087699949741364,
+        0.0009456911939196289,
+        0.003984537906944752,
+        0.0011016068747267127,
+        0.015576831996440887,
+        0.0015567458467558026,
+        0.00027019952540285885,
+        0.00045360540389083326,
+        0.00472881319001317,
+        0.0007702962029725313,
+        0.0007741137524135411,
+        0.0006760861142538488,
+        0.1688719391822815,
+        0.051344964653253555,
+        0.003797937883064151,
+        0.0033414186909794807
+      ],
+      "goemotions_topk": [
+        "anger",
+        "remorse",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 65,
+      "heading": "[ Cracking ]",
+      "raw_text": "-Ow, my arm! Let him go! Don't worry. It's not real. It's just wrestling. Let go of us! Sam, he's gonna break my fucking arm. Help me out here! You liked my moves, didn't you, Sam? You fucking asshole. Hey, who wants to see Dallas break this kid's fucking arm? -CROWD: Yeah! -No, no! No, you don't. Are you joking, man? Come on! No, man, I'm not fucking doing that.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-Ow, my arm! Let him go! Don't worry. It's not real. It's just wrestling. Let go of us! Sam, he's gonna break my fucking arm. Help me out here! You liked my moves, didn't you, Sam? You fucking asshole. Hey, who wants to see Dallas break this kid's fucking arm? -CROWD: Yeah! -No, no! No, you don't. Are you joking, man? Come on! No, man, I'm not fucking doing that."
+      ],
+      "scene_length_chars": 365,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0012117334408685565,
+        0.01288183405995369,
+        0.9674010276794434,
+        0.7229863405227661,
+        0.0007642421405762434,
+        0.12711767852306366,
+        0.0047021242789924145,
+        0.023563090711832047,
+        0.003935261629521847,
+        0.016384033486247063,
+        0.5339306592941284,
+        0.012103869579732418,
+        0.0014383654342964292,
+        0.003913278691470623,
+        0.008924242109060287,
+        0.0025521551724523306,
+        0.00620208540931344,
+        0.009828073903918266,
+        0.0018575540743768215,
+        0.0013597283978015184,
+        0.0023667002096772194,
+        0.0009472033707424998,
+        0.002065726788714528,
+        0.0017111372435465455,
+        0.0016762145096436143,
+        0.0058789667673408985,
+        0.014302783645689487,
+        0.005571913905441761
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ]
+    },
+    {
+      "scene_id": 66,
+      "heading": "[ Chanting ]",
+      "raw_text": "Dallas! Dallas! Dallas! GARY: Stop! Stop! No. -Stop! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dallas! Dallas! Dallas! GARY: Stop! Stop! No. -Stop! -"
+      ],
+      "scene_length_chars": 54,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0012912072706967592,
+        0.0003724727430380881,
+        0.4092617928981781,
+        0.04792819544672966,
+        0.0005173101671971381,
+        0.0017467737197875977,
+        0.0005772622535005212,
+        0.0003506552893668413,
+        0.0007862542988732457,
+        0.0021016572136431932,
+        0.013275898061692715,
+        0.001978744985535741,
+        0.00033827501465566456,
+        0.0003415390383452177,
+        0.0020993135403841734,
+        8.328531112056226e-05,
+        0.0005560250137932599,
+        0.00019435709691606462,
+        0.00030207118834368885,
+        0.0002489209291525185,
+        0.0005237337318249047,
+        0.0004926162655465305,
+        0.0008107016328722239,
+        0.00013082842633593827,
+        0.00025226944126188755,
+        0.001205245265737176,
+        0.0056492723524570465,
+        0.9668612480163574
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "annoyance"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "anger",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 67,
+      "heading": "[ Chanting ]",
+      "raw_text": "Dallas! Dallas! No! I'm not fucking doing that. -Stop! -You fucking coward! I'll do it myself! No, Billy, wait!\n[ Energy resonates ]\nIs that a-a fucking...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dallas! Dallas! No! I'm not fucking doing that. -Stop! -You fucking coward! I'll do it myself! No, Billy, wait!",
+        "Is that a-a fucking..."
+      ],
+      "scene_length_chars": 155,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0011113965883851051,
+        0.0006760068354196846,
+        0.9607008099555969,
+        0.10498055070638657,
+        0.0006321293767541647,
+        0.0022306491155177355,
+        0.001148530631326139,
+        0.0005664274212904274,
+        0.0008845105767250061,
+        0.0024377901572734118,
+        0.06499393284320831,
+        0.0029365175869315863,
+        0.00038900322397239506,
+        0.001268063671886921,
+        0.004574569873511791,
+        0.000562857196200639,
+        0.0008267597295343876,
+        0.0007102370727807283,
+        0.0007814249256625772,
+        0.00016130783478729427,
+        0.0022604032419621944,
+        0.0005165043985471129,
+        0.0007700803689658642,
+        0.00015555442951153964,
+        0.0004081701335962862,
+        0.0006417472031898797,
+        0.013556626625359058,
+        0.014383728615939617
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 69,
+      "heading": "[ Energy resonates ]",
+      "raw_text": "Are you fucking kidding me? Why are you acting like a bunch of scared little kids? It's just one of their stupid fucking pranks! No reason to break up the party.\n[ Creature growling ]\nAaah! It's aliens!\n[ Growling ]\nLet's go!\n[ Indistinct shouting and screaming ]\nWhere's Sam?! Sam! Gary!\n[ Screams ]\n[ Growling ]\n[ Screaming ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Are you fucking kidding me? Why are you acting like a bunch of scared little kids? It's just one of their stupid fucking pranks! No reason to break up the party.",
+        "Aaah! It's aliens!",
+        "Let's go!",
+        "Where's Sam?! Sam! Gary!"
+      ],
+      "scene_length_chars": 327,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0017078130040317774,
+        0.01572149619460106,
+        0.9581531882286072,
+        0.5969791412353516,
+        0.0008404712425544858,
+        0.0007129904115572572,
+        0.01714770682156086,
+        0.0061486889608204365,
+        0.0009179849294014275,
+        0.0025565444957464933,
+        0.0022798858117312193,
+        0.034573208540678024,
+        0.0013894240837544203,
+        0.001218011719174683,
+        0.005159657448530197,
+        0.0007615609792992473,
+        0.0010600206442177296,
+        0.0013850602554157376,
+        0.0012224481906741858,
+        0.00026951642939820886,
+        0.0004644704458769411,
+        0.0006840719725005329,
+        0.0014216925483196974,
+        0.0001661715068621561,
+        0.00036076741525903344,
+        0.0009797076927497983,
+        0.006324964575469494,
+        0.03602641448378563
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 76,
+      "heading": "[ Creature snarls ]",
+      "raw_text": "Fucking arms off me, you alien fuck! Shit! Help! Sam, help! Sam! Get off!\n[ Indistinct shouting ]\nSam! No! Please stop! Sam! -\n[ Creature growling ]\n-\n[ Screaming ]\nPlease go away!\n[ Indistinct shouting ]\nGary.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fucking arms off me, you alien fuck! Shit! Help! Sam, help! Sam! Get off!",
+        "Sam! No! Please stop! Sam! -",
+        "-",
+        "Please go away!",
+        "Gary."
+      ],
+      "scene_length_chars": 210,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0016782712191343307,
+        0.001204012893140316,
+        0.984898030757904,
+        0.008916170336306095,
+        0.0010182429105043411,
+        0.0031824593897908926,
+        0.0036911622155457735,
+        0.002555834362283349,
+        0.0036114805843681097,
+        0.003568747080862522,
+        0.003375319065526128,
+        0.003601490519940853,
+        0.0005500653642229736,
+        0.001075563719496131,
+        0.005925786215811968,
+        0.0007740252767689526,
+        0.002844700124114752,
+        0.001508269109763205,
+        0.002179207978770137,
+        0.0004064396198373288,
+        0.0007003936334513128,
+        0.0006176897441036999,
+        0.0014127674512565136,
+        0.00010374780686106533,
+        0.000997157534584403,
+        0.003715283703058958,
+        0.007094395812600851,
+        0.0152617571875453
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 81,
+      "heading": "[ Dramatic music plays ]",
+      "raw_text": "Gary? Gary? Gary! Hey, do you know where they took my brother? Please, help me. Please, we have to do something.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Gary? Gary? Gary! Hey, do you know where they took my brother? Please, help me. Please, we have to do something."
+      ],
+      "scene_length_chars": 112,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004874029662460089,
+        0.0009999144822359085,
+        0.006699569057673216,
+        0.0002256748266518116,
+        0.005148779135197401,
+        0.28119078278541565,
+        0.054262906312942505,
+        0.8276803493499756,
+        0.010424761101603508,
+        0.0018067685887217522,
+        0.0009845326421782374,
+        0.0007960340590216219,
+        0.00035117167863063514,
+        0.00534025439992547,
+        0.0867963656783104,
+        0.00026810349663719535,
+        0.009248493239283562,
+        0.0007782825850881636,
+        0.0020110406912863255,
+        0.00890329759567976,
+        0.007822088897228241,
+        0.0008491642656736076,
+        0.014640344306826591,
+        0.0006778137758374214,
+        0.0005831720191054046,
+        0.019102564081549644,
+        0.13555799424648285,
+        0.029173867776989937
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "caring",
+        "surprise"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 82,
+      "heading": "[ Retching ]",
+      "raw_text": "They took them to the water. God damn it. I'm coming for you guys.\n[ Dramatic music plays ]\n[ Gasping ]\n[ Grunting ]\nGary. Gary?\n[ Creature growling ]\nGary?! Gary?!\n[ Creature growling ]\n[ Creature growling ]\nGary?! Gary?\n[ Gasps ]\n[ Creatures growling ]\n[ Gasps ]\n[ Blade sings ]\nTRISH: Help me! Billy, please, help me!\n[ Screaming ]",
+      "characters": [
+        "TRISH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "TRISH",
+          "text": "Help me! Billy, please, help me!"
+        }
+      ],
+      "actions": [
+        "They took them to the water. God damn it. I'm coming for you guys.",
+        "Gary. Gary?",
+        "Gary?! Gary?!",
+        "Gary?! Gary?"
+      ],
+      "scene_length_chars": 334,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00015503822942264378,
+        0.0008162794401869178,
+        0.004199893679469824,
+        0.003057478228583932,
+        0.0027170092798769474,
+        0.2048708200454712,
+        0.0020221322774887085,
+        0.0035198021214455366,
+        0.0034584305249154568,
+        0.03646836802363396,
+        0.0035687603522092104,
+        0.0014662384055554867,
+        0.000950753572396934,
+        0.0007476676255464554,
+        0.07625436782836914,
+        0.0006617192411795259,
+        0.03315283730626106,
+        0.0015939251752570271,
+        0.0014311750419437885,
+        0.06788376718759537,
+        0.0009360518306493759,
+        0.0003049079095944762,
+        0.0027535681147128344,
+        0.0009097166475839913,
+        0.0008562717703171074,
+        0.8657800555229187,
+        0.012883799150586128,
+        0.034705836325883865
+      ],
+      "goemotions_topk": [
+        "sadness",
+        "caring",
+        "fear"
+      ],
+      "goemotions_label": "sadness",
+      "goemotions_labels": [
+        "sadness"
+      ]
+    },
+    {
+      "scene_id": 94,
+      "heading": "[ Creatures growling ]",
+      "raw_text": "Billy, help me! Help, Billy! Billy, please, help me!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Billy, help me! Help, Billy! Billy, please, help me!"
+      ],
+      "scene_length_chars": 52,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0006088544614613056,
+        0.0011019789380952716,
+        0.004383002873510122,
+        0.0012517428258433938,
+        0.004642942920327187,
+        0.8250731825828552,
+        0.0013889617985114455,
+        0.005021343007683754,
+        0.0014985863817855716,
+        0.017440319061279297,
+        0.0023032354656606913,
+        0.002143074991181493,
+        0.0011569864582270384,
+        0.0009197731269523501,
+        0.024004053324460983,
+        0.0016144003020599484,
+        0.04663882777094841,
+        0.0038634147495031357,
+        0.001245124964043498,
+        0.03584529086947441,
+        0.00231480342335999,
+        0.0006709180888719857,
+        0.008527628146111965,
+        0.00350753590464592,
+        0.0014725266955792904,
+        0.6759560108184814,
+        0.013898718170821667,
+        0.007170429918915033
+      ],
+      "goemotions_topk": [
+        "caring",
+        "sadness",
+        "grief"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring",
+        "sadness"
+      ]
+    },
+    {
+      "scene_id": 95,
+      "heading": "[ Screaming ]",
+      "raw_text": "Please, Billy, help me! -What do you want me to do?! -I'm scared! Just get a fucking grip, man! You got to fucking do something! Get the fuck off and stop fucking talking! I don't want to die!\n[ Screaming and crying ]\n[ Creatures roaring ]\n[ Screaming ]\n[ Muffled screaming ]\nTrish. -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Please, Billy, help me! -What do you want me to do?! -I'm scared! Just get a fucking grip, man! You got to fucking do something! Get the fuck off and stop fucking talking! I don't want to die!",
+        "Trish. -"
+      ],
+      "scene_length_chars": 284,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.003436943981796503,
+        0.0015129303792491555,
+        0.30044835805892944,
+        0.0058176228776574135,
+        0.0013913890579715371,
+        0.0042885541915893555,
+        0.006293741520494223,
+        0.0012097940780222416,
+        0.0035113513004034758,
+        0.0024897262919694185,
+        0.007442494388669729,
+        0.005938800051808357,
+        0.0006782012060284615,
+        0.0019240195397287607,
+        0.9660069346427917,
+        0.0010831692488864064,
+        0.005881910677999258,
+        0.0028550690039992332,
+        0.0034753214567899704,
+        0.008093132637441158,
+        0.0015362895792350173,
+        0.0013839435996487737,
+        0.0022562097292393446,
+        0.0002643635671120137,
+        0.0008272770210169256,
+        0.005636389832943678,
+        0.00465284613892436,
+        0.004738731775432825
+      ],
+      "goemotions_topk": [
+        "fear",
+        "anger",
+        "nervousness"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 100,
+      "heading": "[ Roars ]",
+      "raw_text": "-No, no! What the fuck are you doing?! Fuck you! I fucking always had your back! Son of a bitch! No! What the fuck?! Get the fuck off of me! Where are you taking me?! Guys! Come on, this is our chance! -Not happening! -Get off him!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-No, no! What the fuck are you doing?! Fuck you! I fucking always had your back! Son of a bitch! No! What the fuck?! Get the fuck off of me! Where are you taking me?! Guys! Come on, this is our chance! -Not happening! -Get off him!"
+      ],
+      "scene_length_chars": 231,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004196136724203825,
+        0.000757354311645031,
+        0.993202805519104,
+        0.01500838715583086,
+        0.0010807960061356425,
+        0.007109909784048796,
+        0.0025379585567861795,
+        0.0034557972103357315,
+        0.006506982259452343,
+        0.006935724522918463,
+        0.013073639944195747,
+        0.009833814576268196,
+        0.0007900395430624485,
+        0.0018365040887147188,
+        0.004108315799385309,
+        0.0015280407387763262,
+        0.0040657371282577515,
+        0.0025569277349859476,
+        0.003514964133501053,
+        0.0003771017072722316,
+        0.0015335322823375463,
+        0.0011877159122377634,
+        0.0014349586563184857,
+        0.0002076293167192489,
+        0.00144753057975322,
+        0.0032018625643104315,
+        0.006080040242522955,
+        0.007357995957136154
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 101,
+      "heading": "[ Creature roaring ]",
+      "raw_text": "Gary. MILES: Gary! GARY: Your hands taste like shit! Ow! Guys, guys, guys! BILLY: Bye, loser! Can't wait to watch you die! Guys, guys, guys! Help! Guys, help! I'm not ready to die yet! Please, help!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Gary. MILES: Gary! GARY: Your hands taste like shit! Ow! Guys, guys, guys! BILLY: Bye, loser! Can't wait to watch you die! Guys, guys, guys! Help! Guys, help! I'm not ready to die yet! Please, help!"
+      ],
+      "scene_length_chars": 198,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0008861113456077874,
+        0.001004489604383707,
+        0.023901060223579407,
+        0.006705387029796839,
+        0.000779500522185117,
+        0.0013250118354335427,
+        0.0005543794832192361,
+        0.007215387187898159,
+        0.0022439430467784405,
+        0.008505248464643955,
+        0.006052164360880852,
+        0.005197337828576565,
+        0.002100074663758278,
+        0.625261127948761,
+        0.1440178006887436,
+        0.0005952039500698447,
+        0.006299300584942102,
+        0.017221951857209206,
+        0.00047385276411660016,
+        0.004311393015086651,
+        0.0016238234238699079,
+        0.005995656363666058,
+        0.0017952953930944204,
+        0.0029581685084849596,
+        0.0009695712942630053,
+        0.003936266992241144,
+        0.03741773962974548,
+        0.009413381107151508
+      ],
+      "goemotions_topk": [
+        "excitement",
+        "fear",
+        "surprise"
+      ],
+      "goemotions_label": "excitement",
+      "goemotions_labels": [
+        "excitement"
+      ]
+    },
+    {
+      "scene_id": 102,
+      "heading": "[ Roars ]",
+      "raw_text": "No! No! What the fuck?! What is this shit?! Billy, you fucking piece of shit! Where the fuck am I? What are you gonna do to me? Who the fuck are you? What do you want from me? Fuck. Just let me go. Somebody help me! Holy shit! You're sick, man! Listen, my dad's a doctor, okay? I'll take you to him. He can help you. All right? Just let me go. No. Don't put that shit on me. Fuck off. No. Get that shit away. No! No! No! No! Get it off me!\n[ Groans ]\n[ Cracking ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No! No! What the fuck?! What is this shit?! Billy, you fucking piece of shit! Where the fuck am I? What are you gonna do to me? Who the fuck are you? What do you want from me? Fuck. Just let me go. Somebody help me! Holy shit! You're sick, man! Listen, my dad's a doctor, okay? I'll take you to him. He can help you. All right? Just let me go. No. Don't put that shit on me. Fuck off. No. Get that shit away. No! No! No! No! Get it off me!"
+      ],
+      "scene_length_chars": 463,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005947439931333065,
+        0.001093050348572433,
+        0.9899353384971619,
+        0.013971718028187752,
+        0.0025085541419684887,
+        0.38371631503105164,
+        0.005472523160278797,
+        0.01616574451327324,
+        0.007088782731443644,
+        0.005779999773949385,
+        0.022649943828582764,
+        0.027870813384652138,
+        0.0012539898743852973,
+        0.0025913664139807224,
+        0.013375118374824524,
+        0.006472220178693533,
+        0.013751448132097721,
+        0.006454680114984512,
+        0.008028382435441017,
+        0.0012465727049857378,
+        0.004340815357863903,
+        0.0024183355271816254,
+        0.0020873702596873045,
+        0.0010416274890303612,
+        0.0031409887596964836,
+        0.0061740572564303875,
+        0.010938095860183239,
+        0.007097153924405575
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 105,
+      "heading": "[ Roars ]",
+      "raw_text": "GARY: Guys, I can't move. Help! You've got garbage breath! Watch your friend die. Watch your fucking friend die. No! Billy, let go of them, you fucking asshole! -BILLY: Say it! -MILES: I'm so sorry! BILLY: Say it! Say you're sorry! No, stop! Sam! Shh. Shh.",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "Guys, I can't move. Help! You've got garbage breath! Watch your friend die. Watch your fucking friend die. No! Billy, let go of them, you fucking asshole! -BILLY: Say it! -MILES: I'm so sorry! BILLY: Say it! Say you're sorry! No, stop! Sam! Shh. Shh."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 256,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0011874936753883958,
+        0.0023847543634474277,
+        0.9871553182601929,
+        0.02481541596353054,
+        0.0018506195629015565,
+        0.0756826400756836,
+        0.0018134096171706915,
+        0.0019157321657985449,
+        0.00652755331248045,
+        0.015748651698231697,
+        0.007731410674750805,
+        0.06067347526550293,
+        0.004325248301029205,
+        0.001470476621761918,
+        0.025222253054380417,
+        0.003458763938397169,
+        0.049008648842573166,
+        0.007505833636969328,
+        0.0022727930918335915,
+        0.0022643504198640585,
+        0.0028296515811234713,
+        0.003849855624139309,
+        0.003084957366809249,
+        0.0018354468047618866,
+        0.01176687516272068,
+        0.07779839634895325,
+        0.009247413836419582,
+        0.0030530188232660294
+      ],
+      "goemotions_topk": [
+        "anger",
+        "sadness",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 106,
+      "heading": "[ Growls ]",
+      "raw_text": "Sam, hurry! -Yeah! -Holy shit! GARY: Get the fuck off me! -",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sam, hurry! -Yeah! -Holy shit! GARY: Get the fuck off me! -"
+      ],
+      "scene_length_chars": 59,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.003351659281179309,
+        0.0002371604205109179,
+        0.9614947438240051,
+        0.009738054126501083,
+        0.0012369215255603194,
+        0.007313715759664774,
+        0.0011347888503223658,
+        0.0029415914323180914,
+        0.00951905082911253,
+        0.003859781427308917,
+        0.0017956567462533712,
+        0.0024450134951621294,
+        0.00039855678915046155,
+        0.004931481089442968,
+        0.008834184147417545,
+        0.001689393538981676,
+        0.0029997287783771753,
+        0.0011650798842310905,
+        0.0017549728509038687,
+        0.00043813849333673716,
+        0.0007446432719007134,
+        0.0021171465050429106,
+        0.0019137875642627478,
+        0.00024630752159282565,
+        0.0009598530014045537,
+        0.001631900668144226,
+        0.022471105679869652,
+        0.029032208025455475
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 107,
+      "heading": "[ Roars ]",
+      "raw_text": "-Sam, look out! Fuck yeah! You fucking murderized them all. Where did you get the crazy sword? I stole it off a dead body. Whoa. Sick. Where's Billy? Shit. I can't see a fucking thing. Fuck do I get out of here?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-Sam, look out! Fuck yeah! You fucking murderized them all. Where did you get the crazy sword? I stole it off a dead body. Whoa. Sick. Where's Billy? Shit. I can't see a fucking thing. Fuck do I get out of here?"
+      ],
+      "scene_length_chars": 211,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0021398907992988825,
+        0.0007959093200042844,
+        0.9885868430137634,
+        0.012553942389786243,
+        0.0006339182145893574,
+        0.001483703963458538,
+        0.0077332910150289536,
+        0.008168899454176426,
+        0.0021270825527608395,
+        0.005781723652034998,
+        0.002862045541405678,
+        0.0055856723338365555,
+        0.0006736998329870403,
+        0.0012627640971913934,
+        0.0022049241233617067,
+        0.000866673537530005,
+        0.0023431023582816124,
+        0.0011964417062699795,
+        0.0013682546559721231,
+        0.00023563810100313276,
+        0.0008869552402757108,
+        0.0005952476640231907,
+        0.0012931778328493237,
+        0.0001374095445498824,
+        0.0009713234030641615,
+        0.0030143505427986383,
+        0.01260767038911581,
+        0.010840301401913166
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 108,
+      "heading": "[ Growling ]",
+      "raw_text": "Dallas? Dallas? Holy fuck, buddy, is that you? Dallas? What the fuck did they do to you? -\n[ Roars ]\n-Aah! -Fuck! -\n[ Roars ]\n[ Creatures growling ]\nHoly shit! Go that way! That way! Go!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dallas? Dallas? Holy fuck, buddy, is that you? Dallas? What the fuck did they do to you? -",
+        "-Aah! -Fuck! -",
+        "Holy shit! Go that way! That way! Go!"
+      ],
+      "scene_length_chars": 186,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002183288801461458,
+        0.009622258134186268,
+        0.47185251116752625,
+        0.009006216190755367,
+        0.0006802488933317363,
+        0.0005146430339664221,
+        0.01125102024525404,
+        0.1604793220758438,
+        0.00218354444950819,
+        0.000911744253244251,
+        0.0005247393855825067,
+        0.0031369077041745186,
+        0.000301461317576468,
+        0.008309639059007168,
+        0.008182900957763195,
+        0.00010685464076232165,
+        0.0008447393192909658,
+        0.0002843010297510773,
+        0.001072862185537815,
+        0.0005168388015590608,
+        0.00035711086820811033,
+        0.00019093783339485526,
+        0.0009021418518386781,
+        3.869747160933912e-05,
+        0.00010911341814789921,
+        0.0007913449662737548,
+        0.4126341640949249,
+        0.1831604689359665
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "surprise"
+      ]
+    },
+    {
+      "scene_id": 112,
+      "heading": "[ Dramatic music playing ]",
+      "raw_text": "Billy? Hey, no, that's my gear! See you, fuckers. I hope a shark bites out your fucking throat, you coward!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Billy? Hey, no, that's my gear! See you, fuckers. I hope a shark bites out your fucking throat, you coward!"
+      ],
+      "scene_length_chars": 107,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.011404035612940788,
+        0.004648581612855196,
+        0.9677942991256714,
+        0.1372954249382019,
+        0.0008232970722019672,
+        0.002851496683433652,
+        0.0012297150678932667,
+        0.010274351574480534,
+        0.1672714352607727,
+        0.00896835420280695,
+        0.001111276331357658,
+        0.00778824370354414,
+        0.0021165572106838226,
+        0.014111250638961792,
+        0.02055656723678112,
+        0.006605958100408316,
+        0.005222287494689226,
+        0.0032884017564356327,
+        0.00227520358748734,
+        0.0008309724507853389,
+        0.31416749954223633,
+        0.01005327608436346,
+        0.003735077567398548,
+        0.0005827944842167199,
+        0.002994694747030735,
+        0.0016363458707928658,
+        0.029463253915309906,
+        0.007222041022032499
+      ],
+      "goemotions_topk": [
+        "anger",
+        "optimism",
+        "desire"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 113,
+      "heading": "[ Creatures growling ]",
+      "raw_text": "Guys, we need to go. Take this. Swim as fast as you can. Don't turn back. Guys, I don't think I can do this. It doesn't matter. We have to.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Guys, we need to go. Take this. Swim as fast as you can. Don't turn back. Guys, I don't think I can do this. It doesn't matter. We have to."
+      ],
+      "scene_length_chars": 139,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002826547948643565,
+        7.506480324082077e-05,
+        0.02625998668372631,
+        0.0037947099190205336,
+        0.053975533694028854,
+        0.7037442326545715,
+        0.0006829561316408217,
+        0.006340804975479841,
+        0.02709852159023285,
+        0.002222490031272173,
+        0.04164791852235794,
+        0.0018735718913376331,
+        0.0005749398842453957,
+        0.0011876532807946205,
+        0.0170796737074852,
+        0.001966102048754692,
+        0.003069117432460189,
+        0.00035204016603529453,
+        0.001712669269181788,
+        0.0016684969887137413,
+        0.0014119859552010894,
+        0.007606636267155409,
+        0.05979306995868683,
+        0.0029730743262916803,
+        0.0025861633475869894,
+        0.0016896614106371999,
+        0.001715604099445045,
+        0.3630598485469818
+      ],
+      "goemotions_topk": [
+        "caring",
+        "neutral",
+        "realization"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 114,
+      "heading": "[ Roars ]",
+      "raw_text": "Where's Jack?! I don't know. Where's Sam? Where are you guys?\n[ Creature growls ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Where's Jack?! I don't know. Where's Sam? Where are you guys?"
+      ],
+      "scene_length_chars": 81,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0008848713478073478,
+        0.0006839164416305721,
+        0.0021194545552134514,
+        0.0017953396309167147,
+        0.0011148597113788128,
+        0.00042197175207547843,
+        0.9805052876472473,
+        0.02931341715157032,
+        8.559868729207665e-05,
+        0.0011834048200398684,
+        0.0008016381761990488,
+        0.0008159163407981396,
+        0.00025355350226163864,
+        0.00015665921091567725,
+        0.0015040825819596648,
+        0.0007418772438541055,
+        0.0003251542802900076,
+        0.0003357583482284099,
+        0.0007838184828869998,
+        0.0002973993541672826,
+        0.00059363036416471,
+        4.360726597951725e-05,
+        0.001796556287445128,
+        0.00012220803182572126,
+        0.00029748614178970456,
+        0.0007495642639696598,
+        0.0031405361369252205,
+        0.10589361935853958
+      ],
+      "goemotions_topk": [
+        "confusion",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "confusion",
+      "goemotions_labels": [
+        "confusion"
+      ]
+    },
+    {
+      "scene_id": 116,
+      "heading": "[ Muffled screaming ]",
+      "raw_text": "Sam! Sam! Sam! Get to the dock. Quickly. MILES: Okay. Come on, Gary! Come on. Oh, my God. Come on, I have to go back! We can't. Those fucking aliens will get us. But she went out there to save us. Listen, if we go back, we're screwed. But it's my fault that they're dead anyways! I was such a dick! Listen, man, we were just kids being kids. We're allowed to be pieces of shit sometimes. My parents were never there for me, but Sam always was. And now my best friend and my only sister are fucking dead! We have to go back. I'm coming with you. All right. Count of three. Three, two... I got him! Sam! Sam, you're okay! MILES: Jack! We got to fucking go! They're coming! He's not breathing! Flashlight. GARY: Sam. Sam, he's not breathing. I know that, Gary. I know that. -GARY: Come on. -MILES: Oh, my God. Is he dead? -Fuck, fuck, fuck. -GARY: Come on. Jack, please. Wake up. Wake the fuck up, man! Come on, Jack. Jack, okay, don't die on us.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sam! Sam! Sam! Get to the dock. Quickly. MILES: Okay. Come on, Gary! Come on. Oh, my God. Come on, I have to go back! We can't. Those fucking aliens will get us. But she went out there to save us. Listen, if we go back, we're screwed. But it's my fault that they're dead anyways! I was such a dick! Listen, man, we were just kids being kids. We're allowed to be pieces of shit sometimes. My parents were never there for me, but Sam always was. And now my best friend and my only sister are fucking dead! We have to go back. I'm coming with you. All right. Count of three. Three, two... I got him! Sam! Sam, you're okay! MILES: Jack! We got to fucking go! They're coming! He's not breathing! Flashlight. GARY: Sam. Sam, he's not breathing. I know that, Gary. I know that. -GARY: Come on. -MILES: Oh, my God. Is he dead? -Fuck, fuck, fuck. -GARY: Come on. Jack, please. Wake up. Wake the fuck up, man! Come on, Jack. Jack, okay, don't die on us."
+      ],
+      "scene_length_chars": 943,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005524515174329281,
+        0.002286262111738324,
+        0.8823208808898926,
+        0.014723737724125385,
+        0.0014321341877803206,
+        0.017710991203784943,
+        0.00301011698320508,
+        0.00198611943051219,
+        0.00423332629725337,
+        0.006415120325982571,
+        0.004345017019659281,
+        0.010365620255470276,
+        0.0020228687208145857,
+        0.006506206002086401,
+        0.034389715641736984,
+        0.0017990977503359318,
+        0.04016459733247757,
+        0.003226635977625847,
+        0.001683518523350358,
+        0.0007619226817041636,
+        0.006846268195658922,
+        0.01850845292210579,
+        0.025848576799035072,
+        0.0045113591477274895,
+        0.00356140173971653,
+        0.005855579860508442,
+        0.18166930973529816,
+        0.01959512196481228
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "grief"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 117,
+      "heading": "[ Creatures growling ]",
+      "raw_text": "GARY: Jack, they're coming! Here they come! Fuck. Come on. GARY: Come on, they're here! MILES: Fuck, don't stop! Come on, fuck! Wake up, Jack! Breathe! Fucking breathe! SAM: Fucking breathe! Come on, Jack!",
+      "characters": [
+        "GARY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GARY",
+          "text": "Jack, they're coming! Here they come! Fuck. Come on. GARY: Come on, they're here! MILES: Fuck, don't stop! Come on, fuck! Wake up, Jack! Breathe! Fucking breathe! SAM: Fucking breathe! Come on, Jack!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 205,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0014869217993691564,
+        0.0045472015626728535,
+        0.9851644039154053,
+        0.036841437220573425,
+        0.0006122426711954176,
+        0.0013097652699798346,
+        0.0011610409710556269,
+        0.0007696992834098637,
+        0.00378570263274014,
+        0.003796585137024522,
+        0.0023040268570184708,
+        0.00848403200507164,
+        0.00040780435665510595,
+        0.0017597960541024804,
+        0.003923268988728523,
+        0.0006505724741145968,
+        0.001737879472784698,
+        0.0013750283978879452,
+        0.0013572850730270147,
+        0.00024129952362272888,
+        0.0009077019640244544,
+        0.0007515011238865554,
+        0.001273707370273769,
+        0.00010414260759716853,
+        0.0005176028935238719,
+        0.0018199067562818527,
+        0.01761595532298088,
+        0.014829418621957302
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 118,
+      "heading": "[ Coughing ]",
+      "raw_text": "Jack, you're alive! -Jack, you're alive. -I'm alive? -Go! Run! -Oh, fuck! Go! -Go! -Run, run! Come on, we got to go! Come on, open the door! It's not opening! It's locked! Sam, why is the door locked? Fucking right, it's locked. Everything is locked. None of you fucks are getting in. Open the fucking door! It's our house! It's mine now. Billy, why are you doing this to us? Because you guys are a bunch of fucking losers, and no one's gonna give a fuck if you guys disappear. Fuck you, Billy! You're a piece of fucking garbage, and you're the one who has the shrimp dick!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Jack, you're alive! -Jack, you're alive. -I'm alive? -Go! Run! -Oh, fuck! Go! -Go! -Run, run! Come on, we got to go! Come on, open the door! It's not opening! It's locked! Sam, why is the door locked? Fucking right, it's locked. Everything is locked. None of you fucks are getting in. Open the fucking door! It's our house! It's mine now. Billy, why are you doing this to us? Because you guys are a bunch of fucking losers, and no one's gonna give a fuck if you guys disappear. Fuck you, Billy! You're a piece of fucking garbage, and you're the one who has the shrimp dick!"
+      ],
+      "scene_length_chars": 573,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0027604273054748774,
+        0.0016066059470176697,
+        0.9930301308631897,
+        0.03184478357434273,
+        0.002143078949302435,
+        0.003622609656304121,
+        0.0027310242876410484,
+        0.002949851332232356,
+        0.005765235051512718,
+        0.007880542427301407,
+        0.0032945089042186737,
+        0.04802388697862625,
+        0.0017691237153485417,
+        0.0028620511293411255,
+        0.011787152849137783,
+        0.0021712647285312414,
+        0.005409854929894209,
+        0.003784982720389962,
+        0.0030887213069945574,
+        0.0006999259348958731,
+        0.001711899763904512,
+        0.0023107007145881653,
+        0.003241634462028742,
+        0.00035261872108094394,
+        0.0013070256682112813,
+        0.003048200160264969,
+        0.012605284340679646,
+        0.005097873043268919
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disgust",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 119,
+      "heading": "[ Dallas roaring ]",
+      "raw_text": "Guys? You guys remember Dallas. Ooh, he's looking pretty sharp.\n[ Snarling ]\n-\n[ Roars ]\n-Go! Go! Fuck! Fuck off, Dallas!\n[ Roaring ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Guys? You guys remember Dallas. Ooh, he's looking pretty sharp.",
+        "-",
+        "-Go! Go! Fuck! Fuck off, Dallas!"
+      ],
+      "scene_length_chars": 133,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.6639634370803833,
+        0.004149924963712692,
+        0.8666969537734985,
+        0.0036576767452061176,
+        0.0006953543052077293,
+        0.0012613805010914803,
+        0.012542911805212498,
+        0.004744080360978842,
+        0.0013903765939176083,
+        0.0020759098697453737,
+        0.003444044617936015,
+        0.009787692688405514,
+        0.0005185085465200245,
+        0.002859350759536028,
+        0.025246571749448776,
+        0.0006545521900989115,
+        0.0030899473931640387,
+        0.001355265616439283,
+        0.004070568829774857,
+        0.0003323769778944552,
+        0.0005193709512241185,
+        0.0026395709719508886,
+        0.001954564591869712,
+        8.433788025286049e-05,
+        0.0016021095216274261,
+        0.0019515304593369365,
+        0.013850484974682331,
+        0.053205352276563644
+      ],
+      "goemotions_topk": [
+        "anger",
+        "admiration",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "admiration",
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 123,
+      "heading": "[ Panting ]",
+      "raw_text": "SAM: Come on! Get to the woods! Come on! -Go! -Right behind you!\n[ Energy resonates ]\nFuck! Fuck. Fuck. -\n[ Roars ]\n-Fuck!",
+      "characters": [
+        "SAM"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SAM",
+          "text": "Come on! Get to the woods! Come on! -Go! -Right behind you!"
+        }
+      ],
+      "actions": [
+        "Fuck! Fuck. Fuck. -",
+        "-Fuck!"
+      ],
+      "scene_length_chars": 122,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.001390959951095283,
+        0.00035183836007490754,
+        0.0014548938488587737,
+        0.0011894635390490294,
+        0.007890487089753151,
+        0.002827734686434269,
+        0.00019497927860356867,
+        0.0013240333646535873,
+        0.0007813471020199358,
+        0.00017137631948571652,
+        0.00035018575727008283,
+        0.0004430074477568269,
+        9.217978367814794e-05,
+        0.0039037771057337523,
+        0.0005477859522216022,
+        0.0003140356275252998,
+        0.0001855044683907181,
+        0.0002796646149363369,
+        0.00031298742396757007,
+        8.714443538337946e-05,
+        0.00046334569924511015,
+        0.0009730620076879859,
+        0.00025609676958993077,
+        0.00028489879332482815,
+        9.084734483622015e-05,
+        0.00012725399574264884,
+        0.0007137150387279689,
+        0.9974406957626343
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "approval",
+        "excitement"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 126,
+      "heading": "[ Screaming ]",
+      "raw_text": "Fuck! Fuck! What the fuck?! My fucking car! What the fuck?!\n[ Roaring ]\nYou always were such a fucking idiot!\n[ Roaring ]\nFuck!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck! Fuck! What the fuck?! My fucking car! What the fuck?!",
+        "You always were such a fucking idiot!",
+        "Fuck!"
+      ],
+      "scene_length_chars": 127,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.010295228101313114,
+        0.0009843502193689346,
+        0.9901947379112244,
+        0.009568198584020138,
+        0.0009393811342306435,
+        0.0015943661564961076,
+        0.002871030243113637,
+        0.00169675936922431,
+        0.0017891207244247198,
+        0.004793297033756971,
+        0.0031196926720440388,
+        0.018729040399193764,
+        0.0005632626125589013,
+        0.0022422620095312595,
+        0.002648134483024478,
+        0.000888608512468636,
+        0.0025421446189284325,
+        0.0024721373338252306,
+        0.005217553116381168,
+        0.0002443844568915665,
+        0.0006387228495441377,
+        0.0013787492644041777,
+        0.0014724081847816706,
+        0.00014862390526104718,
+        0.0008635189151391387,
+        0.001757351798005402,
+        0.007703752722591162,
+        0.007714306004345417
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disgust",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 129,
+      "heading": "[ Roars ]",
+      "raw_text": "They're following us! Don't let them catch you! Bike faster! I don't think we can outbike this. Follow me!\n[ Creatures growling ]\nFollow me!\n[ All panting ]\nGet down, get down.\n[ Panting ]\nShh! Guys, stay quiet.\n[ Growling continues ]\n[ Dramatic music playing ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "They're following us! Don't let them catch you! Bike faster! I don't think we can outbike this. Follow me!",
+        "Follow me!",
+        "Get down, get down.",
+        "Shh! Guys, stay quiet."
+      ],
+      "scene_length_chars": 261,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0005041422555223107,
+        0.0005181891028769314,
+        0.0027342727407813072,
+        0.004435230046510696,
+        0.01797793246805668,
+        0.3532109260559082,
+        0.0005533031071536243,
+        0.001838970696553588,
+        0.001062341732904315,
+        0.0002846666320692748,
+        0.0006062695174477994,
+        0.0006030736840330064,
+        0.00010381094762124121,
+        0.001380257192067802,
+        0.007782546803355217,
+        0.0004461462958715856,
+        0.0012377953389659524,
+        0.000749769969843328,
+        0.0004258699482306838,
+        0.0008057476370595396,
+        0.0013702173018828034,
+        0.0014785799430683255,
+        0.0010292194783687592,
+        0.0019639614038169384,
+        0.00017115651280619204,
+        0.0011042567202821374,
+        0.0013315919786691666,
+        0.9883721470832825
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "caring",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 135,
+      "heading": "[ Growling fades ]",
+      "raw_text": "What? Where'd they go? I don't know. Did they finally leave? MILES: I hope so. You guys okay? I've never been this cold in my life. Whoa, whoa. Miles, deep breaths, okay? We're gonna be all right. I think the aliens were using human skin to fuel their spaceship. I don't want my body to be alien fuel. I'm never gonna see my mom again, am I? We're gonna get through this together. All right, buddy? Uh, Sam... I'm sorry for being such a piece of shit to you all this time. You were always there for me, even when our own parents weren't. And I just didn't want you to leave. Hey, Gary. Gary. I'm your sister. I'm not going anywhere. -I love you, okay? -I love you too. Okay. So, what do we do now? I mean, someone must have seen what just happened here. Just stay put and wait for help. -\n[ Energy resonates ]\n-\n[ All screaming ]\n-\n[ Creatures growling ]\n-GARY: Go! Go! Run! Run to the barn! -\n[ Blade plunges ]\n-",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What? Where'd they go? I don't know. Did they finally leave? MILES: I hope so. You guys okay? I've never been this cold in my life. Whoa, whoa. Miles, deep breaths, okay? We're gonna be all right. I think the aliens were using human skin to fuel their spaceship. I don't want my body to be alien fuel. I'm never gonna see my mom again, am I? We're gonna get through this together. All right, buddy? Uh, Sam... I'm sorry for being such a piece of shit to you all this time. You were always there for me, even when our own parents weren't. And I just didn't want you to leave. Hey, Gary. Gary. I'm your sister. I'm not going anywhere. -I love you, okay? -I love you too. Okay. So, what do we do now? I mean, someone must have seen what just happened here. Just stay put and wait for help. -",
+        "-",
+        "-",
+        "-GARY: Go! Go! Run! Run to the barn! -",
+        "-"
+      ],
+      "scene_length_chars": 913,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.007774057798087597,
+        0.0015620385529473424,
+        0.033758413046598434,
+        0.0007020921912044287,
+        0.0024608024396002293,
+        0.0749259665608406,
+        0.142264261841774,
+        0.4395948052406311,
+        0.034941188991069794,
+        0.002909170463681221,
+        0.003308463143184781,
+        0.0021188121754676104,
+        0.001095741637982428,
+        0.4397850036621094,
+        0.23421300947666168,
+        0.0017678460571914911,
+        0.015678133815526962,
+        0.005611913278698921,
+        0.37365004420280457,
+        0.009647193364799023,
+        0.07103659957647324,
+        0.005331320688128471,
+        0.00846815388649702,
+        0.0007227308233268559,
+        0.002093618270009756,
+        0.02848932333290577,
+        0.021304717287421227,
+        0.329653799533844
+      ],
+      "goemotions_topk": [
+        "excitement",
+        "curiosity",
+        "love"
+      ],
+      "goemotions_label": "excitement",
+      "goemotions_labels": [
+        "curiosity",
+        "excitement",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 140,
+      "heading": "[ Roars ]",
+      "raw_text": "What do you want?! Stay the fuck away from us!\n[ Energy resonates ]\nYou want to dance? Let's go!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What do you want?! Stay the fuck away from us!",
+        "You want to dance? Let's go!"
+      ],
+      "scene_length_chars": 96,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0010039929766207933,
+        0.0006446860497817397,
+        0.9760145545005798,
+        0.018875664100050926,
+        0.0016530099092051387,
+        0.0012115280842408538,
+        0.006469821557402611,
+        0.03366590663790703,
+        0.0033165058121085167,
+        0.0019276067614555359,
+        0.004373382776975632,
+        0.002920112805441022,
+        0.0005829189321957529,
+        0.0018520206212997437,
+        0.0013413509586825967,
+        0.0005524294101633132,
+        0.0008800739888101816,
+        0.0006772588239982724,
+        0.0015671798028051853,
+        0.00023538524692412466,
+        0.00042157305870205164,
+        0.0003664249670691788,
+        0.0013947044499218464,
+        7.218657265184447e-05,
+        0.0007598620723001659,
+        0.0007893479778431356,
+        0.004529064055532217,
+        0.24997836351394653
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 142,
+      "heading": "[ Shrieking ]",
+      "raw_text": "Aah! Enjoy the view. GARY: Sam! Sam, come on!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Aah! Enjoy the view. GARY: Sam! Sam, come on!"
+      ],
+      "scene_length_chars": 45,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002605344168841839,
+        0.007736032363027334,
+        0.001472734147682786,
+        0.001729269279167056,
+        0.005494379438459873,
+        0.007176110986620188,
+        0.00025490796542726457,
+        0.0005536765675060451,
+        0.0012473339447751641,
+        0.0013969942228868604,
+        0.0009861914440989494,
+        0.0012313483748584986,
+        0.0005597288254648447,
+        0.023972593247890472,
+        0.00071143195964396,
+        0.00043208018178120255,
+        0.002858344931155443,
+        0.9900182485580444,
+        0.0008545707678422332,
+        0.000681502278894186,
+        0.002036560792475939,
+        0.0013637644005939364,
+        0.002059655962511897,
+        0.01123863086104393,
+        0.0006323981215246022,
+        0.0020164253655821085,
+        0.0003890968218911439,
+        0.025324247777462006
+      ],
+      "goemotions_topk": [
+        "joy",
+        "neutral",
+        "excitement"
+      ],
+      "goemotions_label": "joy",
+      "goemotions_labels": [
+        "joy"
+      ]
+    },
+    {
+      "scene_id": 143,
+      "heading": "[ All panting ]",
+      "raw_text": "Close the door. -Did we lose them? -I fucking hope so. Okay, let's just find a place to hide. Let's go. Hey! Hey, let go of her! Get the fuck out of my hiding spot. What's your problem, Billy? Let her go. JACK: Yeah, let her go. GARY: Billy, get your hands off my sister. She saved all of our lives, including yours. She saved me? No. I saved her. Gave her a chance to be popular. Treated her like a queen, and what did she do? She threw the worst party ever, and now we're all going to die! Billy, I swear to fucking God, let her go! Billy, don't. Shut up! This is your last fucking chance. Let her go now! Be quiet. He'll hear you. Who? So your best friend is still trying to kill you? Okay. How about this? You let her go right now, maybe I won't scream so loud that Dallas will be here in a couple seconds! -Shut your mouth! -No! You shut your shitty-ass mouth! Yeah, I'm tired of hearing and smelling shit coming out of your face hole! What? -You heard me! -Yeah! Fine, fine, fine. I'm sorry. I'm sorry. I'll just kill your fucking sister! You're a psycho, Billy! Night-night, Billy. Yeah! Die, Billy! Suck crystal! -MILES: Go, Jack! -GARY: Fuck you! Let's feed him to Dallas! Oh!\n[ Coughing ]\nAah! -\n[ Grunts ]\n-",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Close the door. -Did we lose them? -I fucking hope so. Okay, let's just find a place to hide. Let's go. Hey! Hey, let go of her! Get the fuck out of my hiding spot. What's your problem, Billy? Let her go. JACK: Yeah, let her go. GARY: Billy, get your hands off my sister. She saved all of our lives, including yours. She saved me? No. I saved her. Gave her a chance to be popular. Treated her like a queen, and what did she do? She threw the worst party ever, and now we're all going to die! Billy, I swear to fucking God, let her go! Billy, don't. Shut up! This is your last fucking chance. Let her go now! Be quiet. He'll hear you. Who? So your best friend is still trying to kill you? Okay. How about this? You let her go right now, maybe I won't scream so loud that Dallas will be here in a couple seconds! -Shut your mouth! -No! You shut your shitty-ass mouth! Yeah, I'm tired of hearing and smelling shit coming out of your face hole! What? -You heard me! -Yeah! Fine, fine, fine. I'm sorry. I'm sorry. I'll just kill your fucking sister! You're a psycho, Billy! Night-night, Billy. Yeah! Die, Billy! Suck crystal! -MILES: Go, Jack! -GARY: Fuck you! Let's feed him to Dallas! Oh!",
+        "Aah! -",
+        "-"
+      ],
+      "scene_length_chars": 1218,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.008317450992763042,
+        0.008366108871996403,
+        0.9842718839645386,
+        0.04580346494913101,
+        0.0016057968605309725,
+        0.009671240113675594,
+        0.004592165816575289,
+        0.011159224435687065,
+        0.0069297258742153645,
+        0.0044929455034434795,
+        0.0032289635855704546,
+        0.05132255703210831,
+        0.0020798309706151485,
+        0.004362277686595917,
+        0.010205314494669437,
+        0.013056221418082714,
+        0.012269122526049614,
+        0.006392205134034157,
+        0.003815754782408476,
+        0.0004790423554368317,
+        0.01993136666715145,
+        0.004154422786086798,
+        0.0020800651982426643,
+        0.0010012667626142502,
+        0.015206526964902878,
+        0.008393238298594952,
+        0.008023319765925407,
+        0.004372172057628632
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disgust",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 146,
+      "heading": "[ Blade plunges ]",
+      "raw_text": "No! Oh, fuck. Jack! You fucking monster! Jack! You. Billy, what did you do? It's not my fault, Sam. You made me do this. I didn't make you do this. I didn't make you do anything! You did this! I said shut the fuck up or he'll hear you!\n[ Energy resonates ]\n[ Growling ]\n[ Growling ]\nBilly. Billy. Oh, shit, it's Dallas.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No! Oh, fuck. Jack! You fucking monster! Jack! You. Billy, what did you do? It's not my fault, Sam. You made me do this. I didn't make you do this. I didn't make you do anything! You did this! I said shut the fuck up or he'll hear you!",
+        "Billy. Billy. Oh, shit, it's Dallas."
+      ],
+      "scene_length_chars": 319,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0031742064747959375,
+        0.0038812581915408373,
+        0.9855239987373352,
+        0.07312654703855515,
+        0.0003381083079148084,
+        0.0011446821736171842,
+        0.003296016715466976,
+        0.0018260689685121179,
+        0.0010439746547490358,
+        0.006107117049396038,
+        0.006176307797431946,
+        0.007064423523843288,
+        0.0003727097937371582,
+        0.0006520355818793178,
+        0.002348430687561631,
+        0.00016828587104100734,
+        0.0015321829123422503,
+        0.0006833897205069661,
+        0.0009086697245948017,
+        0.0001297253038501367,
+        0.0006504780030809343,
+        0.0005305383820086718,
+        0.0006193810258992016,
+        9.910423977999017e-05,
+        0.0003912055108230561,
+        0.0019068706315010786,
+        0.020858818665146828,
+        0.036766454577445984
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 150,
+      "heading": "[ Roaring ]",
+      "raw_text": "Billy! Let's go! Go, go, go, go, go! -Come on! -No, where the fuck you going? Slow the fuck down! The attic. Let's go. -Okay. -I'm gonna fucking kill you! Fuck you, you fucking maniac.\n[ Coughs ]\nAh! Broke my fucking nose.\n[ Roars ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Billy! Let's go! Go, go, go, go, go! -Come on! -No, where the fuck you going? Slow the fuck down! The attic. Let's go. -Okay. -I'm gonna fucking kill you! Fuck you, you fucking maniac.",
+        "Ah! Broke my fucking nose."
+      ],
+      "scene_length_chars": 232,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0015568517846986651,
+        0.0007929560961201787,
+        0.9921448826789856,
+        0.02407187409698963,
+        0.0025320297572761774,
+        0.003523418214172125,
+        0.002014921046793461,
+        0.0035249455831944942,
+        0.0047090607695281506,
+        0.0048849512822926044,
+        0.004050227347761393,
+        0.008919822983443737,
+        0.0006327360169962049,
+        0.002023618435487151,
+        0.0046906545758247375,
+        0.0014029104495421052,
+        0.003561302088201046,
+        0.0017737679881975055,
+        0.001541715464554727,
+        0.00032544301939196885,
+        0.0008869144949130714,
+        0.0012859709095209837,
+        0.0017270146636292338,
+        0.000225971540203318,
+        0.0014357392210513353,
+        0.0036741390358656645,
+        0.005167091730982065,
+        0.00815668050199747
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 153,
+      "heading": "[ Creatures growling ]",
+      "raw_text": "Holy shit! Go, go, go! Gary, they're coming! GARY: Why won't these fucking aliens leave us alone?!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Holy shit! Go, go, go! Gary, they're coming! GARY: Why won't these fucking aliens leave us alone?!"
+      ],
+      "scene_length_chars": 98,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00130220758728683,
+        0.001826814142987132,
+        0.9555777311325073,
+        0.07401449978351593,
+        0.00045760066132061183,
+        0.0011210035299882293,
+        0.004989651031792164,
+        0.01033028308302164,
+        0.010820046998560429,
+        0.04231277480721474,
+        0.001182176754809916,
+        0.0018724905094131827,
+        0.000952551607042551,
+        0.013501430861651897,
+        0.005309484899044037,
+        0.0005770142306573689,
+        0.004587093833833933,
+        0.0009166254894807935,
+        0.0014087966410443187,
+        0.0011154371313750744,
+        0.001981009729206562,
+        0.0016967811388894916,
+        0.004724083002656698,
+        0.00023804005468264222,
+        0.00098493043333292,
+        0.014746234752237797,
+        0.37277472019195557,
+        0.010609759949147701
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "surprise"
+      ]
+    },
+    {
+      "scene_id": 154,
+      "heading": "[ Gasps ]",
+      "raw_text": "Dallas. Look, I fucked up. I was scared. I know you're still in there, bro. I know you're still my buddy. So fucking fight it, man. Fucking fight it! -\n[ Roars ]\n-Aaaaaah!\n[ Snarling ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dallas. Look, I fucked up. I was scared. I know you're still in there, bro. I know you're still my buddy. So fucking fight it, man. Fucking fight it! -",
+        "-Aaaaaah!"
+      ],
+      "scene_length_chars": 184,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.010688009671866894,
+        0.0017812575679272413,
+        0.021884005516767502,
+        0.001674104481935501,
+        0.0027287486009299755,
+        0.0025479027535766363,
+        0.0058805616572499275,
+        0.0019309608032926917,
+        0.0026780739426612854,
+        0.0011843177489936352,
+        0.0017525185830891132,
+        0.003334631910547614,
+        0.000837276631500572,
+        0.0032348912209272385,
+        0.9823430180549622,
+        0.0019707519095391035,
+        0.0044318013824522495,
+        0.0027078771963715553,
+        0.0024119550362229347,
+        0.009797578677535057,
+        0.001635711989365518,
+        0.0018157924059778452,
+        0.006167278625071049,
+        0.000422251207055524,
+        0.0006300317472778261,
+        0.002871345728635788,
+        0.007688258774578571,
+        0.00405807513743639
+      ],
+      "goemotions_topk": [
+        "fear",
+        "anger",
+        "admiration"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 157,
+      "heading": "[ Dramatic music playing ]",
+      "raw_text": "Hurry the fuck up! What the fuck? Oh, my God. Oh, Jack.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hurry the fuck up! What the fuck? Oh, my God. Oh, Jack."
+      ],
+      "scene_length_chars": 55,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002546793082728982,
+        0.0005564658786170185,
+        0.9912235736846924,
+        0.01916741207242012,
+        0.0010140815284103155,
+        0.011099577881395817,
+        0.004137388896197081,
+        0.0036888779141008854,
+        0.006914638914167881,
+        0.020272953435778618,
+        0.005212815944105387,
+        0.022103924304246902,
+        0.0018367987358942628,
+        0.0020855404436588287,
+        0.006277343723922968,
+        0.0010577887296676636,
+        0.005371949169784784,
+        0.00165209686383605,
+        0.0033660782501101494,
+        0.0011266109067946672,
+        0.0010675304802134633,
+        0.00167180597782135,
+        0.00457066111266613,
+        0.000344968429999426,
+        0.0013332486851140857,
+        0.003605370409786701,
+        0.039659712463617325,
+        0.010217847302556038
+      ],
+      "goemotions_topk": [
+        "anger",
+        "surprise",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 158,
+      "heading": "[ Roaring ]",
+      "raw_text": "Oh, my God! Gary, look out! Hey, Dallas.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, my God! Gary, look out! Hey, Dallas."
+      ],
+      "scene_length_chars": 40,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0010700627462938428,
+        0.0009846020257100463,
+        0.0021114815026521683,
+        0.000951222435105592,
+        0.0006577245076186955,
+        0.0025757073890417814,
+        0.002298301085829735,
+        0.0016191161703318357,
+        0.001314362045377493,
+        0.006858516484498978,
+        0.001847042702138424,
+        0.0005319328629411757,
+        0.0014715726720169187,
+        0.0030041628051549196,
+        0.0021303824614733458,
+        0.0015217873733490705,
+        0.00148015224840492,
+        0.0003536784206517041,
+        0.00033170971437357366,
+        0.0006952748517505825,
+        0.0028723394498229027,
+        0.0002978488337248564,
+        0.008023431524634361,
+        0.0011066223960369825,
+        0.0004925644025206566,
+        0.0033526993356645107,
+        0.985808253288269,
+        0.00923609733581543
+      ],
+      "goemotions_topk": [
+        "surprise",
+        "neutral",
+        "realization"
+      ],
+      "goemotions_label": "surprise",
+      "goemotions_labels": [
+        "surprise"
+      ]
+    },
+    {
+      "scene_id": 159,
+      "heading": "[ Screams ]",
+      "raw_text": "Come on, I never did anything to you. Please, I'm sorry! Please! -\n[ Blade slices ]\n-",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Come on, I never did anything to you. Please, I'm sorry! Please! -",
+        "-"
+      ],
+      "scene_length_chars": 85,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0005304551450535655,
+        0.0002827828284353018,
+        0.0005109607591293752,
+        0.001662955735810101,
+        0.004494632128626108,
+        0.01114110741764307,
+        0.0004651385825127363,
+        0.0006329250754788518,
+        0.00048185797641053796,
+        0.08980588614940643,
+        0.043838080018758774,
+        0.0008258337620645761,
+        0.004314061254262924,
+        0.00014790699060540646,
+        0.00040387347689829767,
+        0.0007226469460874796,
+        0.007447336334735155,
+        0.00020075382781215012,
+        0.00013106341066304594,
+        0.0006944914348423481,
+        0.0013950783759355545,
+        0.00048040118417702615,
+        0.009793701581656933,
+        0.002967564156278968,
+        0.7728987336158752,
+        0.14288082718849182,
+        0.0001264784368686378,
+        0.052184175699949265
+      ],
+      "goemotions_topk": [
+        "remorse",
+        "sadness",
+        "disappointment"
+      ],
+      "goemotions_label": "remorse",
+      "goemotions_labels": [
+        "remorse"
+      ]
+    },
+    {
+      "scene_id": 161,
+      "heading": "[ Roars ]",
+      "raw_text": "Holy shit! Sam, be careful! Watch out! Oh, fuck. Dropkick. Sam, do the dropkick! Sorry, Dallas. Aah! -Aah! -Gary!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Holy shit! Sam, be careful! Watch out! Oh, fuck. Dropkick. Sam, do the dropkick! Sorry, Dallas. Aah! -Aah! -Gary!"
+      ],
+      "scene_length_chars": 113,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.20623348653316498,
+        0.004775510169565678,
+        0.043059010058641434,
+        0.004847811069339514,
+        0.006011403165757656,
+        0.9821202158927917,
+        0.0008840615628287196,
+        0.0018911841325461864,
+        0.009443187154829502,
+        0.01045487355440855,
+        0.0033096875995397568,
+        0.002980012446641922,
+        0.00952779408544302,
+        0.00559144327417016,
+        0.017515037208795547,
+        0.004156610928475857,
+        0.0587526336312294,
+        0.0032351540867239237,
+        0.014380875043570995,
+        0.010994468815624714,
+        0.009896167553961277,
+        0.014524825848639011,
+        0.06828011572360992,
+        0.008779486641287804,
+        0.09760542958974838,
+        0.05320326238870621,
+        0.09088834375143051,
+        0.007980478927493095
+      ],
+      "goemotions_topk": [
+        "caring",
+        "admiration",
+        "remorse"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 162,
+      "heading": "[ Grunting ]",
+      "raw_text": "Don't let go, Gary! I'm holding on! Hold on, Gary! I'm slipping! I'm slipping! No, you're fucking not! Hold on to my hand! Aaah! No! No, Gary! Gary, hold on! Hold on! Sam, help! Sam! Help! Somebody help us! Please, help! Help us! Please! Holy shit! What are we gonna do?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Don't let go, Gary! I'm holding on! Hold on, Gary! I'm slipping! I'm slipping! No, you're fucking not! Hold on to my hand! Aaah! No! No, Gary! Gary, hold on! Hold on! Sam, help! Sam! Help! Somebody help us! Please, help! Help us! Please! Holy shit! What are we gonna do?"
+      ],
+      "scene_length_chars": 270,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005318874027580023,
+        0.00041646353201940656,
+        0.022495392709970474,
+        0.0018219305202364922,
+        0.0027534933760762215,
+        0.9822026491165161,
+        0.0026400152128189802,
+        0.009292657487094402,
+        0.008700910955667496,
+        0.018068304285407066,
+        0.016731008887290955,
+        0.001015501213259995,
+        0.0007002631900832057,
+        0.0020275155548006296,
+        0.09267804026603699,
+        0.0017673266120254993,
+        0.017566939815878868,
+        0.0031542533542960882,
+        0.0020452674943953753,
+        0.045448534190654755,
+        0.023784883320331573,
+        0.0011393391760066152,
+        0.008712434209883213,
+        0.0033688179682940245,
+        0.002637147670611739,
+        0.05802815034985542,
+        0.013283997774124146,
+        0.0051634726114571095
+      ],
+      "goemotions_topk": [
+        "caring",
+        "fear",
+        "sadness"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 163,
+      "heading": "[ Weakly ]",
+      "raw_text": "Grand finale. What? The grand finale. Send those aliens to hell, and tell them Jack sent them. You're a fucking genius, buddy. Don't die on me!\n[ Music continues ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Grand finale. What? The grand finale. Send those aliens to hell, and tell them Jack sent them. You're a fucking genius, buddy. Don't die on me!"
+      ],
+      "scene_length_chars": 163,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.8132005929946899,
+        0.0061537097208201885,
+        0.2113599181175232,
+        0.030458958819508553,
+        0.0008870675810612738,
+        0.00023198129201773554,
+        0.001000013086013496,
+        0.008852524682879448,
+        0.0016367182834073901,
+        0.003543683560565114,
+        0.0011839561630040407,
+        0.0019232268678024411,
+        0.0005481178523041308,
+        0.30919528007507324,
+        0.004745420999825001,
+        0.0010915877064689994,
+        0.0012275277404114604,
+        0.0029190010391175747,
+        0.0008801466319710016,
+        0.00019321870058774948,
+        0.0003980938927270472,
+        0.01083469856530428,
+        0.000962336256634444,
+        0.00028010705136694014,
+        0.0004908274277113378,
+        0.0007315573748201132,
+        0.25315383076667786,
+        0.005970626603811979
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "excitement",
+        "surprise"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 165,
+      "heading": "[ Engine starts ]",
+      "raw_text": "Fuck space. Holy shit! Aaah! Help! Help us! Please! Grand finale. Holy shit! You did it, Jack. Sam, catch! I told you I kick ass with a sword. Whoa! Jack! -Jack, are you okay? -Is he all right? MILES: Barely. SAM: Hey, Jack. Hey, buddy. Hey, Jack. Jack, hey. What happened? Where am I? There was just a little accident. But you're in our clubhouse. You're gonna be fine. We're gonna get you some help, okay? What happened to the aliens? Blew them up. It was fucking awesome. Come on. Help me get him up. Come on, Jack. Stay with us, Jack. -Sam... -Stop, stop. Hey, Jack, what is it? Will you protect the crystal? With my life, buddy. You're the coolest. Jack, Jack. Wake up. Come on! Stay with us, Jack. Come on. GARY: Jack. Jack, Jack! MILES: Come on, Jack. Stay with us. Jack, come on. Come on, Jack. Come on. Jack. Jack. Come on, Jack. Come on! Come on, Jack.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck space. Holy shit! Aaah! Help! Help us! Please! Grand finale. Holy shit! You did it, Jack. Sam, catch! I told you I kick ass with a sword. Whoa! Jack! -Jack, are you okay? -Is he all right? MILES: Barely. SAM: Hey, Jack. Hey, buddy. Hey, Jack. Jack, hey. What happened? Where am I? There was just a little accident. But you're in our clubhouse. You're gonna be fine. We're gonna get you some help, okay? What happened to the aliens? Blew them up. It was fucking awesome. Come on. Help me get him up. Come on, Jack. Stay with us, Jack. -Sam... -Stop, stop. Hey, Jack, what is it? Will you protect the crystal? With my life, buddy. You're the coolest. Jack, Jack. Wake up. Come on! Stay with us, Jack. Come on. GARY: Jack. Jack, Jack! MILES: Come on, Jack. Stay with us. Jack, come on. Come on, Jack. Come on. Jack. Jack. Come on, Jack. Come on! Come on, Jack."
+      ],
+      "scene_length_chars": 862,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.023285850882530212,
+        0.0033172431867569685,
+        0.05593739449977875,
+        0.0021631824783980846,
+        0.0031755887903273106,
+        0.20352578163146973,
+        0.0021233500447124243,
+        0.07288563996553421,
+        0.014879673719406128,
+        0.0020562533754855394,
+        0.0007282246369868517,
+        0.0018123836489394307,
+        0.0011598017299547791,
+        0.1642923206090927,
+        0.016266288235783577,
+        0.003242386970669031,
+        0.04227833449840546,
+        0.011628767475485802,
+        0.0008798299240879714,
+        0.000875145778991282,
+        0.06223374977707863,
+        0.03649558871984482,
+        0.005380149930715561,
+        0.018980909138917923,
+        0.0073759290389716625,
+        0.007396100554615259,
+        0.34617847204208374,
+        0.5017002820968628
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "surprise",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 166,
+      "heading": "[ Creatures growling ]",
+      "raw_text": "Shit, shit, shit! Shit, why now?! Give us a fucking break already!\n[ Guns cocking ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Shit, shit, shit! Shit, why now?! Give us a fucking break already!"
+      ],
+      "scene_length_chars": 83,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.001259887358173728,
+        0.000623366329818964,
+        0.9894620776176453,
+        0.07488419860601425,
+        0.0007959741051308811,
+        0.000993592431768775,
+        0.007285172585397959,
+        0.004878676496446133,
+        0.0013252628268674016,
+        0.008328481577336788,
+        0.003866432933136821,
+        0.005467329639941454,
+        0.0007599735981784761,
+        0.0010273723164573312,
+        0.0016547227278351784,
+        0.0008667110814712942,
+        0.0010555947665125132,
+        0.0008784177480265498,
+        0.001442630309611559,
+        0.00025921015185303986,
+        0.0006337916711345315,
+        0.00043623289093375206,
+        0.0013650794280692935,
+        0.00012131159019190818,
+        0.0006022289744578302,
+        0.0019311226205900311,
+        0.010299382731318474,
+        0.006474660709500313
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 168,
+      "heading": "[ Gunfire ]",
+      "raw_text": "We got kids. Bag them. They're fucking here. Our friend is dying. You got to help us. Please help --\n[ Screaming ]\nSam, no! Get it off me!\n[ Ominous music plays ]\nTake it away.\n[ Up-tempo music plays ]\n[ Electronic music blaring ]\n[ Music fades ]\n[ Door rattles ]\n[ Glass shatters ]\n[ Footsteps ]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We got kids. Bag them. They're fucking here. Our friend is dying. You got to help us. Please help --",
+        "Sam, no! Get it off me!",
+        "Take it away."
+      ],
+      "scene_length_chars": 296,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003063753538299352,
+        0.0010890524135902524,
+        0.9537532329559326,
+        0.06428109854459763,
+        0.0005316135939210653,
+        0.02924736589193344,
+        0.0008452413603663445,
+        0.0011622788151726127,
+        0.0016788025386631489,
+        0.012052479200065136,
+        0.006616421043872833,
+        0.040216851979494095,
+        0.0017406753031536937,
+        0.00029004912357777357,
+        0.007594734895974398,
+        0.00026542835985310376,
+        0.008568888530135155,
+        0.002783427946269512,
+        0.0006512945983558893,
+        0.0011380418436601758,
+        0.0005681308684870601,
+        0.0005081332637928426,
+        0.0007000329787842929,
+        0.0003731184406206012,
+        0.0006811497150920331,
+        0.02365436777472496,
+        0.002425052924081683,
+        0.0811186358332634
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 177,
+      "heading": "[ Growls ]",
+      "raw_text": "DAD: Oh, my God. Family portrait is ruined. I mean, what happened here? MOM: Did they have a party here? DAD: You got to be kidding me. They turned our house into a shithole? MOM: Sam, how could you let this happen? DAD: This is gonna cost a fortune to fix! MOM: Where's Gary? -DAD: I'm so... -",
+      "characters": [
+        "DAD"
+      ],
+      "dialogues": [
+        {
+          "speaker": "DAD",
+          "text": "Oh, my God. Family portrait is ruined. I mean, what happened here? MOM: Did they have a party here? DAD: You got to be kidding me. They turned our house into a shithole? MOM: Sam, how could you let this happen? DAD: This is gonna cost a fortune to fix! MOM: Where's Gary? -DAD: I'm so... -"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 294,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0013362303143367171,
+        0.23328085243701935,
+        0.03081090748310089,
+        0.13853396475315094,
+        0.000162180294864811,
+        0.0011432917090132833,
+        0.17598746716976166,
+        0.7679641842842102,
+        0.0016028075478971004,
+        0.06874053925275803,
+        0.006816984619945288,
+        0.01231749914586544,
+        0.004380423109978437,
+        0.0015896048862487078,
+        0.003830057568848133,
+        0.0002410256420262158,
+        0.0027970578521490097,
+        0.001841458142735064,
+        0.0002774367749225348,
+        0.0031773156952112913,
+        0.008929435163736343,
+        5.8996458392357454e-05,
+        0.0016321873990818858,
+        0.00020207125635351986,
+        0.0007097403868101537,
+        0.024946941062808037,
+        0.14982986450195312,
+        0.0036307787522673607
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "amusement",
+        "confusion"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 178,
+      "heading": "[ Knocking on door ]",
+      "raw_text": "-MOM: Samantha! -DAD: ...angry! I don't even know where -- I can't believe we trusted them! You're the one who wanted to have them! Ohh! -Is that thing on? -You've got to be kidding me! I mean, our place is fucked! Gary, if this has something to do with your movie, I'm gonna ground you and your sister for the rest of your lives. These damn kids don't deserve parents like us. -\n[ Growling ]\n-\n[ Screaming ]\nDAD: What's happening?!\n[ Roaring ]",
+      "characters": [
+        "DAD"
+      ],
+      "dialogues": [
+        {
+          "speaker": "DAD",
+          "text": "What's happening?!"
+        }
+      ],
+      "actions": [
+        "-MOM: Samantha! -DAD: ...angry! I don't even know where -- I can't believe we trusted them! You're the one who wanted to have them! Ohh! -Is that thing on? -You've got to be kidding me! I mean, our place is fucked! Gary, if this has something to do with your movie, I'm gonna ground you and your sister for the rest of your lives. These damn kids don't deserve parents like us. -",
+        "-"
+      ],
+      "scene_length_chars": 444,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0006091269897297025,
+        0.0005902481498196721,
+        0.03313817083835602,
+        0.0025839267764240503,
+        0.0005370674771256745,
+        0.0002844449772965163,
+        0.3989424705505371,
+        0.5095006823539734,
+        0.00019536765466909856,
+        0.0013256606180220842,
+        0.0004568961157929152,
+        0.0008022047113627195,
+        0.0001197272795252502,
+        0.0006546140066348016,
+        0.0005042874254286289,
+        7.206414738902822e-05,
+        0.0003001850564032793,
+        0.00011850467853946611,
+        0.0003673938917927444,
+        0.0001236967509612441,
+        0.0003447917406447232,
+        3.183265289408155e-05,
+        0.0004990785964764655,
+        4.2367970308987424e-05,
+        8.584080933360383e-05,
+        0.0009299855446442962,
+        0.07361005991697311,
+        0.14272555708885193
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "confusion",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "headings_or_brackets",
+    "final_num_scenes": 90,
+    "lines_per_scene_fallback": 20
+  }
+}

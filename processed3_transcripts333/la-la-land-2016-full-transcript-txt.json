@@ -1,0 +1,476 @@
+{
+  "source_file": "La La Land _2016_ - full transcript.txt",
+  "title": "La La Land",
+  "year": "2016",
+  "meta_description": null,
+  "num_scenes": 9,
+  "avg_scene_chars": 4819,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "[...]",
+      "raw_text": "Ba-ba-da ba-da ba-da-ba-ba Ba-ba-da ba-da ba-da-ba-ba Ba-ba-da ba-da ba-da-ba-ba Ba-ba-ba I think about that day I left him at a Greyhound station west of Santa Fe We were seventeen, but he was sweet and it was true Still I did what I had to do 'Cause I just knew Summer, sunday nights We'd sink into our seats right as they dimmed out all the lights A Technicolor world made out of music and machine, It called me to be on that screen And live inside each scene Without a nickel to my name, Hopped a bus, here I came Could be brave or just insane, We'll have to see 'Cause maybe in that sleepy town He'll sit one day, the lights are down, He'll see my face and think of how he used to know me Climb these hills I'm reaching for the heights And chasing all the lights that shine And when they let you down, (It's another day of...) You get up off the ground, (It's another day of...) 'Cause morning rolls around and it's another day of sun I hear'em ev'ry day, The rhythms in the canyons that'll never fade away, The ballads in the barrooms left by those who came before They say \"you gotta want it more\" So I bang on ev'ry door And even when the answer's \"no\" Or when my money's running low, The dusty mic and neon glow Are all I need And someday, as I sing my song, A small-town kid'll come along That'll be the thing to push him on and go, go Climb these hills I'm reaching for the heights And chasing all the lights that shine And when they let you down, (It's another day of...) You get up off the ground, ('Cause it's another day of...) 'Cause morning rolls around and it's another day of sun And when they let you down, The morning rolls around It's another day of sun (Oh) It's another day of sun (Oh) It's another day of sun (Sun",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Ba-ba-da ba-da ba-da-ba-ba Ba-ba-da ba-da ba-da-ba-ba Ba-ba-da ba-da ba-da-ba-ba Ba-ba-ba I think about that day I left him at a Greyhound station west of Santa Fe We were seventeen, but he was sweet and it was true Still I did what I had to do 'Cause I just knew Summer, sunday nights We'd sink into our seats right as they dimmed out all the lights A Technicolor world made out of music and machine, It called me to be on that screen And live inside each scene Without a nickel to my name, Hopped a bus, here I came Could be brave or just insane, We'll have to see 'Cause maybe in that sleepy town He'll sit one day, the lights are down, He'll see my face and think of how he used to know me Climb these hills I'm reaching for the heights And chasing all the lights that shine And when they let you down,  You get up off the ground,  'Cause morning rolls around and it's another day of sun I hear'em ev'ry day, The rhythms in the canyons that'll never fade away, The ballads in the barrooms left by those who came before They say \"you gotta want it more\" So I bang on ev'ry door And even when the answer's \"no\" Or when my money's running low, The dusty mic and neon glow Are all I need And someday, as I sing my song, A small-town kid'll come along That'll be the thing to push him on and go, go Climb these hills I'm reaching for the heights And chasing all the lights that shine And when they let you down,  You get up off the ground,  'Cause morning rolls around and it's another day of sun And when they let you down, The morning rolls around It's another day of sun  It's another day of sun  It's another day of sun (Sun"
+      ],
+      "scene_length_chars": 1738,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.000778297137003392,
+        0.0007351355161517859,
+        0.0002968545304611325,
+        0.0008128592744469643,
+        0.002358975587412715,
+        0.0006647305563092232,
+        0.0006043622270226479,
+        0.000372320442693308,
+        0.0008109018672257662,
+        0.014092466793954372,
+        0.0003117404121439904,
+        0.00028918928001075983,
+        0.0005406896234489977,
+        0.0018495790427550673,
+        0.00038360609323717654,
+        0.00039257583557628095,
+        0.0024316918570548296,
+        0.0017730575054883957,
+        0.0017361007630825043,
+        0.0007314643007703125,
+        0.0951438769698143,
+        0.0008163151796907187,
+        0.02361053042113781,
+        0.0009198235347867012,
+        0.0004880697524640709,
+        0.0887109711766243,
+        0.0004898737533949316,
+        0.7807645797729492
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "optimism",
+        "sadness"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "[...]",
+      "raw_text": ") It's another day of sun (Oh) Just another day of sun (Oh) It's another day of sun (Sun) Another day has just begun (Oh) It's another day of sun It's another day of sun WINTER",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ") It's another day of sun  Just another day of sun  It's another day of sun  Another day has just begun  It's another day of sun It's another day of sun WINTER"
+      ],
+      "scene_length_chars": 176,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0040588537231087685,
+        0.0004998760996386409,
+        0.00019253732170909643,
+        0.00031061438494361937,
+        0.004077338147908449,
+        0.00015868598711676896,
+        0.0007470541168004274,
+        0.00019140940275974572,
+        0.00016416353173553944,
+        0.0006383616710081697,
+        0.0005041586118750274,
+        0.00021277612540870905,
+        0.00016336295811925083,
+        0.29590630531311035,
+        0.0005438730586320162,
+        0.0007174699567258358,
+        0.0005951619241386652,
+        0.08171411603689194,
+        0.0011987745529040694,
+        0.00028548334375955164,
+        0.0011336683528497815,
+        0.013857091777026653,
+        0.05969182774424553,
+        0.009564895182847977,
+        7.811066461727023e-05,
+        0.00014163603191263974,
+        0.00904762465506792,
+        0.7871055603027344
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "excitement",
+        "joy"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "[...]",
+      "raw_text": "already has won three Oscars, including for the 1998 film \"Shakespeare in Love\".",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "already has won three Oscars, including for the 1998 film \"Shakespeare in Love\"."
+      ],
+      "scene_length_chars": 80,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.8443475365638733,
+        0.0008550622733309865,
+        0.004080745857208967,
+        0.000990491360425949,
+        0.068235844373703,
+        0.0023915728088468313,
+        0.0008822014206089079,
+        0.0022461432963609695,
+        0.0005733256111852825,
+        0.0026975395157933235,
+        0.008237749338150024,
+        0.003580712713301182,
+        0.003007463878020644,
+        0.0012959303567185998,
+        0.0008877799264155328,
+        0.014762850478291512,
+        0.002474685898050666,
+        0.0015277236234396696,
+        0.03668736666440964,
+        0.00020219787256792188,
+        0.00022272320347838104,
+        0.05329025909304619,
+        0.03811058774590492,
+        0.0016559764044359326,
+        0.011709657497704029,
+        0.003605856793001294,
+        0.0007481398642994463,
+        0.021934444084763527
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "approval",
+        "pride"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "[...]",
+      "raw_text": "I mean, we could not believe what was happening. No, I swear to God. She was wrecked! She was completely wrecked! I know! I know, it-it was... it was pure insanity. \"It's insanity?\" Ah! Lunacy! \"It was pure lunacy.\" What is his problem? I should go. - Cappuccino, please. - Right, of course. - On us. - Oh! No, thank you. I insist. Did you see who that was? Audition! Shit. Mia, where d'you think you're going? Oh. To see a doctor. You better be here early tomorrow. Okay. Have a good night! She was wrecked! It was pure lunacy! It was... It was so crazy and I just... Oh, you would've died. No, Turner's fine. Turner's fine. I-I just, uh... Are you going to wait until Denver to tell her, or...? What? Okay. No, I'm happy for you. I am, I'm happy for you. I just... I just thought... - I don't know what I thought. - One second. I guess it just\n[...]\n- What, Ruby? - Jessica on the phone. - Uh... Tell her I'll call her back. - In two minutes? Less than two minutes. - I'll go get your lunch. - I'm almost done. Thank you. Oh. You know what? I think we're good. Thanks for coming in. Wow! Holy shit! You wanna open a window? It was trying to give you an entrance. Thank you. Mia! How'd the audition go?! - Er... - Er, same here. Was Jen there? Or Rachel? I don't know who Jen and Rachel are. Are the worst. Oh, I don't know if they were there. Bet that they were. Why is there a convention in the bathroom? Agreed. Two minutes, people! Mia, you're coming, right?! I can't! I'm working. What?! Did she just say \"working\"? - What? - I'm sorry it didn't go well today, and there's like four things in my inbox that you're perfect for and I will submit you. But right now, you're coming! - It will be fun. - It's not gonna be fun. - It could be. - It's not. It's gonna be a bunch of social climbers, all packed into one of those big glass houses. This looks familiar. - I was gonna give that back. - How long have you had this?! - Oh, a long time. - Come on, Mia! When else are you gonna get to see a very Hollywood cliche crammed into the same room? We'll make fun of it together! \"I'm disappointed in you, Lex.\" There's nothing to make fun of. This party is gonna be like... humanity at its finest. Hmm. - You got the invitation - You got the right address - You need some medication? - The answer's always yes A little chance encounter Could be the one you've waited for Oh! Just squeeze a bit more! Tonight we're on a mission Tonight's the casting call If this is the real audition Oh, God help us all! You make the right impression, Then ev'rybody knows your name We're in the fast lane Someone in the crowd could be the one you need to know, The one to fin'lly lift you off the ground Someone in the crowd could take you where you wanna go If you're the someone ready to be found The someone ready to be found Do what you need to do 'til they discover you And make you more than who you're seeing now - So with the stars aligned - I think I'll stay behind You've got to go and find That someone in the crowd Hey girl! Uhuh. That someone in the crowd! Is someone in the crowd the only thing you really see? Watching while the world keeps spinning 'round? Somewhere there's a place where I find who I'm gonna be, A somewhere that's just waiting to be found Someone in the crowd could be the one you need to know, The someone who could lift you off the ground Someone in the crowd could take you where you wanna go Someone in the crowd could make you Someone in the crowd could take you flying off the ground If you're the someone ready to be found! TOW-AWAY / NO STOPPING 9pm to 6am / NIGHTLY No. Oh, come on! What...? Ah! STORAGE / ENTRANCE Lipton's / OPEN California oranges VAN BEEK - Tapas & Tunes Please stop sneaking into my home. D'you think Mom and Dad would call this a \"home\"? What're you doing? Please don't do that. Please don't sit on that. - Are you kidding? - Please don't sit on that, don't sit on that. Don't sit on that. - Hoagy Carmichael sat on that. - Oh my God! The Baked Potato just threw it away. I can't imagine why. - And now you're just sitting on it. - I got you a throw rug. I don't need that. What if I said Miles Davis pissed on it? It's almost insulting. Is it true? When are you going to unpack these boxes?! When I unpack them in my own club. Oh, Sebastian! It's like a girl broke up with you and you're stalking her. You're not still going by there, are you? That's... Can't believe it, they turned it into a samba-tapas place. - Oh my God, Sebastian! - Samba, tapas. Pick one, you know? Do one right. I have someone I want you to meet. I don't want to meet anyone. No, no, I don't want to meet anyone. - Dad gave you this? - Yes. You'll like her. I don't think I'm gonna like her. - Does she like jazz? - Probably not. Then what are we gonna talk about? I dont know! It doesn't matter, okay? Because you're living like a hermit. You're driving without insurance! - It doesn't matter? - Yeah, it doesn't matter. - Okay. - You need to get serious. Well, then I know a guy with a face tattoo that you should see. - Okay, low blow. - With a heart of gold. - Get serious! - Get serious? Laura. I... I had a very serious plan for my future. I know. It's not my fault I got shanghaied! You didn't get shanghaied, you got ripped off. What's the difference? I don't know! It's not as romantic as that. Don't sit... Everybody knew that guy was shady, except for you. Why do you say \"romantic\" like it's a dirty word? Unpaid bills are not romantic. Call her. I'm not going to call her. The thing is... y-you're acting like life's got me on the ropes. I want to be on the ropes. Okay? I'm just... I'm letting life hit me until it gets tired. Oh? Then I'm gonna hit back. It's a classic \"rope-a-dope\". Okay, Ali. I love you. Unpack the boxes. - I'm gonna change the locks. - You can't afford it. I'm a phoenix rising from the ashes! PAST DUE - Hey. - Hey Bill. - Thanks for letting me back. - You're welcome. I want you to know that you're looking at a new man. Good. - A man that's happy to be here. - Excellent. - Very-easy-to-work-with man. - Okay. And you're gonna... play the setlist? Happy to. Even though I don't think anybody cares what I play, - but yeah. - Yep. Well, if by \"anyone\" you mean anyone other than me, that would be correct. I care, and I don't wanna hear the free jazz. Right. Okay. Although I-I... I thought that in this town it worked on a sort of \"one for you, one for me\" type system. How about two for you, one for me? How 'bout... all for you and none for me? - That's perfect. Yes. - Great. - Okay. - Okay. Mutual decision. - Right. Made-Made by me. - Right. And I... signed off on it, so... Whatever. Tell yourself what you wanna know. Well, welcome back. There's a nice way to say that, Karen. Seb. I do-I-I hear what you're saying, but I don't think you're saying what you mean. Yeah, I don't think you hear what I'm saying. You're fired. Well, I-That's what you're saying, but it's not what you mean. What you mean is... You're fired. ...\"play the setlist\". No, I'm saying it's too late. It's a warning. What-What planet are you from? - Don't fire me. - You're done. - Don't fire me. - I'm sorry, Seb. It's Christmas. Yeah, I see the decorations. Good luck in the New Year. I just heard you play, and I wanted to... I don't like the fissure on the GT scan. Did you test for achromatopsia? D.O.A. on 23rd. Perp laughing his face off at the P.D. Damn Miranda Rights. This is my classroom. You don't like it, the door's to my left. Lady, why you be trippin' like that? No, Jamal. You be trippin'. SPRING Jump right here! We're talking away I don't know what I'm to say, I'll say it anyway Oh. Mia! - Hi! - Hi. I want you to meet my friend Carlo. - Hi. Carlo. - Carlo, this is Mia. - Nice. Mia? - Yes, Mia. - Hi. How are you? - Carlo is a writer. Yeah. They say I have a knack for world-building. I-I got a lot of heat right now. There's been a lot of buzz, people talkin' about me, which is exciting. I mean, you work so hard, and then all that validation. - It's great... - I'm gonna grab a drink. - Yeah. - Okay. - Okay. - It's really nice to meet you... I'll be gone in a day or two So needless to say I'm odds and ends, But I'll be stumbling away, Slowly learning that life is okay Say after me: \"It's no better to be safe than sorry\" Take on me (Take on me) Take me on (Take on me) I'll be gone in a day or two Thank you. Any other requests?! Girl in the front! \"I Ran\". \"I Ran\". A fantastic suggestion! All right, piano man, tickle those ivories. Let's hit it. One, two, three, four! Uh! That's right! I walk alone the avenue I never thought I'd meet a girl like you Meet a girl like you (Me?) With auburn hair and tawny eyes, With kind of eyes that hypnotize me through That hypnotize me through And I ran, I ran so far away I couldn't get away Sometimes I feel I've got to run away, I've got to get away From the pain you drive into the heart of me All right. I remember you. And I'll admit I was a little curt that night. - \"Curt\"? - Okay, I was an asshole. - I can admit that. - Okay. But requesting \"I Ran\" from a serious musician is just... it's too far. My Lord! Did you just say \"a serious musician\"? I don't think so. - Can I borrow what you're wearing? - Why? 'Cause I have an audition next week. I'm playing a serious firefighter. So you're an actress. I thought you looked familiar. Have I seen you on anything? Uh... A coffee shop? On the Warner Bros. lot? - That's classic. - Oh, I see. - Yeah. - You're a barista. And I can see how you could then look down on me from all the way up there. Time to do the next set. He doesn't... I don't... He doesn't tell me what to do. He just... told you what to do... I know, he... I let him. - What's your name? - Mia. Mia. Guess I'll see you in the movies. - Heard of Joseph Campbell? - Uh, yeah. I have this idea to do a re-imagining of \"Goldilocks and the Three Bears\" but from the perspective of the bears. It's kind of thrilling. Yeah, it could be like a franchise. - Right. - So we don't know. There could've been a fourth bear, we don't know. George Michael! Hello. - Sorry. - Yeah, yeah. It's... I know that guy. Did you get your keys? Mm-hmm. Yes. Can you grab mine? Can I what? Would you be able to grab mine? My keys? - I can't hear you. - Sorry. - Can-Can you grab my keys? - Oh. - Please? - Oh, there we go. - Thank you. - You're welcome. - What kind? - It's a Prius. That mean the... That does't help me. With a green ribbon. All right. Those look, uh, comfortable. They are. Thank you for saving the day back there. Well, you didn't really give me much of a choice. It's pretty strange that we keep running into each other. It is strange. Maybe it means something. - I doubt it. - Yeah, I don't think so. Where's my car?! You gotta put that thing to your chin. - This? - Yeah. Yeah, it makes your head into an antenna, so... Oh? I think it gives you cancer, but you find your car faster. What? I mean, you don't live as long, but you get where you're going quicker, - so it all evens out. - That sounds terrible. - Just a suggestion. - You're a... You're a real, uh... - What's the word am I looking for? - Knight in shining armor? - Weirdo. That was the word. - Okay. Not much to look at, huh? I've seen better. The sun is nearly gone, The lights are turnin' on, A silver shine that stretches to the sea We've stumbled on a view That's tailor-made for two What a shame those two are you and me Some other girl and guy Would love this swirling sky, But there's only you and I And we've got no shot This could never be - You're not the type for me - Really? And there's not a spark in sight What a waste of a lovely night You say there's nothing here? Well, let's make something clear I think I'll be the one to make that call But you'll call? And though you looked so cute in your polyester suit, It's wool. You're right, I'd never fall for you at all And maybe this appeals To someone not in heels Or to any girl who feels There's some chance for romance But, I'm frankly feeling nothing Is that so? Or it could be less than nothing Good to know, so you agree? That's right What a waste of a lovely night Ah. Hi, Greg. Hi... Oh! Sorry, I'm late. Yeah. I'll be there soon. Okay, bye. - It's... It's just right there. - Just right here. Hmm. Do you want a ride to your car? No, I'm just... right up here. Good night. Good night. Excuse me. This is gluten-free, right? No. What?! Mm-mmm. What? I'd like a refund. Okay. Let me check on that for you. Mia? You're closing friday. I-I c-I can't close on friday. I have an audition, remember? Do I look like I care? Reschedule it. - Oh, and, uh, we need to have - I... a little talk tomorrow, okay? - Fix your apron, please. - Uh... Okay. You again! What're you doin' here? Oh, you know, just meetings and... studio heads and... How'd you get on the lot? I basically just hauled ass past the guard gates, so... I think I have 20 minutes until they find me. You don't have a break... coming up, do you? I'm off in 10 minutes. So... Can I hide in the bathroom? - Yes. - Okay. (Thank you.) Sorry. Uh... I actually do have to check. I'm... sorry. That's the window that Humphrey Bogart and Ingrid Bergman looked out of in Casablanca. - Wow! - Yeah. I can't believe you work right across the street from that. - Yeah. - That's amazing. What was your, uh..., your Bogart's name? What's his name? Is it Greg? Yeah. Greg. Right. How long have you, uh, been...? We've been seeing each other for about a month. Uh, that's great. He's, uh... He's sweet. Anyway, I love being around this stuff, you know? I know what you mean. I-I get coffee 5 miles out of the way - just so I can be near a jazz club. - Really? Yeah, the Van Beek. Do you know it? Mm-mmm. All the big swing bands used to play there. Count Basie, Chick Webb. Anyway, it's a samba-tapas place now, so... What's a samba-tapas place? You know, it's like a samba place where they serve tapas. - Oh. - Yeah. So the joke's on... history? I don't know. That's L.A. They just... They-They-They worship everything and they value nothing. We're about to roll. Stop, please, guys. - You're rolling? - Yeah. - Yeah. - I know. They shoot movies on my street all the time, so I know about movies. - Come this way. - Right. It's a lock-down. - I love her! - And here we go. So... Hey, Mia. How did you get into this? - And... roll! - Get into what? Sound speed! - You know, movies and acting. - Action. Oh. - My aunt was an actress. - Oh, okay. She was in a traveling theater company. I grew up in Boulder City, Nevada. So across the street from my house there was this little library, that had an old movies section. And so she... she took me and we spent an entire day watching all these old movies like \"Notorious\" and... \"Bringing Up Baby\", \"Casablanca\"... and... - Cut it there. Cut! - Check the gate. - We can talk now. - She sounds incredible. She was incredible. And I would put on all these plays in my bedroom... and... it would basically just be she and I... re-enacting those scenes from the movies. And then I would write my own plays. - Wow. - Uh... Yeah. I love it. So anyway, I left college after two years to come here. And, uh, my last audition was for a teen soap pitched as Dangerous Minds meets The O.C. So, yeah..., should've been a lawyer. 'Cause the world needs more lawyers... It doesn't need more actresses. You're not just an actress. What do you mean \"just an actress\"? You said it yourself, you were a... y-you were a child prodigy playwright. That is not what I said. Well, you're too modest to say it, but it's true. So you could just write your own roles, you know? Write something that's as interesting as you are, and you don't have to audition for this... - Y-Yeah. - uh, pishi kaka. Look at Louis Armstrong, you know? He could have just played the marching band charts that he was given. But he didn't do it. What did he do? - What did he do? - Well, he made history, didn't he? Well, I'm gonna stop auditioning and I'm gonna make history instead. Well, my work is done here. I should probably tell you something now. - Just to get it out the way. - Mm-hmm. I hate jazz. You okay? What do you mean you hate jazz? It just means that when I listen to it, I don't like it. Yeah, but it's just a blanket statement that you don't like jazz. What are you doing right now? Nothing. You know, I just think that people, when they say that they..., you know, \"I hate jazz\"..., they just... they don't... have context. They don't know where it comes from, you know? Jazz was born in a little... flophouse in New Orleans, and then just because people were crammed in there, they spoke five different languages, they couldn't talk to each other. The only way that they could communicate... was with jazz. Yeah, well, what about Kenny G? - What? - What about Kenny G? I mean, what about elevator music? You know? - Jazz music that I know. - What about it? - From my life. - Mm-hmm. I just... I mean, I-I find it relaxing. It's not relaxing. It's not! It's not. Sidney Bechet shot somebody because they told him he played a wrong note. That's hardly relaxing. Yeah, but where I grew up there was this station called KJAZZ 103. And people would just put on that station when they had a cocktail party... Right. And everyone would kind of just talk over it. - I know. - 'Cause it was... - That's the pro... Okay. O-kay. - It's... So I think that that's part of the problem, is that you can't hear it, you know? You have to see it, you have to see... what's at stake. I mean, look at these fellas. Look at... Look at the... the-the sax player right now. He just hijacked the song. He's on his own trail. Everyone of these guys are composing, rearranging, they're writing... and they're playing the melody. They're just... And now look, the trumpet player. He's got his own idea. And so... it's conflict, and it's compromise, and it's just... It's new every time. It's brand new every night. It's very, very exciting. And it's dying. It's dying, Mia, it's dying on the vine. And the world says: \"Let it die. It had its time.\" Well, not on my watch. What are you gonna do? I'll have my own club. - Really? - Yes. We're gonna play whatever we want, whenever we want, however we want, as long as it's pure jazz. Hi, this is Mia Dolan. Yeah, I just missed a call. - I got a callback. - What?! Come on! For what?! For a TV show! The one I was telling you about. Really. The Dangerous Minds meets The O.C.? Yeah. - Congratulations! That's incredible. - It's really exciting. I feel like I said negative stuff about it before. What? It's like \"Rebel Without a Cause\" sort of. \"I got the bullets!\" Yes. - You've never seen it! - I've never seen it. Oh my. You know, it's playing in the Rialto. - Really? - Yes. You should go... I mean, I... I'll go-I'll go-I can take you. - Okay. - You know, for research. - For research. - Yeah. - Yeah. - Okay. Uh, monday night, ten-ten o'clock. - Yeah! Great! - Okay! For research. City of stars, Are you shining just for me? City of stars, There's so much that I can't see Who knows? Is this the start of something wonderful and new? Or one more dream that I cannot make true? - Stand right there, please. - Okay. Nice to meet you. - (Hi.) - Hi. - In your own time. - Okay. Two options: you either follow my rules or follow my rules. Capisce? Thank you. - It's... Oh. - Thanks. I can do it a different way. No, that's-that's fine. Thank you very much. Thank you. - That was fun. Thanks. - Bye. RIALTO / REBEL WITHOUT A CASE Hey, Mia. - What? - Greg's here. What do you m...? Hey, babe. Got a space out front. - Great! - We should get going. - Ok... - My brother landed really early. Did you forget? - Shit. - You forgot. That's tonight... - That's okay. - Yeah. - Yeah. You forgot. - Okay. All right. So then I'll just get changed. - Okay. - Okay. - Great. - Great. - Yeah, that's him. - Uh... Hey, Josh. Yeah. Uh... Uh, just picking up Mia. We'll be there in like, uh... But now we got this surround-sound set-up. Oh, it's like being in a movie theater. Wow. Well, better than being in a theater, really. And you know theaters these days. - Yeah. - They're so dirty. Yeah, I know. And so smelly. And they're either too hot or too cold. I know, he quality's really fallen off. Oh, it's terrible! And there's always people talking.\n[...]\n-",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I mean, we could not believe what was happening. No, I swear to God. She was wrecked! She was completely wrecked! I know! I know, it-it was... it was pure insanity. \"It's insanity?\" Ah! Lunacy! \"It was pure lunacy.\" What is his problem? I should go. - Cappuccino, please. - Right, of course. - On us. - Oh! No, thank you. I insist. Did you see who that was? Audition! Shit. Mia, where d'you think you're going? Oh. To see a doctor. You better be here early tomorrow. Okay. Have a good night! She was wrecked! It was pure lunacy! It was... It was so crazy and I just... Oh, you would've died. No, Turner's fine. Turner's fine. I-I just, uh... Are you going to wait until Denver to tell her, or...? What? Okay. No, I'm happy for you. I am, I'm happy for you. I just... I just thought... - I don't know what I thought. - One second. I guess it just"
+      ],
+      "scene_length_chars": 20296,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.289186030626297,
+        0.03486630320549011,
+        0.009390324354171753,
+        0.07260680943727493,
+        0.08312738686800003,
+        0.04612074792385101,
+        0.040085162967443466,
+        0.32315540313720703,
+        0.012741460464894772,
+        0.04404843971133232,
+        0.03541696444153786,
+        0.006122090388089418,
+        0.010505752637982368,
+        0.11967059969902039,
+        0.026260489597916603,
+        0.2749570906162262,
+        0.002641224069520831,
+        0.03575119376182556,
+        0.05865149199962616,
+        0.007008431479334831,
+        0.029615558683872223,
+        0.005353646352887154,
+        0.04051617160439491,
+        0.008231430314481258,
+        0.008269025944173336,
+        0.0023382564540952444,
+        0.045711368322372437,
+        0.1472170501947403
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 9,
+      "heading": "[...]",
+      "raw_text": "texting. - One second. Hello? Probably work. So, yeah, we love it. - It's so nice. - Well, you have to come. You should. Come by. I got one more for you, man: - Mm-hmm. - Indonesia. - I never heard of. - Anyone say that. I don't remember all the track of it, but honestly, it was just life changing. - Really? - Yeah. It did-did affected me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "texting. - One second. Hello? Probably work. So, yeah, we love it. - It's so nice. - Well, you have to come. You should. Come by. I got one more for you, man: - Mm-hmm. - Indonesia. - I never heard of. - Anyone say that. I don't remember all the track of it, but honestly, it was just life changing. - Really? - Yeah. It did-did affected me."
+      ],
+      "scene_length_chars": 341,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0023798211477696896,
+        0.00031078350730240345,
+        0.0009272030438296497,
+        0.0006730302120558918,
+        0.01342046819627285,
+        0.0028002983890473843,
+        0.4099671244621277,
+        0.05425896495580673,
+        0.004670741502195597,
+        0.01911124214529991,
+        0.0014886325225234032,
+        0.00018895918037742376,
+        0.00111220998223871,
+        0.0031589153222739697,
+        0.0002991154615301639,
+        0.0009458326385356486,
+        0.0008429221925325692,
+        0.0022730238270014524,
+        0.7706674337387085,
+        0.001631357939913869,
+        0.17068184912204742,
+        0.0004676725366152823,
+        0.15407146513462067,
+        0.0007789632654748857,
+        0.0004926667315885425,
+        0.0034672929905354977,
+        0.06153778359293938,
+        0.004988448228687048
+      ],
+      "goemotions_topk": [
+        "love",
+        "confusion",
+        "optimism"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": [
+        "confusion",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": "[...]",
+      "raw_text": "Is it amazing? Yes. A five-star jungle-eco resort. - Wow. - You would not believe. Amazing. We were thinking about Nicaragua. The thing 'bout Nicaragua is it's less developed. - It's a bit underdeveloped. - Right. You know? I think there's a little more offert. Yeah, I just... I don't know, I don't know if it's safe there. Yeah, yeah.\n[...]\nI'm sorry.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Is it amazing? Yes. A five-star jungle-eco resort. - Wow. - You would not believe. Amazing. We were thinking about Nicaragua. The thing 'bout Nicaragua is it's less developed. - It's a bit underdeveloped. - Right. You know? I think there's a little more offert. Yeah, I just... I don't know, I don't know if it's safe there. Yeah, yeah.",
+        "I'm sorry."
+      ],
+      "scene_length_chars": 353,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.10312571376562119,
+        0.004206592217087746,
+        0.00048149042413569987,
+        0.0004313063691370189,
+        0.04243555665016174,
+        0.004436569754034281,
+        0.9432947635650635,
+        0.19844411313533783,
+        0.0005574216484092176,
+        0.009732753038406372,
+        0.002241807524114847,
+        0.001017979928292334,
+        0.00528742978349328,
+        0.004412682726979256,
+        0.0009329270687885582,
+        0.01594419777393341,
+        0.0075385491363704205,
+        0.005043162032961845,
+        0.0015196847962215543,
+        0.0012737062061205506,
+        0.015560233034193516,
+        0.002466923091560602,
+        0.3005533814430237,
+        0.017648058012127876,
+        0.06029169261455536,
+        0.010206746868789196,
+        0.11871962249279022,
+        0.0020079470705240965
+      ],
+      "goemotions_topk": [
+        "confusion",
+        "realization",
+        "curiosity"
+      ],
+      "goemotions_label": "confusion",
+      "goemotions_labels": [
+        "confusion"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": "[...]",
+      "raw_text": "An immensity of our universe. For many days, before the end of our Earth, people will look into the night sky and notice a star, increasingly bright and increasingly near. As this star approaches us... Jim Stark. I'll go find a place. I'm sorry. As this star approaches us, the weather will change. The great polar fields of the north and south will rot and divide. And the seas will turn warmer. The last of us search the heavens and stand amazed. For the stars will still be there... moving through their",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "An immensity of our universe. For many days, before the end of our Earth, people will look into the night sky and notice a star, increasingly bright and increasingly near. As this star approaches us... Jim Stark. I'll go find a place. I'm sorry. As this star approaches us, the weather will change. The great polar fields of the north and south will rot and divide. And the seas will turn warmer. The last of us search the heavens and stand amazed. For the stars will still be there... moving through their"
+      ],
+      "scene_length_chars": 506,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.001085946336388588,
+        0.015602544881403446,
+        0.005247847177088261,
+        0.004628532100468874,
+        0.0027103277388960123,
+        0.006026519928127527,
+        0.0008524914737790823,
+        0.0005137867410667241,
+        0.007686938159167767,
+        0.008281288668513298,
+        0.000720422191079706,
+        0.0021622159983962774,
+        0.010049920529127121,
+        0.004827899858355522,
+        0.003532858332619071,
+        0.0046837227419018745,
+        0.0447203554213047,
+        0.004581782501190901,
+        0.00020836885960306972,
+        0.0011151337530463934,
+        0.863529622554779,
+        0.011653203517198563,
+        0.10956278443336487,
+        0.01878228597342968,
+        0.105973020195961,
+        0.12376303225755692,
+        0.03408937156200409,
+        0.005268923472613096
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "sadness",
+        "realization"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": "[...]",
+      "raw_text": "I have an idea. TESLA COIL GENEVIEVE: Holy hell! What is that? Is that a script? - It's a play. - A play?! You better give us all roles! Actually, it's a one-woman show! So I can't. Wow! Is that gonna happen everytime? I think so. Wait! It's one way. SUMMER - I love you. - Love you too. Sebastian? Keith. Come here, man! - How are you? - Very good, man. This is Mia. Mia, Keith. - Hi, Mia, nice to meet you. - Nice to meet you. I used to play with this guy. We went to school together. - So, how you been, brother? - Great. Never been better. How 'bout you? I've been really good, been very busy. - I got a new combo. - Okay. - Cool. - We're looking for keys. - You kidding me? - No, I'm not kidding. - No, I'm good. - You sure? It pays. I'm good. Let's just grab a drink then. It's been too long. - Okay. Nice to meet you, Mia. - Nice to meet you. The end. It's... Genius. - Really? - Yes. - Really? - Yes. It feels really nostalgic to me. - That's the point. - Is it too nostalgic? - That's... - Are people gonna like it? Fuck 'em. - You always say that. - Well, I truly believe that. - I made you something. - For what? For your club. Why does it say \"Seb's\"? 'Cause I think you should call it \"Seb's\". What? 'Cause no one's gonna come to \"Chicken on a Stick\". Is that a music note as an apostrophe? - Yes. - That's pretty cool. - Yeah. - It's gotta be \"Chicken on a Stick\". Hmm... Because... Charlie Parker got his nickname... ...nickname because he loved chicken. That's why they called him \"Bird\". So I'm gonna have chicken, beer, jazz... \"Chicken on a Stick!\" I know. I think you should drop the chicken and just have drinks and jazz, and also there could be... I'm not dropping the chicken. You could maybe do it somewhere else? - What're you talkin'...? - Find a new spot? - It's gotta be the Van Beek. - It doesn't have to be the Van Beek. I can't let them samba all over its history. - Oh... - I can't do it. You can let them, but you refuse to. Your play's incredible. You know? The whole world from your bedroom. What else do they want? Who's doing that? - I'm doing that. - You're doing that? Who was that guy at The Lighthouse? - The guy that offered you the gig? - Keith. Yeah. Why was it so weird between you two? It's-It's just always weird... with him. - Really? - Yeah. But he seemed kinda nice because he did offer you a job. Are you gonna call him? No. - No. - All right. So... - Here's what we know. - Yeah? It's definitely \"Chicken on a Stick\"... and your play's gonna be a triumph. It's a one-woman show. So it's just me. No, I... I mean, I'm acting in it. It's gonnna be cool. No, Mom, I-I'm not getting paid. I'm... paying to do it. He's great. He's gonna open his own jazz club. Yeah, it's gonna be incredible. Uh, no. He's... He hasn't opened it yet. He needs, uh... He's saving up, I think. No, but he doesn't have a steady gig. But he's-he's figuring it out. It's just been a little tricky lately. Mom, he's gonna find a way to open it and you're gonna love it, okay? How's Dad? Sebastian! Come on in, man. - Thanks for comin'. - Thanks for having me. I wasn't sure I'd see you today. - So, here's the deal. - Okay. - We got distribution with Universal. - Wow. We've got our own imprint. We're about to go on the road. Uh, we can pay you a thousand bucks a week... plus a cut of the ticket revenue and merchandising. Sound good? - Sebastian? - Yup. All right? - Let's play. - Okay. But I know I'll fell...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I have an idea. TESLA COIL GENEVIEVE: Holy hell! What is that? Is that a script? - It's a play. - A play?! You better give us all roles! Actually, it's a one-woman show! So I can't. Wow! Is that gonna happen everytime? I think so. Wait! It's one way. SUMMER - I love you. - Love you too. Sebastian? Keith. Come here, man! - How are you? - Very good, man. This is Mia. Mia, Keith. - Hi, Mia, nice to meet you. - Nice to meet you. I used to play with this guy. We went to school together. - So, how you been, brother? - Great. Never been better. How 'bout you? I've been really good, been very busy. - I got a new combo. - Okay. - Cool. - We're looking for keys. - You kidding me? - No, I'm not kidding. - No, I'm good. - You sure? It pays. I'm good. Let's just grab a drink then. It's been too long. - Okay. Nice to meet you, Mia. - Nice to meet you. The end. It's... Genius. - Really? - Yes. - Really? - Yes. It feels really nostalgic to me. - That's the point. - Is it too nostalgic? - That's... - Are people gonna like it? Fuck 'em. - You always say that. - Well, I truly believe that. - I made you something. - For what? For your club. Why does it say \"Seb's\"? 'Cause I think you should call it \"Seb's\". What? 'Cause no one's gonna come to \"Chicken on a Stick\". Is that a music note as an apostrophe? - Yes. - That's pretty cool. - Yeah. - It's gotta be \"Chicken on a Stick\". Hmm... Because... Charlie Parker got his nickname... ...nickname because he loved chicken. That's why they called him \"Bird\". So I'm gonna have chicken, beer, jazz... \"Chicken on a Stick!\" I know. I think you should drop the chicken and just have drinks and jazz, and also there could be... I'm not dropping the chicken. You could maybe do it somewhere else? - What're you talkin'...? - Find a new spot? - It's gotta be the Van Beek. - It doesn't have to be the Van Beek. I can't let them samba all over its history. - Oh... - I can't do it. You can let them, but you refuse to. Your play's incredible. You know? The whole world from your bedroom. What else do they want? Who's doing that? - I'm doing that. - You're doing that? Who was that guy at The Lighthouse? - The guy that offered you the gig? - Keith. Yeah. Why was it so weird between you two? It's-It's just always weird... with him. - Really? - Yeah. But he seemed kinda nice because he did offer you a job. Are you gonna call him? No. - No. - All right. So... - Here's what we know. - Yeah? It's definitely \"Chicken on a Stick\"... and your play's gonna be a triumph. It's a one-woman show. So it's just me. No, I... I mean, I'm acting in it. It's gonnna be cool. No, Mom, I-I'm not getting paid. I'm... paying to do it. He's great. He's gonna open his own jazz club. Yeah, it's gonna be incredible. Uh, no. He's... He hasn't opened it yet. He needs, uh... He's saving up, I think. No, but he doesn't have a steady gig. But he's-he's figuring it out. It's just been a little tricky lately. Mom, he's gonna find a way to open it and you're gonna love it, okay? How's Dad? Sebastian! Come on in, man. - Thanks for comin'. - Thanks for having me. I wasn't sure I'd see you today. - So, here's the deal. - Okay. - We got distribution with Universal. - Wow. We've got our own imprint. We're about to go on the road. Uh, we can pay you a thousand bucks a week... plus a cut of the ticket revenue and merchandising. Sound good? - Sebastian? - Yup. All right? - Let's play. - Okay. But I know I'll fell..."
+      ],
+      "scene_length_chars": 3437,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.46356135606765747,
+        0.01718253269791603,
+        0.0023434413596987724,
+        0.02119525708258152,
+        0.09541479498147964,
+        0.0034021460451185703,
+        0.19843055307865143,
+        0.40222984552383423,
+        0.004622587468475103,
+        0.011698270216584206,
+        0.006513332016766071,
+        0.007283391896635294,
+        0.0021895829122513533,
+        0.09076827764511108,
+        0.002252778271213174,
+        0.13580414652824402,
+        0.0017384361708536744,
+        0.022638773545622826,
+        0.297355592250824,
+        0.0017069705063477159,
+        0.04501308500766754,
+        0.0032397564500570297,
+        0.012604564428329468,
+        0.0007799593731760979,
+        0.0011844959808513522,
+        0.002649268601089716,
+        0.10869884490966797,
+        0.012548846192657948
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "love"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": "[so good]",
+      "raw_text": "tonight I know. It's different. But you say you want to save jazz. How are you gonna save jazz if no one's listening? Jazz is dying because of people like you. You're... playin' into 90-year-olds at The Lighthouse. Where are the kids? Where are the young people? You're so obsessed with Kenny Clarke and Thelonious Monk. These guys were revolutionaries. How are you going to be a revolutionary, if you're such a traditionalist? You're holding onto the past..., but jazz is about the future. I know. The other guy, he wasn't as good as you. But you're a pain in the ass, man. City of stars, Are you shining just for me? City of stars, There's so much that I can't see Who knows? I felt it from the first embrace I shared with you That now our dreams may fin'lly come true City of stars, Just one thing ev'rybody wants There in the bars And through the smokescreen of the crowded restaurants It's love Yes, all we're looking for is love from someone else - A rush - A glance - A touch - A dance A look in somebody's eyes To light up the skies, To open the world and send it reeling, A voice that says \"I'll be here and you'll be alright\" I don't care if I know just where I will go, 'Cause all that I need's this crazy feeling A rat-tat-tat on my heart Think I want it to stay CONSIGNMENT The Messengers interview on WTJM Chicago 98.8 FM CLOSED City of stars, Are you shining just for me? City of stars, You never shined so brightly I don't know why I keep movin' my body I don't know if this is wrong or if it's right I don't know if it's the beat, but something's taking over me And i just know I feel so good tonight I don't know what your name is, but I like it I've been thinking 'bout some things I wanna try I don't know what you came to do, but I wanna do it with you And I just know I feel so good tonight Oh, if we keep on dancin', Take our rhythm to new heights Feel the heat of passion, baby, light up the night (We can start a fire) Come on, let it burn, baby (We can start a fire) Let the tables turn, baby (We can start a fire) I just know I feel so good Don't you know I feel so good? I just know I feel so good... tonight I don't care if this turns into a riot Let's get reckless, tear this place down to the floor Turn the music way up loud Can't nobody stop us now I just know I feel so good tonight, oh I just know I feel so good tonight (We can start a fire) Come on, let it burn, baby (We can start a fire) Let the tables turn, baby (We can start a fire) Oh I just know I feel so good Don't you know I feel so good? Don't you know? Don't you know? Tonight FALL SO LONG, BOULDER CITY Hey, it's me. Uh, I'm not sure where you are right now. I think Boston? Maybe Dallas, I don't know. Uh... I haven't heard from you in a little while... and I miss you. All right, bye. I thought... Surprise. I gotta leave first thing in the morning, but I just... I had to see you. It's so nice to be home. I'm so glad you're home. How's the play going? Uh... I'm nervous. - You are? - Mm-hmm. Why? Because... what if people show up? Pishi kaka. You're nervous about what they think? I'm nervous to do it. I'm nervous to get up... on a stage and perform for people. I mean, I don't need to say that to you. - It's gonna be incredible. - You don't get it, but I'm terrified. They should be so lucky to see it. I can't wait. I can. When do you leave? In the morning? Yeah. 6:45. Boise. - Boisi? - Boise. To Boise! You should come. To Boise? Yeah, you can knock that off your bucket list. Oh, that would be... really exciting. I wish I could. What are you doin' after the tour? Why can't you? - Come to Boise? - Yeah. 'Cause I have to rehearse. Yeah, but can't you rehearse anywhere? Anywhere you are? I mean... I guess. Uh... Well, all my stuff is here and it's in two weeks. So I don't really think that would be... Okay. - the best idea right now, - Well... but... I wish I could. We're just gonna have to try and see each other, you know, - so that we see each other. - I know, but when are you done? What do you mean? I mean... When you're finished with the whole tour? But after we finish, we're gonna go to record and then we'll go back on tour. You know, we tour so we can make the record so we can go back and tour the record. So it's like the long haul? What do you mean \"the long haul\"? I mean the long haul like you're gonna stay in this band... for a long time. On tour. I mean, what did you think I was going to do? I don't... I... I hadn't really thought it through. I didn't know that the band... was so important. You didn't think it would be successful? Uh... No, that's not really what I mean. I just mean that you-you... I mean... you're gonna be on tour for what? Months now? Years? Yeah, I don't belie... This is it. I mean, this is-it could easibly be, yeah, for... I could be on tour with this... for a couple of years, at least just this record. Do you like the music you're playing? I don't... I don't know... what-what it matters. Well, it matters because if you're going to give up your dream, I think it matters that you like what you're playing on the road for years. Do you like the music I'm playing? Yeah. I do. I just didn't think that you did. Yeah, well... You always said Keith is the worst and now you're gonna be on tour with him for years, - so I just didn't... - I don't know what- - what are you doing right now? - know if you were happy. - Why are you doing this? - I don't... What do you mean why am I doing this...? I thought you wanted me to do this and it just sounds like - now you don't want me to do it. - What do you mean I wanted you to do this? This is what you wanted for me. To be in this band? To be in a band to have a steady job, you know? To-To-To be... You know. Of course I wanted you to have a steady job, so that you could take care of yourself and your life - and you could start your club. - Yes, so I'm doing that, so I don't understand, well, why aren't we celebrating? Why aren't you starting your club? You said yourself no one wants to go to that club. No one wants to go to a club called \"Chicken on a Stick\". So change the name! Well, no one likes jazz! Not even you! I do like jazz now because of you! And this is what I thought you wanted me to do! What am I supposed to do? Go back to... playing Jingle Bells? I'm not saying that. I'm saying, why don't you... Scraping pennies? So I can start a club that no one wants to go? ...take what you've made and start the club?! Then people will wanna go to it because you're passionate about it, and people love what other people are passionate about. You remind people of what they forgot. Not in my experience. Well, whatever, alright? I mean, it is-it's just- it's time to grow up, you know? I have a steady job, this is what I'm doing... And now all of a sudden if you had these problems, I wish you would've said them earlier before I signed on the goddamn dotted line! I'm pointing out that you had a dream that you followed, that you were sticking to... This is the dream! This is the dream. - This is not your dream! - Guys like me work their whole lives to be in something that's successful, that people like, you know? I mean, I'm finally in something that-that-that- that-that-that people enjoy. Since when do you care about being liked? Just 'cause I don't enjoy it, it doesn't matter. Why do you care so much about being liked? You are an actress! What are you talking about?! Maybe you just liked me when I was on my ass 'cause it made you feel better about yourself. - Are you kidding? - No. I don't know... SO LONG, BOULDER CITY / TONIGHT Okay, fellas. I'll... see ya tomorrow. - Sebastian? - Yeah? You're good for tonight, right? - What are you talking about? - At 7, the photo shoot. For Mojo. You good? - I thought that was next thursday. - No, it's tonight. Is that okay? - Tonya, gimme the other camera! - What's wrong with that one? \"What's wrong with that one\"? I don't know. It does not bloody work! That's what's wrong with it! Alright, trumpet, that's lovely! Lovely! Beautiful, beautiful! Okay, keyboard. Okay, look up. That's good! That's good, that's lovely! Lovely. Okay, cut the music! That is lovely. That's lovely. Okay, now look. Now... bite your lip like... like you're concentrating on... on something, I don't know, like a piece of- a piece of your music. - Bite my what? - Your lip. You know, bite your lip. Okay. Yeah, that's good. That's great. Beautiful! Beautiful. Okay. Now just-just move your-move your glasses down on... on the nose. A little bit-A little bit bit further. Just a little bit, a touch further. Keep your head down, but look up at me. Look sort of... moody. Yeah! That's beautiful. That is great. Okay, turn the keyboard on live! You wanna hear the keyboard playin'? Nah. You don't have to bite your lip now. Well, actually play something. Play something, you know. Anything. You're pianist, aren't you? Play something. That's great. That's beautiful. That's lovely. Oh, that's good. Now don't stop, keep playing. Go on, just keep playing. That was great! Shoot myself in the head. - She's not even good. - That whole window thing... - What was that? - Yeah. What did she do with the window?! Oh my God! Don't quit your day job. Oh well... Mia! Mia. I'm so sorry. Just tell me how it went? How was it? I'm sorry. - I'm sorry I've been such a prick. - You're sorry... - I'm sorry I didn't come. - You're sorry... You sor... - You're sorry... - I'm gonna make it up to you. Let me make it up to you, okay? - I don't blame you for not wanting... - It's over. - What is? - It's over. What? All of this. I'm done embarrassing myself. I'm done. I'm done. - Nobody showed up. - What're you talkin'? So what? I can't pay back the theater! This is so... - I'm gonna go home for a while. - \"I'm gonna...\"? - I'll come see you tomorrow. - No, I'm going \"home\" home. - This is home. - No, it's not anymore. Theatre Background THEATRE / THEATHER / COMEDY / DRAMA / PLAY / STAGE / MUSICAL Yep? Hi, I'm trying to reach Mia Dolan. Wrong number. Yeah, she said if she's not on her cell, I was told I might find her here. Not anymore. - Okay. Well, if you do talk to her... - I won't. could you tell her Jane from Amy Brandt casting is trying to reach her? Casting? What the hell is that? Shut that thing off! Why did you come here? Because I have good news. What? Amy Brandt, the casting director. - Yeah? - She was at your play. And she loved it. And she loved it so much... that she wants you to come in tomorrow and audition for this... huge movie that she's got. I'm not going to that. - I'm not going to that. - What? That one's gonna be... No. That one's gonna be... I'm sorry? That will kill me. - What?! - What? What? Shh. Stop! - No! - Shh! Shh. You have to be quiet. If you want me to be, then you have to make sense. - They're gonna call... - If you want me to be quiet, you're gonna have to make some goddamn sense. - They're gonna call the police. - Tell me why you're not goin'. - Because? Because... - Why? I've been to a million of auditions, and the same thing happens every time. Or I get interrupted because someone wants to get a sandwich, or I'm crying and they start laughing! Or there's people sitting in the waiting room and they're... and they're... like me, but prettier... and better at the... because maybe I'm not good enough! - Yes, you are. - No. - No, maybe I'm not. - Yes, you are. - Maybe I'm not. - You are. - Maybe I'm not. - You are. Maybe I'm one of those people that... has always wanted to do it... but it's like a pipe dream for me, you know? And then you... You said it; you-you... change your dreams and then you grow up. Maybe I'm one of those people and I'm not supposed to. And I can go back to school... and I can find something else that I'm supposed to do. 'Cause I left... to do that and it's been six years. And I don't wanna do it anymore. Why? - Why what? - Why don't you wanna do it anymore? 'Cause I think it hurts far a bit too much. You're a baby. - I'm not a baby, - You are. - I'm trying to grow up. - You're crying like a baby. Oh my God! And you have an audition tomorrow at 5:30. I'll be out front at 8:00 am. You'll be out front or not, I don't know. How did you find me here? The house in front of the library. Del Prado Library Boulder City, NV - I got coffee. - Okay, great. Mia? Hi, Mia. I'm Amy and this is Frank. - Hi, how are you? - Pleasure to meet you. - Glad we found you. - Me too. The film shoots in Paris and we don't have a script. It's gonna be a process. We're gonna build the character around the actress. It's a three-month rehearsal and a four-month shoot. Okay. And we thought that you could just tell us a story. - About? - Hmm. You can just tell us anything. Anything? Yes. Just tell us a story. You're a storyteller. Uh... Whenever you're ready. My aunt used to live in Paris. I remember she used to come home and she would tell us... these stories about... being abroad and... I remember... she told us that she jumped into the river once. Barefoot. She smiled... Leapt, without looking And tumbled into... the Seine The water was freezing She spent a month sneezing, But said she would do it again Here's to the ones who dream, Foolish as they may seem Here's to the hearts that ache Here's to the mess we make She captured a feeling, Sky with no ceiling, The sunset inside a frame She lived in her liquor And died with a flicker I'll always remember the flame Here's to the ones who dream, Foolish as they may seem Here's to the hearts that ache Here's to the mess we make She told me: \"A bit of madness is key to give us new colors to see Who knows where it will lead us? And that's why they need us\" So bring on the rebels, The ripples from pebbles, The painters, and poets and plays And here's to the fools who dream Crazy as they may seem Here's to the hearts that break Here's to the mess... we make I trace it all back to then, Her, and the snow and the Seine Smiling through it She said she'd do it... again When do you find out? Uh, they said the next couple of days. But I'm not expecting to find anything out. - You're gonna get it. - I really might not. - Yes, you are. - And I don't want to be disappointed. I know. I know. I know these things. Where we are? - Griffith Park. - Where are we? I know. I don't know. What do we do? I don't think we can do anything. 'Cause when you get this... - If I get this. - When you get this... you gotta give it everything you got. Everything. It's your dream. What are you gonna do? I gotta follow my own plan, you know? Stay here... and get my own thing going. You're gonna be in Paris... Good jazz there. And you love jazz now. Right? Yes. And I guess we're just gonna have to wait and see. I'm always gonna love you. I'm always gonna love you too. Look at this view! I've seen better. - It's the worst. - Yeah. Yeah. I've never been here during the day. WINTER Five years later... Hi. Can I have two iced coffees, please? Right, of course. - On us. - Oh! No, thank you. I insist. Sounds good! Harris did a good job. It took him long enough. It always does. Signature time. Not doing too bad, Seb. \"Not too bad\" is great. See ya tonight. See you tonight. Hi. - How was your day? - Good. - How is she? - She's great. - Yeah? - Yeah, come on. Hi, buddy! I didn't think you were gonna be home yet. Are you drawing? Yeah. Can I help? You know I love to draw. Happy Holidays from Laura Harry & Jordan Eleanor Starring Mia Dolan Okay, Chelsea, we're gonna go. Are you good? - We're good. - You need anything? Bye, baby. - Say \"bye, Mommy\". - Sleep well. - Bye, Mommy. - Have fun with Chelsea. - Have fun. Bye, Mia. - Bye. Thank you so much. - Good night, guys. Bye, sweetie! - Good night. Oh boy. What if we miss this? What're you gonna tell Natalie? Maybe we'll just see her back in New York. Okay. - I do not miss this. - It's bad. Do you wanna just pull off here and get dinner? - Sure, yeah. - Yeah? - Mm-hmm, yeah. - Okay. Do you wanna check it out? Okay. Seb's This place is pretty cool. I love it! - Cal Bennett on sax! - Yeah! Javier Gonzalez on trumpet. The lovely Nedra Wheeler on bass. The one and only Clifton \"Fou Fou\" Eddie on drums! And a little too good on piano, so good he's gonna own this place if I'm not careful, Khirye Tyler, everybody. Welcome to Seb's. I just heard you play, and I wanted to... STAGE DOOR CAVEAU de la HUCHETTE You want to stay for another? No, we should go. (Okay.) One, two... One, two, three, four. The End",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "tonight I know. It's different. But you say you want to save jazz. How are you gonna save jazz if no one's listening? Jazz is dying because of people like you. You're... playin' into 90-year-olds at The Lighthouse. Where are the kids? Where are the young people? You're so obsessed with Kenny Clarke and Thelonious Monk. These guys were revolutionaries. How are you going to be a revolutionary, if you're such a traditionalist? You're holding onto the past..., but jazz is about the future. I know. The other guy, he wasn't as good as you. But you're a pain in the ass, man. City of stars, Are you shining just for me? City of stars, There's so much that I can't see Who knows? I felt it from the first embrace I shared with you That now our dreams may fin'lly come true City of stars, Just one thing ev'rybody wants There in the bars And through the smokescreen of the crowded restaurants It's love Yes, all we're looking for is love from someone else - A rush - A glance - A touch - A dance A look in somebody's eyes To light up the skies, To open the world and send it reeling, A voice that says \"I'll be here and you'll be alright\" I don't care if I know just where I will go, 'Cause all that I need's this crazy feeling A rat-tat-tat on my heart Think I want it to stay CONSIGNMENT The Messengers interview on WTJM Chicago 98.8 FM CLOSED City of stars, Are you shining just for me? City of stars, You never shined so brightly I don't know why I keep movin' my body I don't know if this is wrong or if it's right I don't know if it's the beat, but something's taking over me And i just know I feel so good tonight I don't know what your name is, but I like it I've been thinking 'bout some things I wanna try I don't know what you came to do, but I wanna do it with you And I just know I feel so good tonight Oh, if we keep on dancin', Take our rhythm to new heights Feel the heat of passion, baby, light up the night  Come on, let it burn, baby  Let the tables turn, baby  I just know I feel so good Don't you know I feel so good? I just know I feel so good... tonight I don't care if this turns into a riot Let's get reckless, tear this place down to the floor Turn the music way up loud Can't nobody stop us now I just know I feel so good tonight, oh I just know I feel so good tonight  Come on, let it burn, baby  Let the tables turn, baby  Oh I just know I feel so good Don't you know I feel so good? Don't you know? Don't you know? Tonight FALL SO LONG, BOULDER CITY Hey, it's me. Uh, I'm not sure where you are right now. I think Boston? Maybe Dallas, I don't know. Uh... I haven't heard from you in a little while... and I miss you. All right, bye. I thought... Surprise. I gotta leave first thing in the morning, but I just... I had to see you. It's so nice to be home. I'm so glad you're home. How's the play going? Uh... I'm nervous. - You are? - Mm-hmm. Why? Because... what if people show up? Pishi kaka. You're nervous about what they think? I'm nervous to do it. I'm nervous to get up... on a stage and perform for people. I mean, I don't need to say that to you. - It's gonna be incredible. - You don't get it, but I'm terrified. They should be so lucky to see it. I can't wait. I can. When do you leave? In the morning? Yeah. 6:45. Boise. - Boisi? - Boise. To Boise! You should come. To Boise? Yeah, you can knock that off your bucket list. Oh, that would be... really exciting. I wish I could. What are you doin' after the tour? Why can't you? - Come to Boise? - Yeah. 'Cause I have to rehearse. Yeah, but can't you rehearse anywhere? Anywhere you are? I mean... I guess. Uh... Well, all my stuff is here and it's in two weeks. So I don't really think that would be... Okay. - the best idea right now, - Well... but... I wish I could. We're just gonna have to try and see each other, you know, - so that we see each other. - I know, but when are you done? What do you mean? I mean... When you're finished with the whole tour? But after we finish, we're gonna go to record and then we'll go back on tour. You know, we tour so we can make the record so we can go back and tour the record. So it's like the long haul? What do you mean \"the long haul\"? I mean the long haul like you're gonna stay in this band... for a long time. On tour. I mean, what did you think I was going to do? I don't... I... I hadn't really thought it through. I didn't know that the band... was so important. You didn't think it would be successful? Uh... No, that's not really what I mean. I just mean that you-you... I mean... you're gonna be on tour for what? Months now? Years? Yeah, I don't belie... This is it. I mean, this is-it could easibly be, yeah, for... I could be on tour with this... for a couple of years, at least just this record. Do you like the music you're playing? I don't... I don't know... what-what it matters. Well, it matters because if you're going to give up your dream, I think it matters that you like what you're playing on the road for years. Do you like the music I'm playing? Yeah. I do. I just didn't think that you did. Yeah, well... You always said Keith is the worst and now you're gonna be on tour with him for years, - so I just didn't... - I don't know what- - what are you doing right now? - know if you were happy. - Why are you doing this? - I don't... What do you mean why am I doing this...? I thought you wanted me to do this and it just sounds like - now you don't want me to do it. - What do you mean I wanted you to do this? This is what you wanted for me. To be in this band? To be in a band to have a steady job, you know? To-To-To be... You know. Of course I wanted you to have a steady job, so that you could take care of yourself and your life - and you could start your club. - Yes, so I'm doing that, so I don't understand, well, why aren't we celebrating? Why aren't you starting your club? You said yourself no one wants to go to that club. No one wants to go to a club called \"Chicken on a Stick\". So change the name! Well, no one likes jazz! Not even you! I do like jazz now because of you! And this is what I thought you wanted me to do! What am I supposed to do? Go back to... playing Jingle Bells? I'm not saying that. I'm saying, why don't you... Scraping pennies? So I can start a club that no one wants to go? ...take what you've made and start the club?! Then people will wanna go to it because you're passionate about it, and people love what other people are passionate about. You remind people of what they forgot. Not in my experience. Well, whatever, alright? I mean, it is-it's just- it's time to grow up, you know? I have a steady job, this is what I'm doing... And now all of a sudden if you had these problems, I wish you would've said them earlier before I signed on the goddamn dotted line! I'm pointing out that you had a dream that you followed, that you were sticking to... This is the dream! This is the dream. - This is not your dream! - Guys like me work their whole lives to be in something that's successful, that people like, you know? I mean, I'm finally in something that-that-that- that-that-that people enjoy. Since when do you care about being liked? Just 'cause I don't enjoy it, it doesn't matter. Why do you care so much about being liked? You are an actress! What are you talking about?! Maybe you just liked me when I was on my ass 'cause it made you feel better about yourself. - Are you kidding? - No. I don't know... SO LONG, BOULDER CITY / TONIGHT Okay, fellas. I'll... see ya tomorrow. - Sebastian? - Yeah? You're good for tonight, right? - What are you talking about? - At 7, the photo shoot. For Mojo. You good? - I thought that was next thursday. - No, it's tonight. Is that okay? - Tonya, gimme the other camera! - What's wrong with that one? \"What's wrong with that one\"? I don't know. It does not bloody work! That's what's wrong with it! Alright, trumpet, that's lovely! Lovely! Beautiful, beautiful! Okay, keyboard. Okay, look up. That's good! That's good, that's lovely! Lovely. Okay, cut the music! That is lovely. That's lovely. Okay, now look. Now... bite your lip like... like you're concentrating on... on something, I don't know, like a piece of- a piece of your music. - Bite my what? - Your lip. You know, bite your lip. Okay. Yeah, that's good. That's great. Beautiful! Beautiful. Okay. Now just-just move your-move your glasses down on... on the nose. A little bit-A little bit bit further. Just a little bit, a touch further. Keep your head down, but look up at me. Look sort of... moody. Yeah! That's beautiful. That is great. Okay, turn the keyboard on live! You wanna hear the keyboard playin'? Nah. You don't have to bite your lip now. Well, actually play something. Play something, you know. Anything. You're pianist, aren't you? Play something. That's great. That's beautiful. That's lovely. Oh, that's good. Now don't stop, keep playing. Go on, just keep playing. That was great! Shoot myself in the head. - She's not even good. - That whole window thing... - What was that? - Yeah. What did she do with the window?! Oh my God! Don't quit your day job. Oh well... Mia! Mia. I'm so sorry. Just tell me how it went? How was it? I'm sorry. - I'm sorry I've been such a prick. - You're sorry... - I'm sorry I didn't come. - You're sorry... You sor... - You're sorry... - I'm gonna make it up to you. Let me make it up to you, okay? - I don't blame you for not wanting... - It's over. - What is? - It's over. What? All of this. I'm done embarrassing myself. I'm done. I'm done. - Nobody showed up. - What're you talkin'? So what? I can't pay back the theater! This is so... - I'm gonna go home for a while. - \"I'm gonna...\"? - I'll come see you tomorrow. - No, I'm going \"home\" home. - This is home. - No, it's not anymore. Theatre Background THEATRE / THEATHER / COMEDY / DRAMA / PLAY / STAGE / MUSICAL Yep? Hi, I'm trying to reach Mia Dolan. Wrong number. Yeah, she said if she's not on her cell, I was told I might find her here. Not anymore. - Okay. Well, if you do talk to her... - I won't. could you tell her Jane from Amy Brandt casting is trying to reach her? Casting? What the hell is that? Shut that thing off! Why did you come here? Because I have good news. What? Amy Brandt, the casting director. - Yeah? - She was at your play. And she loved it. And she loved it so much... that she wants you to come in tomorrow and audition for this... huge movie that she's got. I'm not going to that. - I'm not going to that. - What? That one's gonna be... No. That one's gonna be... I'm sorry? That will kill me. - What?! - What? What? Shh. Stop! - No! - Shh! Shh. You have to be quiet. If you want me to be, then you have to make sense. - They're gonna call... - If you want me to be quiet, you're gonna have to make some goddamn sense. - They're gonna call the police. - Tell me why you're not goin'. - Because? Because... - Why? I've been to a million of auditions, and the same thing happens every time. Or I get interrupted because someone wants to get a sandwich, or I'm crying and they start laughing! Or there's people sitting in the waiting room and they're... and they're... like me, but prettier... and better at the... because maybe I'm not good enough! - Yes, you are. - No. - No, maybe I'm not. - Yes, you are. - Maybe I'm not. - You are. - Maybe I'm not. - You are. Maybe I'm one of those people that... has always wanted to do it... but it's like a pipe dream for me, you know? And then you... You said it; you-you... change your dreams and then you grow up. Maybe I'm one of those people and I'm not supposed to. And I can go back to school... and I can find something else that I'm supposed to do. 'Cause I left... to do that and it's been six years. And I don't wanna do it anymore. Why? - Why what? - Why don't you wanna do it anymore? 'Cause I think it hurts far a bit too much. You're a baby. - I'm not a baby, - You are. - I'm trying to grow up. - You're crying like a baby. Oh my God! And you have an audition tomorrow at 5:30. I'll be out front at 8:00 am. You'll be out front or not, I don't know. How did you find me here? The house in front of the library. Del Prado Library Boulder City, NV - I got coffee. - Okay, great. Mia? Hi, Mia. I'm Amy and this is Frank. - Hi, how are you? - Pleasure to meet you. - Glad we found you. - Me too. The film shoots in Paris and we don't have a script. It's gonna be a process. We're gonna build the character around the actress. It's a three-month rehearsal and a four-month shoot. Okay. And we thought that you could just tell us a story. - About? - Hmm. You can just tell us anything. Anything? Yes. Just tell us a story. You're a storyteller. Uh... Whenever you're ready. My aunt used to live in Paris. I remember she used to come home and she would tell us... these stories about... being abroad and... I remember... she told us that she jumped into the river once. Barefoot. She smiled... Leapt, without looking And tumbled into... the Seine The water was freezing She spent a month sneezing, But said she would do it again Here's to the ones who dream, Foolish as they may seem Here's to the hearts that ache Here's to the mess we make She captured a feeling, Sky with no ceiling, The sunset inside a frame She lived in her liquor And died with a flicker I'll always remember the flame Here's to the ones who dream, Foolish as they may seem Here's to the hearts that ache Here's to the mess we make She told me: \"A bit of madness is key to give us new colors to see Who knows where it will lead us? And that's why they need us\" So bring on the rebels, The ripples from pebbles, The painters, and poets and plays And here's to the fools who dream Crazy as they may seem Here's to the hearts that break Here's to the mess... we make I trace it all back to then, Her, and the snow and the Seine Smiling through it She said she'd do it... again When do you find out? Uh, they said the next couple of days. But I'm not expecting to find anything out. - You're gonna get it. - I really might not. - Yes, you are. - And I don't want to be disappointed. I know. I know. I know these things. Where we are? - Griffith Park. - Where are we? I know. I don't know. What do we do? I don't think we can do anything. 'Cause when you get this... - If I get this. - When you get this... you gotta give it everything you got. Everything. It's your dream. What are you gonna do? I gotta follow my own plan, you know? Stay here... and get my own thing going. You're gonna be in Paris... Good jazz there. And you love jazz now. Right? Yes. And I guess we're just gonna have to wait and see. I'm always gonna love you. I'm always gonna love you too. Look at this view! I've seen better. - It's the worst. - Yeah. Yeah. I've never been here during the day. WINTER Five years later... Hi. Can I have two iced coffees, please? Right, of course. - On us. - Oh! No, thank you. I insist. Sounds good! Harris did a good job. It took him long enough. It always does. Signature time. Not doing too bad, Seb. \"Not too bad\" is great. See ya tonight. See you tonight. Hi. - How was your day? - Good. - How is she? - She's great. - Yeah? - Yeah, come on. Hi, buddy! I didn't think you were gonna be home yet. Are you drawing? Yeah. Can I help? You know I love to draw. Happy Holidays from Laura Harry & Jordan Eleanor Starring Mia Dolan Okay, Chelsea, we're gonna go. Are you good? - We're good. - You need anything? Bye, baby. - Say \"bye, Mommy\". - Sleep well. - Bye, Mommy. - Have fun with Chelsea. - Have fun. Bye, Mia. - Bye. Thank you so much. - Good night, guys. Bye, sweetie! - Good night. Oh boy. What if we miss this? What're you gonna tell Natalie? Maybe we'll just see her back in New York. Okay. - I do not miss this. - It's bad. Do you wanna just pull off here and get dinner? - Sure, yeah. - Yeah? - Mm-hmm, yeah. - Okay. Do you wanna check it out? Okay. Seb's This place is pretty cool. I love it! - Cal Bennett on sax! - Yeah! Javier Gonzalez on trumpet. The lovely Nedra Wheeler on bass. The one and only Clifton \"Fou Fou\" Eddie on drums! And a little too good on piano, so good he's gonna own this place if I'm not careful, Khirye Tyler, everybody. Welcome to Seb's. I just heard you play, and I wanted to... STAGE DOOR CAVEAU de la HUCHETTE You want to stay for another? No, we should go.  One, two... One, two, three, four. The End"
+      ],
+      "scene_length_chars": 16444,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.16264984011650085,
+        0.00459765549749136,
+        0.03238550201058388,
+        0.045655716210603714,
+        0.017713423818349838,
+        0.07711780071258545,
+        0.11369423568248749,
+        0.38769203424453735,
+        0.10134990513324738,
+        0.02137494646012783,
+        0.009130585938692093,
+        0.0012773543130606413,
+        0.0016059450572356582,
+        0.08987482637166977,
+        0.0642884373664856,
+        0.08703584969043732,
+        0.004561774432659149,
+        0.12823645770549774,
+        0.1266019493341446,
+        0.039931826293468475,
+        0.13647931814193726,
+        0.005264703184366226,
+        0.015451779589056969,
+        0.0053451149724423885,
+        0.010321805253624916,
+        0.017551926895976067,
+        0.014022985473275185,
+        0.10170366615056992
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "headings_or_brackets",
+    "final_num_scenes": 9,
+    "lines_per_scene_fallback": 20
+  }
+}

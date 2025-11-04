@@ -1,0 +1,324 @@
+{
+  "source_file": "The Guardians of Justice _2022_ - full transcript.txt",
+  "title": "The Guardians of Justice",
+  "year": "2022",
+  "meta_description": null,
+  "num_scenes": 6,
+  "avg_scene_chars": 2093,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "The journey toward villainy is long, but it always begins with a single, simple, justifiable compromise. Oh, come on. You love playing. If it wasn't for me, what would you do? Hmm? How would you look beating up on criminals day in and day out dressed as a hawk? Huh? I mean, you need people like me, because, deep down inside, it hides the fact that you're really fucked up. If it makes you feel any better... sane is boring. Fuck is you doing? Something sane. Hey, Hawksy! Hey! No, no, no! No! From here, there was no turning back. Mr. Smiles is nothing more than a pseudonym. A clown-faced alias under which Knight Hawk's soldiers execute his orders. One utilitarian concession led to the next, and when Marvelous Man died, Knight Hawk was already on the path to moral ruin. He assumed the world could never handle hearing the truth. We will curtail the homosexual epidemic. So Knight Hawk convinced the world that Marvelous Man was murdered by Mind Master. Before taking his own life, Mind Master confessed to killing Marvelous Man under the orders of evil terrorist organization Anubis, whose main objective was to lead the world to nuclear war. Wait. They know nuclear war will kill us too, right? You don't believe anything that the Americans say, because their whole empire was built on oversimplified heroes. Because of reports that Anubis is responsible for Marvelous Man's death, the United States has committed itself to eradicating this terrorist scourge. Mr. Smiles became the prototype for an army. Hawk Global Defense. Lonely souls looking for hope in a world without Marvelous Man... ...brainwashed with Mellow Devil to be the ruthless jackboots of a cruel tyrant. I give up. Yes! Using the excuse of Marvelous Man's murder, Knight Hawk sent his army to conquer Anubis. But this was not Knight Hawk's ultimate goal. It was merely a first step on his journey to total power. Knight Hawk knew no one would weep for the wicked. He would burn the villainous nation to the ground with absolute impunity. Innocent civilians be damned. The suffering of Anubis does not excuse their reign of terror. And a triumph over the wicked when wrought with wickedness is no triumph at all. In a clash between two empires, there are no heroes, only victims.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "The journey toward villainy is long, but it always begins with a single, simple, justifiable compromise. Oh, come on. You love playing. If it wasn't for me, what would you do? Hmm? How would you look beating up on criminals day in and day out dressed as a hawk? Huh? I mean, you need people like me, because, deep down inside, it hides the fact that you're really fucked up. If it makes you feel any better... sane is boring. Fuck is you doing? Something sane. Hey, Hawksy! Hey! No, no, no! No! From here, there was no turning back. Mr. Smiles is nothing more than a pseudonym. A clown-faced alias under which Knight Hawk's soldiers execute his orders. One utilitarian concession led to the next, and when Marvelous Man died, Knight Hawk was already on the path to moral ruin. He assumed the world could never handle hearing the truth. We will curtail the homosexual epidemic. So Knight Hawk convinced the world that Marvelous Man was murdered by Mind Master. Before taking his own life, Mind Master confessed to killing Marvelous Man under the orders of evil terrorist organization Anubis, whose main objective was to lead the world to nuclear war. Wait. They know nuclear war will kill us too, right? You don't believe anything that the Americans say, because their whole empire was built on oversimplified heroes. Because of reports that Anubis is responsible for Marvelous Man's death, the United States has committed itself to eradicating this terrorist scourge. Mr. Smiles became the prototype for an army. Hawk Global Defense. Lonely souls looking for hope in a world without Marvelous Man... ...brainwashed with Mellow Devil to be the ruthless jackboots of a cruel tyrant. I give up. Yes! Using the excuse of Marvelous Man's murder, Knight Hawk sent his army to conquer Anubis. But this was not Knight Hawk's ultimate goal. It was merely a first step on his journey to total power. Knight Hawk knew no one would weep for the wicked. He would burn the villainous nation to the ground with absolute impunity. Innocent civilians be damned. The suffering of Anubis does not excuse their reign of terror. And a triumph over the wicked when wrought with wickedness is no triumph at all. In a clash between two empires, there are no heroes, only victims."
+      ],
+      "scene_length_chars": 2255,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0018174885772168636,
+        0.00047093676403164864,
+        0.04048161581158638,
+        0.06950897723436356,
+        0.0015102404868230224,
+        0.00045440459507517517,
+        0.03897181898355484,
+        0.002789163962006569,
+        0.0004077199846506119,
+        0.21695297956466675,
+        0.049718961119651794,
+        0.0035301700700074434,
+        0.00679539842531085,
+        0.0007309179636649787,
+        0.0024662783835083246,
+        0.00035253295209258795,
+        0.007012324873358011,
+        0.0005793881136924028,
+        0.002843678928911686,
+        0.001885590492747724,
+        0.04033798351883888,
+        0.001712251454591751,
+        0.13107989728450775,
+        0.0022349993232637644,
+        0.0014031479367986321,
+        0.057999204844236374,
+        0.00903292465955019,
+        0.4110959470272064
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "disappointment",
+        "realization"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Only ordinary souls with the sad misfortune of being born on the wrong side of a border. Under his protection, America can continue to terrify everyone else. Did Knight Hawk save us? Is... is America still \"bleeding out\"? Fuck America. Knight Hawk just bought me four more years. Finish him. The Guardians of Justice will save you. When the end of humanity was near, only one man had the courage to expose the truth that led us to peace. Today, that man proudly presents the future of planetary protection. Hawk Global Defense. A privately-funded organization headquartered in space in the halls of the Citadel of Justice. Hawk Global Defense. Guarding justice. Knight Hawk lied to us, and now he's in charge of one of the deadliest forces on Earth. We believe that Knight Hawk's Hawk Global Defense will be the salvation for which our nation has been waiting. This will mean the end of global conflict. Are you ready? It's a lot of responsibility. We all know the president isn't the most powerful man in the world. The most powerful man in the world is whoever sits in this chair. Resistance detected. Resistance detected. Resistance detected. If we really stop to think about the facts, none of this makes any sense. Send in a strike force. Marvelous Man reported Mind Master dead years ago, so how is he still alive? How do we even know that Mind Master had any links to Anubis? And more importantly, what did he have to gain from nuclear war when his powers far exceed any sort of power... What... What's going... What are you... Why would we spend taxpayer dollars on law enforcement and a military when a noble trillionaire like Atticus Payne is willing to pay for a security force himself? Mind Master's DNA is the key to saving the world. Yes. I know. I'm gonna create an eternal peace, a planet united, a shared salvation. They will find happiness in their tranquil passivity and freedom in their obedience. You're welcome. He has to be stopped. Does he? He's killing terrorists. Even in this video here, he's killing bad guys. We have only one mission. To protect you. See that? Rebecca, the world is at peace right now. It's because of what he's doing. Why did you have me interrogate the Guardians? I didn't learn anything I didn't already know.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Only ordinary souls with the sad misfortune of being born on the wrong side of a border. Under his protection, America can continue to terrify everyone else. Did Knight Hawk save us? Is... is America still \"bleeding out\"? Fuck America. Knight Hawk just bought me four more years. Finish him. The Guardians of Justice will save you. When the end of humanity was near, only one man had the courage to expose the truth that led us to peace. Today, that man proudly presents the future of planetary protection. Hawk Global Defense. A privately-funded organization headquartered in space in the halls of the Citadel of Justice. Hawk Global Defense. Guarding justice. Knight Hawk lied to us, and now he's in charge of one of the deadliest forces on Earth. We believe that Knight Hawk's Hawk Global Defense will be the salvation for which our nation has been waiting. This will mean the end of global conflict. Are you ready? It's a lot of responsibility. We all know the president isn't the most powerful man in the world. The most powerful man in the world is whoever sits in this chair. Resistance detected. Resistance detected. Resistance detected. If we really stop to think about the facts, none of this makes any sense. Send in a strike force. Marvelous Man reported Mind Master dead years ago, so how is he still alive? How do we even know that Mind Master had any links to Anubis? And more importantly, what did he have to gain from nuclear war when his powers far exceed any sort of power... What... What's going... What are you... Why would we spend taxpayer dollars on law enforcement and a military when a noble trillionaire like Atticus Payne is willing to pay for a security force himself? Mind Master's DNA is the key to saving the world. Yes. I know. I'm gonna create an eternal peace, a planet united, a shared salvation. They will find happiness in their tranquil passivity and freedom in their obedience. You're welcome. He has to be stopped. Does he? He's killing terrorists. Even in this video here, he's killing bad guys. We have only one mission. To protect you. See that? Rebecca, the world is at peace right now. It's because of what he's doing. Why did you have me interrogate the Guardians? I didn't learn anything I didn't already know."
+      ],
+      "scene_length_chars": 2258,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004377956036478281,
+        0.0014208895154297352,
+        0.07303845882415771,
+        0.0020529688335955143,
+        0.0007682223804295063,
+        0.01663926988840103,
+        0.030104463919997215,
+        0.48890042304992676,
+        0.00793782901018858,
+        0.005782679188996553,
+        0.0011520065600052476,
+        0.0008747871615923941,
+        0.0013645482249557972,
+        0.01933802291750908,
+        0.029773259535431862,
+        0.0005884234560653567,
+        0.011371052823960781,
+        0.002247064607217908,
+        0.0019381716847419739,
+        0.0015880620339885354,
+        0.22596104443073273,
+        0.001148426323197782,
+        0.029212377965450287,
+        0.000673323345836252,
+        0.0020581060089170933,
+        0.03253714367747307,
+        0.028298621997237206,
+        0.3347337245941162
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Yes, but now they know that you know. That gives you power. That gives you control. But I do have an updated mission for you. I don't know, Knight Hawk. I... I don't feel right about this mission. It's for the greater good. Greater good, greater good. Maybe... Maybe what he's doing is for the greater good. That is bullshit and you know it. Most of the evil shit in history has been done with the excuse of the greater good. But don't you see? This is our chance. We can get out of here. The... the world doesn't need us right now. Just you and me. We could be together. We could start a family. I love you. I love you. I can't. Not like this. That's not why I joined the Guardians. The greater good. You're right. We're the Guardians of Justice. And that means we deliver justice to those who've done wrong. Even if it's one of our own. Knight Hawk's commanding Hawk Global Defense from the Citadel. The Citadel of Justice is an active crime scene right now. I don't want anyone going in there. That place is impenetrable without the teleporter codes. I have the codes. You do? But they're only good for a one-way trip. First, charge up your connection to the Fast Force. Get it to maximum capacity. The Fast Force is super weak in space. So you'll need to be at full power for the plan to work. Then go into the Hawk's Nest, use the code I gave you and open up the portal. When you enter the Citadel, Hawk soldiers will attack you immediately. But at maximum speed, you should have no problem reaching Knight Hawk. Once you're inside, you distract him and I'll assemble the Guardians. If you can, try to get him to confess. But whatever you do, do not engage him. He has protocols on all of us. You need to start talking, Knight Hawk, and fast. That was the day that I stepped over the line. You know what I found? There is no line. When I signal you, you reset the teleporters and we will beam in, and we will end this. We are the Guardians of Justice. And we deliver justice to those who deserve it. Speed, we've got this. Justice will be served today. Breathe deep, Speed. Draw in the Fast Force. The bond between quarks. The pulse between galaxies. Feel connected to humanity. Breathe. Welcome to my Citadel, Speed. Everyone is equally powerless here. Marvelous Man kept a secret power-dampening orb as a fail-safe in case any of you went rogue.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yes, but now they know that you know. That gives you power. That gives you control. But I do have an updated mission for you. I don't know, Knight Hawk. I... I don't feel right about this mission. It's for the greater good. Greater good, greater good. Maybe... Maybe what he's doing is for the greater good. That is bullshit and you know it. Most of the evil shit in history has been done with the excuse of the greater good. But don't you see? This is our chance. We can get out of here. The... the world doesn't need us right now. Just you and me. We could be together. We could start a family. I love you. I love you. I can't. Not like this. That's not why I joined the Guardians. The greater good. You're right. We're the Guardians of Justice. And that means we deliver justice to those who've done wrong. Even if it's one of our own. Knight Hawk's commanding Hawk Global Defense from the Citadel. The Citadel of Justice is an active crime scene right now. I don't want anyone going in there. That place is impenetrable without the teleporter codes. I have the codes. You do? But they're only good for a one-way trip. First, charge up your connection to the Fast Force. Get it to maximum capacity. The Fast Force is super weak in space. So you'll need to be at full power for the plan to work. Then go into the Hawk's Nest, use the code I gave you and open up the portal. When you enter the Citadel, Hawk soldiers will attack you immediately. But at maximum speed, you should have no problem reaching Knight Hawk. Once you're inside, you distract him and I'll assemble the Guardians. If you can, try to get him to confess. But whatever you do, do not engage him. He has protocols on all of us. You need to start talking, Knight Hawk, and fast. That was the day that I stepped over the line. You know what I found? There is no line. When I signal you, you reset the teleporters and we will beam in, and we will end this. We are the Guardians of Justice. And we deliver justice to those who deserve it. Speed, we've got this. Justice will be served today. Breathe deep, Speed. Draw in the Fast Force. The bond between quarks. The pulse between galaxies. Feel connected to humanity. Breathe. Welcome to my Citadel, Speed. Everyone is equally powerless here. Marvelous Man kept a secret power-dampening orb as a fail-safe in case any of you went rogue."
+      ],
+      "scene_length_chars": 2352,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.11127575486898422,
+        0.00029081510729156435,
+        0.01371044386178255,
+        0.004359690006822348,
+        0.0489673912525177,
+        0.052715402096509933,
+        0.031098054721951485,
+        0.007744982838630676,
+        0.00789839681237936,
+        0.0031637914944440126,
+        0.01531983818858862,
+        0.0009430709178559482,
+        0.0006946339854039252,
+        0.032819997519254684,
+        0.0018908431520685554,
+        0.01068806741386652,
+        0.0010625101858749986,
+        0.0032939694356173277,
+        0.32923486828804016,
+        0.0011818206403404474,
+        0.2928367555141449,
+        0.030207781121134758,
+        0.01870013400912285,
+        0.005056337919086218,
+        0.000992084271274507,
+        0.0012953473487868905,
+        0.0017731055850163102,
+        0.6252028346061707
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "love",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Your muscles have atrophied since you've gotten your powers. You can't possibly beat my army. But it's not too late. You can still join me. Help me save our world, Rebecca. Or else, die. How is she doing this? Are we supposed to know kung fu? Mmm. I'm just here for the dental plan. She's almost to the orb. Stop her! Breathe deep, Speed. Draw in the Fast Force. Feel connected to humanity. Breathe, and know your power! Fuck me! Big Brother! Big Brother! Big Brother! Big Brother! Big Brother! Long live Big Brother! Big Brother! Big Brother! Big Brother! Come and get me, Rebecca. Boss battle! Try dodging this, bitch. Draw in the Fast Force. The bond between quarks. The pulse between galaxies. Know your power! Marvelous Man knew something was coming. Something that threatens to destroy us all. I know you can feel it too. You can't know the future. And you can't control it either, no matter how tight your fist. We must enforce unity, or else die squabbling. Your way is wrong, Atticus. It's fascism. It's everything Marvelous Man saved us from when he ended World War III. Don't you want to see world peace? At peace because of your brainwashing. No. Because of the shared narrative. That's all civilization has ever been. You're just another delusional would-be tyrant masquerading as a hero. One day, you'll be nothing more than a bad memory in a history book. Speed! Stand down. Get to the portal. Don't fall for your own propaganda, Atticus. You're not in control. Spee... The Guardians are here to end this. Am I smiling enough for you now? You're not walking out of here alive. Team Hawk. Repeat, Team Hawk. Deploy the asset by the portal. Little Wing? The Guardians are about to board the Citadel. Move. I'm sorry, Miss Speed. Tolmet! Awsome Man. You're Little Wing? I'm sorry. How could... I'm sorry I couldn't save you. But this? This is for the greater good. Maybe when all this is done, we can have another chat about that... that simpler, safer life. I love you. Yeah. I'd like that very much. I'm so sorry. I meant what I said, Rebecca. You keep me honest. Unfortunately, we're now in a world where honesty... will get you killed. Go to hell, Atticus. Awsome Man, who possesses a magic word that gives him the power of seven gods. I gave you specific orders. I'm...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Your muscles have atrophied since you've gotten your powers. You can't possibly beat my army. But it's not too late. You can still join me. Help me save our world, Rebecca. Or else, die. How is she doing this? Are we supposed to know kung fu? Mmm. I'm just here for the dental plan. She's almost to the orb. Stop her! Breathe deep, Speed. Draw in the Fast Force. Feel connected to humanity. Breathe, and know your power! Fuck me! Big Brother! Big Brother! Big Brother! Big Brother! Big Brother! Long live Big Brother! Big Brother! Big Brother! Big Brother! Come and get me, Rebecca. Boss battle! Try dodging this, bitch. Draw in the Fast Force. The bond between quarks. The pulse between galaxies. Know your power! Marvelous Man knew something was coming. Something that threatens to destroy us all. I know you can feel it too. You can't know the future. And you can't control it either, no matter how tight your fist. We must enforce unity, or else die squabbling. Your way is wrong, Atticus. It's fascism. It's everything Marvelous Man saved us from when he ended World War III. Don't you want to see world peace? At peace because of your brainwashing. No. Because of the shared narrative. That's all civilization has ever been. You're just another delusional would-be tyrant masquerading as a hero. One day, you'll be nothing more than a bad memory in a history book. Speed! Stand down. Get to the portal. Don't fall for your own propaganda, Atticus. You're not in control. Spee... The Guardians are here to end this. Am I smiling enough for you now? You're not walking out of here alive. Team Hawk. Repeat, Team Hawk. Deploy the asset by the portal. Little Wing? The Guardians are about to board the Citadel. Move. I'm sorry, Miss Speed. Tolmet! Awsome Man. You're Little Wing? I'm sorry. How could... I'm sorry I couldn't save you. But this? This is for the greater good. Maybe when all this is done, we can have another chat about that... that simpler, safer life. I love you. Yeah. I'd like that very much. I'm so sorry. I meant what I said, Rebecca. You keep me honest. Unfortunately, we're now in a world where honesty... will get you killed. Go to hell, Atticus. Awsome Man, who possesses a magic word that gives him the power of seven gods. I gave you specific orders. I'm..."
+      ],
+      "scene_length_chars": 2286,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.4088604748249054,
+        0.0012876701075583696,
+        0.2744271457195282,
+        0.013912934809923172,
+        0.026560617610812187,
+        0.23715071380138397,
+        0.004283681977540255,
+        0.05080898106098175,
+        0.015685321763157845,
+        0.028213495388627052,
+        0.004331992007791996,
+        0.0009320371900685132,
+        0.00916020106524229,
+        0.027145767584443092,
+        0.00461446912959218,
+        0.029162121936678886,
+        0.01622675359249115,
+        0.027425669133663177,
+        0.28483426570892334,
+        0.0017790570855140686,
+        0.06063606217503548,
+        0.047560255974531174,
+        0.05394471809267998,
+        0.008506626822054386,
+        0.21213795244693756,
+        0.007414678577333689,
+        0.010400545783340931,
+        0.01183402631431818
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "love",
+        "anger"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "I'm lonely. You know, I could use a friend too, to be honest. I mean, how can you trust the judgment of a man who puts a little boy in costume and lets him fight crime? I don't know. I mean, Little Wing seems pretty badass. What are you? Tolmet! Speed could be the one to save us, or get us all killed. To carry on the legacy of Marvelous Man... or completely fucking destroy it. What do you want me to do? I need you to get her to see things our way. Or I need you to take her off the board. You... you mean... I mean off the board. I'm trusting you with this. Make me proud, son. This is what you want? Finish her! L-little Wing. Fatality. Did I do good, Knight Hawk? Did I make you proud? Yes, Little Wing. You made me very proud. Should I dispose of her body with the others? No. She was our friend. Find someplace nice... someplace beautiful... and bury her there. Goodbye, Miss Speed. Tolmet! With the blood of his compatriot staining his cape and cowl, our hero's thoughts drifted to his first encounter with Marvelous Man. In that moment of intimate embrace, the late extraterrestrial told him that the eternal cosmic titan Galacron... death incarnate, Dukalmar of Doom, destroyer of Marvelous Man's home planet of Caltron... ...smasher of the undefeated Kralk armada... ...slayer of the abominable serpent Nulneck, and a thousand other titles too grim and sinful to recite, would one day come to devour Earth. Marvelous Man's father, Nostracalcanter, left his son a grim message warning of Galacron. If there is life out there... intelligent life, how did we ever get the notion that it might be otherwise than friendly? Because when it arrived, the god of war, great metal titan, was aggressive and ruthless. Warlike intentions. Brandished death rays. And their slimy tentacles. Appeared to be totally invincible. Totally invincible. Totally invincible. When Marvelous Man died, Knight Hawk knew the burden of killing Galacron fell on his shoulders, and he was inadequate for the task. He needed power. He needed to break his fellow Guardians and bend them to his will. And he needed an army to defend against this future, which he obtained by giving America an enemy in the present. Knight Hawk imagined the beauty of the coming battle against the titan.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm lonely. You know, I could use a friend too, to be honest. I mean, how can you trust the judgment of a man who puts a little boy in costume and lets him fight crime? I don't know. I mean, Little Wing seems pretty badass. What are you? Tolmet! Speed could be the one to save us, or get us all killed. To carry on the legacy of Marvelous Man... or completely fucking destroy it. What do you want me to do? I need you to get her to see things our way. Or I need you to take her off the board. You... you mean... I mean off the board. I'm trusting you with this. Make me proud, son. This is what you want? Finish her! L-little Wing. Fatality. Did I do good, Knight Hawk? Did I make you proud? Yes, Little Wing. You made me very proud. Should I dispose of her body with the others? No. She was our friend. Find someplace nice... someplace beautiful... and bury her there. Goodbye, Miss Speed. Tolmet! With the blood of his compatriot staining his cape and cowl, our hero's thoughts drifted to his first encounter with Marvelous Man. In that moment of intimate embrace, the late extraterrestrial told him that the eternal cosmic titan Galacron... death incarnate, Dukalmar of Doom, destroyer of Marvelous Man's home planet of Caltron... ...smasher of the undefeated Kralk armada... ...slayer of the abominable serpent Nulneck, and a thousand other titles too grim and sinful to recite, would one day come to devour Earth. Marvelous Man's father, Nostracalcanter, left his son a grim message warning of Galacron. If there is life out there... intelligent life, how did we ever get the notion that it might be otherwise than friendly? Because when it arrived, the god of war, great metal titan, was aggressive and ruthless. Warlike intentions. Brandished death rays. And their slimy tentacles. Appeared to be totally invincible. Totally invincible. Totally invincible. When Marvelous Man died, Knight Hawk knew the burden of killing Galacron fell on his shoulders, and he was inadequate for the task. He needed power. He needed to break his fellow Guardians and bend them to his will. And he needed an army to defend against this future, which he obtained by giving America an enemy in the present. Knight Hawk imagined the beauty of the coming battle against the titan."
+      ],
+      "scene_length_chars": 2265,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.32909533381462097,
+        0.0017808432457968593,
+        0.11928045749664307,
+        0.0031748043838888407,
+        0.0008371893200092018,
+        0.005838613957166672,
+        0.023374484851956367,
+        0.10125754028558731,
+        0.026581479236483574,
+        0.011157202534377575,
+        0.0061490233056247234,
+        0.003316541900858283,
+        0.0016327757621183991,
+        0.004622572101652622,
+        0.31874343752861023,
+        0.0019326350884512067,
+        0.004611337091773748,
+        0.0009379929979331791,
+        0.002744194818660617,
+        0.0029215787071734667,
+        0.04206082224845886,
+        0.00588596286252141,
+        0.025220194831490517,
+        0.00031977074104361236,
+        0.0024369636084884405,
+        0.0033871661871671677,
+        0.015327461063861847,
+        0.3868871033191681
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "It was a challenge worthy of the Guardians, united and joined in their fight by the rest of humanity. All under the banner of The Hawk. I can protect this world. But I have to do it... my way. But what if Marvelous Man's warning of Galacron never comes true? And all of this bloodshed was for nothing? From the depths of Knight Hawk's bruised and battered soul, a single, angry, undeniable voice called out to him. A voice that would haunt him through this life, and any that followed. What if you're wrong, Atticus? ♪ I'm wide awake, make no mistake ♪ ♪ Shedding my skin, no more burden ♪ ♪ Adding the doubt, there's no way out ♪ ♪ My country, my soul, was it worth it? ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ America ♪ ♪ America ♪ ♪ America ♪ ♪ We choose to stay, sinner or saint ♪ ♪ Soon all this hate will defeat us ♪ ♪ Lie to me now ♪ ♪ Show me the side Of a time with no mistakes ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ America ♪ ♪ America ♪ ♪ America ♪",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It was a challenge worthy of the Guardians, united and joined in their fight by the rest of humanity. All under the banner of The Hawk. I can protect this world. But I have to do it... my way. But what if Marvelous Man's warning of Galacron never comes true? And all of this bloodshed was for nothing? From the depths of Knight Hawk's bruised and battered soul, a single, angry, undeniable voice called out to him. A voice that would haunt him through this life, and any that followed. What if you're wrong, Atticus? ♪ I'm wide awake, make no mistake ♪ ♪ Shedding my skin, no more burden ♪ ♪ Adding the doubt, there's no way out ♪ ♪ My country, my soul, was it worth it? ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ America ♪ ♪ America ♪ ♪ America ♪ ♪ We choose to stay, sinner or saint ♪ ♪ Soon all this hate will defeat us ♪ ♪ Lie to me now ♪ ♪ Show me the side Of a time with no mistakes ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ And I guarantee ♪ ♪ Lost in a maze ♪ ♪ We stand in shame ♪ ♪ Tonight you must pay ♪ ♪ America ♪ ♪ America ♪ ♪ America ♪"
+      ],
+      "scene_length_chars": 1145,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.002353845164179802,
+        0.016530225053429604,
+        0.28879475593566895,
+        0.02756684646010399,
+        0.042940158396959305,
+        0.04171165078878403,
+        0.01238233782351017,
+        0.49025964736938477,
+        0.05219966545701027,
+        0.005796127952635288,
+        0.002366456901654601,
+        0.027160227298736572,
+        0.4842939078807831,
+        0.0047356924042105675,
+        0.10776684433221817,
+        0.00205403845757246,
+        0.0236329548060894,
+        0.002517429878935218,
+        0.04815543442964554,
+        0.007804075721651316,
+        0.4090309739112854,
+        0.0056717353872954845,
+        0.021248023957014084,
+        0.0017043352127075195,
+        0.014781083911657333,
+        0.027678590267896652,
+        0.0042182039469480515,
+        0.044239986687898636
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "embarrassment",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "embarrassment",
+        "optimism"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 6,
+    "lines_per_scene_fallback": 20
+  }
+}

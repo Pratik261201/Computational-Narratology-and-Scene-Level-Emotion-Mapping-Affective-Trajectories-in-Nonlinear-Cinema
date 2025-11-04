@@ -1,0 +1,429 @@
+{
+  "source_file": "Texas Chainsaw Massacre _2022_ - full transcript.txt",
+  "title": "Texas Chainsaw Massacre",
+  "year": "2022",
+  "meta_description": null,
+  "num_scenes": 8,
+  "avg_scene_chars": 2223,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "In the summer of 1973, a few miles outside of Austin, Texas, five youths were attacked in a grisly and gruesome fashion by an unidentified madman. The shocking murders were committed with a variety of tools, including hammers, meat hooks, and most disturbingly, a chainsaw. There's an image in my mind that'll never go away. Of the five young victims, only one survived, Sally Hardesty, who after telling her story to the police, never again spoke of the horrors she saw that day. After hearing Hardesty's account, officials released this composite picture of the killer. Everybody was terrified. He is said to have worn a mask made of human skin. However, his true identity remains a mystery. For the next hour, we'll take you on a journey into one of Texas's most famous unsolved murders. ♪ I'm from San Benito, Texas… ♪ Okay, that's $18.99, unless I can interest you in a shirt or two. Okay. There you go. Whatever happened to her? Is she still alive? She became a ranger here in Texas. She must have looked for that maniac for more than 30, 40 years. So she… she found him? He was wearing a mask. Not easy to locate someone if you don't know what they look like. Hey, sis, there you are. Yeah, right where you left me, weirdo. Hey, hey, hey. Look, look, look, look. Something for your champagne later. You know, you don't actually need a corkscrew for champagne. Come on. We've gotta beat the bus. Where y'all headed, if you don't mind me asking? Uh, Harlow? - Oh. I heard about you. - You did? Everybody has. - Y'all have a nice day now. - Thank you. Gentri-fuckers. Here. Where's Dante? Uh… Success! Found a pocket of cell signal over yonder. Mm-hmm. So, apparently, the bus took a wrong turn like 20 miles back, but we're back on track now. We're fine. We're solid. Let's get on the road. Let's go. Let's go. Look at this guy. Who has such a small dick they need to walk around in public with a fucking gun? Like, I mean, is he compensating for something? I mean… Come on, Mel. - Melody, don't. - What? I'm just saying. Excuse me, ma'am. What? See, we're plagued by feral hogs around these parts. And the only way to deal with an invasive species is to eradicate them. On sight. Okay. Okay. Let's go before she gets us all killed. Come on, girls. Let's go.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "In the summer of 1973, a few miles outside of Austin, Texas, five youths were attacked in a grisly and gruesome fashion by an unidentified madman. The shocking murders were committed with a variety of tools, including hammers, meat hooks, and most disturbingly, a chainsaw. There's an image in my mind that'll never go away. Of the five young victims, only one survived, Sally Hardesty, who after telling her story to the police, never again spoke of the horrors she saw that day. After hearing Hardesty's account, officials released this composite picture of the killer. Everybody was terrified. He is said to have worn a mask made of human skin. However, his true identity remains a mystery. For the next hour, we'll take you on a journey into one of Texas's most famous unsolved murders. ♪ I'm from San Benito, Texas… ♪ Okay, that's $18.99, unless I can interest you in a shirt or two. Okay. There you go. Whatever happened to her? Is she still alive? She became a ranger here in Texas. She must have looked for that maniac for more than 30, 40 years. So she… she found him? He was wearing a mask. Not easy to locate someone if you don't know what they look like. Hey, sis, there you are. Yeah, right where you left me, weirdo. Hey, hey, hey. Look, look, look, look. Something for your champagne later. You know, you don't actually need a corkscrew for champagne. Come on. We've gotta beat the bus. Where y'all headed, if you don't mind me asking? Uh, Harlow? - Oh. I heard about you. - You did? Everybody has. - Y'all have a nice day now. - Thank you. Gentri-fuckers. Here. Where's Dante? Uh… Success! Found a pocket of cell signal over yonder. Mm-hmm. So, apparently, the bus took a wrong turn like 20 miles back, but we're back on track now. We're fine. We're solid. Let's get on the road. Let's go. Let's go. Look at this guy. Who has such a small dick they need to walk around in public with a fucking gun? Like, I mean, is he compensating for something? I mean… Come on, Mel. - Melody, don't. - What? I'm just saying. Excuse me, ma'am. What? See, we're plagued by feral hogs around these parts. And the only way to deal with an invasive species is to eradicate them. On sight. Okay. Okay. Let's go before she gets us all killed. Come on, girls. Let's go."
+      ],
+      "scene_length_chars": 2263,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0039302147924900055,
+        0.0010516783222556114,
+        0.0027393449563533068,
+        0.05983162298798561,
+        0.06273828446865082,
+        0.004433461930602789,
+        0.028618978336453438,
+        0.38027992844581604,
+        0.0018626510864123702,
+        0.0021351641044020653,
+        0.002686158986762166,
+        0.012140332721173763,
+        0.0025085897650569677,
+        0.02320834808051586,
+        0.2839999198913574,
+        0.25406578183174133,
+        0.006549853831529617,
+        0.002652766415849328,
+        0.0024633132852613926,
+        0.002946058288216591,
+        0.007177629973739386,
+        0.03188500180840492,
+        0.027428999543190002,
+        0.05686214566230774,
+        0.0018313952023163438,
+        0.005886650178581476,
+        0.015191890299320221,
+        0.34008994698524475
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "fear"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Sorry if a big gun makes you uncomfortable. I've seen bigger. ♪ Well, one of these days Gonna pay the road ♪ ♪ Yeah, one of these days Gonna run for fun ♪ ♪ Yeah, one of these days When you're all alone ♪ ♪ Out back wishing for The grass to grow, oh… ♪ Hey. I'm really sorry about that back there. You don't need me getting mad on your behalf. It's whatever. Anyway, I'm super happy you came. Mel, check out our post. It's blowing up. Hey, guys. Today is the day! We're finally giving birth to this crazy dream Mel and I had. A real change is here, so thank you all. Can't wait to see you in Harlow. Oh, it's gonna be great. Think about it. We can own all of this, call it \"Dantopia.\" What? What? Dantopia. How long have you been sitting on that? Like the last 48 hours. I get it. Dante and Utop... You're combining the words. - I was just joking. - I see what... What the fuck? What's wrong with him? Look, Melody, it's your boyfriend. - What a fucking psycho. - Texas mating ritual. Seriously, what is wrong with that guy? He's just a fucking coal roller. Oh, great, they don't pull over the psycho, but they stop us? - Put your hands where they can see 'em. - That's not funny. There's a 10-12 at the location. Copy that. Howdy. Hey, how you doing? I'm Dante Spivey. You're the cook. The chef. Uh, we both are. - Hi. - And who else you have in there? Well, this is my future wife. And my sister back here. Is everything okay? I know you got a lot of folks coming through, so me and my deputy are gonna hang around to make sure y'all stay out of trouble. Call me if there are any issues. Sure. We have your number, and, uh, we thank you for your service, sir. Let's just go. Listen, some of us were born here, you know. Saw it in its prime. So please, be respectful for the town. We will, sir. Melody, what are you doing? You know, our… our grandmother was actually from around here. You know, \"When Harlow sunflower blooms…\" \"Winter is doomed.\" Yeah. Okay. Welcome to Harlow. Thank you. Woo! Finally, we made it. Welcome to Harlow. Behold the joys of late-stage capitalism. Woo! Oh! Holy shit, babe. This is amazing. So Harlow is a ghost town. Yes, but we have a vision for this place. All it needs is young blood, people like us, tired of the big city, looking for a fresh start.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sorry if a big gun makes you uncomfortable. I've seen bigger. ♪ Well, one of these days Gonna pay the road ♪ ♪ Yeah, one of these days Gonna run for fun ♪ ♪ Yeah, one of these days When you're all alone ♪ ♪ Out back wishing for The grass to grow, oh… ♪ Hey. I'm really sorry about that back there. You don't need me getting mad on your behalf. It's whatever. Anyway, I'm super happy you came. Mel, check out our post. It's blowing up. Hey, guys. Today is the day! We're finally giving birth to this crazy dream Mel and I had. A real change is here, so thank you all. Can't wait to see you in Harlow. Oh, it's gonna be great. Think about it. We can own all of this, call it \"Dantopia.\" What? What? Dantopia. How long have you been sitting on that? Like the last 48 hours. I get it. Dante and Utop... You're combining the words. - I was just joking. - I see what... What the fuck? What's wrong with him? Look, Melody, it's your boyfriend. - What a fucking psycho. - Texas mating ritual. Seriously, what is wrong with that guy? He's just a fucking coal roller. Oh, great, they don't pull over the psycho, but they stop us? - Put your hands where they can see 'em. - That's not funny. There's a 10-12 at the location. Copy that. Howdy. Hey, how you doing? I'm Dante Spivey. You're the cook. The chef. Uh, we both are. - Hi. - And who else you have in there? Well, this is my future wife. And my sister back here. Is everything okay? I know you got a lot of folks coming through, so me and my deputy are gonna hang around to make sure y'all stay out of trouble. Call me if there are any issues. Sure. We have your number, and, uh, we thank you for your service, sir. Let's just go. Listen, some of us were born here, you know. Saw it in its prime. So please, be respectful for the town. We will, sir. Melody, what are you doing? You know, our… our grandmother was actually from around here. You know, \"When Harlow sunflower blooms…\" \"Winter is doomed.\" Yeah. Okay. Welcome to Harlow. Thank you. Woo! Finally, we made it. Welcome to Harlow. Behold the joys of late-stage capitalism. Woo! Oh! Holy shit, babe. This is amazing. So Harlow is a ghost town. Yes, but we have a vision for this place. All it needs is young blood, people like us, tired of the big city, looking for a fresh start."
+      ],
+      "scene_length_chars": 2283,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.6397304534912109,
+        0.3033193051815033,
+        0.07544878870248795,
+        0.07565844058990479,
+        0.04224285110831261,
+        0.08662810176610947,
+        0.028687303885817528,
+        0.3124828338623047,
+        0.40435394644737244,
+        0.015428951941430569,
+        0.021026453003287315,
+        0.0077735609374940395,
+        0.01396255660802126,
+        0.5102435946464539,
+        0.008170039393007755,
+        0.6922277808189392,
+        0.038505736738443375,
+        0.3499244153499603,
+        0.16242049634456635,
+        0.016771772876381874,
+        0.3240059018135071,
+        0.0997382402420044,
+        0.17793156206607819,
+        0.047795116901397705,
+        0.04525366052985191,
+        0.01402090210467577,
+        0.0709119513630867,
+        0.0164038073271513
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "excitement"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "admiration",
+        "desire",
+        "excitement",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Dante, for what we were paying to park the food trucks in Austin, we get the whole corner over there. That is insane. Our restaurant will be first, and we have to just inspire more people to follow. - We will. - We definitely will. This space would be perfect for my art gallery. Lila, look, we could put a comic book store in here or something… cool. Lit. This is a chance for people to start fresh somewhere without the violence and the madness. Somewhere safe. Okay. And, I mean, seven hours by car? I guess I can say goodbye to my friends forever. Oh Christ. What is he doing here? Excuse me. Oh shit, sorry, uh, Richter. We spoke on the phone. - Yeah. - Dante. Hey. Uh, Richter's our contractor, Mel. Gave your buildings a facelift, about all I can do in a week. It looks good for the auction. Thank you. You're planning to sell these? - Oh yeah, we will. - Mm-hmm. All right. So you guys are what? Like, a cult? We are idealistic individuals who want to build a better world. Yeah, that's a cult. - What? - It's all right, not judging. Just pay me. We're good. Hey guys, you should, uh… you should see this. What? - Oh… - Oh shit. What? Are you serious? - Newsflash, we're in deep Texas. - I don't care. We have a bus full of potential investors on the way. They see this flag, they're not gonna buy. - Trust me. - I'm getting the cowboy. Mel, help me. I'll just be here. Hmm… Um, I'm going upstairs. Look at this place. It's weird. Ah, shit. Damn, I couldn't reach it. - Oh shit. Well, what are we going to do? - Let's just wait for the contractor. What are you doing in our house? Uh, I'm sorry. I didn't realize... We thought this place was empty. Oh, you're the new neighbors, aren't you? Uh… Wish I'd known y'all were coming. I'd have put my face on. Sweet tea? I've been running this orphanage for nearly 50 years. I've housed boys and girls in need of a loving home, and troubled teens that needed me to show 'em mercy for their ways. Please. Ma'am, the bank, um, reclaimed this property months ago. You're not supposed to be here. You talking about that whole mix up with the bank? That's been settled. I paid everything I owed. This is still our house. You're wrong. I'm sorry, but... I've got a title that says otherwise. Do you mind if we see that? I don't have to show you anything.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dante, for what we were paying to park the food trucks in Austin, we get the whole corner over there. That is insane. Our restaurant will be first, and we have to just inspire more people to follow. - We will. - We definitely will. This space would be perfect for my art gallery. Lila, look, we could put a comic book store in here or something… cool. Lit. This is a chance for people to start fresh somewhere without the violence and the madness. Somewhere safe. Okay. And, I mean, seven hours by car? I guess I can say goodbye to my friends forever. Oh Christ. What is he doing here? Excuse me. Oh shit, sorry, uh, Richter. We spoke on the phone. - Yeah. - Dante. Hey. Uh, Richter's our contractor, Mel. Gave your buildings a facelift, about all I can do in a week. It looks good for the auction. Thank you. You're planning to sell these? - Oh yeah, we will. - Mm-hmm. All right. So you guys are what? Like, a cult? We are idealistic individuals who want to build a better world. Yeah, that's a cult. - What? - It's all right, not judging. Just pay me. We're good. Hey guys, you should, uh… you should see this. What? - Oh… - Oh shit. What? Are you serious? - Newsflash, we're in deep Texas. - I don't care. We have a bus full of potential investors on the way. They see this flag, they're not gonna buy. - Trust me. - I'm getting the cowboy. Mel, help me. I'll just be here. Hmm… Um, I'm going upstairs. Look at this place. It's weird. Ah, shit. Damn, I couldn't reach it. - Oh shit. Well, what are we going to do? - Let's just wait for the contractor. What are you doing in our house? Uh, I'm sorry. I didn't realize... We thought this place was empty. Oh, you're the new neighbors, aren't you? Uh… Wish I'd known y'all were coming. I'd have put my face on. Sweet tea? I've been running this orphanage for nearly 50 years. I've housed boys and girls in need of a loving home, and troubled teens that needed me to show 'em mercy for their ways. Please. Ma'am, the bank, um, reclaimed this property months ago. You're not supposed to be here. You talking about that whole mix up with the bank? That's been settled. I paid everything I owed. This is still our house. You're wrong. I'm sorry, but... I've got a title that says otherwise. Do you mind if we see that? I don't have to show you anything."
+      ],
+      "scene_length_chars": 2300,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008626311086118221,
+        0.003400474553927779,
+        0.006930436939001083,
+        0.005769824609160423,
+        0.006705365609377623,
+        0.05025377497076988,
+        0.018107319250702858,
+        0.33954980969429016,
+        0.016463004052639008,
+        0.018150510266423225,
+        0.06546055525541306,
+        0.002853729762136936,
+        0.06159574165940285,
+        0.0038542819675058126,
+        0.0011119855334982276,
+        0.3285021483898163,
+        0.009795395657420158,
+        0.0019461280899122357,
+        0.0016742325387895107,
+        0.0018096226267516613,
+        0.1770002692937851,
+        0.002925000386312604,
+        0.061887238174676895,
+        0.0058564431965351105,
+        0.26132288575172424,
+        0.028888007625937462,
+        0.051296357065439224,
+        0.06949527561664581
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "remorse"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "- That's because you don't have it. - Dante, don't. What? Was this about my flag? You got me all wrong. I've taken care of many boys like you over the years. I don't have a problem with Negroes. Okay. Fuck this. You watch your mouth, boy. You watch yours. Where are you going? Let the cops deal with her. I don't have time for this. I'm getting the sheriff. It's not what you think. That flag belonged to my great granddaddy. It reminds me of him. I haven't given it much thought. I… I understand your friend. I wish I could help you, but you can't be here. There are shelters for the elderly, and… Shelter? I'm not going anywhere. I told you. This is our house. Look, you'll be safer in a home and better taken care of. A woman your age shouldn't be on her own. Baby, I'm fine. I'm all right. Just go back to your room. He's the last of my boys. He needs special care. He doesn't do well outside, you understand that? It's why I can't ever leave here. Christ, Ginny, why are you still here? What have you done? Virginia, we told you weeks ago. She ain't listening. Let's get her outta here. - We'll talk about it outside. - Come on. Let's go. Take it easy. I barely touched her. Oh my God. What is happening? We need to call an ambulance. We are the ambulance. It's all right. It's her boy. Grab the oxygen. Put her in the van. She's having a heart attack. The check… It was… Please… Hey, hey, what did you do? We'll get you to the hospital in no time. Just hold on. Shit. The bus is here. Fuck. I'm going with her. No, Melody, no, no, no. I'll go with her. I'll go. What? Everyone's expecting to see the two of you. She'll be okay. Come on. - Christ. - Somebody needs to. It can't be Melody, can't be you. You need to focus on this. I'll be back as soon as I can. Okay. Please just make sure she's all right. Thank you. You're an angel. Let's move. Here's your flag. Come on, Mel. We'll get somebody to clean that up. Did that not feel like a bad omen to you? This place is cursed now. Please, this is not... I don't need this right now, so… it's all good. If you move here, I'm moving back with Dad. No, you're not. I… I don't want to live here. Your whole idea is insane. - You don't know what you want. - Okay, and you do? Uh, I know you need me, and you can't take care of yourself. Wait.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- That's because you don't have it. - Dante, don't. What? Was this about my flag? You got me all wrong. I've taken care of many boys like you over the years. I don't have a problem with Negroes. Okay. Fuck this. You watch your mouth, boy. You watch yours. Where are you going? Let the cops deal with her. I don't have time for this. I'm getting the sheriff. It's not what you think. That flag belonged to my great granddaddy. It reminds me of him. I haven't given it much thought. I… I understand your friend. I wish I could help you, but you can't be here. There are shelters for the elderly, and… Shelter? I'm not going anywhere. I told you. This is our house. Look, you'll be safer in a home and better taken care of. A woman your age shouldn't be on her own. Baby, I'm fine. I'm all right. Just go back to your room. He's the last of my boys. He needs special care. He doesn't do well outside, you understand that? It's why I can't ever leave here. Christ, Ginny, why are you still here? What have you done? Virginia, we told you weeks ago. She ain't listening. Let's get her outta here. - We'll talk about it outside. - Come on. Let's go. Take it easy. I barely touched her. Oh my God. What is happening? We need to call an ambulance. We are the ambulance. It's all right. It's her boy. Grab the oxygen. Put her in the van. She's having a heart attack. The check… It was… Please… Hey, hey, what did you do? We'll get you to the hospital in no time. Just hold on. Shit. The bus is here. Fuck. I'm going with her. No, Melody, no, no, no. I'll go with her. I'll go. What? Everyone's expecting to see the two of you. She'll be okay. Come on. - Christ. - Somebody needs to. It can't be Melody, can't be you. You need to focus on this. I'll be back as soon as I can. Okay. Please just make sure she's all right. Thank you. You're an angel. Let's move. Here's your flag. Come on, Mel. We'll get somebody to clean that up. Did that not feel like a bad omen to you? This place is cursed now. Please, this is not... I don't need this right now, so… it's all good. If you move here, I'm moving back with Dad. No, you're not. I… I don't want to live here. Your whole idea is insane. - You don't know what you want. - Okay, and you do? Uh, I know you need me, and you can't take care of yourself. Wait."
+      ],
+      "scene_length_chars": 2294,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004371648654341698,
+        0.0006291702156886458,
+        0.0490390807390213,
+        0.039253197610378265,
+        0.005194146651774645,
+        0.7750478386878967,
+        0.0032711150124669075,
+        0.032389868050813675,
+        0.004760195966809988,
+        0.005551144480705261,
+        0.24135249853134155,
+        0.00264690606854856,
+        0.0008446621359325945,
+        0.0015629514819011092,
+        0.0319155715405941,
+        0.30756625533103943,
+        0.018434761092066765,
+        0.0026414375752210617,
+        0.003627001540735364,
+        0.005918096750974655,
+        0.006139589007943869,
+        0.002878475934267044,
+        0.010155711323022842,
+        0.016837336122989655,
+        0.00216705072671175,
+        0.018524428829550743,
+        0.025926528498530388,
+        0.03144994005560875
+      ],
+      "goemotions_topk": [
+        "caring",
+        "gratitude",
+        "disapproval"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "Why did I…? Honestly, the bank could've never dreamed of selling these without your help, Dante. - Thank you for trusting us. - It's amazing. Absolutely. Um… Mel! Mel! Catherine, come here. This is Catherine, you know, from the bank. She made all this possible. Finally. It's nice to meet you. You know, everyone is super excited. You guys did a great job promoting this. Yeah, just needs a fresh coat of paint. Oh no, it is perfect like this. These people want the wear-down. You know, the history? Yeah. Absolutely. Yeah. - This is going to be great. - Yeah. I'm just going to start setting up, so… Okay. Is she all right? Yeah, I think the heat's just getting to her a bit. It's so hot out here. - Probably needed a little water. - Yeah. It's hot. How's she doing? Baby, who's the good boy I taught you to be? Stay out of my room. Shit. Sheriff, I think she croaked. Son of a bitch. Oh my God. Hey. No! What the hell's going on? Oh my God! And sold to Candace Brady of Brady's Brunch. Aw! I love brunch. That's great. Well, this was built in 1910, and once counted President Howard Taft as a distinguished guest. Got a high chance of thunderstorms, lightning, and heavy rain. Stay dry out there. So, Richter… why are you such a nihilist? A what? I mean, anyone who blasts diesel into the atmosphere like that truly gives zero fucks about, like, anything. I'm a Texan. I don't like people telling me what to do, especially smug, self-righteous, rich, city folk. Is it loaded? Ever shot one before? No. Been shot at. Drunk dad? Stonebrook High. That must be tough, living with that. I mean… Everyone expects me to do something special with my life now, and I can only disappoint them. My friends were the special ones. Not me. Please stick around for music and drinks. We have a lot to celebrate. Thank you all so much. Come on, Mel. Have a drink with me. We did it. We did it. What a dream. What? Damn. Damn? That's… That's all you have to say? We just killed her. Heart disease killed her. Mel. Where you going, Mel? I'm getting Lila and taking her out of here. Okay? This just doesn't feel right anymore. Wait. Wait. Mel, this wasn't our fault. Mel! Lila? Where's my sister? We're leaving. Okay. Really? That guy? Are you kidding me? - You think I fucked him? - I don't know. Did you? I just used the bathroom.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Why did I…? Honestly, the bank could've never dreamed of selling these without your help, Dante. - Thank you for trusting us. - It's amazing. Absolutely. Um… Mel! Mel! Catherine, come here. This is Catherine, you know, from the bank. She made all this possible. Finally. It's nice to meet you. You know, everyone is super excited. You guys did a great job promoting this. Yeah, just needs a fresh coat of paint. Oh no, it is perfect like this. These people want the wear-down. You know, the history? Yeah. Absolutely. Yeah. - This is going to be great. - Yeah. I'm just going to start setting up, so… Okay. Is she all right? Yeah, I think the heat's just getting to her a bit. It's so hot out here. - Probably needed a little water. - Yeah. It's hot. How's she doing? Baby, who's the good boy I taught you to be? Stay out of my room. Shit. Sheriff, I think she croaked. Son of a bitch. Oh my God. Hey. No! What the hell's going on? Oh my God! And sold to Candace Brady of Brady's Brunch. Aw! I love brunch. That's great. Well, this was built in 1910, and once counted President Howard Taft as a distinguished guest. Got a high chance of thunderstorms, lightning, and heavy rain. Stay dry out there. So, Richter… why are you such a nihilist? A what? I mean, anyone who blasts diesel into the atmosphere like that truly gives zero fucks about, like, anything. I'm a Texan. I don't like people telling me what to do, especially smug, self-righteous, rich, city folk. Is it loaded? Ever shot one before? No. Been shot at. Drunk dad? Stonebrook High. That must be tough, living with that. I mean… Everyone expects me to do something special with my life now, and I can only disappoint them. My friends were the special ones. Not me. Please stick around for music and drinks. We have a lot to celebrate. Thank you all so much. Come on, Mel. Have a drink with me. We did it. We did it. What a dream. What? Damn. Damn? That's… That's all you have to say? We just killed her. Heart disease killed her. Mel. Where you going, Mel? I'm getting Lila and taking her out of here. Okay? This just doesn't feel right anymore. Wait. Wait. Mel, this wasn't our fault. Mel! Lila? Where's my sister? We're leaving. Okay. Really? That guy? Are you kidding me? - You think I fucked him? - I don't know. Did you? I just used the bathroom."
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.48207592964172363,
+        0.006721455603837967,
+        0.03376806899905205,
+        0.11876708269119263,
+        0.004870947450399399,
+        0.005545707419514656,
+        0.3557213246822357,
+        0.5967214703559875,
+        0.05095955729484558,
+        0.21049535274505615,
+        0.01587817259132862,
+        0.004142591264098883,
+        0.010335294529795647,
+        0.29051876068115234,
+        0.003912507556378841,
+        0.5381301641464233,
+        0.01245028991252184,
+        0.25183114409446716,
+        0.06730054318904877,
+        0.006729838903993368,
+        0.015071816742420197,
+        0.03473576158285141,
+        0.018209820613265038,
+        0.02159184217453003,
+        0.005076285917311907,
+        0.015215016901493073,
+        0.1652006059885025,
+        0.006239958107471466
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "confusion",
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "I know you think I'm a total train wreck, but give me a break. Please. I'm sorry. The old lady died. I really need you to leave with me right now. Okay? Can you do that, please? Okay. Yeah. Yeah, I can do that. Put that shit out. Hello. Hello. Hello, please. Is anybody there? Please. I am hurt. I have been in an accident. Please, I'm on Route 74, outside Harlow. Oh my God. Oh my God. He's… He's cutting… He's wearing her face. He's wearing her face. No, no. Shh. Please. You sure you're not gonna stay for the party? - Yeah, I'm just not really feeling well. - Okay. Just the heat, you know? - Yeah. - Take the car. I'll take the bus back. Wait. What the fuck? What the... - Hey! - Hey. What? What the fuck are you doing? Heard you killed that lady. We didn't kill anybody. She was trespassing on our property. You sure that was your property? Huh? Looked like she disagreed. Please just give us back the keys. Give me the keys. Show me you have the deed to that house, you'll have them back. I'll be in the shop. That fucking guy. Just give him what he wants. - Let's keep the bank out of this. - Please tell me you have it. I do. I have it. Then where is it? It… It must be at the office. Back in Austin. Dante. Some deeds took longer than others to process. Tell me we didn't kick her out of her own house. We didn't. I'm telling you. It must be back at the office. Hey, if that's true, then it can't be in the house, right? All right, you stay here. Let's go. Hey, wait, can you just relax for a second? I'll never relax until I'm sure we're on the right side of this. - I'm coming with. - No, please. Just do what I tell you? - Why do I have to stay with these people? - Please just stay. Come on, let's go. This is bullshit. Hey there, I'm calling for Hardesty. Sure, I'll hold. This is Hardesty. You look down here. I'll check upstairs. Okay… Is that it? Da... Dante? Da... Dante? Mel? I hope everyone is having a great time out there. We've gotten lots done! This town is ours! DJ… Okay, everybody on the bus. Party continues on the bus. Get in the bus. Everyone in the bus. To Harlow! Has anyone seen Dante? I'll go get him. Let me top you off there. Dante? Hey. What were you doing in that house? Hey, I'm talking to you. Don't walk away from me. Hey, man, you okay? Here, I gotcha. I got you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I know you think I'm a total train wreck, but give me a break. Please. I'm sorry. The old lady died. I really need you to leave with me right now. Okay? Can you do that, please? Okay. Yeah. Yeah, I can do that. Put that shit out. Hello. Hello. Hello, please. Is anybody there? Please. I am hurt. I have been in an accident. Please, I'm on Route 74, outside Harlow. Oh my God. Oh my God. He's… He's cutting… He's wearing her face. He's wearing her face. No, no. Shh. Please. You sure you're not gonna stay for the party? - Yeah, I'm just not really feeling well. - Okay. Just the heat, you know? - Yeah. - Take the car. I'll take the bus back. Wait. What the fuck? What the... - Hey! - Hey. What? What the fuck are you doing? Heard you killed that lady. We didn't kill anybody. She was trespassing on our property. You sure that was your property? Huh? Looked like she disagreed. Please just give us back the keys. Give me the keys. Show me you have the deed to that house, you'll have them back. I'll be in the shop. That fucking guy. Just give him what he wants. - Let's keep the bank out of this. - Please tell me you have it. I do. I have it. Then where is it? It… It must be at the office. Back in Austin. Dante. Some deeds took longer than others to process. Tell me we didn't kick her out of her own house. We didn't. I'm telling you. It must be back at the office. Hey, if that's true, then it can't be in the house, right? All right, you stay here. Let's go. Hey, wait, can you just relax for a second? I'll never relax until I'm sure we're on the right side of this. - I'm coming with. - No, please. Just do what I tell you? - Why do I have to stay with these people? - Please just stay. Come on, let's go. This is bullshit. Hey there, I'm calling for Hardesty. Sure, I'll hold. This is Hardesty. You look down here. I'll check upstairs. Okay… Is that it? Da... Dante? Da... Dante? Mel? I hope everyone is having a great time out there. We've gotten lots done! This town is ours! DJ… Okay, everybody on the bus. Party continues on the bus. Get in the bus. Everyone in the bus. To Harlow! Has anyone seen Dante? I'll go get him. Let me top you off there. Dante? Hey. What were you doing in that house? Hey, I'm talking to you. Don't walk away from me. Hey, man, you okay? Here, I gotcha. I got you."
+      ],
+      "scene_length_chars": 2306,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.016095856204628944,
+        0.0008712022681720555,
+        0.42194998264312744,
+        0.28702691197395325,
+        0.0035914427135139704,
+        0.09155067801475525,
+        0.0035452591255307198,
+        0.17929674685001373,
+        0.3080451190471649,
+        0.012400106526911259,
+        0.008470941334962845,
+        0.004923939239233732,
+        0.005752019118517637,
+        0.004910765681415796,
+        0.026983655989170074,
+        0.004237492103129625,
+        0.04830050468444824,
+        0.0024154651910066605,
+        0.001488181878812611,
+        0.0028744868468493223,
+        0.2796965539455414,
+        0.001657756045460701,
+        0.003954953048378229,
+        0.0013182872207835317,
+        0.03581089898943901,
+        0.1460936814546585,
+        0.019198061898350716,
+        0.028187699615955353
+      ],
+      "goemotions_topk": [
+        "anger",
+        "desire",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "What happened to him? Oh my God. Who did this to you, huh? Hold on. Hey, don't let go. Don't let go. Oh my God. Call the cops. You hear me? Keep everyone on the bus. - Go on. - Okay. Go on now. Shut the door. Keep it closed. What happened? I don't know. Just keep the door closed. What the fuck? Ah! Ah! We have a report of a dead body in Harlow. Come on, Naiman, you there? You're the only guys I have in a 50-mile radius. We need an officer in Harlow. Please respond. I fear no evil. I fear no evil. Stay in your seat, please. - What's happening? - Just trust me. Stay in your seat. - Please open the door. - Don't. Fuck this. Where are you going? Melody? Mel? Oh my… Mel? - No. No, Lila. - Melody? Mel? Melody? Mel? - Melody! Melody? - Lila! Lila, go! Oh my God. Melody. Help! Lila! Lila! Help! I got you. Come on. Come on. Melody? Wait. Run! Wake up. Wake up! What happened? Fucking drive! Drive! Whoa, are you okay? Wait. Wait. What the fuck is happening? Melody? Fuck. Get us out of here. Let's go! Let's go! Go this way. Come on. Keep going. No, no, no, no, no, no, no. Don't stop. No, no, no, no. Don't open the... Dude, where are you going? What's happening? - No, no, no. - Melody? This party is really good, right? You okay? Run. No. Look at this freak show. Bro, what are you doing? Try anything and you're canceled, bro. Oh, fuck. Oh God! Get up. Lila! Lila, get up. I got you. Look. Ah! Melody? - Melody? - Lila, I can't. Fuck! Come on, Melody. You gotta! Come on, Melody. Holy shit! Come on. Melody, come on, please. Oh my God! Come on! Come on! I got you. Come on. We gotta get down. Lila, let's go! Melody, I got you. Come on. - Help! - Oh my God. Help. Help! Come on. Get in the back. Thank you. Thank you. Thank you. He just… He killed… Dante. It's him, isn't it? He killed everyone. Leatherface. What? What? Please drive. What are you doing? What? - Drive! - Please, go! Fifty years I've been waiting for this night. Just to see him again. She locked us in. Please drive. You have to let us out of here. I'm sorry, I can't. Looks like it's you that he wants. You need to stay until I kill him. - No, no, no. - No, please. Please, no! Please, please, help. No, don't. What? No. No, please. Please, please, please let us out! Please. No! No! No! Don't leave! No! No, please. No! No, you can't. You can't leave us. No! No. What the fuck? Turn around. Kirk, Pamela, Jerry, and Franklin.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What happened to him? Oh my God. Who did this to you, huh? Hold on. Hey, don't let go. Don't let go. Oh my God. Call the cops. You hear me? Keep everyone on the bus. - Go on. - Okay. Go on now. Shut the door. Keep it closed. What happened? I don't know. Just keep the door closed. What the fuck? Ah! Ah! We have a report of a dead body in Harlow. Come on, Naiman, you there? You're the only guys I have in a 50-mile radius. We need an officer in Harlow. Please respond. I fear no evil. I fear no evil. Stay in your seat, please. - What's happening? - Just trust me. Stay in your seat. - Please open the door. - Don't. Fuck this. Where are you going? Melody? Mel? Oh my… Mel? - No. No, Lila. - Melody? Mel? Melody? Mel? - Melody! Melody? - Lila! Lila, go! Oh my God. Melody. Help! Lila! Lila! Help! I got you. Come on. Come on. Melody? Wait. Run! Wake up. Wake up! What happened? Fucking drive! Drive! Whoa, are you okay? Wait. Wait. What the fuck is happening? Melody? Fuck. Get us out of here. Let's go! Let's go! Go this way. Come on. Keep going. No, no, no, no, no, no, no. Don't stop. No, no, no, no. Don't open the... Dude, where are you going? What's happening? - No, no, no. - Melody? This party is really good, right? You okay? Run. No. Look at this freak show. Bro, what are you doing? Try anything and you're canceled, bro. Oh, fuck. Oh God! Get up. Lila! Lila, get up. I got you. Look. Ah! Melody? - Melody? - Lila, I can't. Fuck! Come on, Melody. You gotta! Come on, Melody. Holy shit! Come on. Melody, come on, please. Oh my God! Come on! Come on! I got you. Come on. We gotta get down. Lila, let's go! Melody, I got you. Come on. - Help! - Oh my God. Help. Help! Come on. Get in the back. Thank you. Thank you. Thank you. He just… He killed… Dante. It's him, isn't it? He killed everyone. Leatherface. What? What? Please drive. What are you doing? What? - Drive! - Please, go! Fifty years I've been waiting for this night. Just to see him again. She locked us in. Please drive. You have to let us out of here. I'm sorry, I can't. Looks like it's you that he wants. You need to stay until I kill him. - No, no, no. - No, please. Please, no! Please, please, help. No, don't. What? No. No, please. Please, please, please let us out! Please. No! No! No! Don't leave! No! No, please. No! No, you can't. You can't leave us. No! No. What the fuck? Turn around. Kirk, Pamela, Jerry, and Franklin."
+      ],
+      "scene_length_chars": 2402,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.007028562482446432,
+        0.0016371376113966107,
+        0.17973272502422333,
+        0.0058461204171180725,
+        0.00168688187841326,
+        0.16683723032474518,
+        0.06378529220819473,
+        0.273499995470047,
+        0.0738305002450943,
+        0.0055760727263987064,
+        0.007440180983394384,
+        0.0031170218717306852,
+        0.001889429404400289,
+        0.047192513942718506,
+        0.29320505261421204,
+        0.3335128128528595,
+        0.024836651980876923,
+        0.0018982691690325737,
+        0.004091550130397081,
+        0.007672419305890799,
+        0.00838156882673502,
+        0.010320601053535938,
+        0.009408610872924328,
+        0.00861610472202301,
+        0.006067734677344561,
+        0.04725585877895355,
+        0.435758501291275,
+        0.03696023300290108
+      ],
+      "goemotions_topk": [
+        "surprise",
+        "gratitude",
+        "fear"
+      ],
+      "goemotions_label": "surprise",
+      "goemotions_labels": [
+        "surprise"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Say my name. Say you know me. Say you know what you did to my friends. You don't remember me. Fuck. You know, I was supposed to die in the school that day. So death followed me here. Death… Look at me. I'm not going to let him kill you, okay? I prom... No! No! Remember me now? I'm the one that got away, and I'm here to make sure you don't. Motherfucker. Get the fuck out of here. Come on. What are you doing? - Put your seat belt on. - Fuck. Fuck you! Oh my God. - Fuck. Oh God. I... - Oh, Melody. No, don't touch it. Oh, I can't. I can't. Melody, he's coming. - Lila. Lila, listen. Listen. - No, come on. I gotta get you out of this. - I can get you out. - Listen. Listen! He's gonna kill me right now. I'm sorry, there's no other way. But you, you have to run. No. I can't. I don't have anyone else. I can't leave you. Yes, you can. You're the strongest person I know, okay? You never needed me. You can do this. You just have to fucking run. Fucking run. Run! I'm sorry. For what I did to your mama. She didn't deserve that. Hey, Leatherfuck. Shit. Lila! No! Lila? Lila! Lila? Thank you. Thank you. Don't run. Don't run. If you run… he'll never stop haunting you. Lila! Lila. Lila! Lila, help me! Oh, fuck. Lila. Lila, where are you? No! No! No! No! Melody! Ah! Are you… Are you okay? No. Oh. ♪ Well, one of these days Gonna pay the road… ♪ Oh, fuck. Okay. ♪ When you're all alone ♪ ♪ Out back wishing For the grass to grow… ♪ Let's go home. Autopilot engaged. Fuck Harlow. Hey, you know what? I changed my mind, actually. I'll move here with you. Fuck off. - Fuck. - No! No! Melody! No! No! No! No! No! Melody! No! No.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Say my name. Say you know me. Say you know what you did to my friends. You don't remember me. Fuck. You know, I was supposed to die in the school that day. So death followed me here. Death… Look at me. I'm not going to let him kill you, okay? I prom... No! No! Remember me now? I'm the one that got away, and I'm here to make sure you don't. Motherfucker. Get the fuck out of here. Come on. What are you doing? - Put your seat belt on. - Fuck. Fuck you! Oh my God. - Fuck. Oh God. I... - Oh, Melody. No, don't touch it. Oh, I can't. I can't. Melody, he's coming. - Lila. Lila, listen. Listen. - No, come on. I gotta get you out of this. - I can get you out. - Listen. Listen! He's gonna kill me right now. I'm sorry, there's no other way. But you, you have to run. No. I can't. I don't have anyone else. I can't leave you. Yes, you can. You're the strongest person I know, okay? You never needed me. You can do this. You just have to fucking run. Fucking run. Run! I'm sorry. For what I did to your mama. She didn't deserve that. Hey, Leatherfuck. Shit. Lila! No! Lila? Lila! Lila? Thank you. Thank you. Don't run. Don't run. If you run… he'll never stop haunting you. Lila! Lila. Lila! Lila, help me! Oh, fuck. Lila. Lila, where are you? No! No! No! No! Melody! Ah! Are you… Are you okay? No. Oh. ♪ Well, one of these days Gonna pay the road… ♪ Oh, fuck. Okay. ♪ When you're all alone ♪ ♪ Out back wishing For the grass to grow… ♪ Let's go home. Autopilot engaged. Fuck Harlow. Hey, you know what? I changed my mind, actually. I'll move here with you. Fuck off. - Fuck. - No! No! Melody! No! No! No! No! No! Melody! No! No."
+      ],
+      "scene_length_chars": 1624,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.007968936115503311,
+        0.0035874228924512863,
+        0.5154802203178406,
+        0.011160903610289097,
+        0.014336141757667065,
+        0.3338428735733032,
+        0.014873813837766647,
+        0.19739268720149994,
+        0.02092195861041546,
+        0.012870178557932377,
+        0.4327916204929352,
+        0.0069486419670283794,
+        0.0027215166483074427,
+        0.007831106893718243,
+        0.03944988548755646,
+        0.32768434286117554,
+        0.022586284205317497,
+        0.010948597453534603,
+        0.2614288926124573,
+        0.0026484786067157984,
+        0.01668066345155239,
+        0.006548121105879545,
+        0.019405510276556015,
+        0.01303237583488226,
+        0.021849118173122406,
+        0.02059454657137394,
+        0.014846342615783215,
+        0.01779354363679886
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disapproval",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "disapproval"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 8,
+    "lines_per_scene_fallback": 20
+  }
+}

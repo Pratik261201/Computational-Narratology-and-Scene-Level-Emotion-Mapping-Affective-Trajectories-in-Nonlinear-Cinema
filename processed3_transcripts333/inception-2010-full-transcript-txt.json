@@ -1,0 +1,887 @@
+{
+  "source_file": "Inception _2010_ - full transcript.txt",
+  "title": "Inception",
+  "year": "2010",
+  "meta_description": null,
+  "num_scenes": 17,
+  "avg_scene_chars": 2210,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "? ? ? P ? P@ ? P@r ? P@rM ? P@rM! ? P@rM!N ? P@rM!Nd ? P@rM!Nde ? P@rM!NdeR ? P@rM!NdeR ? P@rM!NdeR M ? P@rM!NdeR M@ ? P@rM!NdeR M@n ? P@rM!NdeR M@nk ? P@rM!NdeR M@nk? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? Mobile - +919815899536 BILBAO, SPAIN So good of you to come, Mr Bond, particuIarIy on such short notice. If you can't trust a Swiss banker, what's the worId come to? Bon. Now that we're aII comfortabIe, why don't you sit down? It was not easy, but I have retrieved the money. No doubt Sir Robert wiII be pIeased to see it again. At the current rate of exchange, minus the fees and certain unforeseeabIe expenses. Voil?. Your receipt. WouId you Iike to check my figures? Oh, I'm sure they're perfectIy rounded. It's aII there. I didn't come for the money. The report Sir Robert bought was stoIen from an MI6 agent who was kiIIed for it. I want to know who kiIIed him. TerribIe tragedy. I just want a name. I am mereIy the middIeman. I'm just returning the money to its rightfuI owner. And we know how difficuIt that can be for a Swiss banker. I am offering you the opportunity to waIk out with the money, Mr Bond. I'm giving you the opportunity to waIk out aIive. Looking at our present situation, strictIy as a banker, I'd say that the numbers are not on your side. Perhaps you faiIed to take into account my... hidden assets. Get up! You seem to have had a smaII reversaI of fortune. Give me the name. I can't teII you. Let's count to three. You can do that, can't you? One. Two. AII right, but you'II have to protect me... MI6 HEADQUARTERS LONDON James! Have you brought me a souvenir from your trip? ChocoIates? An engagement ring? I thought you might enjoy one of these. How romantic. I know exactIy where to put that. Oh, Moneypenny. The story of our reIationship. CIose, but no cigar. l hate to tear you away, 007. Would you mind coming in? Right away, M. Sir Robert King, James Bond. Ah, the man who retrieved my money. I can't thank you enough. CarefuI, M. I might steaI him from you. Construction's not exactIy my... speciaIity. Quite the opposite, in fact. Best to the famiIy. - OId friend? - We read Iaw at Oxford together. I aIways knew he'd conquer the worId. - Care for a drink?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "? ? ? P ? P@ ? P@r ? P@rM ? P@rM! ? P@rM!N ? P@rM!Nd ? P@rM!Nde ? P@rM!NdeR ? P@rM!NdeR ? P@rM!NdeR M ? P@rM!NdeR M@ ? P@rM!NdeR M@n ? P@rM!NdeR M@nk ? P@rM!NdeR M@nk? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? Mobile - +919815899536 BILBAO, SPAIN So good of you to come, Mr Bond, particuIarIy on such short notice. If you can't trust a Swiss banker, what's the worId come to? Bon. Now that we're aII comfortabIe, why don't you sit down? It was not easy, but I have retrieved the money. No doubt Sir Robert wiII be pIeased to see it again. At the current rate of exchange, minus the fees and certain unforeseeabIe expenses. Voil?. Your receipt. WouId you Iike to check my figures? Oh, I'm sure they're perfectIy rounded. It's aII there. I didn't come for the money. The report Sir Robert bought was stoIen from an MI6 agent who was kiIIed for it. I want to know who kiIIed him. TerribIe tragedy. I just want a name. I am mereIy the middIeman. I'm just returning the money to its rightfuI owner. And we know how difficuIt that can be for a Swiss banker. I am offering you the opportunity to waIk out with the money, Mr Bond. I'm giving you the opportunity to waIk out aIive. Looking at our present situation, strictIy as a banker, I'd say that the numbers are not on your side. Perhaps you faiIed to take into account my... hidden assets. Get up! You seem to have had a smaII reversaI of fortune. Give me the name. I can't teII you. Let's count to three. You can do that, can't you? One. Two. AII right, but you'II have to protect me... MI6 HEADQUARTERS LONDON James! Have you brought me a souvenir from your trip? ChocoIates? An engagement ring? I thought you might enjoy one of these. How romantic. I know exactIy where to put that. Oh, Moneypenny. The story of our reIationship. CIose, but no cigar. l hate to tear you away, 007. Would you mind coming in? Right away, M. Sir Robert King, James Bond. Ah, the man who retrieved my money. I can't thank you enough. CarefuI, M. I might steaI him from you. Construction's not exactIy my... speciaIity. Quite the opposite, in fact. Best to the famiIy. - OId friend? - We read Iaw at Oxford together. I aIways knew he'd conquer the worId. - Care for a drink?"
+      ],
+      "scene_length_chars": 2303,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0019433179404586554,
+        0.0009302642429247499,
+        0.0016051267739385366,
+        0.0006394831580109894,
+        0.003884113859385252,
+        0.003368485253304243,
+        0.03074604645371437,
+        0.6654369831085205,
+        0.01848241314291954,
+        0.0008081823471002281,
+        0.0005299067706800997,
+        0.00022984429961070418,
+        0.00038679438875988126,
+        0.001768492627888918,
+        0.00045659320312552154,
+        0.15343938767910004,
+        0.0005217395373620093,
+        0.0006740429671481252,
+        0.0014726847875863314,
+        0.00017593095253687352,
+        0.007951184175908566,
+        0.00023073528427630663,
+        0.0048640426248312,
+        0.0005290773697197437,
+        0.001371696125715971,
+        0.0006405898602679372,
+        0.003142889589071274,
+        0.4303150773048401
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "- Yes, thank you. He's a man of great integrity. Who buys stoIen reports for ?3m. Thank you. Any Ieads on the sniper? Not one. ProfessionaI job. She must be working for someone. Is this the stoIen report? Yes, cIassified, from the Russian Atomic Energy Department. What wouId King want this for? He was Ied to beIieve the document was a secret report, identifying the terrorists who'd attacked his new oiI pipeIine. Interesting. But it doesn't expIain why someone wouId want me out of their office aIive. King! The money! Moneypenny, stop King. Move! Move! Move! Stop! Move! Get out of the way! Medics coming through! Stop! Stop! It isn't finished! What was that?! - Let's go! - What the heII do you think...? Let's go! Listen to me! You can't get away. We can make a deaI. Who are you working for? Don't do it! Don't bIow us up! I can protect you! Do you understand? I can protect you. Not from him. ' l know how to hurt ' l know how to heal ' l know what to show ' And what to conceal ' l know when to talk ' And l know when to touch ' No-one ever died ' From wanting too much ' The world is not enough ' But it is such a perfectplace ' To start, my love ' And ifyou're strong enough ' Together we can take the world apart ' My love ' We know when to kiss ' And we know when to kill ' lf we can't have it all ' Then nobody will ' The world is not enough ' But it is such a perfectplace ' To start, my love ' And ifyou're strong enough ' Together we can take the world apart ' My love ' l feel safe ' And l feel scared ' l feel ready ' And yet unprepared ' The world is not enough ' The world is not enough ' No, nowhere near enough ' The world is not enough That's right. HeIIo, my dear. - Who's that young woman? - King's daughter. EIektra. Thank you. The money was dipped in urea, MI6 HEADQUARTERS SCOTLAND in effect, a fertiliser bomb. Having handIed the money, the water on 007's hands started a chemicaI reaction. In one of the notes the anti-counterfeiting strip.. ..had been repIaced with magnesium, which acted as a detonator. And King's IapeI pin was switched for a copy, which contained a radio transmitter to trigger the bIast. In other words, he set off the bomb that kiIIed him. We know it was someone cIose to King. And our onIy Iead committed suicide on that baIIoon.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Yes, thank you. He's a man of great integrity. Who buys stoIen reports for ?3m. Thank you. Any Ieads on the sniper? Not one. ProfessionaI job. She must be working for someone. Is this the stoIen report? Yes, cIassified, from the Russian Atomic Energy Department. What wouId King want this for? He was Ied to beIieve the document was a secret report, identifying the terrorists who'd attacked his new oiI pipeIine. Interesting. But it doesn't expIain why someone wouId want me out of their office aIive. King! The money! Moneypenny, stop King. Move! Move! Move! Stop! Move! Get out of the way! Medics coming through! Stop! Stop! It isn't finished! What was that?! - Let's go! - What the heII do you think...? Let's go! Listen to me! You can't get away. We can make a deaI. Who are you working for? Don't do it! Don't bIow us up! I can protect you! Do you understand? I can protect you. Not from him. ' l know how to hurt ' l know how to heal ' l know what to show ' And what to conceal ' l know when to talk ' And l know when to touch ' No-one ever died ' From wanting too much ' The world is not enough ' But it is such a perfectplace ' To start, my love ' And ifyou're strong enough ' Together we can take the world apart ' My love ' We know when to kiss ' And we know when to kill ' lf we can't have it all ' Then nobody will ' The world is not enough ' But it is such a perfectplace ' To start, my love ' And ifyou're strong enough ' Together we can take the world apart ' My love ' l feel safe ' And l feel scared ' l feel ready ' And yet unprepared ' The world is not enough ' The world is not enough ' No, nowhere near enough ' The world is not enough That's right. HeIIo, my dear. - Who's that young woman? - King's daughter. EIektra. Thank you. The money was dipped in urea, MI6 HEADQUARTERS SCOTLAND in effect, a fertiliser bomb. Having handIed the money, the water on 007's hands started a chemicaI reaction. In one of the notes the anti-counterfeiting strip.. ..had been repIaced with magnesium, which acted as a detonator. And King's IapeI pin was switched for a copy, which contained a radio transmitter to trigger the bIast. In other words, he set off the bomb that kiIIed him. We know it was someone cIose to King. And our onIy Iead committed suicide on that baIIoon."
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3051697313785553,
+        0.0008191773085854948,
+        0.02999763749539852,
+        0.006073959171772003,
+        0.0026799796614795923,
+        0.005866406485438347,
+        0.0978613868355751,
+        0.10554081946611404,
+        0.005013726186007261,
+        0.0015750626334920526,
+        0.008994883857667446,
+        0.0010576724307611585,
+        0.0010354967089369893,
+        0.005016874987632036,
+        0.2604117691516876,
+        0.6214425563812256,
+        0.0029289976228028536,
+        0.0013428557431325316,
+        0.2218020111322403,
+        0.003579111536964774,
+        0.0032226096373051405,
+        0.00558236101642251,
+        0.011961993761360645,
+        0.0026030477602034807,
+        0.004793955013155937,
+        0.0025354560930281878,
+        0.017968585714697838,
+        0.038109153509140015
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "fear"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "But given the size of King's organisation, it couId be anyone, anywhere. M. This wiII not stand. We wiII not be terrorised by cowards who wouId murder, and use us as the tooI. We'II find these peopIe. We'II foIIow them to the farthest ends of the earth if needs be. And we will bring them to justice. Tanner! Sorry, James. M says you're off the active duty Iist untiI you're cIeared by MedicaI. DisIocated coIIarbone. If any more tendons snap, I'm afraid you'II be out of action for weeks. MoIIy, I need a cIean biII of heaIth. You have to cIear me for duty. James, - that wouIdn't reaIIy be... - EthicaI? PracticaI... smart. WeII, Iet's just... skirt the issue, shaII we? You'd have to promise to caII me... ..this time. Whatever the doctor orders. And I suppose if you stayed in constant contact... Of course. If you showed sufficient stamina, and cut out aII kinds of... Strenuous activity? We aII have to pay the piper some time. - Right, Q? - Oh, pipe down, 007. Was it something I said? No. Something you destroyed. My fishing boat. For my retirement. Away from you! Now, I want to introduce you to the young feIIow I'm grooming to foIIow me. HeIps if you open the door. And you might be...? This is 007. If you're Q, does that make him R? Ah, yes, the Iegendary 007 wit. Or at Ieast haIf of it. Now I dare say, 007, that you've met your match - with this machine. - Yeah? New modeI, improved specs? I thought you were on the inactive roster. Some kind of injury? Yes, weII, we'II see about that. So? The very Iatest in intercepts and countermeasures. Titanium armour, a muItitasking heads-up dispIay, and six beverage cup hoIders. AII in aII, rather stocked! FuIIy Ioaded, I think is the term. - I think... - You're not here to think. You're here to do what I teII you. Now go and put on the coat and demonstrate it for 007. But of course. Now watch cIoseIy, pIease, 007. The right arm goes in the right sIeeve, thus, and the Ieft arm in the Ieft sIeeve, thus. Now, note cIoseIy, pIease, pockets, poppers and zipper. Take the Iower part of the zipper and insert it into the... Oh, puII the tag! What? You said... Q...! Seems weII-suited for the job. You're not retiring any time soon, are you? Now pay attention, 007. I've aIways tried to teach you two things. First, never Iet them see you bIeed.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "But given the size of King's organisation, it couId be anyone, anywhere. M. This wiII not stand. We wiII not be terrorised by cowards who wouId murder, and use us as the tooI. We'II find these peopIe. We'II foIIow them to the farthest ends of the earth if needs be. And we will bring them to justice. Tanner! Sorry, James. M says you're off the active duty Iist untiI you're cIeared by MedicaI. DisIocated coIIarbone. If any more tendons snap, I'm afraid you'II be out of action for weeks. MoIIy, I need a cIean biII of heaIth. You have to cIear me for duty. James, - that wouIdn't reaIIy be... - EthicaI? PracticaI... smart. WeII, Iet's just... skirt the issue, shaII we? You'd have to promise to caII me... ..this time. Whatever the doctor orders. And I suppose if you stayed in constant contact... Of course. If you showed sufficient stamina, and cut out aII kinds of... Strenuous activity? We aII have to pay the piper some time. - Right, Q? - Oh, pipe down, 007. Was it something I said? No. Something you destroyed. My fishing boat. For my retirement. Away from you! Now, I want to introduce you to the young feIIow I'm grooming to foIIow me. HeIps if you open the door. And you might be...? This is 007. If you're Q, does that make him R? Ah, yes, the Iegendary 007 wit. Or at Ieast haIf of it. Now I dare say, 007, that you've met your match - with this machine. - Yeah? New modeI, improved specs? I thought you were on the inactive roster. Some kind of injury? Yes, weII, we'II see about that. So? The very Iatest in intercepts and countermeasures. Titanium armour, a muItitasking heads-up dispIay, and six beverage cup hoIders. AII in aII, rather stocked! FuIIy Ioaded, I think is the term. - I think... - You're not here to think. You're here to do what I teII you. Now go and put on the coat and demonstrate it for 007. But of course. Now watch cIoseIy, pIease, 007. The right arm goes in the right sIeeve, thus, and the Ieft arm in the Ieft sIeeve, thus. Now, note cIoseIy, pIease, pockets, poppers and zipper. Take the Iower part of the zipper and insert it into the... Oh, puII the tag! What? You said... Q...! Seems weII-suited for the job. You're not retiring any time soon, are you? Now pay attention, 007. I've aIways tried to teach you two things. First, never Iet them see you bIeed."
+      ],
+      "scene_length_chars": 2304,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0449707955121994,
+        0.0009275023476220667,
+        0.020007820799946785,
+        0.0009160769986920059,
+        0.0012016502441838384,
+        0.001441266038455069,
+        0.03179164603352547,
+        0.24960766732692719,
+        0.005864037666469812,
+        0.0008315214072354138,
+        0.0006376909441314638,
+        0.00039813583134673536,
+        0.0005722953355871141,
+        0.0039324951358139515,
+        0.14802275598049164,
+        0.00024873195798136294,
+        0.0021425820887088776,
+        0.00038636758108623326,
+        0.0009540720493532717,
+        0.0006461109151132405,
+        0.0017490824684500694,
+        0.0023060350213199854,
+        0.003941514994949102,
+        0.00013103171659167856,
+        0.003970819059759378,
+        0.0011948097962886095,
+        0.006867827381938696,
+        0.7441892027854919
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "And the second? AIways have an escape pIan. Good evening. The Elektra King kidnap ordeal is over. The Cyprus authorities say she escaped after shooting dead two ofher captors, and is... He shouted. He shouted all the time. Level One. Clearance required. Level One. Clearance required. Yes, 007? TeII me about the kidnapping of EIektra King. I wasn't aware you were on this case. I brought the money in that kiIIed King. - Don't make this personaI. - I'm not. Are you? You're the onIy one who couId seaI her fiIe. WiII you excuse us? I wiII not toIerate insubordination, 007. What happened? After EIektra King was kidnapped, her father tried to deaI with it on his own, with no success. So he came to me. As you are aware, we do not negotiate with terrorists. And against every instinct in my heart, every... emotion as a mother, I toId him not to pay the ransom. I thought we had time on our side. You used the girI as bait. Yes. The money in King's briefcase was preciseIy the same amount as the ransom demand for his daughter. It's a message. Your terrorist is back. Victor Zokas, aka... Renard, the anarchist. He was operating in Moscow in 1996. Pyongyang, North Korea, before that. And he's been spotted in Afghanistan, Bosnia, Iraq, Iran, Beirut, and Cambodia. AII the romantic vacation spots. His onIy goaI is chaos. After Robert came to me I sent 009 to kiII Renard. Before he compIeted the mission, EIektra escaped. A week Iater our man caught up with the target. He put a buIIet in his head. That buIIet's stiII there. How did he survive? The doctor who saved Renard couIdn't get the buIIet out. So Renard kiIIed him. It's moving through the meduIIa obIongata, kiIIing off his senses. Touch, smeII, he feeIs no pain... He can push himseIf harder, Ionger than any normaI man. The buIIet wiII kiII him, but he'II grow stronger every day untiI the day he dies. Robert is dead, MI6 is humiIiated. He's had his revenge. Not quite. Renard had three enemies in that kidnapping. And there's stiII one he hasn't touched. EIektra. M. I see the good doctor has cIeared you. Notes you have exceptionaI stamina. I'm sure she was touched by his dedication to the job in hand. 007, I want you to go to EIektra. She's taken over the construction of her father's oiI pipeIine in the Caspian Sea.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And the second? AIways have an escape pIan. Good evening. The Elektra King kidnap ordeal is over. The Cyprus authorities say she escaped after shooting dead two ofher captors, and is... He shouted. He shouted all the time. Level One. Clearance required. Level One. Clearance required. Yes, 007? TeII me about the kidnapping of EIektra King. I wasn't aware you were on this case. I brought the money in that kiIIed King. - Don't make this personaI. - I'm not. Are you? You're the onIy one who couId seaI her fiIe. WiII you excuse us? I wiII not toIerate insubordination, 007. What happened? After EIektra King was kidnapped, her father tried to deaI with it on his own, with no success. So he came to me. As you are aware, we do not negotiate with terrorists. And against every instinct in my heart, every... emotion as a mother, I toId him not to pay the ransom. I thought we had time on our side. You used the girI as bait. Yes. The money in King's briefcase was preciseIy the same amount as the ransom demand for his daughter. It's a message. Your terrorist is back. Victor Zokas, aka... Renard, the anarchist. He was operating in Moscow in 1996. Pyongyang, North Korea, before that. And he's been spotted in Afghanistan, Bosnia, Iraq, Iran, Beirut, and Cambodia. AII the romantic vacation spots. His onIy goaI is chaos. After Robert came to me I sent 009 to kiII Renard. Before he compIeted the mission, EIektra escaped. A week Iater our man caught up with the target. He put a buIIet in his head. That buIIet's stiII there. How did he survive? The doctor who saved Renard couIdn't get the buIIet out. So Renard kiIIed him. It's moving through the meduIIa obIongata, kiIIing off his senses. Touch, smeII, he feeIs no pain... He can push himseIf harder, Ionger than any normaI man. The buIIet wiII kiII him, but he'II grow stronger every day untiI the day he dies. Robert is dead, MI6 is humiIiated. He's had his revenge. Not quite. Renard had three enemies in that kidnapping. And there's stiII one he hasn't touched. EIektra. M. I see the good doctor has cIeared you. Notes you have exceptionaI stamina. I'm sure she was touched by his dedication to the job in hand. 007, I want you to go to EIektra. She's taken over the construction of her father's oiI pipeIine in the Caspian Sea."
+      ],
+      "scene_length_chars": 2287,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0016164545668289065,
+        0.0005332122673280537,
+        0.0022552211303263903,
+        0.0006525232456624508,
+        0.0007602355326525867,
+        0.001140610664151609,
+        0.023030944168567657,
+        0.2702321708202362,
+        0.0012718391371890903,
+        0.0009523365297354758,
+        0.0006258244393393397,
+        0.0002930416667368263,
+        0.0006364696309901774,
+        0.0008687666268087924,
+        0.0007789937662892044,
+        0.00041232668445445597,
+        0.0007652787026017904,
+        0.00021762018150184304,
+        0.0016445772489532828,
+        0.00042290447163395584,
+        0.000801042013335973,
+        0.0003494209377095103,
+        0.051609668880701065,
+        0.00018563905905466527,
+        0.0008510553743690252,
+        0.0007885556551627815,
+        0.004680851008743048,
+        0.8078561425209045
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "realization"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "Find who switched that pin. If your instincts are right, Renard wiII be back. And EIektra wiII be the next target. The worm on the hook again? She doesn't need to know the same man.. ..may be after her. Don't frighten her. A shadow operation? Remember, shadows stay in front or behind. Never on top. AZERBAIJAN You, go back. Leave! This area is cIosed. I'm here to see EIektra King. James Bond, UniversaI Exports. I'm Davidov, Chief of Security. We're having some probIems with the viIIagers. I've toId Miss King to stay at the office in Baku. Oh, heII! Miss King, I toId you to stay... I know what you toId me. Come with me. Understand us and heIp us, God, for God's sake. The fact is that this is our mutuaI inheritance. This is our faith. You mustn't aIIow for this. No. My famiIy is very weII tied to this pIace. I won't aIIow this. Everything wiII be aII right. BIessed tidings. The church is saved! Send the pipe around. That's going to take weeks and cost miIIions. Your father approved this route. Then my father was wrong. Do it. - Davidov... - I'II taIk to her. I saw you at my father's funeraI. Yes. I'm sorry. M toId me she was sending someone. Mr...? Bond. James Bond. Did you know my father? I met him once, briefIy. You seem to have inherited his touch for dipIomacy. Saving the church? And avoiding the bIoodshed. 100 years ago my mother's famiIy discovered the oiI here. When the Soviet Union was formed the Communists spent the next 70 years pIundering our countryside for it. I saw the mess they Ieft on the drive in. The new pipeIine wiII guarantee our future. But it wouId be a crime to destroy what IittIe is Ieft of our past. But you didn't come here to taIk about oiI, did you? No. TeII me, have... have you ever Iost a Ioved one, Mr Bond? M sent me because we're afraid your Iife might be in danger. PIease, I want to show you something. I'm trying to buiId an 800-miIe pipeIine through Turkey, past the terrorists in Iraq, Iran and Syria. Up here the Russians have three competing pipeIines and they'II do anything to stop me. My father was murdered, the viIIagers are rioting, and you have come aII this way to teII me that I might be in danger? We suspect there might be an insider. My father's pin. No. A dupIicate. With a transmitter inside that set off the bomb.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Find who switched that pin. If your instincts are right, Renard wiII be back. And EIektra wiII be the next target. The worm on the hook again? She doesn't need to know the same man.. ..may be after her. Don't frighten her. A shadow operation? Remember, shadows stay in front or behind. Never on top. AZERBAIJAN You, go back. Leave! This area is cIosed. I'm here to see EIektra King. James Bond, UniversaI Exports. I'm Davidov, Chief of Security. We're having some probIems with the viIIagers. I've toId Miss King to stay at the office in Baku. Oh, heII! Miss King, I toId you to stay... I know what you toId me. Come with me. Understand us and heIp us, God, for God's sake. The fact is that this is our mutuaI inheritance. This is our faith. You mustn't aIIow for this. No. My famiIy is very weII tied to this pIace. I won't aIIow this. Everything wiII be aII right. BIessed tidings. The church is saved! Send the pipe around. That's going to take weeks and cost miIIions. Your father approved this route. Then my father was wrong. Do it. - Davidov... - I'II taIk to her. I saw you at my father's funeraI. Yes. I'm sorry. M toId me she was sending someone. Mr...? Bond. James Bond. Did you know my father? I met him once, briefIy. You seem to have inherited his touch for dipIomacy. Saving the church? And avoiding the bIoodshed. 100 years ago my mother's famiIy discovered the oiI here. When the Soviet Union was formed the Communists spent the next 70 years pIundering our countryside for it. I saw the mess they Ieft on the drive in. The new pipeIine wiII guarantee our future. But it wouId be a crime to destroy what IittIe is Ieft of our past. But you didn't come here to taIk about oiI, did you? No. TeII me, have... have you ever Iost a Ioved one, Mr Bond? M sent me because we're afraid your Iife might be in danger. PIease, I want to show you something. I'm trying to buiId an 800-miIe pipeIine through Turkey, past the terrorists in Iraq, Iran and Syria. Up here the Russians have three competing pipeIines and they'II do anything to stop me. My father was murdered, the viIIagers are rioting, and you have come aII this way to teII me that I might be in danger? We suspect there might be an insider. My father's pin. No. A dupIicate. With a transmitter inside that set off the bomb."
+      ],
+      "scene_length_chars": 2293,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009099007584154606,
+        0.0008350710268132389,
+        0.030330074951052666,
+        0.0009016671101562679,
+        0.0014609304489567876,
+        0.005016010720282793,
+        0.010562616400420666,
+        0.06156453490257263,
+        0.00403214618563652,
+        0.005020823795348406,
+        0.005342623218894005,
+        0.0005847340798936784,
+        0.0005481292027980089,
+        0.002134687500074506,
+        0.31561681628227234,
+        0.00032101289252750576,
+        0.004012442193925381,
+        0.00032224590540863574,
+        0.0014208167558535933,
+        0.0013247072929516435,
+        0.004175714682787657,
+        0.0008981431019492447,
+        0.0037851398810744286,
+        0.00028648829902522266,
+        0.15558303892612457,
+        0.02371835708618164,
+        0.005319088231772184,
+        0.5886262655258179
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "fear",
+        "remorse"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "My famiIy has reIied on MI6 twice, Mr Bond. I won't make that mistake a third time. I'm going to finish buiIding this pipeIine and I don't need your heIp. Now if you'II excuse me, I have to check the survey Iines. I've aIways wanted to check the survey Iines. You don't take no for an answer, do you? No. I hope you know how to ski, then. I came prepared for a coId reception. Can't Iand! Wind's too strong. HoId her steady. You ski very weII, Mr Bond. Seems you enjoy being chased. ProbabIy happens aII the time. Less often than you might think. So this is where they meet, the two ends of the pipeIine? Your father's Iegacy. My famiIy's Iegacy... to the worId. - Expecting visitors? - No. This isn't a sociaI caII. Head for the guIIy. I'II Iead them into the trees. Go! Go! See you back at the Iodge. Oh, my God, we're buried aIive! It's aII right! It's aII right! I can't stay here! You're not going to. EIektra... - I can't breathe! - EIektra! I can't breathe! EIektra, Iook at me! Look at my eyes. Look at my eyes. Look at my eyes! You're aII right. Everything's aII right. Trust me. OK. Trust me. BAKU She's fine. Some bumps and bruises, but otherwise fine. She wants to see you. Not you, Davidov. Him. Are you aII right? I need to ask you something. And I want you to teII me the truth. Who is it? Who is trying to kiII me? I toId you, I don't know. But I'm gonna find him. Not good enough. After the kidnapping I was afraid. I was afraid to go outside, afraid to be aIone, afraid to be in a crowd. I was afraid to do anything at aII. UntiI I reaIised... I can't hide in the shadows. I can't Iet fear run my Iife. I won't. After I find him, you won't have to. Don't go. Stay with me. PIease. I can't do that. I thought it was your job to protect me. You'II be safe here. I don't want to be safe. I'II be back soon. And who's afraid now, Mr Bond? Bets, pIease! I want to see VaIentin Zukovsky. ImpossibIe. Vodka martini. Shaken, not stirred. TeII him James Bond is here. Now. I don't think you heard me. Mr Zukovsky wiII be deIighted to see you. After you. No, after you. I insist. Bond! James Bond! Meet Nina and Verushka. Lose the girIs, VaIentin. We need to taIk. Why am I suddenIy worried that I'm not carrying enough insurance? ChiII out, James. Fine, Iadies. Go on, beat it. Scram. BuII, give them an inch.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "My famiIy has reIied on MI6 twice, Mr Bond. I won't make that mistake a third time. I'm going to finish buiIding this pipeIine and I don't need your heIp. Now if you'II excuse me, I have to check the survey Iines. I've aIways wanted to check the survey Iines. You don't take no for an answer, do you? No. I hope you know how to ski, then. I came prepared for a coId reception. Can't Iand! Wind's too strong. HoId her steady. You ski very weII, Mr Bond. Seems you enjoy being chased. ProbabIy happens aII the time. Less often than you might think. So this is where they meet, the two ends of the pipeIine? Your father's Iegacy. My famiIy's Iegacy... to the worId. - Expecting visitors? - No. This isn't a sociaI caII. Head for the guIIy. I'II Iead them into the trees. Go! Go! See you back at the Iodge. Oh, my God, we're buried aIive! It's aII right! It's aII right! I can't stay here! You're not going to. EIektra... - I can't breathe! - EIektra! I can't breathe! EIektra, Iook at me! Look at my eyes. Look at my eyes. Look at my eyes! You're aII right. Everything's aII right. Trust me. OK. Trust me. BAKU She's fine. Some bumps and bruises, but otherwise fine. She wants to see you. Not you, Davidov. Him. Are you aII right? I need to ask you something. And I want you to teII me the truth. Who is it? Who is trying to kiII me? I toId you, I don't know. But I'm gonna find him. Not good enough. After the kidnapping I was afraid. I was afraid to go outside, afraid to be aIone, afraid to be in a crowd. I was afraid to do anything at aII. UntiI I reaIised... I can't hide in the shadows. I can't Iet fear run my Iife. I won't. After I find him, you won't have to. Don't go. Stay with me. PIease. I can't do that. I thought it was your job to protect me. You'II be safe here. I don't want to be safe. I'II be back soon. And who's afraid now, Mr Bond? Bets, pIease! I want to see VaIentin Zukovsky. ImpossibIe. Vodka martini. Shaken, not stirred. TeII him James Bond is here. Now. I don't think you heard me. Mr Zukovsky wiII be deIighted to see you. After you. No, after you. I insist. Bond! James Bond! Meet Nina and Verushka. Lose the girIs, VaIentin. We need to taIk. Why am I suddenIy worried that I'm not carrying enough insurance? ChiII out, James. Fine, Iadies. Go on, beat it. Scram. BuII, give them an inch."
+      ],
+      "scene_length_chars": 2318,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0028785387985408306,
+        0.0011983586009591818,
+        0.003451113821938634,
+        0.002589241834357381,
+        0.0036747390404343605,
+        0.18136316537857056,
+        0.011753331869840622,
+        0.24214398860931396,
+        0.004788621328771114,
+        0.002704757498577237,
+        0.00443632248789072,
+        0.0019764488097280264,
+        0.0012152116978541017,
+        0.002337741432711482,
+        0.4942549169063568,
+        0.0008939779363572598,
+        0.004435011185705662,
+        0.0024708975106477737,
+        0.001920136041007936,
+        0.09770064800977707,
+        0.014825686812400818,
+        0.0009688917780295014,
+        0.0068902731873095036,
+        0.0008351410506293178,
+        0.0006946899811737239,
+        0.004753682296723127,
+        0.002529503544792533,
+        0.30021974444389343
+      ],
+      "goemotions_topk": [
+        "fear",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "And make sure they Iose it in this casino? I'II see you Iater, Mr Bond. I see you put your money where your mouth is. Mr BuIIion does not trust banks. So, what wouId you Iike to taIk about? I'm not sure I can reaIIy heIp you. I'm a Iegitimate businessman now. WouId you care for some caviar? My own brand, Zukovsky's Finest. Take a Iook at this. Russian SpeciaI Services. Atomic Energy Anti-Terrorist Unit. Where did you find this? I took it off a parahawk which tried to kiII EIektra King. Renard is behind this. I think you and I had better have a drink. And then after Afghanistan the KGB decided Renard was a IiabiIity, and just cut him Ioose. Now he works freeIance. But for whom? There are four competing pipeIines. I'II bet haIf the customers in this casino wouId be very happy to see the King pipeIine disappear. - What's funny? - Oh, nothing. It just appears Miss King does not share your concern. I wanna get my money back! Why can't I get my money? What are you doing here? The same thing you are. Looking for the peopIe who tried to kiII me. Let me take you home. Now. No. I want them to see I'm not frightened. Miss King, how very nice to see you. We have kept your father's chair free. Free? Nothing comes free from you, Zukovsky. Your father had a credit Iine with us - one miIIion US. I'd be happy to extend you that courtesy. So, what's it to be? Vingt-et-un? BIackjack, your father's favourite? Let's keep it simpIe. One card, high draw, $1 m. Wait. Bury the top three cards. You're determined to protect me. Perhaps from yourseIf. You don't have to do this. There's no point in Iiving if you can't feeI aIive. Queen of hearts. It appears that you have been beaten. By the ace of cIubs. No hard feeIings. Come again soon. ShaII we? EIektra, this is a game I can't afford to pIay. I know. What happened to Davidov? I gave him the night off. WeIcome to the DeviI's Breath. For thousands of years Hindu piIgrims have journeyed to this hoIy pIace to witness the wonder of the miracIe of the naturaI fIames that never die. And to test their devotion... to God, by hoIding the scaIding rocks in their hands as they said their daiIy prayers. TeII me, Davidov, what happened this afternoon? You promised me your best men. Mr Arkov suppIied the Iatest weapons.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And make sure they Iose it in this casino? I'II see you Iater, Mr Bond. I see you put your money where your mouth is. Mr BuIIion does not trust banks. So, what wouId you Iike to taIk about? I'm not sure I can reaIIy heIp you. I'm a Iegitimate businessman now. WouId you care for some caviar? My own brand, Zukovsky's Finest. Take a Iook at this. Russian SpeciaI Services. Atomic Energy Anti-Terrorist Unit. Where did you find this? I took it off a parahawk which tried to kiII EIektra King. Renard is behind this. I think you and I had better have a drink. And then after Afghanistan the KGB decided Renard was a IiabiIity, and just cut him Ioose. Now he works freeIance. But for whom? There are four competing pipeIines. I'II bet haIf the customers in this casino wouId be very happy to see the King pipeIine disappear. - What's funny? - Oh, nothing. It just appears Miss King does not share your concern. I wanna get my money back! Why can't I get my money? What are you doing here? The same thing you are. Looking for the peopIe who tried to kiII me. Let me take you home. Now. No. I want them to see I'm not frightened. Miss King, how very nice to see you. We have kept your father's chair free. Free? Nothing comes free from you, Zukovsky. Your father had a credit Iine with us - one miIIion US. I'd be happy to extend you that courtesy. So, what's it to be? Vingt-et-un? BIackjack, your father's favourite? Let's keep it simpIe. One card, high draw, $1 m. Wait. Bury the top three cards. You're determined to protect me. Perhaps from yourseIf. You don't have to do this. There's no point in Iiving if you can't feeI aIive. Queen of hearts. It appears that you have been beaten. By the ace of cIubs. No hard feeIings. Come again soon. ShaII we? EIektra, this is a game I can't afford to pIay. I know. What happened to Davidov? I gave him the night off. WeIcome to the DeviI's Breath. For thousands of years Hindu piIgrims have journeyed to this hoIy pIace to witness the wonder of the miracIe of the naturaI fIames that never die. And to test their devotion... to God, by hoIding the scaIding rocks in their hands as they said their daiIy prayers. TeII me, Davidov, what happened this afternoon? You promised me your best men. Mr Arkov suppIied the Iatest weapons."
+      ],
+      "scene_length_chars": 2269,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0032732055988162756,
+        0.06436314433813095,
+        0.005137528758496046,
+        0.0016183616826310754,
+        0.0023090869653970003,
+        0.1962844729423523,
+        0.008945574052631855,
+        0.542353093624115,
+        0.014842014759778976,
+        0.002140754135325551,
+        0.0026739956811070442,
+        0.00023487462021876127,
+        0.0004698892298620194,
+        0.0025509800761938095,
+        0.0007188679301179945,
+        0.00042269215919077396,
+        0.002107837935909629,
+        0.02024187333881855,
+        0.005741021130234003,
+        0.00037775884266011417,
+        0.005131341516971588,
+        0.0007928638369776309,
+        0.0018518747529014945,
+        0.0006442387239076197,
+        0.0021727168932557106,
+        0.00181587936822325,
+        0.003197228303179145,
+        0.550297737121582
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Yes, but Bond... Bond was unarmed. And you, Arkov? Is everything ready for tomorrow? I have the authorisation and the passes in the car. And I have arranged for a pIane tonight, but... But what? We shouId scrub the rest of the mission. The parahawks were meant to be returned. PeopIe wiII start asking questions, even of me. Because of his incompetence! I see. I see you're right. You're right. He shouId be punished. Davidov, hoId this for me. It was wrong of me to expect so much of you. KiII him. He faiIed his test of devotion. You can take his pIace, take his ID. And do be on time. Ah, poor shouIder! It Iooks painfuI. It needs constant attention. I knew. I knew when I first saw you. I knew it wouId be Iike this. Enough ice for one day. How did you survive? I seduced the guards. Used my body. It gave me controI. And the rest, I got a gun and started shooting. And what about you? What do you do to survive? I take pIeasure... in great beauty. Let's go. It's getting Iate. What happened to Davidov? I was toId to expect him. He was buried with work. Let's go. Get your stuff. OK, come on. Let's get out of here. You're Iate. Did you bring it? The grease? Of course. ExceIIent. Get ready. We're 10 minutes out. And make sure you wear the ID. KAZAKHSTAN CENTRAL ASIA I'm gonna go get some air. WeIcome to Kazakhstan, Dr Arkov. I'm a great admirer of your research. It's not often we see someone of your stature here. I go where the work takes me. Oh, by the way, you have the transport documents? I puIIed the pIutonium out of the one inside. - You can detonate the triggers now. - OK. Look, our IDA physicist. Don't bother. Not interested in men. Take my word for it. This year we decommissioned four test sites. Not even a gIimmer. Are you here for a reason? Or are you just hoping for a gIimmer? And you are? MikhaiI Arkov, Russian Atomic Energy Department. Miss...? Doctor... Jones. Christmas Jones. And don't make any jokes. I've heard 'em aII. I don't know any doctor jokes. This is OK. Take the eIevator down the hoIe. Your friend's aIready down there. Don't I get some kind of protection? No, Dr Arkov. Down there it's aII weapons-grade pIutonium. ReasonabIy safe. Up here we've got hydrogen bombs your Iab buiIt Ieaking tritium, which I've spent six months trying to cIean up.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yes, but Bond... Bond was unarmed. And you, Arkov? Is everything ready for tomorrow? I have the authorisation and the passes in the car. And I have arranged for a pIane tonight, but... But what? We shouId scrub the rest of the mission. The parahawks were meant to be returned. PeopIe wiII start asking questions, even of me. Because of his incompetence! I see. I see you're right. You're right. He shouId be punished. Davidov, hoId this for me. It was wrong of me to expect so much of you. KiII him. He faiIed his test of devotion. You can take his pIace, take his ID. And do be on time. Ah, poor shouIder! It Iooks painfuI. It needs constant attention. I knew. I knew when I first saw you. I knew it wouId be Iike this. Enough ice for one day. How did you survive? I seduced the guards. Used my body. It gave me controI. And the rest, I got a gun and started shooting. And what about you? What do you do to survive? I take pIeasure... in great beauty. Let's go. It's getting Iate. What happened to Davidov? I was toId to expect him. He was buried with work. Let's go. Get your stuff. OK, come on. Let's get out of here. You're Iate. Did you bring it? The grease? Of course. ExceIIent. Get ready. We're 10 minutes out. And make sure you wear the ID. KAZAKHSTAN CENTRAL ASIA I'm gonna go get some air. WeIcome to Kazakhstan, Dr Arkov. I'm a great admirer of your research. It's not often we see someone of your stature here. I go where the work takes me. Oh, by the way, you have the transport documents? I puIIed the pIutonium out of the one inside. - You can detonate the triggers now. - OK. Look, our IDA physicist. Don't bother. Not interested in men. Take my word for it. This year we decommissioned four test sites. Not even a gIimmer. Are you here for a reason? Or are you just hoping for a gIimmer? And you are? MikhaiI Arkov, Russian Atomic Energy Department. Miss...? Doctor... Jones. Christmas Jones. And don't make any jokes. I've heard 'em aII. I don't know any doctor jokes. This is OK. Take the eIevator down the hoIe. Your friend's aIready down there. Don't I get some kind of protection? No, Dr Arkov. Down there it's aII weapons-grade pIutonium. ReasonabIy safe. Up here we've got hydrogen bombs your Iab buiIt Ieaking tritium, which I've spent six months trying to cIean up."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33229073882102966,
+        0.004124682396650314,
+        0.030850760638713837,
+        0.017063908278942108,
+        0.007015800569206476,
+        0.0017298165475949645,
+        0.029567649587988853,
+        0.18857072293758392,
+        0.020475663244724274,
+        0.006804019212722778,
+        0.0017425542464479804,
+        0.0008102746214717627,
+        0.000780682370532304,
+        0.017439646646380424,
+        0.003279012395069003,
+        0.0010877159656956792,
+        0.0006357583333738148,
+        0.0005076341913081706,
+        0.001738120918162167,
+        0.0011844085529446602,
+        0.05326436087489128,
+        0.005647508427500725,
+        0.004887547809630632,
+        0.00010213236237177625,
+        0.0008486940059810877,
+        0.002065882785245776,
+        0.00176059955265373,
+        0.6478305459022522
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "So if you need protection, it's from me. Your friends are waiting for you. Doctor! Aren't you forgetting? Yes, of course. Thank you. By the way... Your English is very good for a Russian. l studied at Oxford. ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? Leave it! Leave it! Come on. Let's go. Expecting Davidov? He caught a buIIet... instead of the pIane. Get off! Keep your mouth shut! You can't kiII me. I'm aIready dead. Yeah... Not dead enough for me. You couId show a IittIe gratitude. I did spare your Iife at the banker's office. That's right. I couIdn't kiII you. You were working for me. You deIivered the money, kiIIed King, and now you brought me the pIane. What's your pIan for the bomb? You first. Or couId it be you don't have a pIan? That bomb wiII never Ieave this room. Neither wiII you! How sad, to be threatened by a man who can't grasp what he's invoIved in. Revenge is not hard to fathom for a man who beIieves in nothing. What do you beIieve in? Preservation of capitaI? Go ahead, shoot me. I weIcome it. My men wiII hear the shot and kiII you. And the firefight wiII bring down haIf the army. But when a certain phone caII isn't made in 20 minutes, EIektra dies. You're bIuffing. She's beautifuI, isn't she? You shouId have had her before, when she was innocent. How does it feeI... to know I broke her in for you? I usuaIIy hate kiIIing an unarmed man. CoId-bIooded murder is a fiIthy business. A man tires of being executed. But in your case, I feeI nothing. Just Iike you. But then again, there's no point Iiving if you can't feeI aIive. Hey! - Drop the gun! - Keep away, CoIoneI! He's an impostor. Dr Arkov is 63 years oId. This is your impostor. AIong with the men outside on the pIane. They're steaIing the bomb. I said drop it! On your knees! WeII done. He wouId have kiIIed us aII. Did you speak to him? Yeah, but he's no atomic scientist. I suppose you were the one who aIIowed him down. You had me, but I knew you couIdn't...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "So if you need protection, it's from me. Your friends are waiting for you. Doctor! Aren't you forgetting? Yes, of course. Thank you. By the way... Your English is very good for a Russian. l studied at Oxford. ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? ? P@rM!NdeR M@nk?? ? Leave it! Leave it! Come on. Let's go. Expecting Davidov? He caught a buIIet... instead of the pIane. Get off! Keep your mouth shut! You can't kiII me. I'm aIready dead. Yeah... Not dead enough for me. You couId show a IittIe gratitude. I did spare your Iife at the banker's office. That's right. I couIdn't kiII you. You were working for me. You deIivered the money, kiIIed King, and now you brought me the pIane. What's your pIan for the bomb? You first. Or couId it be you don't have a pIan? That bomb wiII never Ieave this room. Neither wiII you! How sad, to be threatened by a man who can't grasp what he's invoIved in. Revenge is not hard to fathom for a man who beIieves in nothing. What do you beIieve in? Preservation of capitaI? Go ahead, shoot me. I weIcome it. My men wiII hear the shot and kiII you. And the firefight wiII bring down haIf the army. But when a certain phone caII isn't made in 20 minutes, EIektra dies. You're bIuffing. She's beautifuI, isn't she? You shouId have had her before, when she was innocent. How does it feeI... to know I broke her in for you? I usuaIIy hate kiIIing an unarmed man. CoId-bIooded murder is a fiIthy business. A man tires of being executed. But in your case, I feeI nothing. Just Iike you. But then again, there's no point Iiving if you can't feeI aIive. Hey! - Drop the gun! - Keep away, CoIoneI! He's an impostor. Dr Arkov is 63 years oId. This is your impostor. AIong with the men outside on the pIane. They're steaIing the bomb. I said drop it! On your knees! WeII done. He wouId have kiIIed us aII. Did you speak to him? Yeah, but he's no atomic scientist. I suppose you were the one who aIIowed him down. You had me, but I knew you couIdn't..."
+      ],
+      "scene_length_chars": 2333,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008762438781559467,
+        0.0017267032526433468,
+        0.18552371859550476,
+        0.017223728820681572,
+        0.0010604097042232752,
+        0.0016537322662770748,
+        0.07128355652093887,
+        0.342244029045105,
+        0.0017037807265296578,
+        0.0029445942491292953,
+        0.0015548428054898977,
+        0.0008973573567345738,
+        0.0003623984521254897,
+        0.0010684339795261621,
+        0.001534675364382565,
+        0.24959398806095123,
+        0.0008600646979175508,
+        0.0004635539371520281,
+        0.0012136725708842278,
+        0.00030279645579867065,
+        0.0006042706081643701,
+        0.0002996659022755921,
+        0.000946075888350606,
+        0.00040250958409160376,
+        0.000820917368400842,
+        0.00870596431195736,
+        0.0027928631752729416,
+        0.38348495960235596
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "shouIder the responsibiIity. Now, without any further interruptions, Iet's proceed. Niet! There are too many new faces around here. IncIuding yours. The bomb doesn't move untiI I am satisfied. Hey, aII of you, to the surface now! Come on! Come on! Go! Leave it! Come on! Go! Come on, everybody! Move! They're seaIing us in. Who are you? I work for the British government. Stay caIm. No hard feeIings, Mr Bond. But we're even. Soon... you'II feeI nothing at aII. SeaI the door! CIose it! Come on! Keep going! Move! Hang on! So you're a British spy. Do you have a name? The name's Bond. James Bond. Don't stop! Go! Go! Jump! They won't get very far. Every warhead has a Iocator card. We can track the signaI. You mean one of these? Do we have the range of Renard's pIane? Anywhere in this circIe. Russia, Armenia, Iran, Kazakhstan... I'm sorry to interrupt. EIektra King is caIIing from Baku. It's on the video Iine. Put her on the waII screen. l'm sorry. l would never call you, except... James has disappeared. He left my villa in the middle ofthe night and... my head of security has been found near a local airstrip - murdered. - I'II send someone out. - M, could you come? l can't help thinking... l'm next. Get me out there. - No. Listen... - Just get me out there. Gabor? James? Surprised? What's wrong with you? Are you crazy? Maybe. Or maybe I shouId ask you. After aII, there's no point in Iiving if you can't feeI aIive. Isn't that right, EIektra? Isn't that your motto? - What? - Or did you steaI it from Renard? What? We had a IittIe chat. Knew aII about us, my shouIder, exactIy where to hurt me. Are you saying Renard's trying to kiII me? Drop the act? It's over. I don't know what you're taIking about. Oh, I think you do. It's caIIed StockhoIm Syndrome. Common in kidnappings. Young, impressionabIe victim. SheItered, sexuaIIy inexperienced, a powerfuI kidnapper, skiIIed in torture, manipuIation. Something snaps in the victim's mind. The captive faIIs in Iove with her captor. How dare you! How dare you! That animaI? That monster? He disgusts me. You disgust me. So he knew where to hurt you, is that it? You had a sIing on your arm at the funeraI. I didn't have to sIeep with you to find that out. He used your exact words. So you knew aII the time that he was out there? That he was coming for me?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "shouIder the responsibiIity. Now, without any further interruptions, Iet's proceed. Niet! There are too many new faces around here. IncIuding yours. The bomb doesn't move untiI I am satisfied. Hey, aII of you, to the surface now! Come on! Come on! Go! Leave it! Come on! Go! Come on, everybody! Move! They're seaIing us in. Who are you? I work for the British government. Stay caIm. No hard feeIings, Mr Bond. But we're even. Soon... you'II feeI nothing at aII. SeaI the door! CIose it! Come on! Keep going! Move! Hang on! So you're a British spy. Do you have a name? The name's Bond. James Bond. Don't stop! Go! Go! Jump! They won't get very far. Every warhead has a Iocator card. We can track the signaI. You mean one of these? Do we have the range of Renard's pIane? Anywhere in this circIe. Russia, Armenia, Iran, Kazakhstan... I'm sorry to interrupt. EIektra King is caIIing from Baku. It's on the video Iine. Put her on the waII screen. l'm sorry. l would never call you, except... James has disappeared. He left my villa in the middle ofthe night and... my head of security has been found near a local airstrip - murdered. - I'II send someone out. - M, could you come? l can't help thinking... l'm next. Get me out there. - No. Listen... - Just get me out there. Gabor? James? Surprised? What's wrong with you? Are you crazy? Maybe. Or maybe I shouId ask you. After aII, there's no point in Iiving if you can't feeI aIive. Isn't that right, EIektra? Isn't that your motto? - What? - Or did you steaI it from Renard? What? We had a IittIe chat. Knew aII about us, my shouIder, exactIy where to hurt me. Are you saying Renard's trying to kiII me? Drop the act? It's over. I don't know what you're taIking about. Oh, I think you do. It's caIIed StockhoIm Syndrome. Common in kidnappings. Young, impressionabIe victim. SheItered, sexuaIIy inexperienced, a powerfuI kidnapper, skiIIed in torture, manipuIation. Something snaps in the victim's mind. The captive faIIs in Iove with her captor. How dare you! How dare you! That animaI? That monster? He disgusts me. You disgust me. So he knew where to hurt you, is that it? You had a sIing on your arm at the funeraI. I didn't have to sIeep with you to find that out. He used your exact words. So you knew aII the time that he was out there? That he was coming for me?"
+      ],
+      "scene_length_chars": 2317,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002330440329387784,
+        0.005787748843431473,
+        0.13484683632850647,
+        0.0033112699165940285,
+        0.005959942936897278,
+        0.00259514432400465,
+        0.0441226065158844,
+        0.3733574151992798,
+        0.0023917534854263067,
+        0.003744233399629593,
+        0.0006544660427607596,
+        0.20477402210235596,
+        0.008947928436100483,
+        0.004052475094795227,
+        0.0070274509489536285,
+        0.003218291560187936,
+        0.0045214565470814705,
+        0.0006484626792371273,
+        0.0019981844816356897,
+        0.0007503623492084444,
+        0.0043387808836996555,
+        0.0005760155036114156,
+        0.012304168194532394,
+        0.0006326782167889178,
+        0.009472033008933067,
+        0.006022920366376638,
+        0.19277626276016235,
+        0.34021392464637756
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "disgust"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "And you Iied? You used me. You used me as bait. You made Iove to me. What? To pass the time as you waited for him to strike? HeIIo. He's struck again. Ten men are dead at the pipeIine. I'm coming with you. You do what you want to do, but I've caIIed M. She's coming to take charge. I want an update. Where do we stand? One of Renard's men removed the Iocator card from the bomb, so we can't track it. But... But what? With aII due respect, I don't think you shouId be here. May I remind you that you're the reason I'm here, 007. You disobeyed a direct order and Ieft that girI aIone. Perhaps that girI isn't so innocent. What are you saying? Suppose the inside man, the one who switched King's IapeI pin, turned out to be an inside woman? She kiIIs her father and attacks her own pipeIine? Why? To what end? I don't know. Yet. Look at that. - That's not right. - What is it? An observation rig. It traveIs inside the pipe Iooking for cracks. Shut it down. I don't understand it. It won't respond. The pIace is cIean. No sign of the bomb. The bomb is in the pipeIine. Oh, my God. Must've brought it through here. Heading for the oiI terminaI. Where it wouId do the most damage. Have your men evacuate that terminaI. So now do you beIieve me? This is an emergency situation, so pIease cIear the room. Do it! - He's going for the oiI. - Of course. The pipeIine the West is counting on to suppIy us for the next century. - Do you have an idea? - Maybe. How far is that rig from the terminaI? And how fast is it traveIIing? It's 106 miIes from the terminaI, going 70 miIes an hour. We've 78 minutes. You have another rig? There's one parked ahead of it. CharIes, can you get me out there? Of course. Wait. Are you gonna do what I think you're gonna do? What do I need to defuse a nucIear bomb? Me. There it is. Hatch to the passageway. Take the controIs and keep the speed up so the other rig catches up with us. I'II wait to hear from you. You know how to drive one of these things? Doesn't exactIy take a degree in nucIear physics. They're in the pipeIine. They're on the move. Faster! If there's even the sIightest chance, Bond wiII succeed. He's the best we have. Though I'd never teII him. I hope you're right. Here it comes! It's cIosing up. Faster! Sit tight. No brakes. The controIs are jammed!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And you Iied? You used me. You used me as bait. You made Iove to me. What? To pass the time as you waited for him to strike? HeIIo. He's struck again. Ten men are dead at the pipeIine. I'm coming with you. You do what you want to do, but I've caIIed M. She's coming to take charge. I want an update. Where do we stand? One of Renard's men removed the Iocator card from the bomb, so we can't track it. But... But what? With aII due respect, I don't think you shouId be here. May I remind you that you're the reason I'm here, 007. You disobeyed a direct order and Ieft that girI aIone. Perhaps that girI isn't so innocent. What are you saying? Suppose the inside man, the one who switched King's IapeI pin, turned out to be an inside woman? She kiIIs her father and attacks her own pipeIine? Why? To what end? I don't know. Yet. Look at that. - That's not right. - What is it? An observation rig. It traveIs inside the pipe Iooking for cracks. Shut it down. I don't understand it. It won't respond. The pIace is cIean. No sign of the bomb. The bomb is in the pipeIine. Oh, my God. Must've brought it through here. Heading for the oiI terminaI. Where it wouId do the most damage. Have your men evacuate that terminaI. So now do you beIieve me? This is an emergency situation, so pIease cIear the room. Do it! - He's going for the oiI. - Of course. The pipeIine the West is counting on to suppIy us for the next century. - Do you have an idea? - Maybe. How far is that rig from the terminaI? And how fast is it traveIIing? It's 106 miIes from the terminaI, going 70 miIes an hour. We've 78 minutes. You have another rig? There's one parked ahead of it. CharIes, can you get me out there? Of course. Wait. Are you gonna do what I think you're gonna do? What do I need to defuse a nucIear bomb? Me. There it is. Hatch to the passageway. Take the controIs and keep the speed up so the other rig catches up with us. I'II wait to hear from you. You know how to drive one of these things? Doesn't exactIy take a degree in nucIear physics. They're in the pipeIine. They're on the move. Faster! If there's even the sIightest chance, Bond wiII succeed. He's the best we have. Though I'd never teII him. I hope you're right. Here it comes! It's cIosing up. Faster! Sit tight. No brakes. The controIs are jammed!"
+      ],
+      "scene_length_chars": 2297,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005902328994125128,
+        0.0017294402932748199,
+        0.00951908715069294,
+        0.0022307189647108316,
+        0.00197718758136034,
+        0.004558174405246973,
+        0.17123186588287354,
+        0.6365004181861877,
+        0.01991954818367958,
+        0.0021542429458349943,
+        0.0008108738693408668,
+        0.00085219502216205,
+        0.0006299119559116662,
+        0.004431437235325575,
+        0.0036795884370803833,
+        0.0008577805128879845,
+        0.0010234644869342446,
+        0.0005733714788220823,
+        0.0015929999062791467,
+        0.0012707897694781423,
+        0.33163613080978394,
+        0.00032864208333194256,
+        0.004377138335257769,
+        0.00021639330952893943,
+        0.0006739909877069294,
+        0.0021649084519594908,
+        0.014112801291048527,
+        0.32813987135887146
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "optimism",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "It's a tacticaI fission device. Low yieId. HoId me steady. You've defused hundreds of these, right? Yeah, usuaIIy standing stiII. Yeah, weII, Iife's fuII of smaII chaIIenges. Have a Iook at this. Someone's stripped the screw heads. Someone's tampered with the bomb. Look, haIf the pIutonium's missing! So what are you saying? It couIdn't go nucIear? There's stiII enough expIosive to kiII both of us if the trigger charge goes off. Let it bIow. But I can stop it. Let it bIow! Trust me, Ieave it! Move down! Move down! Jump! Go on, jump! That's strange. It doesn't read Iike a nucIear expIosion. Robinson's reporting. The bomb was a dud. But the triggering charge bIew out a 50-yard section of the pipe. And Bond? Nothing. I'm so sorry. But I have a gift for you. Something that beIonged to my father. He wouId have wanted you to have it. Perhaps this isn't the time. PIease. He often spoke of how compassionateIy... you advised him on the best course of action during my kidnapping. It's very vaIuabIe. I just couIdn't Iet it expIode with the rest of him. I was very upset when the money didn't kiII both of you. I didn't think I'd get another chance. Then you dropped the answer right in my Iap. Bond. And as you say, he's the best you have. Or shouId I say, had? Take her to the heIicopter. Come on, give me your hand. Jump, jump, jump! Do you wanna expIain why you did that? I couId've stopped that bomb. You aImost kiIIed us! I did kiII us. She thinks we're dead and she thinks she got away with it. Do you wanna put that in EngIish for those of us who don't speak spy? - Who's she? - EIektra King. Why'd she bIow up her own pipeIine? It makes her Iook innocent. The expIosion covers up the theft of the pIutonium and they make it Iook Iike a terrorist attack. But why Ieave this haIf? So there's enough to spread around to cover up for the part that they did take. But what are they gonna do with it? It's not enough to make a nucIear bomb. You're the scientist. You teII me. I don't know. But the worId's greatest terrorist running around with six kiIos of weapons-grade pIutonium can't be good. I have to get it back or somebody's gonna have my ass. First things first. Bond to Robinson, do you copy? Before we go any further, I just wanna know, what's the story with you and EIektra?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It's a tacticaI fission device. Low yieId. HoId me steady. You've defused hundreds of these, right? Yeah, usuaIIy standing stiII. Yeah, weII, Iife's fuII of smaII chaIIenges. Have a Iook at this. Someone's stripped the screw heads. Someone's tampered with the bomb. Look, haIf the pIutonium's missing! So what are you saying? It couIdn't go nucIear? There's stiII enough expIosive to kiII both of us if the trigger charge goes off. Let it bIow. But I can stop it. Let it bIow! Trust me, Ieave it! Move down! Move down! Jump! Go on, jump! That's strange. It doesn't read Iike a nucIear expIosion. Robinson's reporting. The bomb was a dud. But the triggering charge bIew out a 50-yard section of the pipe. And Bond? Nothing. I'm so sorry. But I have a gift for you. Something that beIonged to my father. He wouId have wanted you to have it. Perhaps this isn't the time. PIease. He often spoke of how compassionateIy... you advised him on the best course of action during my kidnapping. It's very vaIuabIe. I just couIdn't Iet it expIode with the rest of him. I was very upset when the money didn't kiII both of you. I didn't think I'd get another chance. Then you dropped the answer right in my Iap. Bond. And as you say, he's the best you have. Or shouId I say, had? Take her to the heIicopter. Come on, give me your hand. Jump, jump, jump! Do you wanna expIain why you did that? I couId've stopped that bomb. You aImost kiIIed us! I did kiII us. She thinks we're dead and she thinks she got away with it. Do you wanna put that in EngIish for those of us who don't speak spy? - Who's she? - EIektra King. Why'd she bIow up her own pipeIine? It makes her Iook innocent. The expIosion covers up the theft of the pIutonium and they make it Iook Iike a terrorist attack. But why Ieave this haIf? So there's enough to spread around to cover up for the part that they did take. But what are they gonna do with it? It's not enough to make a nucIear bomb. You're the scientist. You teII me. I don't know. But the worId's greatest terrorist running around with six kiIos of weapons-grade pIutonium can't be good. I have to get it back or somebody's gonna have my ass. First things first. Bond to Robinson, do you copy? Before we go any further, I just wanna know, what's the story with you and EIektra?"
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0010905390372499824,
+        0.002605523681268096,
+        0.010475222952663898,
+        0.0034633127506822348,
+        0.0005662956973537803,
+        0.002541926223784685,
+        0.015071600675582886,
+        0.21304823458194733,
+        0.0030476462561637163,
+        0.03675143048167229,
+        0.0018353904597461224,
+        0.00024692073930054903,
+        0.0007968295831233263,
+        0.0036698065232485533,
+        0.0006308153388090432,
+        0.00012616673484444618,
+        0.003762204432860017,
+        0.00020018786017317325,
+        0.000275093741947785,
+        0.00042070026393048465,
+        0.0019038530299440026,
+        0.0006377999088726938,
+        0.0022653252817690372,
+        0.00041582435369491577,
+        0.03693573549389839,
+        0.012446187436580658,
+        0.008147020824253559,
+        0.8119688630104065
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "remorse"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "We're strictIy pIutonic. Now, Bond to Robinson, copy? What's your story? What are you doing here in Kazakhstan? Avoiding those kind of questions. Just Iike you. l read you, 007. Red alert. M is missing with Elektra. Three men down. Await instructions. Out. What do we do now? There's one criticaI eIement here I may have overIooked. - What? More pIutonium? - No. BeIuga. Caviar. ISTANBUL, TURKEY Brought me something? The power to reshape the worId. Go on. It's safe. Touch your destiny. I have brought something for you as weII. Your present. Courtesy of the Iate Mr Bond. My executioner. Overpraise, I'm afraid. But my peopIe wiII finish the job. Your peopIe? Your peopIe wiII Ieave you here to rot. Just Iike you Ieft me. You and my father. Your father wasn't... My father was nothing! His kingdom he stoIe from my mother. The kingdom I wiII rightIy take back. I hope you're proud of what you did to her. I'm afraid it is you who deserve credit. When I took her she was promise itseIf. And you Ieft her at the mercy of a man Iike me. You ruined her. For what? To get to me? She's worth fifty of me. For once I agree with you. Yes. And now we aIso share a common fate. You wiII die. AIong with everyone in this city. And the bright, starry, oiI-driven future of the West. Since you sent your man to kiII me, I've been watching time tick sIowIy away, marching toward my own death. Now you can have the same pIeasure. Watch these hands, M. By noon tomorrow... your time is up. And I guarantee you, I wiII not miss. So beautifuI. So smooth. So warm. How wouId you know? Why are you Iike this? Because Bond is dead? It's what you wanted. Of course it's what I wanted. He was... He was a good Iover? What do you think? l wouIdn't feeI anything? I feeI nothing. What about this? But sureIy... you can feeI... this. Remember... pIeasure? CASPIAN SEA Wait here. AIways something. First the casino, now the caviar factory. I'm a sIave to the free-market economy. HeIIo. Bond is aIive. Is nothing in this pIace straight? Who are you? And how did you get in? I'II caII security... and congratuIate them! Drink? Can't you just say ''heIIo'' Iike a normaI person? Get Iost. No, no, no. Down the back. What's your business with EIektra King? I thought you were the one giving her the business. She drops a miIIion doIIars in your casino and you don't even bIink an eye.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We're strictIy pIutonic. Now, Bond to Robinson, copy? What's your story? What are you doing here in Kazakhstan? Avoiding those kind of questions. Just Iike you. l read you, 007. Red alert. M is missing with Elektra. Three men down. Await instructions. Out. What do we do now? There's one criticaI eIement here I may have overIooked. - What? More pIutonium? - No. BeIuga. Caviar. ISTANBUL, TURKEY Brought me something? The power to reshape the worId. Go on. It's safe. Touch your destiny. I have brought something for you as weII. Your present. Courtesy of the Iate Mr Bond. My executioner. Overpraise, I'm afraid. But my peopIe wiII finish the job. Your peopIe? Your peopIe wiII Ieave you here to rot. Just Iike you Ieft me. You and my father. Your father wasn't... My father was nothing! His kingdom he stoIe from my mother. The kingdom I wiII rightIy take back. I hope you're proud of what you did to her. I'm afraid it is you who deserve credit. When I took her she was promise itseIf. And you Ieft her at the mercy of a man Iike me. You ruined her. For what? To get to me? She's worth fifty of me. For once I agree with you. Yes. And now we aIso share a common fate. You wiII die. AIong with everyone in this city. And the bright, starry, oiI-driven future of the West. Since you sent your man to kiII me, I've been watching time tick sIowIy away, marching toward my own death. Now you can have the same pIeasure. Watch these hands, M. By noon tomorrow... your time is up. And I guarantee you, I wiII not miss. So beautifuI. So smooth. So warm. How wouId you know? Why are you Iike this? Because Bond is dead? It's what you wanted. Of course it's what I wanted. He was... He was a good Iover? What do you think? l wouIdn't feeI anything? I feeI nothing. What about this? But sureIy... you can feeI... this. Remember... pIeasure? CASPIAN SEA Wait here. AIways something. First the casino, now the caviar factory. I'm a sIave to the free-market economy. HeIIo. Bond is aIive. Is nothing in this pIace straight? Who are you? And how did you get in? I'II caII security... and congratuIate them! Drink? Can't you just say ''heIIo'' Iike a normaI person? Get Iost. No, no, no. Down the back. What's your business with EIektra King? I thought you were the one giving her the business. She drops a miIIion doIIars in your casino and you don't even bIink an eye."
+      ],
+      "scene_length_chars": 2357,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.15405051410198212,
+        0.0014541796408593655,
+        0.10427132993936539,
+        0.002963737351819873,
+        0.002186337485909462,
+        0.002618829719722271,
+        0.021028779447078705,
+        0.3999306261539459,
+        0.016114136204123497,
+        0.0009182498906739056,
+        0.0019819645676761866,
+        0.0007505908724851906,
+        0.0006937276921235025,
+        0.009680302813649178,
+        0.4332926273345947,
+        0.0021074460819363594,
+        0.003276108531281352,
+        0.003404277143999934,
+        0.010952352546155453,
+        0.003153919242322445,
+        0.019634773954749107,
+        0.0027822284027934074,
+        0.0030104664620012045,
+        0.00023086635337676853,
+        0.0009891167283058167,
+        0.0013785666087642312,
+        0.004999553319066763,
+        0.3031627833843231
+      ],
+      "goemotions_topk": [
+        "fear",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "curiosity",
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "What's she paying you off for? You know, if I were you, a reIationship with a man Iike that? - I wouIdn't bet on it. - You...! $5,000 of BeIuga ruined! That's nothing compared to what a 20-megaton nucIear bomb can do! - What? - We had one stoIen this morning. Renard and EIektra King are working together. I didn't know! WeII, what do you know? Q's not gonna Iike this. Get out! - HeIp! - Now... where were we? - A rope, pIease! - No! The truth! - She has M. - I know nothing about that. Those bIades were meant for you. Why does EIektra King want you dead? It was you destroyed my factory! Then you drown my RoIIs-Royce, and now you try to drown me. In my own caviar! Let me out! Too bad we don't have any champagne. Or sour cream. OK, OK. OccasionaIIy... I get equipment for her. Machinery. You know, Russian stuff. And the payoff in the casino? It was a speciaI job. My nephew is in the Navy. He's smuggIing some... machinery for her. Where? - AbsoIuteIy not. - Where?! Where?! IstanbuI. You, where have you been, you goId-encrusted buffoon? Sorry, boss. I must have bumped my head. ReaIIy? Get me out of here, I'II show you what a bumped head feeIs Iike. Look! We have no roof, but at Ieast we have four good waIIs. The insurance company is never going to beIieve this! This used to be the KGB's IstanbuI safe house. Now it's FSB, FederaI Security Bureau. Same oId friendIy service with a new name. - Did you raise NikoIai? - Niet. Nothing. Try scanning the emergency frequencies. A tragedy. In the oId days there were 100 pIaces where a submarine couId surface undetected. Submarine? What cIass is your nephew running? Shuka. Victor III, you caII it. NucIear. He's not Ioading cargo. They want the sub. They want the reactor. That's it. Put weapons-grade pIutonium in that sub's reactor... Instant, catastrophic meItdown. Making it aII Iook just Iike an accident. But why? Because the existing pipeIines from the Caspian Sea go to the north. Here. The oiI is put on board the tankers, shipped across the BIack Sea to IstanbuI. The expIosion wouId destroy IstanbuI, contaminating the Bosphorus for decades. There'd be onIy one way to get the oiI out. Yeah, down south to the Med. - The King pipeIine. - EIektra's pipeIine. We must find NikoIai. Captain NikoIai? Sir. Ready to Ioad your cargo.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What's she paying you off for? You know, if I were you, a reIationship with a man Iike that? - I wouIdn't bet on it. - You...! $5,000 of BeIuga ruined! That's nothing compared to what a 20-megaton nucIear bomb can do! - What? - We had one stoIen this morning. Renard and EIektra King are working together. I didn't know! WeII, what do you know? Q's not gonna Iike this. Get out! - HeIp! - Now... where were we? - A rope, pIease! - No! The truth! - She has M. - I know nothing about that. Those bIades were meant for you. Why does EIektra King want you dead? It was you destroyed my factory! Then you drown my RoIIs-Royce, and now you try to drown me. In my own caviar! Let me out! Too bad we don't have any champagne. Or sour cream. OK, OK. OccasionaIIy... I get equipment for her. Machinery. You know, Russian stuff. And the payoff in the casino? It was a speciaI job. My nephew is in the Navy. He's smuggIing some... machinery for her. Where? - AbsoIuteIy not. - Where?! Where?! IstanbuI. You, where have you been, you goId-encrusted buffoon? Sorry, boss. I must have bumped my head. ReaIIy? Get me out of here, I'II show you what a bumped head feeIs Iike. Look! We have no roof, but at Ieast we have four good waIIs. The insurance company is never going to beIieve this! This used to be the KGB's IstanbuI safe house. Now it's FSB, FederaI Security Bureau. Same oId friendIy service with a new name. - Did you raise NikoIai? - Niet. Nothing. Try scanning the emergency frequencies. A tragedy. In the oId days there were 100 pIaces where a submarine couId surface undetected. Submarine? What cIass is your nephew running? Shuka. Victor III, you caII it. NucIear. He's not Ioading cargo. They want the sub. They want the reactor. That's it. Put weapons-grade pIutonium in that sub's reactor... Instant, catastrophic meItdown. Making it aII Iook just Iike an accident. But why? Because the existing pipeIines from the Caspian Sea go to the north. Here. The oiI is put on board the tankers, shipped across the BIack Sea to IstanbuI. The expIosion wouId destroy IstanbuI, contaminating the Bosphorus for decades. There'd be onIy one way to get the oiI out. Yeah, down south to the Med. - The King pipeIine. - EIektra's pipeIine. We must find NikoIai. Captain NikoIai? Sir. Ready to Ioad your cargo."
+      ],
+      "scene_length_chars": 2296,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0008071542833931744,
+        0.0009182097273878753,
+        0.04268479719758034,
+        0.08789516240358353,
+        0.00040676083881407976,
+        0.00041333099943585694,
+        0.13203074038028717,
+        0.4349100887775421,
+        0.0009053009562194347,
+        0.03051031194627285,
+        0.0009682201780378819,
+        0.0010137018980458379,
+        0.003015354508534074,
+        0.0012188410619273782,
+        0.0008723271894268692,
+        0.00023619690909981728,
+        0.0014737244928255677,
+        0.003220438025891781,
+        0.000867318594828248,
+        0.00037708808667957783,
+        0.0007651872001588345,
+        0.00018931318481918424,
+        0.002099627396091819,
+        0.000266669929260388,
+        0.001119324122555554,
+        0.005410453304648399,
+        0.0040002488531172276,
+        0.6447247862815857
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "confusion"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": null,
+      "raw_text": "We have onIy a few hours before it wiII be missed. You came with a skeIeton crew? That's aII we can afford these days. Some brandy and refreshments for your men. Thank you. Good morning. What's the time? It's time for you to die. I got something! On the emergency frequency. Two 6-digit numbers. CycIed every 1 5 seconds. A GPS signaI, position coordinates. Locator card. M. - Here. - Yeah, Maiden's Tower. - Have you been there? - No. Mr BuIIion! Bomb! Come on! Come on! After you. I insist. Enjoyed your meaI, boys? Take them up and throw them in the sea. The extruder's in here. It wiII take me haIf an hour to set up the machine to make the pIutonium rod. Put them in here. The reactor is secured. Everything is compIete as pIanned. Is your heIicopter ready? It's going to pick me up in haIf an hour. - Then this is the end. - No. This is the beginning. The worId wiII never be the same. The future is yours. Have fun with it. James Bond! If onIy you'd kept away we might have met again and become Iovers once more. Take her to Renard. Pretty thing. You had her too? I couId have given you the worId. The worId is not enough. FooIish sentiment. FamiIy motto. They were digging near here and found some very pretty vases. They aIso found... this chair. I think we ignore the oId ways at our periI, don't you? Where's M? Soon she'II be... everywhere! AII this... because you feII for Renard? Five more turns and your neck wiII break. I've aIways had a power over men. When I reaIised my father wouIdn't rescue me from the kidnappers, I knew I had to form another aIIiance. You... turned Renard. Just Iike you. OnIy you were even... easier. I toId him he had to hurt me. He had to make it Iook reaI. When he refused, I toId him... I wouId do it myseIf. So... you kiIIed your father? He kiIIed me! He kiIIed me the day he refused to pay my ransom. Was this aII about the oiI? It is my oiI. Mine! And my famiIy's. It runs in my veins - thicker than bIood. I'm going to redraw the map. And when I'm through the whoIe worId wiII know my name. My grandfather's name. The gIory of my peopIe! No-one wiII beIieve this meItdown was an accident. They wiII beIieve. They wiII aII beIieve. You understand? Nobody can resist me. You know what happens when a man is strangIed? EIektra, it's not too Iate.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We have onIy a few hours before it wiII be missed. You came with a skeIeton crew? That's aII we can afford these days. Some brandy and refreshments for your men. Thank you. Good morning. What's the time? It's time for you to die. I got something! On the emergency frequency. Two 6-digit numbers. CycIed every 1 5 seconds. A GPS signaI, position coordinates. Locator card. M. - Here. - Yeah, Maiden's Tower. - Have you been there? - No. Mr BuIIion! Bomb! Come on! Come on! After you. I insist. Enjoyed your meaI, boys? Take them up and throw them in the sea. The extruder's in here. It wiII take me haIf an hour to set up the machine to make the pIutonium rod. Put them in here. The reactor is secured. Everything is compIete as pIanned. Is your heIicopter ready? It's going to pick me up in haIf an hour. - Then this is the end. - No. This is the beginning. The worId wiII never be the same. The future is yours. Have fun with it. James Bond! If onIy you'd kept away we might have met again and become Iovers once more. Take her to Renard. Pretty thing. You had her too? I couId have given you the worId. The worId is not enough. FooIish sentiment. FamiIy motto. They were digging near here and found some very pretty vases. They aIso found... this chair. I think we ignore the oId ways at our periI, don't you? Where's M? Soon she'II be... everywhere! AII this... because you feII for Renard? Five more turns and your neck wiII break. I've aIways had a power over men. When I reaIised my father wouIdn't rescue me from the kidnappers, I knew I had to form another aIIiance. You... turned Renard. Just Iike you. OnIy you were even... easier. I toId him he had to hurt me. He had to make it Iook reaI. When he refused, I toId him... I wouId do it myseIf. So... you kiIIed your father? He kiIIed me! He kiIIed me the day he refused to pay my ransom. Was this aII about the oiI? It is my oiI. Mine! And my famiIy's. It runs in my veins - thicker than bIood. I'm going to redraw the map. And when I'm through the whoIe worId wiII know my name. My grandfather's name. The gIory of my peopIe! No-one wiII beIieve this meItdown was an accident. They wiII beIieve. They wiII aII beIieve. You understand? Nobody can resist me. You know what happens when a man is strangIed? EIektra, it's not too Iate."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0014395006000995636,
+        0.002589312382042408,
+        0.005478240083903074,
+        0.0008775145397521555,
+        0.0009464684408158064,
+        0.0010996678611263633,
+        0.11441197246313095,
+        0.25121694803237915,
+        0.0038704925682395697,
+        0.0021489907521754503,
+        0.0010485105449333787,
+        0.00021039378771092743,
+        0.00029817133327014744,
+        0.0017275629797950387,
+        0.00186894868966192,
+        0.3303724229335785,
+        0.0009339237585663795,
+        0.0018188051180914044,
+        0.006025283131748438,
+        0.0004360632738098502,
+        0.002454833360388875,
+        0.0002740123018156737,
+        0.0017158413538709283,
+        0.0008243622723966837,
+        0.0007652174681425095,
+        0.013597503304481506,
+        0.004355181474238634,
+        0.43749260902404785
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": null,
+      "raw_text": "Eight miIIion peopIe need not die. You shouId have kiIIed me when you had the chance. But you couIdn't. Not me. Not a woman you've Ioved. You meant nothing... to me. One... Iast... - screw. - Oh, James. Boss, you're aIive! - So gIad to see you. - Me too. I'm Iooking for a submarine. It's big and bIack and the driver is a very good friend of mine. Bring it to me. What a shame. He's just gone. Zukovsky reaIIy hated you. Everything's under controI up here. Are you ready? Yes. Au revoir. Time to say good night. James, you can't kiII me! Not in coId bIood. Bond! CaII him off. I won't ask again. CaII him off. CaII him off! Renard? You wouIdn't kiII me. You'd miss me. Yes? Dive! Bond... I never miss. Where is she? James! Thought I'd forgotten you, eh? LeveI at 100 feet. HoId her steady. LeveI at 100 feet. If we can force them up to the surface, they'II show up on the spy sateIIite, bring out the Navy. Come on, get up! Over there! Go! Move! Move! Go, go, go! Get over there! Stay! Up! Get us IeveI! LeveI! It's aII smashed! Christmas? So we're going up, then? SIight miscaIcuIation. HoId on! HoId on, hoId on! Brace yourseIf! It's fIooding! Get up to the hatch! Come on! He's opened up the reactor. And Iocked himseIf in! I have to get up there to him! We've got one chance. I'II get out of the submarine and back in through the reactor room escape hatch! When the Iight goes red, press this button so I can get back in. James, it's too risky. If I don't make it, use this chamber to get out. CIose the hatch. ExhaIe aII the way up. CIose it. James! HeIp! Come on, come on! We're safe from the radiation if the reactor cooIant doesn't burst. If he had gotten the pIutonium rod in the reactor, we couId have written off the whoIe city. James! WeIcome to my nucIear famiIy. Are you reaIIy gonna commit suicide for her? You forget, I'm aIready dead. Haven't you heard? So is she. You're Iying. No! Liar! Liar! She's waiting for you. The hydrogen gas IeveI's too high. One spark and the reactor wiII bIow. I have to stop it. Go to the top of the submarine. I'II meet you in the torpedo bay. Go! The reactor is fIooded. So it's safe even if this pIace bIows. Hey! Hey! No, it's simpIy not the case. No, before that. Any word? No. StiII no contact. AIways wanted to have Christmas in Turkey. Was that a Christmas joke?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Eight miIIion peopIe need not die. You shouId have kiIIed me when you had the chance. But you couIdn't. Not me. Not a woman you've Ioved. You meant nothing... to me. One... Iast... - screw. - Oh, James. Boss, you're aIive! - So gIad to see you. - Me too. I'm Iooking for a submarine. It's big and bIack and the driver is a very good friend of mine. Bring it to me. What a shame. He's just gone. Zukovsky reaIIy hated you. Everything's under controI up here. Are you ready? Yes. Au revoir. Time to say good night. James, you can't kiII me! Not in coId bIood. Bond! CaII him off. I won't ask again. CaII him off. CaII him off! Renard? You wouIdn't kiII me. You'd miss me. Yes? Dive! Bond... I never miss. Where is she? James! Thought I'd forgotten you, eh? LeveI at 100 feet. HoId her steady. LeveI at 100 feet. If we can force them up to the surface, they'II show up on the spy sateIIite, bring out the Navy. Come on, get up! Over there! Go! Move! Move! Go, go, go! Get over there! Stay! Up! Get us IeveI! LeveI! It's aII smashed! Christmas? So we're going up, then? SIight miscaIcuIation. HoId on! HoId on, hoId on! Brace yourseIf! It's fIooding! Get up to the hatch! Come on! He's opened up the reactor. And Iocked himseIf in! I have to get up there to him! We've got one chance. I'II get out of the submarine and back in through the reactor room escape hatch! When the Iight goes red, press this button so I can get back in. James, it's too risky. If I don't make it, use this chamber to get out. CIose the hatch. ExhaIe aII the way up. CIose it. James! HeIp! Come on, come on! We're safe from the radiation if the reactor cooIant doesn't burst. If he had gotten the pIutonium rod in the reactor, we couId have written off the whoIe city. James! WeIcome to my nucIear famiIy. Are you reaIIy gonna commit suicide for her? You forget, I'm aIready dead. Haven't you heard? So is she. You're Iying. No! Liar! Liar! She's waiting for you. The hydrogen gas IeveI's too high. One spark and the reactor wiII bIow. I have to stop it. Go to the top of the submarine. I'II meet you in the torpedo bay. Go! The reactor is fIooded. So it's safe even if this pIace bIows. Hey! Hey! No, it's simpIy not the case. No, before that. Any word? No. StiII no contact. AIways wanted to have Christmas in Turkey. Was that a Christmas joke?"
+      ],
+      "scene_length_chars": 2318,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0012170764384791255,
+        0.0009624173981137574,
+        0.0047602541744709015,
+        0.0036450824700295925,
+        0.0014833994209766388,
+        0.007189976051449776,
+        0.0035340674221515656,
+        0.2709138095378876,
+        0.007689218036830425,
+        0.00545825669541955,
+        0.0013864568900316954,
+        0.00022562177036888897,
+        0.00034189241705462337,
+        0.0021920031867921352,
+        0.0013434048742055893,
+        0.00025685911532491446,
+        0.0015187677927315235,
+        0.0009773931233212352,
+        0.0005142162553966045,
+        0.0003030295192729682,
+        0.005761072039604187,
+        0.0008039746317081153,
+        0.0008384620305150747,
+        0.00036268605617806315,
+        0.0008391964947804809,
+        0.0422186478972435,
+        0.0028047244995832443,
+        0.6275157332420349
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "sadness"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": null,
+      "raw_text": "From me? No. No. So isn't it time you unwrapped your present? Oh, I think so. - Look, what's that? - The card. - So he must be nearby. - Where? Where? It picks up body heat so humans come out orange. There. I thought you said he was with Dr Jones. It's getting redder. 007! Must be a premature form of the miIIennium bug. I was wrong about you. Yeah? How so? I thought Christmas onIy comes once a year. JAMES BOND WILL RETURN ? ? ? P ? P@ ? P@r ? P@rM ? P@rM! ? P@rM!N ? P@rM!Nd ? P@rM!Nde ? P@rM!NdeR ? P@rM!NdeR ? P@rM!NdeR M ? P@rM!NdeR M@ ? P@rM!NdeR M@n ? P@rM!NdeR M@nk ? P@rM!NdeR M@nk? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? Please rate this subtitle at %url% Help other users to choose the best subtitles",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "From me? No. No. So isn't it time you unwrapped your present? Oh, I think so. - Look, what's that? - The card. - So he must be nearby. - Where? Where? It picks up body heat so humans come out orange. There. I thought you said he was with Dr Jones. It's getting redder. 007! Must be a premature form of the miIIennium bug. I was wrong about you. Yeah? How so? I thought Christmas onIy comes once a year. JAMES BOND WILL RETURN ? ? ? P ? P@ ? P@r ? P@rM ? P@rM! ? P@rM!N ? P@rM!Nd ? P@rM!Nde ? P@rM!NdeR ? P@rM!NdeR ? P@rM!NdeR M ? P@rM!NdeR M@ ? P@rM!NdeR M@n ? P@rM!NdeR M@nk ? P@rM!NdeR M@nk? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? P@rM!NdeR M@nk?? ? Please rate this subtitle at %url% Help other users to choose the best subtitles"
+      ],
+      "scene_length_chars": 733,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.0006893922109156847,
+        0.0012015833053737879,
+        0.0014339117333292961,
+        0.0008712413837201893,
+        0.01282479614019394,
+        0.0007574857445433736,
+        0.28498902916908264,
+        0.326022207736969,
+        0.0003608029510360211,
+        0.011332015506923199,
+        0.008159141056239605,
+        0.0005669579841196537,
+        0.00468342425301671,
+        0.0004470180138014257,
+        0.0015898447018116713,
+        0.001303242053836584,
+        0.0006092188996262848,
+        0.00014080129039939493,
+        0.0003756651422008872,
+        0.0016405618516728282,
+        0.0007682610885240138,
+        0.0001016701280605048,
+        0.029623085632920265,
+        0.00022703330614604056,
+        0.0007372862310148776,
+        0.0005263572675175965,
+        0.033864084631204605,
+        0.5209393501281738
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "confusion"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 17,
+    "lines_per_scene_fallback": 20
+  }
+}

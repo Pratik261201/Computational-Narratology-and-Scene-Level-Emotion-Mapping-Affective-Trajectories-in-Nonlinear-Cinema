@@ -1,0 +1,742 @@
+{
+  "source_file": "Blue Velvet _1986_ - full transcript.txt",
+  "title": "Blue Velvet",
+  "year": "1986",
+  "meta_description": null,
+  "num_scenes": 14,
+  "avg_scene_chars": 2275,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "♪ Blue Velvet ♪ Whoa-whoa ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet was the night ♪ Whoa-whoa-whoa ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet were her eyes ♪ Whoa-whoa-whoa ♪ Warmer than May her tender sighs ♪ Love was ours ♪ Ours a love I held tightly ♪ Feeling the rapture grow ♪ Like a flame burning brightly ♪ But when she left ♪ Gone was the glow of blue velvet ♪ Whoa-whoa ♪ But in my heart there'll always be ♪ Whoa-whoa-whoa ♪ Precious and warm a memory ♪ Through the years... ♪ Logs, logs, logs ♪ Glamour in the pines ♪ Lumberton ♪ USA It's a sunny, woodsy day in Lumberton, so get those chainsaws out. This is the mighty W-O-O-D, the musical voice of Lumberton. At the sound of the falling tree... ...it's 9:30! There's a whole lotta wood waitin' out there, so let's get goin'. Mr. Beaumont? Your son Jeffrey's here to see you. Hey, Dad. Do you have a Detective Williams still working here? Yes, he's up in room 221. Right up the stairs, through that door. Thanks. Detective Williams? Yes? My name is Jeffrey Beaumont. I live near you. I believe you know my father Tom? - Beaumont's Hardware Store? - Sure I do. I hear he's in the hospital. - How's he doing? - Well, he's OK, I guess. I hope. They're doing tests. That's why I'm home from school. I was at the hospital this morning and, coming home through the field behind Vista, I, uh... found an ear. You did? A human ear? Yeah. I thought I should bring it to you. Yeah, that's right. Let's take a look at it. Yes, that's a human ear, all right. Let's see what the coroner makes of it. Then I want you to show me exactly where you found it. All right. We'll check the morgue records, but I don't recall anything minus an ear. The person may very well still be alive somewhere. What can you tell about the person from the ear? Once the tests are done, quite a lot. Sex, blood type, whether the ear came off a dead person. Also, it looks like the ear was cut off with scissors. - I'm goin' out for a while. - Do you want the car? - No, I'm just gonna walk around. - All right. You're not going down by Lincoln, are you? No, just around the neighborhood. Don't worry. OK, honey. Hello. My name is Jeffrey Beaumont. Is Detective Williams here?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "♪ Blue Velvet ♪ Whoa-whoa ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet was the night ♪ Whoa-whoa-whoa ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet were her eyes ♪ Whoa-whoa-whoa ♪ Warmer than May her tender sighs ♪ Love was ours ♪ Ours a love I held tightly ♪ Feeling the rapture grow ♪ Like a flame burning brightly ♪ But when she left ♪ Gone was the glow of blue velvet ♪ Whoa-whoa ♪ But in my heart there'll always be ♪ Whoa-whoa-whoa ♪ Precious and warm a memory ♪ Through the years... ♪ Logs, logs, logs ♪ Glamour in the pines ♪ Lumberton ♪ USA It's a sunny, woodsy day in Lumberton, so get those chainsaws out. This is the mighty W-O-O-D, the musical voice of Lumberton. At the sound of the falling tree... ...it's 9:30! There's a whole lotta wood waitin' out there, so let's get goin'. Mr. Beaumont? Your son Jeffrey's here to see you. Hey, Dad. Do you have a Detective Williams still working here? Yes, he's up in room 221. Right up the stairs, through that door. Thanks. Detective Williams? Yes? My name is Jeffrey Beaumont. I live near you. I believe you know my father Tom? - Beaumont's Hardware Store? - Sure I do. I hear he's in the hospital. - How's he doing? - Well, he's OK, I guess. I hope. They're doing tests. That's why I'm home from school. I was at the hospital this morning and, coming home through the field behind Vista, I, uh... found an ear. You did? A human ear? Yeah. I thought I should bring it to you. Yeah, that's right. Let's take a look at it. Yes, that's a human ear, all right. Let's see what the coroner makes of it. Then I want you to show me exactly where you found it. All right. We'll check the morgue records, but I don't recall anything minus an ear. The person may very well still be alive somewhere. What can you tell about the person from the ear? Once the tests are done, quite a lot. Sex, blood type, whether the ear came off a dead person. Also, it looks like the ear was cut off with scissors. - I'm goin' out for a while. - Do you want the car? - No, I'm just gonna walk around. - All right. You're not going down by Lincoln, are you? No, just around the neighborhood. Don't worry. OK, honey. Hello. My name is Jeffrey Beaumont. Is Detective Williams here?"
+      ],
+      "scene_length_chars": 2278,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004840480163693428,
+        0.0008228227379731834,
+        0.0008372989832423627,
+        0.0007448529358953238,
+        0.014500019140541553,
+        0.04948408901691437,
+        0.005155326798558235,
+        0.3609077036380768,
+        0.002085912274196744,
+        0.0004384467611089349,
+        0.0009148477693088353,
+        0.0015819724649190903,
+        0.0009002129081636667,
+        0.002073791576549411,
+        0.0017241821624338627,
+        0.30396077036857605,
+        0.001335220760665834,
+        0.0006298152729868889,
+        0.33144959807395935,
+        0.0004295632243156433,
+        0.06662510335445404,
+        0.0008883373811841011,
+        0.03034154325723648,
+        0.003463851986452937,
+        0.0012754431227222085,
+        0.00197426020167768,
+        0.001912735402584076,
+        0.36438867449760437
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "love"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "- Oh, yes. Yes, Jeffrey, come on in. - Thanks. Well, Jeffrey, you found something very interesting. Very interesting. I know you must be curious to know more. But I have to ask you not only not to tell anybody about your find, but also not to ask more about the case. One day when it's all sewed up, I'll let you know all the details. Right now, though, I can't. I understand. I'm just real curious, like you said. I was the same way myself when I was your age. - That's what got me into this business. - Must be great. It's horrible, too. I'm sorry, Jeffrey. That's the way it has to be. Anyway, I know you do understand. Sure. - Thanks for the card for Dad. - You're welcome. Nice to meet you. You, too. - Say hello to Sandy for me. - We will. - Good night, Jeffrey. - Good night. Are you the one that found the ear? How did you know? I just know, that's all. - I remember you from Central. - Are you a senior? Yup. - How is Central these days? - Terrible. - I don't know... boring. - What else is new! So what are you doin' now? I'm home from school. My father's in the hospital. - That's too bad. - Yeah. What do you know about the ear? - Didn't Dad say not to talk about it? - Yeah, but you brought it up. You know anything? I don't know much but bits and pieces. I hear things. Yeah? My room is above my father's office so... Above your father's office? - So I heard a few things about the ear. - Uh-huh. And? Well... there are a couple of cases I get mixed up on. But one name that keeps coming up is this woman singer. She lives in an apartment real close to your house. Close to the field where you found the ear. It's a strange world, isn't it? - Yeah. - Where is this apartment? It's really close by. That's what's so creepy. They had her under surveillance, 'cept I don't know what they found out 'cause she's not my dad's case. So... I guess you gotta get back home pretty soon, huh? Not really. Why? Well, uh... - You... wanna see the building. - Yeah. - Come on, I'll show you. - OK. Hey, baby! Hey, babe! That's her building right there. She lives on the seventh floor. Come on. So, uh... what are you gonna do now that you're home? Help out at my father's hardware store. They're giving me my own hours, which is nice. I used to know a kid that lived there. Had the biggest tongue in the world.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Oh, yes. Yes, Jeffrey, come on in. - Thanks. Well, Jeffrey, you found something very interesting. Very interesting. I know you must be curious to know more. But I have to ask you not only not to tell anybody about your find, but also not to ask more about the case. One day when it's all sewed up, I'll let you know all the details. Right now, though, I can't. I understand. I'm just real curious, like you said. I was the same way myself when I was your age. - That's what got me into this business. - Must be great. It's horrible, too. I'm sorry, Jeffrey. That's the way it has to be. Anyway, I know you do understand. Sure. - Thanks for the card for Dad. - You're welcome. Nice to meet you. You, too. - Say hello to Sandy for me. - We will. - Good night, Jeffrey. - Good night. Are you the one that found the ear? How did you know? I just know, that's all. - I remember you from Central. - Are you a senior? Yup. - How is Central these days? - Terrible. - I don't know... boring. - What else is new! So what are you doin' now? I'm home from school. My father's in the hospital. - That's too bad. - Yeah. What do you know about the ear? - Didn't Dad say not to talk about it? - Yeah, but you brought it up. You know anything? I don't know much but bits and pieces. I hear things. Yeah? My room is above my father's office so... Above your father's office? - So I heard a few things about the ear. - Uh-huh. And? Well... there are a couple of cases I get mixed up on. But one name that keeps coming up is this woman singer. She lives in an apartment real close to your house. Close to the field where you found the ear. It's a strange world, isn't it? - Yeah. - Where is this apartment? It's really close by. That's what's so creepy. They had her under surveillance, 'cept I don't know what they found out 'cause she's not my dad's case. So... I guess you gotta get back home pretty soon, huh? Not really. Why? Well, uh... - You... wanna see the building. - Yeah. - Come on, I'll show you. - OK. Hey, baby! Hey, babe! That's her building right there. She lives on the seventh floor. Come on. So, uh... what are you gonna do now that you're home? Help out at my father's hardware store. They're giving me my own hours, which is nice. I used to know a kid that lived there. Had the biggest tongue in the world."
+      ],
+      "scene_length_chars": 2311,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.07742875814437866,
+        0.0018265214748680592,
+        0.006908421870321035,
+        0.006645157467573881,
+        0.010979983024299145,
+        0.004147695377469063,
+        0.26882681250572205,
+        0.6629875898361206,
+        0.0033756177872419357,
+        0.0028172119054943323,
+        0.0013489247066900134,
+        0.017726795747876167,
+        0.004300789907574654,
+        0.05662158504128456,
+        0.12456616759300232,
+        0.33310747146606445,
+        0.004042403772473335,
+        0.0023789142724126577,
+        0.004433353431522846,
+        0.005867373198270798,
+        0.005388197023421526,
+        0.008192753419280052,
+        0.011046074330806732,
+        0.008078424260020256,
+        0.005404862109571695,
+        0.005293667316436768,
+        0.016342921182513237,
+        0.31198182702064514
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "What happened to him? I don't know. He moved away. All my old friends are gone. - You know the chicken walk? - What's that? That's kind of interesting. - Coffee time. - Yo! Hey, Double Ed, where are the overalls? They're on the bottom shelf, rolled up, where they've always been. Hey, Ed, how many fingers? Four. I still don't know how you do that. Now listen. You sure you don't need me or this rig for a while? If you wanna spray for bugs, Jeffrey, it causes us no pain. Okey-dokey, Double Ed. - Oh, it's so good to have you back. - Yeah, sure. You hungry or thirsty, or both? I don't know. I'd like to talk to you about somethin'. Wait just a minute. Listen. Don't you guys dare say anything to Mike. - Sure. - It's not what you think, OK? - Promise? - Whatever you say. - I don't wanna cause trouble. - I'm here, aren't I? - He is nice-lookin'. - Yeah. You ever been to Arlene's? Of course. Now are you gonna tell me why we're here? There are opportunities in life for gaining knowledge and experience. Sometimes it's necessary to take a risk. I'll bet someone could learn a lot by getting into that woman's apartment. You know, sneak in, hide, and observe. - Sneak into her apartment? - Yeah. Are you crazy? Jeffrey, she's possibly involved in murder. This is givin' me the creeps. Now just settle down. I have a plan which I think will work. There's very little for you to do, but I do need your help. Don't you even wanna hear the plan? Tell me any plan you want, but it's not going any further than this diner. Sandy, don't take that attitude. All right. The first thing I need is to get into her apartment - and open a window to crawl into later. - How are you gonna do that? Right out in the car I happen to have some old overalls and a bug-spraying rig. I will go to her apartment as a pest-control man. I will spray her apartment. You knock on the door, draw her attention away from me, and I'll jimmy a window. - And what do I say to her at the door? - You will be a Jehovah's Witness. I have some Awake! magazines for you. I don't need very much time, just a few seconds. Whaddaya think? I don't know. I mean, it sounds like a good daydream, but... actually doing it's too weird. - It's too dangerous. - Sandy, let's just try the first part. No one will suspect us.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What happened to him? I don't know. He moved away. All my old friends are gone. - You know the chicken walk? - What's that? That's kind of interesting. - Coffee time. - Yo! Hey, Double Ed, where are the overalls? They're on the bottom shelf, rolled up, where they've always been. Hey, Ed, how many fingers? Four. I still don't know how you do that. Now listen. You sure you don't need me or this rig for a while? If you wanna spray for bugs, Jeffrey, it causes us no pain. Okey-dokey, Double Ed. - Oh, it's so good to have you back. - Yeah, sure. You hungry or thirsty, or both? I don't know. I'd like to talk to you about somethin'. Wait just a minute. Listen. Don't you guys dare say anything to Mike. - Sure. - It's not what you think, OK? - Promise? - Whatever you say. - I don't wanna cause trouble. - I'm here, aren't I? - He is nice-lookin'. - Yeah. You ever been to Arlene's? Of course. Now are you gonna tell me why we're here? There are opportunities in life for gaining knowledge and experience. Sometimes it's necessary to take a risk. I'll bet someone could learn a lot by getting into that woman's apartment. You know, sneak in, hide, and observe. - Sneak into her apartment? - Yeah. Are you crazy? Jeffrey, she's possibly involved in murder. This is givin' me the creeps. Now just settle down. I have a plan which I think will work. There's very little for you to do, but I do need your help. Don't you even wanna hear the plan? Tell me any plan you want, but it's not going any further than this diner. Sandy, don't take that attitude. All right. The first thing I need is to get into her apartment - and open a window to crawl into later. - How are you gonna do that? Right out in the car I happen to have some old overalls and a bug-spraying rig. I will go to her apartment as a pest-control man. I will spray her apartment. You knock on the door, draw her attention away from me, and I'll jimmy a window. - And what do I say to her at the door? - You will be a Jehovah's Witness. I have some Awake! magazines for you. I don't need very much time, just a few seconds. Whaddaya think? I don't know. I mean, it sounds like a good daydream, but... actually doing it's too weird. - It's too dangerous. - Sandy, let's just try the first part. No one will suspect us."
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.006687725428491831,
+        0.0015011426294222474,
+        0.022099554538726807,
+        0.020565224811434746,
+        0.004269123543053865,
+        0.018132096156477928,
+        0.013178728520870209,
+        0.5439946055412292,
+        0.010974959470331669,
+        0.0010808359365910292,
+        0.0022628658916801214,
+        0.00981666799634695,
+        0.012286177836358547,
+        0.0023922480177134275,
+        0.03215334936976433,
+        0.0009318259544670582,
+        0.0008614622056484222,
+        0.00035307081998325884,
+        0.0006514250417239964,
+        0.0012346537550911307,
+        0.10612362623214722,
+        0.0006129913963377476,
+        0.004607619252055883,
+        0.0005187986535020173,
+        0.0005745789385400712,
+        0.0005095038213767111,
+        0.00985111203044653,
+        0.21745342016220093
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "No one would think two people like us would be crazy enough to do this. You have a point there. Give me at least three minutes. I can stall if it's more, but I need time to find a good window. All right? All right. Let's go. Here I go. Wait a minute. What's her name? Oh, brother, Jeffrey. Dorothy Vallens, seventh floor. Look on her mailbox for the number, bright boy. Thanks. Dorothy Vallens, seventh floor. OK. Good luck. Good luck yourself. Three minutes. No sooner. Yes? What is it? Pest control. I gotta do your apartment. - That stuff stinks. - This is new stuff. There's no smell. Good. Just need to do the kitchen. Grand Central Station! It's only the bug man. - That should do it. - Yeah? - Are you all right? - Yeah. What happened? I was about to go to the door when that guy did it for me. - Was it all right? - Yes and no. Did you recognize him? I only saw his back. I think he went out a door at the end of the hall. I didn't get a good look at him either, but he sure looked at me. I didn't have time to get a window, but I found these keys. Nifty, huh? Yeah, if they open the door. Yeah. So, what's next? - Are you game for more? - I owe you one since I goofed this one up. You didn't goof it up. But... you still owe me one. I'm gonna try and sneak in tonight. It's Friday. Do you have a date? Yeah. I do. Well, that does that. - You really wanna do this, don't you? - I don't want you to get involved. I do, but if something went wrong... Like you said, they may be involved in murder. OK. I'll tell Mike I'm sick. Just so the record is kept straight, though, I love Mike. What do you want me to do? First we'll have a really nice dinner. Try to find out where Dorothy Vallens sings. I already know. The Slow Club on Route 7. Great. I'll pick you up about eight? Don't pick me up. My dad might think it's strange. I'll walk over to your house. I'll be there at eight o'clock. OK? You better get out before someone sees us. See ya! Wait. Here's to an interesting experience, huh? I'll drink to that! Man, I like Heineken! You like Heineken? - I never really had Heineken before. - You never had Heineken before? My dad drinks Bud. - King of beers. - Ladies and gentlemen, the Blue Lady, Miss Dorothy Vallens. ♪ She wore ♪ Blue velvet ♪ Bluer than velvet was the night ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Bluer than velvet were her eyes ♪ Shadows ♪ Fall so blue ♪ As lonely as a blue ♪ Blue star - Jeffrey, you shouldn't do this.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No one would think two people like us would be crazy enough to do this. You have a point there. Give me at least three minutes. I can stall if it's more, but I need time to find a good window. All right? All right. Let's go. Here I go. Wait a minute. What's her name? Oh, brother, Jeffrey. Dorothy Vallens, seventh floor. Look on her mailbox for the number, bright boy. Thanks. Dorothy Vallens, seventh floor. OK. Good luck. Good luck yourself. Three minutes. No sooner. Yes? What is it? Pest control. I gotta do your apartment. - That stuff stinks. - This is new stuff. There's no smell. Good. Just need to do the kitchen. Grand Central Station! It's only the bug man. - That should do it. - Yeah? - Are you all right? - Yeah. What happened? I was about to go to the door when that guy did it for me. - Was it all right? - Yes and no. Did you recognize him? I only saw his back. I think he went out a door at the end of the hall. I didn't get a good look at him either, but he sure looked at me. I didn't have time to get a window, but I found these keys. Nifty, huh? Yeah, if they open the door. Yeah. So, what's next? - Are you game for more? - I owe you one since I goofed this one up. You didn't goof it up. But... you still owe me one. I'm gonna try and sneak in tonight. It's Friday. Do you have a date? Yeah. I do. Well, that does that. - You really wanna do this, don't you? - I don't want you to get involved. I do, but if something went wrong... Like you said, they may be involved in murder. OK. I'll tell Mike I'm sick. Just so the record is kept straight, though, I love Mike. What do you want me to do? First we'll have a really nice dinner. Try to find out where Dorothy Vallens sings. I already know. The Slow Club on Route 7. Great. I'll pick you up about eight? Don't pick me up. My dad might think it's strange. I'll walk over to your house. I'll be there at eight o'clock. OK? You better get out before someone sees us. See ya! Wait. Here's to an interesting experience, huh? I'll drink to that! Man, I like Heineken! You like Heineken? - I never really had Heineken before. - You never had Heineken before? My dad drinks Bud. - King of beers. - Ladies and gentlemen, the Blue Lady, Miss Dorothy Vallens. ♪ She wore ♪ Blue velvet ♪ Bluer than velvet was the night ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Bluer than velvet were her eyes ♪ Shadows ♪ Fall so blue ♪ As lonely as a blue ♪ Blue star - Jeffrey, you shouldn't do this."
+      ],
+      "scene_length_chars": 2485,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.02976742945611477,
+        0.0013710031053051353,
+        0.0014287639642134309,
+        0.002088255016133189,
+        0.036098796874284744,
+        0.035440053790807724,
+        0.04884777590632439,
+        0.8063730597496033,
+        0.01125405728816986,
+        0.007328534498810768,
+        0.009115444496273994,
+        0.0053246901370584965,
+        0.002445834456011653,
+        0.006102152168750763,
+        0.0019810458179563284,
+        0.32148492336273193,
+        0.0029445569962263107,
+        0.002167972968891263,
+        0.12492182105779648,
+        0.0028381242882460356,
+        0.17906732857227325,
+        0.001120059285312891,
+        0.08441825956106186,
+        0.00301322597078979,
+        0.0020817641634494066,
+        0.005595475435256958,
+        0.0049656652845442295,
+        0.018540620803833008
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "- Why not? 'Cause it's crazy... and dangerous. - My God, I should have never told you. - I'll be all right. I don't think you should stay. I think you should go home. Can you drive this car? - Yeah, but I... - Leave it in front of your house, OK? OK. I'll see ya tomorrow and I'll tell ya how it went. I don't wanna see you tomorrow. - Mike's coming over. - OK. Um... can I call you? OK, yeah, call. I hope you sneak out OK. - I'm gonna wait here until she comes. - Sandy... I'm gonna honk four times. I'll go one, two, three, four, and then you'll hear it - and you'll know she's on her way up. - OK. I don't know if you're a detective or a pervert. Well, that's for me to know and you to find out. See ya. Bye. Heineken. I hope you're OK, Jeffrey. Thank you, Jimmy. See you tomorrow. - OK, good night. - Good night. Hello? Yes, sir. Frank? Frank, let me talk to him. Please, Frank... sir. I like to sing \"Blue Velvet\". Don... Don, it's all right, don't worry. Don! Don, can you hear me? Is little Donny all right? Is he there with you? Don? You mean Meadow Lane? Frank! Frank, what's the matter with him? I know. I'll be sweet. Mommy loves you. OK, Frank... sir. Get out of there! Get out! Put your hands up! On your head! Do it! Get on your knees! Do it! What are you doing? - Who are you? What's your name? - Jeffrey. - Jeffrey what? - Jeffrey nothing. Give me your wallet. Give me your wallet! Jeffrey Beaumont. What are you doing in my apartment, Jeffrey Beaumont? - I wanted to see you. - Are you kidding? - Who sent you here? - Nobody. - I've seen you before. - I sprayed your apartment. I took your key. I didn't mean to do anything except see you. What did you see, tonight? Tell me! I saw you come in, talk on the phone... - And then? - You got undressed. Do you sneak in girls' apartments to see them get undressed? No, never before this. - Get undressed. I want to see you. - Look, I'm sorry. Just let me leave. No way! I want to see you! Get undressed! Stand up. Come closer. Closer. What do you want? I don't know. Don't move. Don't look at me. - Do you like that? - Yes. Don't touch me! Or I'll kill you! Do you like talk like that? No. Get over there on that couch. Lie down. Shut up! Don't say anything. Hide in the closet. Don't say anything, or I'll kill you. I mean it. - Hello, baby. - Shut up!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Why not? 'Cause it's crazy... and dangerous. - My God, I should have never told you. - I'll be all right. I don't think you should stay. I think you should go home. Can you drive this car? - Yeah, but I... - Leave it in front of your house, OK? OK. I'll see ya tomorrow and I'll tell ya how it went. I don't wanna see you tomorrow. - Mike's coming over. - OK. Um... can I call you? OK, yeah, call. I hope you sneak out OK. - I'm gonna wait here until she comes. - Sandy... I'm gonna honk four times. I'll go one, two, three, four, and then you'll hear it - and you'll know she's on her way up. - OK. I don't know if you're a detective or a pervert. Well, that's for me to know and you to find out. See ya. Bye. Heineken. I hope you're OK, Jeffrey. Thank you, Jimmy. See you tomorrow. - OK, good night. - Good night. Hello? Yes, sir. Frank? Frank, let me talk to him. Please, Frank... sir. I like to sing \"Blue Velvet\". Don... Don, it's all right, don't worry. Don! Don, can you hear me? Is little Donny all right? Is he there with you? Don? You mean Meadow Lane? Frank! Frank, what's the matter with him? I know. I'll be sweet. Mommy loves you. OK, Frank... sir. Get out of there! Get out! Put your hands up! On your head! Do it! Get on your knees! Do it! What are you doing? - Who are you? What's your name? - Jeffrey. - Jeffrey what? - Jeffrey nothing. Give me your wallet. Give me your wallet! Jeffrey Beaumont. What are you doing in my apartment, Jeffrey Beaumont? - I wanted to see you. - Are you kidding? - Who sent you here? - Nobody. - I've seen you before. - I sprayed your apartment. I took your key. I didn't mean to do anything except see you. What did you see, tonight? Tell me! I saw you come in, talk on the phone... - And then? - You got undressed. Do you sneak in girls' apartments to see them get undressed? No, never before this. - Get undressed. I want to see you. - Look, I'm sorry. Just let me leave. No way! I want to see you! Get undressed! Stand up. Come closer. Closer. What do you want? I don't know. Don't move. Don't look at me. - Do you like that? - Yes. Don't touch me! Or I'll kill you! Do you like talk like that? No. Get over there on that couch. Lie down. Shut up! Don't say anything. Hide in the closet. Don't say anything, or I'll kill you. I mean it. - Hello, baby. - Shut up!"
+      ],
+      "scene_length_chars": 2316,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0042067100293934345,
+        0.007363675162196159,
+        0.30159324407577515,
+        0.011512008495628834,
+        0.007381318602710962,
+        0.3767392635345459,
+        0.008796452544629574,
+        0.4567027986049652,
+        0.017979996278882027,
+        0.0009217735496349633,
+        0.006972897797822952,
+        0.0048568653874099255,
+        0.0024042539298534393,
+        0.005181053187698126,
+        0.02397179789841175,
+        0.1072712168097496,
+        0.004861179739236832,
+        0.004529252648353577,
+        0.12092625349760056,
+        0.0019009498646482825,
+        0.31762954592704773,
+        0.0015058796852827072,
+        0.0036089031491428614,
+        0.0016444820212200284,
+        0.002964774379506707,
+        0.0016148010035976768,
+        0.003474452765658498,
+        0.05625143647193909
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "caring",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "caring",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "It's Daddy, you shithead! Where's my bourbon? Can't you fuckin' remember anything? Now it's dark. Spread your legs. Wider. Now show it to me. Don't you fuckin' look at me. Mommy... Mommy! Mommy! - Mommy... - Mommy loves you, Frank. Baby wants to fuck! All right, get ready to fuck! You fucker's fucker! You fucker! Don't you fuckin' look at me! Baby... wants blue velvet. Don't you fuckin' look at me! Don't you fuckin' look at me! Look at me. Daddy's coming home. Daddy's comin' home. Don't you fuckin' look at me! Daddy's comin' home. Daddy's comin' home. Daddy's coming home. Daddy's coming home. Daddy's coming... Mommy! Mommy! Don't you fuckin' look at me! Don't you fuckin' look at me! Now it's dark. You stay alive, baby. Do it for Van Gogh. Why don't you lie down? Come on, I'll help you. I don't like that. What do you want? Nothing. Are you all right? Yeah, I'm all right. I'm all right. I'll go, then. Don? - Oh, Don! - No... Oh, Don, hold me. Hold me. I'm scared. I'm scared. I'm scared! It's OK. It's OK. Don? Don? Are you back? Do you like me? - Do you like me? - Yes. Do you like the way I feel? Yes. See my breast? You can feel it. My nipple is getting hard. You can touch it. You can feel it. Do you like the way I feel? Yes. Feel me. Hit me. - Dorothy, no. Stop it. - Hit me. Hit me. Hit me! I'm leaving now. Don. Don. Help me. Oh, my God. That hat. She's married. \"Don.\" Help me. Now it's dark. Hit me. Hit me. Man, oh man. - Sandy, can ya talk? - Mike's here. Oh. I guess I'll talk to you later, then. - Well, how'd it go? - It went OK. I'll tell you about it. I'll pick you up at eight. New axe, 48721. Twenty-two... ...ninety-five. - I'll see ya then. - OK, great. - Bye-bye. - Bye. Well? Aren't you gonna tell me about it? OK. It's a strange world, Sandy. Dorothy Vallens is married, to a man named Don. They have a son. I think the son and the husband have been kidnapped by a man named Frank. Frank has done this to force Dorothy to do things for him. I think she wants to die. I think Frank cut the ear I found off her husband as a warning for her to stay alive. Frank is, uh... ...a very dangerous man. My God. - Shouldn't you tell my father? - No. I can't do that. I can't prove any of this. I found out my information illegally. You could get into a lot of trouble. You saw all that in one night?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It's Daddy, you shithead! Where's my bourbon? Can't you fuckin' remember anything? Now it's dark. Spread your legs. Wider. Now show it to me. Don't you fuckin' look at me. Mommy... Mommy! Mommy! - Mommy... - Mommy loves you, Frank. Baby wants to fuck! All right, get ready to fuck! You fucker's fucker! You fucker! Don't you fuckin' look at me! Baby... wants blue velvet. Don't you fuckin' look at me! Don't you fuckin' look at me! Look at me. Daddy's coming home. Daddy's comin' home. Don't you fuckin' look at me! Daddy's comin' home. Daddy's comin' home. Daddy's coming home. Daddy's coming home. Daddy's coming... Mommy! Mommy! Don't you fuckin' look at me! Don't you fuckin' look at me! Now it's dark. You stay alive, baby. Do it for Van Gogh. Why don't you lie down? Come on, I'll help you. I don't like that. What do you want? Nothing. Are you all right? Yeah, I'm all right. I'm all right. I'll go, then. Don? - Oh, Don! - No... Oh, Don, hold me. Hold me. I'm scared. I'm scared. I'm scared! It's OK. It's OK. Don? Don? Are you back? Do you like me? - Do you like me? - Yes. Do you like the way I feel? Yes. See my breast? You can feel it. My nipple is getting hard. You can touch it. You can feel it. Do you like the way I feel? Yes. Feel me. Hit me. - Dorothy, no. Stop it. - Hit me. Hit me. Hit me! I'm leaving now. Don. Don. Help me. Oh, my God. That hat. She's married. \"Don.\" Help me. Now it's dark. Hit me. Hit me. Man, oh man. - Sandy, can ya talk? - Mike's here. Oh. I guess I'll talk to you later, then. - Well, how'd it go? - It went OK. I'll tell you about it. I'll pick you up at eight. New axe, 48721. Twenty-two... ...ninety-five. - I'll see ya then. - OK, great. - Bye-bye. - Bye. Well? Aren't you gonna tell me about it? OK. It's a strange world, Sandy. Dorothy Vallens is married, to a man named Don. They have a son. I think the son and the husband have been kidnapped by a man named Frank. Frank has done this to force Dorothy to do things for him. I think she wants to die. I think Frank cut the ear I found off her husband as a warning for her to stay alive. Frank is, uh... ...a very dangerous man. My God. - Shouldn't you tell my father? - No. I can't do that. I can't prove any of this. I found out my information illegally. You could get into a lot of trouble. You saw all that in one night?"
+      ],
+      "scene_length_chars": 2325,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012480692937970161,
+        0.0010381822939962149,
+        0.23924966156482697,
+        0.00858918484300375,
+        0.0024566163774579763,
+        0.013013746589422226,
+        0.01972384750843048,
+        0.46927714347839355,
+        0.00885858479887247,
+        0.002260815817862749,
+        0.0023597562685608864,
+        0.003737841499969363,
+        0.0008479082025587559,
+        0.018177563324570656,
+        0.4333665370941162,
+        0.0009872334776446223,
+        0.0033551629167050123,
+        0.003972006496042013,
+        0.03967265784740448,
+        0.0059213400818407536,
+        0.01000475324690342,
+        0.0016649533063173294,
+        0.003758165054023266,
+        0.00038632401265203953,
+        0.0004841360205318779,
+        0.001643216353841126,
+        0.01881319284439087,
+        0.029561355710029602
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "fear",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "It is a strange world. Why are there people like Frank? Why is there so much trouble in this world? I don't know. I had a dream. In fact, it was the night I met you. In the dream, there was our world, and the world was dark because there weren't any robins. And the robins represented love. And for the longest time there was just this darkness. And all of a sudden thousands of robins were set free. And they flew down and brought this blinding light of love. And it seemed like that love would be the only thing that would make any difference, and it did. So I guess it means... ...there is trouble till the robins come. You're a neat girl. So are you. I mean... you're a neat guy. I guess we better go. Yeah. I guess so. Hi. May I come in? Yes. Hurry, though. Are you all right? No, I'm not. Why are you here? - What do you want? - I, um... I looked for you in my closet tonight. It's crazy, I know. I don't know where you come from, but... ...I like you. It's not crazy. I like you too. I liked being with you last night. Same here. Please be with me. Be with me, please. ♪ Like a flame burning brightly ♪ But when she left ♪ Gone was the glow ♪ Of ♪ Blue velvet ♪ But in my heart there'll always be ♪ Precious and warm a memory ♪ Through the years ♪ And I still can see ♪ Blue velvet ♪ Through my tears ♪ USA Logs, logs, logs. Lumberton, USA. At the sound of the falling tree... ..it's 1:30. This is the mighty voice of Lumberton, the town where people really know how much wood a woodchuck chucks. ..seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20... - Keep going. - Sandy. ...23, 24, 25. Oh, great. - You're late. - I'm sorry. - What am I gonna do now? - You wanna go talk to him? Yeah, but... I don't think it's gonna do much good. Let's just go. I'll try to talk to him later. See that clock on the wall? Yeah. Five minutes from now, you're not gonna believe what I've told you. Number one. Today I staked out Frank's place with a camera. There's another man involved in all this. I call him the Yellow Man. You saw his back the other day at Dorothy's apartment. Today I saw the Yellow Man go into Frank's building, laughing with Frank. Now, the only trouble is, what does that prove? Nothing, really. But it's interesting. Number two. I saw the Yellow Man come out and meet a well-dressed man carrying an alligator briefcase.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It is a strange world. Why are there people like Frank? Why is there so much trouble in this world? I don't know. I had a dream. In fact, it was the night I met you. In the dream, there was our world, and the world was dark because there weren't any robins. And the robins represented love. And for the longest time there was just this darkness. And all of a sudden thousands of robins were set free. And they flew down and brought this blinding light of love. And it seemed like that love would be the only thing that would make any difference, and it did. So I guess it means... ...there is trouble till the robins come. You're a neat girl. So are you. I mean... you're a neat guy. I guess we better go. Yeah. I guess so. Hi. May I come in? Yes. Hurry, though. Are you all right? No, I'm not. Why are you here? - What do you want? - I, um... I looked for you in my closet tonight. It's crazy, I know. I don't know where you come from, but... ...I like you. It's not crazy. I like you too. I liked being with you last night. Same here. Please be with me. Be with me, please. ♪ Like a flame burning brightly ♪ But when she left ♪ Gone was the glow ♪ Of ♪ Blue velvet ♪ But in my heart there'll always be ♪ Precious and warm a memory ♪ Through the years ♪ And I still can see ♪ Blue velvet ♪ Through my tears ♪ USA Logs, logs, logs. Lumberton, USA. At the sound of the falling tree... ..it's 1:30. This is the mighty voice of Lumberton, the town where people really know how much wood a woodchuck chucks. ..seven, eight, nine, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20... - Keep going. - Sandy. ...23, 24, 25. Oh, great. - You're late. - I'm sorry. - What am I gonna do now? - You wanna go talk to him? Yeah, but... I don't think it's gonna do much good. Let's just go. I'll try to talk to him later. See that clock on the wall? Yeah. Five minutes from now, you're not gonna believe what I've told you. Number one. Today I staked out Frank's place with a camera. There's another man involved in all this. I call him the Yellow Man. You saw his back the other day at Dorothy's apartment. Today I saw the Yellow Man go into Frank's building, laughing with Frank. Now, the only trouble is, what does that prove? Nothing, really. But it's interesting. Number two. I saw the Yellow Man come out and meet a well-dressed man carrying an alligator briefcase."
+      ],
+      "scene_length_chars": 2350,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.29984238743782043,
+        0.0629127249121666,
+        0.0029581848066300154,
+        0.0016522406367585063,
+        0.08112139999866486,
+        0.04315955936908722,
+        0.09254425764083862,
+        0.40147221088409424,
+        0.013946817256510258,
+        0.04826250672340393,
+        0.004691675305366516,
+        0.0012599959736689925,
+        0.0015101315220817924,
+        0.007075909525156021,
+        0.0013960531214252114,
+        0.0008090581395663321,
+        0.009310373105108738,
+        0.002621716121211648,
+        0.31751441955566406,
+        0.004225056618452072,
+        0.19943153858184814,
+        0.027101648971438408,
+        0.2980477511882782,
+        0.002830757759511471,
+        0.0059683374129235744,
+        0.03859066218137741,
+        0.03246642276644707,
+        0.33690810203552246
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "love"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "They went to a factory, stood on a staircase and looked into the distance. Now get this. In the distance, there was a murder. A drug dealer was shot to death and a woman had her legs broken. Jeffrey... Then two guys told me the police would find drugs in the dead dealer's place. I can't believe what you're finding out. Are you gonna continue with this? Yeah. Until when? What are you gonna do with this? Well, I don't know. You're not going back to her apartment? Yeah. Jeffrey, why? I'm seeing something that was always hidden. I'm involved in a mystery. I'm in the middle of a mystery. And it's all secret. You like mysteries that much? Yeah. You're a mystery. I like you... ...very much. Yeah? Jeffrey, don't. Please. You worry about me? Really? Yeah. Is that so surprising? Yeah, I worry... a lot. I got you into this. ♪ Blue velvet ♪ Whoa-whoa ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet was the night ♪ Whoa-whoa-whoa ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet were her eyes ♪ Whoa-whoa-whoa ♪ Warmer than May her tender sighs ♪ Love was ours Come to my bedroom. What do you want to do? I'm doing it. Are you a bad boy? What do you mean? Do you wanna do bad things? Anything. Anything. What do you want? I want you to hurt me. No. I don't wanna hurt you. I told you, I wanna help you. Dorothy, I know some of what’s happening. Frank has your husband and son, doesn't he? Dorothy, you gotta do something, go to the police or... No police! No police! Don! - Hit me! - No! No! Get away! Get away from my bed! Stay away! I have your disease in me now. It used to make me laugh. I'm sorry, Dorothy. - I should go. - Yes. You think I'm crazy, don't you? I want you to stay. - Don't hate me. - I sure don't hate you. I'm not crazy. I know the difference between right and wrong. That's good. You're my special friend. I still have you inside of me. It helps me. I need you. I'll call you. OK. - Soon? - Mm. - Are you lying to me? - No. - Are you sure? - Hey! Hello, baby. - Who is this fuck? - A friend. He's from the neighborhood. We were just talking. Ohh! You're from the neighborhood. Yeah. You're a neighbor. - Well, what's your name, neighbor? - Jeffrey. He's a good kid, Frank. Shut the fuck up! Hey, you wanna go for a ride?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "They went to a factory, stood on a staircase and looked into the distance. Now get this. In the distance, there was a murder. A drug dealer was shot to death and a woman had her legs broken. Jeffrey... Then two guys told me the police would find drugs in the dead dealer's place. I can't believe what you're finding out. Are you gonna continue with this? Yeah. Until when? What are you gonna do with this? Well, I don't know. You're not going back to her apartment? Yeah. Jeffrey, why? I'm seeing something that was always hidden. I'm involved in a mystery. I'm in the middle of a mystery. And it's all secret. You like mysteries that much? Yeah. You're a mystery. I like you... ...very much. Yeah? Jeffrey, don't. Please. You worry about me? Really? Yeah. Is that so surprising? Yeah, I worry... a lot. I got you into this. ♪ Blue velvet ♪ Whoa-whoa ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet was the night ♪ Whoa-whoa-whoa ♪ Softer than satin was the light ♪ From the stars ♪ She wore blue velvet ♪ Whoa-whoa ♪ Bluer than velvet were her eyes ♪ Whoa-whoa-whoa ♪ Warmer than May her tender sighs ♪ Love was ours Come to my bedroom. What do you want to do? I'm doing it. Are you a bad boy? What do you mean? Do you wanna do bad things? Anything. Anything. What do you want? I want you to hurt me. No. I don't wanna hurt you. I told you, I wanna help you. Dorothy, I know some of what’s happening. Frank has your husband and son, doesn't he? Dorothy, you gotta do something, go to the police or... No police! No police! Don! - Hit me! - No! No! Get away! Get away from my bed! Stay away! I have your disease in me now. It used to make me laugh. I'm sorry, Dorothy. - I should go. - Yes. You think I'm crazy, don't you? I want you to stay. - Don't hate me. - I sure don't hate you. I'm not crazy. I know the difference between right and wrong. That's good. You're my special friend. I still have you inside of me. It helps me. I need you. I'll call you. OK. - Soon? - Mm. - Are you lying to me? - No. - Are you sure? - Hey! Hello, baby. - Who is this fuck? - A friend. He's from the neighborhood. We were just talking. Ohh! You're from the neighborhood. Yeah. You're a neighbor. - Well, what's your name, neighbor? - Jeffrey. He's a good kid, Frank. Shut the fuck up! Hey, you wanna go for a ride?"
+      ],
+      "scene_length_chars": 2307,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.007950863800942898,
+        0.11395129561424255,
+        0.2155344933271408,
+        0.04201233759522438,
+        0.03694577515125275,
+        0.48120418190956116,
+        0.0849900171160698,
+        0.8669054508209229,
+        0.036834027618169785,
+        0.004932830110192299,
+        0.01466410979628563,
+        0.00969318300485611,
+        0.003221709281206131,
+        0.010915872640907764,
+        0.03436700627207756,
+        0.0010678918333724141,
+        0.019037455320358276,
+        0.036098115146160126,
+        0.06927094608545303,
+        0.01619252935051918,
+        0.027540871873497963,
+        0.0012094328412786126,
+        0.01683557964861393,
+        0.0014912119368091226,
+        0.011010081507265568,
+        0.04329988360404968,
+        0.19843833148479462,
+        0.03627048060297966
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "caring",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "caring",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "No, thanks. \"No, thanks\"? What does that mean? - I don't wanna go. - Go where? - For a ride. - A ride. Hell, that's a good idea. OK. Let's go. Let's go. Get your fuckin' robe! Raymond? Come on. We're gonna go for a joyride. Joyride. All right, where do you wanna go? Oh, I know. We got to go to Ben's, right? Oh, right. We've got to see Ben. Yeah, we got to, got to, got to, got to. We may all be killed. - He's a pussy, Frank. - Yeah, but he's our pussy. - Right, tits? - Pussy heaven. You ever been to pussy heaven? No. - What'd he say? - No. No. Hasn't been to pussy heaven. - Po-lice call. Po-lice call. - Bury that fuck! This... is... it. Raymond? Thank you, Raymond. Oh! Frank's here. Come on. I want you to meet a friend of mine. Hey, Raymond? You get enough beer for Ben, too. - What beer do you like? - Heineken. Heineken? Fuck that shit! Pabst Blue Ribbon! Hey-hey! I brought some friends, I brought some beer. Fine, Frank, fine. Hey! Oh, Frank. This is a fine surprise that you brought your friends. I love surprises. Please, sit down. Suave... Goddamn, you're one suave fucker. - You want some beer? - Of course, Frank. Darling. Darling, could you bring some glasses? And we'll have a beer with Frank. Thank you. Please, sit down. Shit, man. How the shit are ya? Fine, Frank, fine. How are you? Fuckin' good. I'm real fuckin' good. Here today... ...gone tomorrow. That doesn't scare me. I'm Paul. What's your name? Jeffrey. Where's the glasses? That beer's gonna get warm. One thing I can't fuckin' stand is warm beer! It makes me fuckin' puke! Darling, where's the glasses? Here, Frank. Here come the glasses. See, here are the glasses. Raymond, where's the fuckin' beer, man? It's right here, Frank. - Do you want me to pour it? - No, I want you to fuck it! Shit, yes, pour the fuckin' beer! Thank you. - Let's drink up. - Here's to your health. Shit, let's drink to somethin' else. Let's drink to fucking. Yeah, say \"Here's to your fuck, Frank.\" If you like, Frank. Here's to your fuck. Cheers. Cheers. Wow. Suave, man. You are so fuckin' suave. - Hey, we love Ben. - We love Ben. - Here's to Ben! - Here's to Ben. Here's to Ben. - Here's to Ben. - Be polite! Here's to Ben. See that, Ben? I can make him do anything I please. Thank you for the toast. That was very nice, neighbor. Did he hurt your little face?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No, thanks. \"No, thanks\"? What does that mean? - I don't wanna go. - Go where? - For a ride. - A ride. Hell, that's a good idea. OK. Let's go. Let's go. Get your fuckin' robe! Raymond? Come on. We're gonna go for a joyride. Joyride. All right, where do you wanna go? Oh, I know. We got to go to Ben's, right? Oh, right. We've got to see Ben. Yeah, we got to, got to, got to, got to. We may all be killed. - He's a pussy, Frank. - Yeah, but he's our pussy. - Right, tits? - Pussy heaven. You ever been to pussy heaven? No. - What'd he say? - No. No. Hasn't been to pussy heaven. - Po-lice call. Po-lice call. - Bury that fuck! This... is... it. Raymond? Thank you, Raymond. Oh! Frank's here. Come on. I want you to meet a friend of mine. Hey, Raymond? You get enough beer for Ben, too. - What beer do you like? - Heineken. Heineken? Fuck that shit! Pabst Blue Ribbon! Hey-hey! I brought some friends, I brought some beer. Fine, Frank, fine. Hey! Oh, Frank. This is a fine surprise that you brought your friends. I love surprises. Please, sit down. Suave... Goddamn, you're one suave fucker. - You want some beer? - Of course, Frank. Darling. Darling, could you bring some glasses? And we'll have a beer with Frank. Thank you. Please, sit down. Shit, man. How the shit are ya? Fine, Frank, fine. How are you? Fuckin' good. I'm real fuckin' good. Here today... ...gone tomorrow. That doesn't scare me. I'm Paul. What's your name? Jeffrey. Where's the glasses? That beer's gonna get warm. One thing I can't fuckin' stand is warm beer! It makes me fuckin' puke! Darling, where's the glasses? Here, Frank. Here come the glasses. See, here are the glasses. Raymond, where's the fuckin' beer, man? It's right here, Frank. - Do you want me to pour it? - No, I want you to fuck it! Shit, yes, pour the fuckin' beer! Thank you. - Let's drink up. - Here's to your health. Shit, let's drink to somethin' else. Let's drink to fucking. Yeah, say \"Here's to your fuck, Frank.\" If you like, Frank. Here's to your fuck. Cheers. Cheers. Wow. Suave, man. You are so fuckin' suave. - Hey, we love Ben. - We love Ben. - Here's to Ben! - Here's to Ben. Here's to Ben. - Here's to Ben. - Be polite! Here's to Ben. See that, Ben? I can make him do anything I please. Thank you for the toast. That was very nice, neighbor. Did he hurt your little face?"
+      ],
+      "scene_length_chars": 2326,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.08150571584701538,
+        0.009767762385308743,
+        0.19348706305027008,
+        0.017245935276150703,
+        0.03809046745300293,
+        0.07636911422014236,
+        0.030765285715460777,
+        0.4094904363155365,
+        0.05934654548764229,
+        0.0035497595090419054,
+        0.013836562633514404,
+        0.019623851403594017,
+        0.008667202666401863,
+        0.2013079971075058,
+        0.006931275594979525,
+        0.9563708305358887,
+        0.01483194436877966,
+        0.14785467088222504,
+        0.654767632484436,
+        0.003684518625959754,
+        0.021861307322978973,
+        0.02739221602678299,
+        0.03803480416536331,
+        0.014129758812487125,
+        0.0033352344762533903,
+        0.007909112609922886,
+        0.33112162351608276,
+        0.013600155711174011
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "love",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "That feel better? Frank, I have something for ya. Would you excuse us for a moment, please? Excuse us, porfavor. Raymond, do a little baby-sitting. I'm Paul. Gordon went right up to 'em in broad daylight, 'cause he's the man, right? He took those drugs away and it was fuckin' beautiful. A candy-colored clown they call the Sandman. Let Tits see her kid, huh? A candy-colored clown they call the Sandman. Donny! Donny! Oh, Donny! No! No! Donny, Mama loves you! ♪ A candy-colored clown they call the Sandman ♪ Tiptoes to my room every night ♪ Just to sprinkle stardust and to whisper ♪ \"Go to sleep\" ♪ \"Everything is all right\" ♪ I close my eyes ♪ Then I drift away ♪ Into the magic night ♪ I softly say ♪ A silent prayer ♪ Like dreamers do ♪ Then I fall asleep to dream ♪ My dreams of you ♪ In dreams I walk ♪ With you ♪ In dreams I talk ♪ To you ♪ In dreams you're mine ♪ All the time ♪ We're together All right! Let's hit the fuckin' road! We're givin' our neighbor a joyride! Let's get on with it! Bye, Ben. Anyone wanna go on a joyride with us? How about you? Huh? Hey! No smile for Frank? No? OK, fuck it! Let's go! You wanna go with Raymond? Come on. I'll see ya Tuesday, Frank. Right, Ben. Now it's dark. Let's fuck! I'll fuck anything that moves! Where are we going, Frank? I'm takin' your neighbor out to the fuckin' country. Hey, do you like to walk? - Hey, I'm talkin' to you, shithead. - What? He said \"What?\", Frank. What. Hey! What has this fuck got to do with anything? Jesus, goddamn. You fuck! - What're you looking at? - Nothing. Don't you look at me, fuck! I shoot when I see the whites of the eyes. You're like me. Oh, look at those. Ooh. Ooh, what are these? Mmm! - Please, Frank, let's go. - Don't say please, fuckhead! Ooh, baby... Ooh, baby wants to pinch them. Ooooh! Ooh...! Ooh, what's the matter? Ooh, ooh, give 'em back. Ooh. What's the matter? They're just a little red, that's all. Oh! Let me feel 'em. Oh! Come here. Mmm! Hey, leave her alone! Goddamn! Next! You, out of the car, fuck! Get him out of the car, Raymond! - Frank! Frank! He didn't mean anything! - Shut up! Shut up. Pretty, pretty. Pretty, pretty. Frank, leave him alone! Frank! Frank! Paul... candy-colored clown. You're fuckin' lucky to be alive. ♪ A candy-colored clown they call the Sandman - ♪ Tiptoes to my room every night - Look at me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "That feel better? Frank, I have something for ya. Would you excuse us for a moment, please? Excuse us, porfavor. Raymond, do a little baby-sitting. I'm Paul. Gordon went right up to 'em in broad daylight, 'cause he's the man, right? He took those drugs away and it was fuckin' beautiful. A candy-colored clown they call the Sandman. Let Tits see her kid, huh? A candy-colored clown they call the Sandman. Donny! Donny! Oh, Donny! No! No! Donny, Mama loves you! ♪ A candy-colored clown they call the Sandman ♪ Tiptoes to my room every night ♪ Just to sprinkle stardust and to whisper ♪ \"Go to sleep\" ♪ \"Everything is all right\" ♪ I close my eyes ♪ Then I drift away ♪ Into the magic night ♪ I softly say ♪ A silent prayer ♪ Like dreamers do ♪ Then I fall asleep to dream ♪ My dreams of you ♪ In dreams I walk ♪ With you ♪ In dreams I talk ♪ To you ♪ In dreams you're mine ♪ All the time ♪ We're together All right! Let's hit the fuckin' road! We're givin' our neighbor a joyride! Let's get on with it! Bye, Ben. Anyone wanna go on a joyride with us? How about you? Huh? Hey! No smile for Frank? No? OK, fuck it! Let's go! You wanna go with Raymond? Come on. I'll see ya Tuesday, Frank. Right, Ben. Now it's dark. Let's fuck! I'll fuck anything that moves! Where are we going, Frank? I'm takin' your neighbor out to the fuckin' country. Hey, do you like to walk? - Hey, I'm talkin' to you, shithead. - What? He said \"What?\", Frank. What. Hey! What has this fuck got to do with anything? Jesus, goddamn. You fuck! - What're you looking at? - Nothing. Don't you look at me, fuck! I shoot when I see the whites of the eyes. You're like me. Oh, look at those. Ooh. Ooh, what are these? Mmm! - Please, Frank, let's go. - Don't say please, fuckhead! Ooh, baby... Ooh, baby wants to pinch them. Ooooh! Ooh...! Ooh, what's the matter? Ooh, ooh, give 'em back. Ooh. What's the matter? They're just a little red, that's all. Oh! Let me feel 'em. Oh! Come here. Mmm! Hey, leave her alone! Goddamn! Next! You, out of the car, fuck! Get him out of the car, Raymond! - Frank! Frank! He didn't mean anything! - Shut up! Shut up. Pretty, pretty. Pretty, pretty. Frank, leave him alone! Frank! Frank! Paul... candy-colored clown. You're fuckin' lucky to be alive. ♪ A candy-colored clown they call the Sandman - ♪ Tiptoes to my room every night - Look at me."
+      ],
+      "scene_length_chars": 2339,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.042477380484342575,
+        0.08741209656000137,
+        0.563162088394165,
+        0.06845376640558243,
+        0.008099551312625408,
+        0.015480481088161469,
+        0.0070813908241689205,
+        0.30658817291259766,
+        0.04459059238433838,
+        0.0046269032172858715,
+        0.012469860725104809,
+        0.01203656941652298,
+        0.00207346398383379,
+        0.02912718988955021,
+        0.007223063614219427,
+        0.0018115178681910038,
+        0.008439581841230392,
+        0.042924392968416214,
+        0.4300689697265625,
+        0.0010720122372731566,
+        0.01914960704743862,
+        0.004012289922684431,
+        0.022817282006144524,
+        0.00032051201560534537,
+        0.0012595930602401495,
+        0.00789345521479845,
+        0.04943382367491722,
+        0.11764197796583176
+      ],
+      "goemotions_topk": [
+        "anger",
+        "love",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "♪ Just to sprinkle stardust and to whisper ♪ \"Go to sleep, everything is all right\" Candy-colored clown. ♪ I close my eyes ♪ Then I drift away Don't be a good neighbor to her. I'll send you a love letter. Straight from my heart, fucker! Do you know what a love letter is? It's a bullet from a fuckin' gun, fucker. You receive a love letter from me, you are fucked forever! You understand, fuck? I'll send you straight to hell, fucker! ♪ In dreams I walk - ♪ With you - In dreams... - ...I walk with you. - ♪ In dreams - ♪ I talk to you - In dreams... I talk... to you. - ♪ In dreams you're mine - In dreams... you're mine. - ♪ All the time - All... ♪ We're together - ♪ In dreams, in dreams - Forever in dreams. ♪ But just ♪ Before the dawn - ♪ I awake and find - Feel this. ♪ You gone ♪ I can't help it ♪ I can't help it ♪ If I try Feel my muscles. Huh? Feel 'em! Huh? You like that? Hold him tight for me. Frank, stop it! Frank, stop it! Frank! Stop! Frank, stop it! Stop it! Stop it, Frank! ♪ In dreams you're mine Hit me. No, Donny, Mama loves you! What do you mean, you're lucky to be able to call me? Things got out of hand. I know some things. They could help your father, but you might get into trouble. Look, forget me. You've got to tell him. OK. I promise I won't mention you. Jeffrey, I mean it. It doesn't matter. Good. I'll see you Friday, if not before. OK. - Bye-bye, Sandy. - Bye. - I don't wanna talk about it. - But... Everything is OK now. I just don't wanna talk about it. Sometimes it's good to talk things over. For instance, they say many marriages... Aunt Barbara... I love you but you're gonna get it. Gordon. Gordon went right up to 'em in broad daylight, 'cause he's the man, right? He took those drugs away and it was beautiful. I got it. - Jeffrey. Come on in. - Jeffrey. - Hi, Sandy. - Hi, Jeffrey. Sorry to bother you, but I need to talk. OK. Looks like you had a bad face-lift. - Yeah. - Come on into my study. I have to show you some photos and tell you some things about them. This is the first picture. It's Frank Booth. He is a very sick and dangerous man. His address is on the back of the photo. This photo is of Frank and another man as they went into Frank's building. And then that man came out and met with a third man. This well-dressed guy.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "♪ Just to sprinkle stardust and to whisper ♪ \"Go to sleep, everything is all right\" Candy-colored clown. ♪ I close my eyes ♪ Then I drift away Don't be a good neighbor to her. I'll send you a love letter. Straight from my heart, fucker! Do you know what a love letter is? It's a bullet from a fuckin' gun, fucker. You receive a love letter from me, you are fucked forever! You understand, fuck? I'll send you straight to hell, fucker! ♪ In dreams I walk - ♪ With you - In dreams... - ...I walk with you. - ♪ In dreams - ♪ I talk to you - In dreams... I talk... to you. - ♪ In dreams you're mine - In dreams... you're mine. - ♪ All the time - All... ♪ We're together - ♪ In dreams, in dreams - Forever in dreams. ♪ But just ♪ Before the dawn - ♪ I awake and find - Feel this. ♪ You gone ♪ I can't help it ♪ I can't help it ♪ If I try Feel my muscles. Huh? Feel 'em! Huh? You like that? Hold him tight for me. Frank, stop it! Frank, stop it! Frank! Stop! Frank, stop it! Stop it! Stop it, Frank! ♪ In dreams you're mine Hit me. No, Donny, Mama loves you! What do you mean, you're lucky to be able to call me? Things got out of hand. I know some things. They could help your father, but you might get into trouble. Look, forget me. You've got to tell him. OK. I promise I won't mention you. Jeffrey, I mean it. It doesn't matter. Good. I'll see you Friday, if not before. OK. - Bye-bye, Sandy. - Bye. - I don't wanna talk about it. - But... Everything is OK now. I just don't wanna talk about it. Sometimes it's good to talk things over. For instance, they say many marriages... Aunt Barbara... I love you but you're gonna get it. Gordon. Gordon went right up to 'em in broad daylight, 'cause he's the man, right? He took those drugs away and it was beautiful. I got it. - Jeffrey. Come on in. - Jeffrey. - Hi, Sandy. - Hi, Jeffrey. Sorry to bother you, but I need to talk. OK. Looks like you had a bad face-lift. - Yeah. - Come on into my study. I have to show you some photos and tell you some things about them. This is the first picture. It's Frank Booth. He is a very sick and dangerous man. His address is on the back of the photo. This photo is of Frank and another man as they went into Frank's building. And then that man came out and met with a third man. This well-dressed guy."
+      ],
+      "scene_length_chars": 2285,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33336231112480164,
+        0.008090894669294357,
+        0.13711726665496826,
+        0.024792788550257683,
+        0.036532528698444366,
+        0.3436580002307892,
+        0.007442699745297432,
+        0.053569894284009933,
+        0.02415156364440918,
+        0.007652714848518372,
+        0.007427444215863943,
+        0.024257173761725426,
+        0.009356251917779446,
+        0.005199527367949486,
+        0.022409358993172646,
+        0.0017940038815140724,
+        0.007342476397752762,
+        0.007073003798723221,
+        0.5228530764579773,
+        0.00524849584326148,
+        0.3026646077632904,
+        0.0027113452088087797,
+        0.03919694572687149,
+        0.0009500747546553612,
+        0.0029385369271039963,
+        0.02814650721848011,
+        0.00222121668048203,
+        0.06529535353183746
+      ],
+      "goemotions_topk": [
+        "love",
+        "caring",
+        "admiration"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": [
+        "love"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "Here's that photo. I think a woman named Dorothy Vallens is in trouble with these people. I think Frank kidnapped her husband and son. I have no hard proof of this. - Is Sandy part of this? - Oh, no. No. Who else knows you have these photos? Just you and the photo lab. - And you're through with this now? - Yes, sir, I am. For now, all right, you better be. And Sandy better not be involved with this. Be prepared to come in for further interrogation on this later. Yes, sir. - Is everything OK? - Yeah. Is Friday still on? - You didn't tell him about me? - No. Shh. Why did I ever get you going on this? - Of course Friday's still on. - Great. See ya then. Good night, Detective Williams. - Night, Sandy. - Good night, Jeffrey. Dad? What's wrong? There better be nothin' wrong. Let's see. - I'll get it. - OK, thanks. - Jeffrey, come on in. - Thanks, Mrs. Williams. - She's all ready. - OK. - You look great. - Thanks. - Hello, Detective Williams. - Hello, Jeffrey. - You all set? - Almost. Hey, John, get a move on. Just a minute, Tom. Easy does it, Jeffrey. Behave yourself. Don't blow it. Come on, John. Get it in gear, pal. So long, Jeffrey. You two have a nice time tonight, OK? - OK. - What's goin' on? Just a little fatherly advice. That's right, Jeffrey. Come on. - Bye, Dad. - Bye. - Good night, Mom. - Bye. Have a good time. - Night, Sandy. - Good night, Tom. - Jeffrey, what was that all about? - It's nothing. Really. It's good to see you. It's good to see you. You look beautiful. Thank you. Hi. Hi. - It's all taken care of. - OK. You want something to drink? Wanna dance? Yeah. ♪ Sometimes ♪ A wind blows ♪ And you and I ♪ Float ♪ In love ♪ And kiss forever ♪ In a darkness ♪ And the mysteries of love I love you, Jeffrey. ♪ Come clear I love you, too. ♪ In you ♪ In me ♪ And show ♪ That we ♪ Are love Bye. See you later. - What's goin' on? - What is it? They're gonna hit us. - Oh, my God, what's wrong? - It's Frank. Move it! Hang on. I can't outrun this guy. My father's got a gun at home. Jeffrey, no. Sandy, this guy's a killer. I promise you. It's Mike! Jeffrey, it's Mike. Oh, my God. Get outta the car! Come on! Get outta there! You stole my girl, you bastard. I'm gonna kick your ass. Right here, in front of your own stupid house. Get outta here! Mike, stop it. Shut up! Just shut up, all right?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Here's that photo. I think a woman named Dorothy Vallens is in trouble with these people. I think Frank kidnapped her husband and son. I have no hard proof of this. - Is Sandy part of this? - Oh, no. No. Who else knows you have these photos? Just you and the photo lab. - And you're through with this now? - Yes, sir, I am. For now, all right, you better be. And Sandy better not be involved with this. Be prepared to come in for further interrogation on this later. Yes, sir. - Is everything OK? - Yeah. Is Friday still on? - You didn't tell him about me? - No. Shh. Why did I ever get you going on this? - Of course Friday's still on. - Great. See ya then. Good night, Detective Williams. - Night, Sandy. - Good night, Jeffrey. Dad? What's wrong? There better be nothin' wrong. Let's see. - I'll get it. - OK, thanks. - Jeffrey, come on in. - Thanks, Mrs. Williams. - She's all ready. - OK. - You look great. - Thanks. - Hello, Detective Williams. - Hello, Jeffrey. - You all set? - Almost. Hey, John, get a move on. Just a minute, Tom. Easy does it, Jeffrey. Behave yourself. Don't blow it. Come on, John. Get it in gear, pal. So long, Jeffrey. You two have a nice time tonight, OK? - OK. - What's goin' on? Just a little fatherly advice. That's right, Jeffrey. Come on. - Bye, Dad. - Bye. - Good night, Mom. - Bye. Have a good time. - Night, Sandy. - Good night, Tom. - Jeffrey, what was that all about? - It's nothing. Really. It's good to see you. It's good to see you. You look beautiful. Thank you. Hi. Hi. - It's all taken care of. - OK. You want something to drink? Wanna dance? Yeah. ♪ Sometimes ♪ A wind blows ♪ And you and I ♪ Float ♪ In love ♪ And kiss forever ♪ In a darkness ♪ And the mysteries of love I love you, Jeffrey. ♪ Come clear I love you, too. ♪ In you ♪ In me ♪ And show ♪ That we ♪ Are love Bye. See you later. - What's goin' on? - What is it? They're gonna hit us. - Oh, my God, what's wrong? - It's Frank. Move it! Hang on. I can't outrun this guy. My father's got a gun at home. Jeffrey, no. Sandy, this guy's a killer. I promise you. It's Mike! Jeffrey, it's Mike. Oh, my God. Get outta the car! Come on! Get outta there! You stole my girl, you bastard. I'm gonna kick your ass. Right here, in front of your own stupid house. Get outta here! Mike, stop it. Shut up! Just shut up, all right?"
+      ],
+      "scene_length_chars": 2322,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.24945111572742462,
+        0.003070209175348282,
+        0.3346054255962372,
+        0.007157687563449144,
+        0.09630364179611206,
+        0.29829472303390503,
+        0.022081991657614708,
+        0.5813018679618835,
+        0.016327140852808952,
+        0.001597785041667521,
+        0.007206523325294256,
+        0.004189207684248686,
+        0.002760297618806362,
+        0.012747518718242645,
+        0.006504631135612726,
+        0.6470628976821899,
+        0.007436609361320734,
+        0.019791875034570694,
+        0.3310256600379944,
+        0.002017833525314927,
+        0.031629785895347595,
+        0.00687396340072155,
+        0.00710524944588542,
+        0.010354065336287022,
+        0.008415485732257366,
+        0.007340800482779741,
+        0.008027362637221813,
+        0.014648842625319958
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "anger"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "Nobody's talkin' to you. Come on, Mike. Look, I don't wanna cause any problems. - Who's that? Is that your mother? - Dorothy. - No, come here, you Ivy League shit. - She's hurt, in case you didn't notice. Dorothy Vallens? Come on. I'm really... Hey, I'm sorry. I'm really sorry. I didn't know. I'm really sorry. It's OK. It's OK. I thought you were gonna kill him, man. We've gotta get her outta here. Go to my house. My father can get an ambulance fast. - His partner won't be there, will he? - Probably not. Why? - Nothing. - Watch out for Mike. Oh, God. Is that you, Jeffrey? Yeah. It's me. Oh, Jeffrey... Jeffrey... Dad? Mom? - I'm in here, honey. - Mom! All right, I'll be right there. - Is Dad home? - No. He oughta... You better call him. And, uh... get an ambulance. Where have you been? Oh, God. Oh, God, they've hurt him. Oh, Jeffrey! Jeffrey, Jeffrey, hold me! - Hold me! Hold me! - It's OK, it's OK. My secret lover. I've called for an ambulance. The police are on their way. Don't get the police! Stop it! I love you! Love me! He put his disease in me. Tell me it's all right I opened myself to you. - Tell me it's all right. - Sandy, please... - Sandy? - I'll get a coat to put on her. Jeffrey? What's going on here? Shh. I'll tell you. They... they've hurt his head. Who, Dorothy? Don. Help him. Help him. Promise me you'll help him! He put his disease in me. Would you like to come in the ambulance? I'll be right with you. I should go. - Go. - Sandy... Hold me! I'm falling! I'm falling! Hold me! - You lied to me. - Sandy, please, forgive me. I love you. I forgive you, Jeffrey. I love you. I love you. I... But I couldn't watch that. - Is she OK? - Yeah, she's OK. Get your father. Tell him to send the police to Dorothy's apartment. Tell him to hurry. I'm leaving right now. - Jeffrey, no. - I have to. - I love you. - Oh, God, be careful. I will, believe me. Where... Where is my dream? Look, this is an emergency. He said someone was hurt and he wants Detective Williams there. We do not know his whereabouts at this time. Well, find him! Get back and stay down. He's going to apartment 26. Lieutenant, we're at Frank's place now. The raid has commenced, as scheduled. Stay in place. ♪ Love letters straight from your heart Number 25 is vacant, so maybe we can go through there. ♪ Keep us so near ♪ While apart ♪ I'm not alone ♪ In the night I'm gonna let them find you on their own.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Nobody's talkin' to you. Come on, Mike. Look, I don't wanna cause any problems. - Who's that? Is that your mother? - Dorothy. - No, come here, you Ivy League shit. - She's hurt, in case you didn't notice. Dorothy Vallens? Come on. I'm really... Hey, I'm sorry. I'm really sorry. I didn't know. I'm really sorry. It's OK. It's OK. I thought you were gonna kill him, man. We've gotta get her outta here. Go to my house. My father can get an ambulance fast. - His partner won't be there, will he? - Probably not. Why? - Nothing. - Watch out for Mike. Oh, God. Is that you, Jeffrey? Yeah. It's me. Oh, Jeffrey... Jeffrey... Dad? Mom? - I'm in here, honey. - Mom! All right, I'll be right there. - Is Dad home? - No. He oughta... You better call him. And, uh... get an ambulance. Where have you been? Oh, God. Oh, God, they've hurt him. Oh, Jeffrey! Jeffrey, Jeffrey, hold me! - Hold me! Hold me! - It's OK, it's OK. My secret lover. I've called for an ambulance. The police are on their way. Don't get the police! Stop it! I love you! Love me! He put his disease in me. Tell me it's all right I opened myself to you. - Tell me it's all right. - Sandy, please... - Sandy? - I'll get a coat to put on her. Jeffrey? What's going on here? Shh. I'll tell you. They... they've hurt his head. Who, Dorothy? Don. Help him. Help him. Promise me you'll help him! He put his disease in me. Would you like to come in the ambulance? I'll be right with you. I should go. - Go. - Sandy... Hold me! I'm falling! I'm falling! Hold me! - You lied to me. - Sandy, please, forgive me. I love you. I forgive you, Jeffrey. I love you. I love you. I... But I couldn't watch that. - Is she OK? - Yeah, she's OK. Get your father. Tell him to send the police to Dorothy's apartment. Tell him to hurry. I'm leaving right now. - Jeffrey, no. - I have to. - I love you. - Oh, God, be careful. I will, believe me. Where... Where is my dream? Look, this is an emergency. He said someone was hurt and he wants Detective Williams there. We do not know his whereabouts at this time. Well, find him! Get back and stay down. He's going to apartment 26. Lieutenant, we're at Frank's place now. The raid has commenced, as scheduled. Stay in place. ♪ Love letters straight from your heart Number 25 is vacant, so maybe we can go through there. ♪ Keep us so near ♪ While apart ♪ I'm not alone ♪ In the night I'm gonna let them find you on their own."
+      ],
+      "scene_length_chars": 2405,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.003390890546143055,
+        0.001574537716805935,
+        0.024587422609329224,
+        0.0024863535072654486,
+        0.014426206238567829,
+        0.9498529434204102,
+        0.005915020126849413,
+        0.07948355376720428,
+        0.008585426956415176,
+        0.004163998644798994,
+        0.008251866325736046,
+        0.004339374136179686,
+        0.0013792038662359118,
+        0.0031660583335906267,
+        0.01834638975560665,
+        0.003027532482519746,
+        0.026694944128394127,
+        0.0063187479972839355,
+        0.6419938206672668,
+        0.015002772212028503,
+        0.01267940178513527,
+        0.0014841309748589993,
+        0.03296789526939392,
+        0.0022187011782079935,
+        0.023453986272215843,
+        0.1066250428557396,
+        0.006669722963124514,
+        0.01807873509824276
+      ],
+      "goemotions_topk": [
+        "caring",
+        "love",
+        "sadness"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "♪ When I can have ♪ All the love ♪ You write ♪ I memorize ♪ Every line Detective Williams. - Detective Williams? - Williams here. Is that you, Jeffrey? Yeah, it's me. I'm hiding in Dorothy Vallens' apartment. Frank is on his way in a well-dressed-man disguise. I've got no way out... He's got a radio. Jeffrey! Detective Williams? I'm hiding in the back bedroom. Please hurry. Hey, neighbor. You shit-for-brains, man! You forgot I have a police radio! One well-dressed fuckin' man knows where your fuckin' cute little butt's hidin'. Stupid fuck. Fuck with me, man. Here I come, ready or not. Lockdown in progress. Cars 21 through 25... You fuck! I can hear your fuckin' radio, you stupid shit! You got about one fuckin' second to live, buddy! You're one sorry piece of shit, mister. Hey, pretty, pretty! Whoo-oo! What the fuck... Where are you? Where are you? Oh, Jeffrey. It's all over, Jeffrey. ♪ A kiss forever ♪ In a darkness ♪ And the mysteries of love ♪ Come clear ♪ And dance ♪ In light ♪ In you - Jeffrey, lunch is ready. - OK. ♪ In me ♪ And show ♪ That we - How you guys doin'? - Hey, Jeffrey. Hey, Jeff. Feelin' much better now, Jeff. Good deal, Dad. Sandy, look. Lunchtime. - OK, Jeffrey. - Sounds good. Jeffrey, come over here and look at this. Look. Yeah, I saw him outside. Maybe the robins are here. I don't see how they could do that. I could never eat a bug. It's a strange world. Isn't it? ♪ Sometimes a wind blows ♪ And the mysteries of love ♪ Come clear ♪ And I still can see ♪ Blue velvet ♪ Through my ♪ Tears",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "♪ When I can have ♪ All the love ♪ You write ♪ I memorize ♪ Every line Detective Williams. - Detective Williams? - Williams here. Is that you, Jeffrey? Yeah, it's me. I'm hiding in Dorothy Vallens' apartment. Frank is on his way in a well-dressed-man disguise. I've got no way out... He's got a radio. Jeffrey! Detective Williams? I'm hiding in the back bedroom. Please hurry. Hey, neighbor. You shit-for-brains, man! You forgot I have a police radio! One well-dressed fuckin' man knows where your fuckin' cute little butt's hidin'. Stupid fuck. Fuck with me, man. Here I come, ready or not. Lockdown in progress. Cars 21 through 25... You fuck! I can hear your fuckin' radio, you stupid shit! You got about one fuckin' second to live, buddy! You're one sorry piece of shit, mister. Hey, pretty, pretty! Whoo-oo! What the fuck... Where are you? Where are you? Oh, Jeffrey. It's all over, Jeffrey. ♪ A kiss forever ♪ In a darkness ♪ And the mysteries of love ♪ Come clear ♪ And dance ♪ In light ♪ In you - Jeffrey, lunch is ready. - OK. ♪ In me ♪ And show ♪ That we - How you guys doin'? - Hey, Jeffrey. Hey, Jeff. Feelin' much better now, Jeff. Good deal, Dad. Sandy, look. Lunchtime. - OK, Jeffrey. - Sounds good. Jeffrey, come over here and look at this. Look. Yeah, I saw him outside. Maybe the robins are here. I don't see how they could do that. I could never eat a bug. It's a strange world. Isn't it? ♪ Sometimes a wind blows ♪ And the mysteries of love ♪ Come clear ♪ And I still can see ♪ Blue velvet ♪ Through my ♪ Tears"
+      ],
+      "scene_length_chars": 1530,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.4844554364681244,
+        0.016369042918086052,
+        0.4973134994506836,
+        0.007971704006195068,
+        0.49696987867355347,
+        0.10769922286272049,
+        0.037087999284267426,
+        0.4305104613304138,
+        0.035727471113204956,
+        0.017010856419801712,
+        0.006528124678879976,
+        0.04238194227218628,
+        0.0020820421632379293,
+        0.01670832745730877,
+        0.010627266019582748,
+        0.0019091458525508642,
+        0.016119282692670822,
+        0.02127727121114731,
+        0.20896843075752258,
+        0.00523205753415823,
+        0.11559494584798813,
+        0.02173019014298916,
+        0.07464843988418579,
+        0.007541783154010773,
+        0.008455652743577957,
+        0.06686091423034668,
+        0.01948383077979088,
+        0.008133971132338047
+      ],
+      "goemotions_topk": [
+        "anger",
+        "approval",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "admiration",
+        "anger",
+        "approval",
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 14,
+    "lines_per_scene_fallback": 20
+  }
+}

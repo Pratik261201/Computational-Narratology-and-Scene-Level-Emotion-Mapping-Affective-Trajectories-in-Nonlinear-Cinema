@@ -1,0 +1,684 @@
+{
+  "source_file": "Toy Story _1995_ - full transcript.txt",
+  "title": "Toy Story",
+  "year": "1995",
+  "meta_description": null,
+  "num_scenes": 13,
+  "avg_scene_chars": 2296,
+  "characters": [
+    "BOY"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "BOY: All right, everyone! This... is a stick-up! Don't anybody move! Now, empty that safe! Ooh-hoo-hoo! Money, money, money! (KISSING) Stop it! Stop it, you mean, old potato! Quiet, Bo Peep, or your sheep get run over! Help! Baa! Help us! Oh, no, not my sheep! Somebody do something! VOICE BOX: Reach for the sky! Oh, no! Sheriff Woody! I'm here to stop you, One-Eyed Bart. Doh! How'd you know it was me? Are you gonna come quietly? You can't touch me, Sheriff! I brought my attack dog with the built-in force field. Well, I brought my dinosaur who eats force-field dogs. -(GROWLING) -Yipe, yipe, yipe, yipe! You're going to jail, Bart! Say goodbye to the wife and Tater Tots. (GIGGLING EXCITEDLY) (LAUGHING) (BABY SQUEALING, LAUGHING, COOING) You saved the day again, Woody. VOlCE BOX: You're my favorite deputy. ♪ You've got a friend in me ♪ You've got a friend in me Come on, let's wrangle up the cattle. ♪ When the road looks rough ahead ♪ And you're miles and miles from your nice, warm bed Round 'em up, cowboy! ♪ Just remember what your old pal said ♪ Boy, you've got a friend in me Yee-haw! ♪ Yeah, you've got a friend in me Hey, cowboy! ♪ Some other folks might be a little bit smarter than l am (WHINNYING) ♪ Big and stronger too Come on, Woody. ♪ Maybe ♪ But none of them will ever love you the way l do -♪ lt's me and you, boy -(LAUGHS) ♪ And as the years go by Whoa! Whoa! (LAUGHING) ♪ Our friendship will never die Whoo! ♪ You're gonna see lt's our destiny (LAUGHING) ♪ You've got a friend in me All right! ♪ Yeah, you've got a friend in me Score! -♪ You got a friend in me ♪ -Wow! Cool! -MOM: What do you think? -Oh, this looks great, Mom! Okay, birthday boy... We saw that at the store! I asked you for it! -I hope I have enough places. -Wow, look at that! That's so... -One, two... Four. -Oh, my gosh, you got... -Yeah, I think that's gonna be enough. -Could we leave this up 'til we move? -Well, sure! We can leave it up. -Yeah! Now go get Molly. Your friends are gonna be here any minute. Okay. It's party time, Woody. -Yee-haw! -(RUNNING FOOTFALLS) (BABY SQUEALING) Howdy, little lady. (SQUEALING) VOlCE BOX: Somebody's poisoned the water hole. -(COOING) -Come on, Molly. Oh, you're getting heavy. -(MOLLY COOING) -See you later, Woody. (DOOR CLOSES) Pull my string!",
+      "characters": [
+        "BOY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "BOY",
+          "text": "All right, everyone! This... is a stick-up! Don't anybody move! Now, empty that safe! Ooh-hoo-hoo! Money, money, money!  Stop it! Stop it, you mean, old potato! Quiet, Bo Peep, or your sheep get run over! Help! Baa! Help us! Oh, no, not my sheep! Somebody do something! VOICE BOX: Reach for the sky! Oh, no! Sheriff Woody! I'm here to stop you, One-Eyed Bart. Doh! How'd you know it was me? Are you gonna come quietly? You can't touch me, Sheriff! I brought my attack dog with the built-in force field. Well, I brought my dinosaur who eats force-field dogs. - -Yipe, yipe, yipe, yipe! You're going to jail, Bart! Say goodbye to the wife and Tater Tots.    You saved the day again, Woody. VOlCE BOX: You're my favorite deputy. ♪ You've got a friend in me ♪ You've got a friend in me Come on, let's wrangle up the cattle. ♪ When the road looks rough ahead ♪ And you're miles and miles from your nice, warm bed Round 'em up, cowboy! ♪ Just remember what your old pal said ♪ Boy, you've got a friend in me Yee-haw! ♪ Yeah, you've got a friend in me Hey, cowboy! ♪ Some other folks might be a little bit smarter than l am  ♪ Big and stronger too Come on, Woody. ♪ Maybe ♪ But none of them will ever love you the way l do -♪ lt's me and you, boy - ♪ And as the years go by Whoa! Whoa!  ♪ Our friendship will never die Whoo! ♪ You're gonna see lt's our destiny  ♪ You've got a friend in me All right! ♪ Yeah, you've got a friend in me Score! -♪ You got a friend in me ♪ -Wow! Cool! -MOM: What do you think? -Oh, this looks great, Mom! Okay, birthday boy... We saw that at the store! I asked you for it! -I hope I have enough places. -Wow, look at that! That's so... -One, two... Four. -Oh, my gosh, you got... -Yeah, I think that's gonna be enough. -Could we leave this up 'til we move? -Well, sure! We can leave it up. -Yeah! Now go get Molly. Your friends are gonna be here any minute. Okay. It's party time, Woody. -Yee-haw! -  Howdy, little lady.  VOlCE BOX: Somebody's poisoned the water hole. - -Come on, Molly. Oh, you're getting heavy. - -See you later, Woody.  Pull my string!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2286,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.06605707108974457,
+        0.0565912127494812,
+        0.0037280854303389788,
+        0.006492328364402056,
+        0.026599062606692314,
+        0.26174846291542053,
+        0.002057841280475259,
+        0.07635001093149185,
+        0.03563985601067543,
+        0.0037357534747570753,
+        0.001469801994971931,
+        0.0029934642370790243,
+        0.0015458095585927367,
+        0.031166328117251396,
+        0.0037274863570928574,
+        0.00033063930459320545,
+        0.003480596235021949,
+        0.010690099559724331,
+        0.04069008305668831,
+        0.0015557658625766635,
+        0.5132879018783569,
+        0.004027914255857468,
+        0.008629902265965939,
+        0.0022740690037608147,
+        0.0009464463801123202,
+        0.004635586868971586,
+        0.003333497093990445,
+        0.5312129855155945
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "optimism",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "optimism",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "The birthday party's today? Okay, everybody, coast is clear! -(SQUEAKS) -Ages 3 and up. It's on my box. Ages 3 and up. I'm not supposed to be baby-sitting Princess Drool. (TIRES SQUEAL, MOTOR REVS) -(LITTLE TIKES GIBBERING) -(BELL DINGS, SIREN WAILING) -(SIREN WAILING) -Hey, Hamm. -Look, I'm Picasso! -I don't get it. You uncultured swine! What're you lookin' at, ya hockey puck? (SQUEAKS) (LITTLE TIKES GIBBERING) -Hey, Sarge, have you seen Slinky? -Sir! No, sir! Okay. Hey, thank you. At ease. -(SIREN WAILING) -Hey, uh, Slinky? Right here, Woody. I'm red this time. -No. S-Slink... -Oh, well, all right. You can be red if you want. Not now, Slink. I got some bad news. (SHOUTS) Bad news? Shh, shh, shh! Just gather everyone up for a staff meeting, and be happy. Got it. -Be happy! -Ha, ha, ha, ha! Staff meeting, everybody! Snake, Robot, podium duty. (SIREN WAILING) Hey. (JABBERS) Hey, Etch. Draw! -(DING) -Oh! Got me again. Etch, you've been working on that draw. Fastest knobs in the West. Got a staff meeting, you guys. Come on, let's go. Now, where is that... Oh. Hey, who moved my doodle pad way over here? (ROARING) -How're you doin', Rex? -Were you scared? Tell me honestly. I was close to being scared that time. I'm going for fearsome here, but I just don't feel it. I think I'm just coming off as annoying. (COUGHS) Ow! Oh, hi, Bo. Hi. I wanted to thank you, Woody, for saving my flock. Oh, hey, it was, uh, nothin'. What do you say I get someone else to watch the sheep tonight? (SHEEPISH GIGGLE) Oh, yeah! (MUTTERS) Remember, I'm just a couple of blocks away. -Yodel-ay-hee-hoo! -Come on, come on. Smaller toys up front. SLINKY: Hey, Woody, come on. (TOYS TITTERING, BUZZING, DINGING) -(SHEEP BLEATING) -Ahem! -(SQUEAKS) -Oh, thanks, Mike. -(LOUD FEEDBACK) -Okay... Whoa, whoa. Step back. -HAMM: For crying out loud. -Thank you. (AMPLlFlED BLOWlNG) Hello? Check. That better? Great. Everybody hear me? Up on the shelf, can you hear me? Great. Okay. First item today... Uh... oh, yeah. Has everyone picked a moving buddy? -REX: What? -Moving buddy? You can't be serious. I didn't know we were supposed to have one already. -Do we have to hold hands? -(TOYS GIBBERING) You guys think this is a big joke. We've only got one week left before the move. l don't want any toys left behind.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "The birthday party's today? Okay, everybody, coast is clear! - -Ages 3 and up. It's on my box. Ages 3 and up. I'm not supposed to be baby-sitting Princess Drool.  - - - -Hey, Hamm. -Look, I'm Picasso! -I don't get it. You uncultured swine! What're you lookin' at, ya hockey puck?   -Hey, Sarge, have you seen Slinky? -Sir! No, sir! Okay. Hey, thank you. At ease. - -Hey, uh, Slinky? Right here, Woody. I'm red this time. -No. S-Slink... -Oh, well, all right. You can be red if you want. Not now, Slink. I got some bad news.  Bad news? Shh, shh, shh! Just gather everyone up for a staff meeting, and be happy. Got it. -Be happy! -Ha, ha, ha, ha! Staff meeting, everybody! Snake, Robot, podium duty.  Hey.  Hey, Etch. Draw! - -Oh! Got me again. Etch, you've been working on that draw. Fastest knobs in the West. Got a staff meeting, you guys. Come on, let's go. Now, where is that... Oh. Hey, who moved my doodle pad way over here?  -How're you doin', Rex? -Were you scared? Tell me honestly. I was close to being scared that time. I'm going for fearsome here, but I just don't feel it. I think I'm just coming off as annoying.  Ow! Oh, hi, Bo. Hi. I wanted to thank you, Woody, for saving my flock. Oh, hey, it was, uh, nothin'. What do you say I get someone else to watch the sheep tonight?  Oh, yeah!  Remember, I'm just a couple of blocks away. -Yodel-ay-hee-hoo! -Come on, come on. Smaller toys up front. SLINKY: Hey, Woody, come on.  - -Ahem! - -Oh, thanks, Mike. - -Okay... Whoa, whoa. Step back. -HAMM: For crying out loud. -Thank you.  Hello? Check. That better? Great. Everybody hear me? Up on the shelf, can you hear me? Great. Okay. First item today... Uh... oh, yeah. Has everyone picked a moving buddy? -REX: What? -Moving buddy? You can't be serious. I didn't know we were supposed to have one already. -Do we have to hold hands? - You guys think this is a big joke. We've only got one week left before the move. l don't want any toys left behind."
+      ],
+      "scene_length_chars": 2299,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2681066393852234,
+        0.1724909394979477,
+        0.002579326508566737,
+        0.011247348971664906,
+        0.0031081470660865307,
+        0.0009566090884618461,
+        0.08713070303201675,
+        0.052158694714307785,
+        0.0011499918764457107,
+        0.0009483720059506595,
+        0.028219323605298996,
+        0.006476256530731916,
+        0.0013439781032502651,
+        0.009784293361008167,
+        0.24925197660923004,
+        0.494732141494751,
+        0.0013350131921470165,
+        0.0064114234410226345,
+        0.0014763829531148076,
+        0.0033936547115445137,
+        0.0014505430590361357,
+        0.0037004556506872177,
+        0.003364174161106348,
+        0.0024926606565713882,
+        0.0007446160307154059,
+        0.0009136862936429679,
+        0.005156653001904488,
+        0.019793203100562096
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "fear"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "A moving buddy. lf you don't have one, get one! All right, next. Uh, oh, yes. Tuesday night's plastic corrosion awareness meeting was, l think, a big success. And we wanna thank Mr. Spell for putting that on for us. Thank you, Mr. Spell. ELECTRONlC VOlCE: You're welcome. Okay. Uh, oh, yes. One, uh, minor note here. (QUlETLY) Andy's birthday party has been moved to today. -Wait a minute here! -(TOYS COMPLAINING) What do you mean the party's today? His birthday's not 'til next week! What's goin' on down there? Is his mom losin' her marbles? Well, obviously she wanted to have the party before the move. l'm not worried. You shouldn't be worried. Of course Woody ain't worried. He's been Andy's favorite since kindergarten. Hey, hey. Come on, Potato Head. If Woody says it's all right, then, well, darn it, it's good enough for me. Woody has never steered us wrong before. Come on, guys. Every Christmas and birthday we go through this. But what ifAndy gets another dinosaur, a mean one? I just don't think I could take that kind of rejection! Hey, listen, no one's getting replaced. This is Andy we're talking about. lt doesn't matter how much we're played with. (CHlRPlNG) What matters is that we're here for Andy when he needs us. That's what we're made for, right? Pardon me. I hate to break up the staff meeting, but... they're here! Birthday guests at three o'clock! -Stay calm, everyone! -(AGITATED GIBBERING) Hey! -Uh, meeting adjourned. -(CREAKING) Ho, boy! Will you take a look at all those presents? I can't see a thing. Yes, sir, we're next month's garage sale fodder for sure. -Any dinosaur-shaped ones? -Oh, for crying out loud. -They're all in boxes, you idiot. -REX: They're getting bigger. Wait, there's a nice little one over there. CHILD: Hi! (SCREAMING) MR. SPELL: Spell, trash can. REX: We're doomed! All right! All right! If I send out the troops, will you all calm down? -Yes! Yes! We promise! -Okay! Save your batteries. Very good, Woody. That's using the old noodle. Sergeant, establish a recon post downstairs. Code Red! -You know what to do. -Yes, sir! All right, men. You heard him. Code Red! Repeat, we are at Code Red. Recon plan Charlie. Execute! Let's move! Move, move, move, move! (DOOR CREAKING) (CHILDREN SHOUTING) -(CHILD CHATTERING) -CHILDREN: Yeah!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "A moving buddy. lf you don't have one, get one! All right, next. Uh, oh, yes. Tuesday night's plastic corrosion awareness meeting was, l think, a big success. And we wanna thank Mr. Spell for putting that on for us. Thank you, Mr. Spell. ELECTRONlC VOlCE: You're welcome. Okay. Uh, oh, yes. One, uh, minor note here.  Andy's birthday party has been moved to today. -Wait a minute here! - What do you mean the party's today? His birthday's not 'til next week! What's goin' on down there? Is his mom losin' her marbles? Well, obviously she wanted to have the party before the move. l'm not worried. You shouldn't be worried. Of course Woody ain't worried. He's been Andy's favorite since kindergarten. Hey, hey. Come on, Potato Head. If Woody says it's all right, then, well, darn it, it's good enough for me. Woody has never steered us wrong before. Come on, guys. Every Christmas and birthday we go through this. But what ifAndy gets another dinosaur, a mean one? I just don't think I could take that kind of rejection! Hey, listen, no one's getting replaced. This is Andy we're talking about. lt doesn't matter how much we're played with.  What matters is that we're here for Andy when he needs us. That's what we're made for, right? Pardon me. I hate to break up the staff meeting, but... they're here! Birthday guests at three o'clock! -Stay calm, everyone! - Hey! -Uh, meeting adjourned. - Ho, boy! Will you take a look at all those presents? I can't see a thing. Yes, sir, we're next month's garage sale fodder for sure. -Any dinosaur-shaped ones? -Oh, for crying out loud. -They're all in boxes, you idiot. -REX: They're getting bigger. Wait, there's a nice little one over there. CHILD: Hi!  MR. SPELL: Spell, trash can. REX: We're doomed! All right! All right! If I send out the troops, will you all calm down? -Yes! Yes! We promise! -Okay! Save your batteries. Very good, Woody. That's using the old noodle. Sergeant, establish a recon post downstairs. Code Red! -You know what to do. -Yes, sir! All right, men. You heard him. Code Red! Repeat, we are at Code Red. Recon plan Charlie. Execute! Let's move! Move, move, move, move!   - -CHILDREN: Yeah!"
+      ],
+      "scene_length_chars": 2289,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.389461874961853,
+        0.11155500262975693,
+        0.007398893591016531,
+        0.006316351238638163,
+        0.3205033540725708,
+        0.014049547724425793,
+        0.00879246648401022,
+        0.11377479881048203,
+        0.0044880579225718975,
+        0.005230833310633898,
+        0.04450947046279907,
+        0.008704681880772114,
+        0.0005434565828181803,
+        0.02532602660357952,
+        0.0029200490098446608,
+        0.3325541913509369,
+        0.002230724086984992,
+        0.037024546414613724,
+        0.002786380471661687,
+        0.0007309726788662374,
+        0.0991842970252037,
+        0.020204931497573853,
+        0.0034777845721691847,
+        0.023601757362484932,
+        0.0008075207588262856,
+        0.07745019346475601,
+        0.001178612350486219,
+        0.03267018496990204
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "gratitude",
+        "approval"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "(CHATTERING, SHOUTING CONTINUE) MOM: Okay, come on, kids. Everyone in the living room. It's almost time for the presents. (KIDS SHOUTING, CHATTERING EXCITEDLY) (SHOUTING, CHATTERING CONTINUE) HAMM: All right, gangway, gangway. And this is how we find out -what is in those presents. -(ROBOT HUMMING) (KIDS CHATTERING, SHOUTING) MOM: Okay, who's hungry? Here come the chips! I've got Cool Ranch and barbecue! Ow! What in the world... Oh! -I thought I told him to pick these up. -(ICE CLINKING IN GLASSES) Shouldn't they be there by now? What's taking them so long? Hey, these guys are professionals. They're the best. Come on! They're not lying down on the job. (MOANING) G-G-Go on without me! J-Just go! A good soldier never leaves a man behind. (KIDS SHOUTING, CHATTERING) -MOM: Okay, everybody, come on. -(BOYS SHOUTING) Everybody settle down. Now, kids. Everybody... You sit in a circle. No, Andy. Andy, you sit in the middle there. Good. And... Which present are you gonna open first? (CHATTERING CONTINUES) CHILD: Mine! SERGEANT: There they are. SOLDIER ON MONITOR: Come in, Mother Bird. This is Alpha Bravo. -This is it! This is it! Quiet, quiet! -Come in, Mother Bird. All right, Andy's opening the first present now. Mrs. Potato Head! Mrs. Potato Head! Mrs. Potato Head! Hey, I can dream, can't I? The bow's coming off. He's ripping the wrapping paper. lt's a... lt's... lt's a... a lunch box. -We've got a lunch box here. -A lunch box? -Lunch box? -For lunch. (LAUGHING) Okay, second present. lt appears to be... -Okay, it's bed sheets. -Who invited that kid? (KIDS SHOUTING, CHATTERING) Oh! Only one left. -Okay, we're on the last present now. -Last present! lt's a big one. lt's a... -It's a board game! Repeat, Battleship! -Whew! -(ALL CHEERING) -HAMM: Hallelujah! -Yeah! All right! -Hey, watch it! Sorry there, old spud head. Mission accomplished. Well done, men. Pack it up. We're goin' home. So did I tell ya? Huh? Nothin' to worry about. I knew you were right all along, Woody. Never doubted ya for a second. Wait a minute. Oh! -What do we have here? -Wait! Turn that thing back on! Come in, Mother Bird! Come in, Mother Bird! Mom has pulled a surprise present from the closet. Andy's opening it. He's really excited about this one. -Mom, what is it? (GASPS) -SERGEANT: It's a huge package.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "MOM: Okay, come on, kids. Everyone in the living room. It's almost time for the presents.   HAMM: All right, gangway, gangway. And this is how we find out -what is in those presents. -  MOM: Okay, who's hungry? Here come the chips! I've got Cool Ranch and barbecue! Ow! What in the world... Oh! -I thought I told him to pick these up. - Shouldn't they be there by now? What's taking them so long? Hey, these guys are professionals. They're the best. Come on! They're not lying down on the job.  G-G-Go on without me! J-Just go! A good soldier never leaves a man behind.  -MOM: Okay, everybody, come on. - Everybody settle down. Now, kids. Everybody... You sit in a circle. No, Andy. Andy, you sit in the middle there. Good. And... Which present are you gonna open first?  CHILD: Mine! SERGEANT: There they are. SOLDIER ON MONITOR: Come in, Mother Bird. This is Alpha Bravo. -This is it! This is it! Quiet, quiet! -Come in, Mother Bird. All right, Andy's opening the first present now. Mrs. Potato Head! Mrs. Potato Head! Mrs. Potato Head! Hey, I can dream, can't I? The bow's coming off. He's ripping the wrapping paper. lt's a... lt's... lt's a... a lunch box. -We've got a lunch box here. -A lunch box? -Lunch box? -For lunch.  Okay, second present. lt appears to be... -Okay, it's bed sheets. -Who invited that kid?  Oh! Only one left. -Okay, we're on the last present now. -Last present! lt's a big one. lt's a... -It's a board game! Repeat, Battleship! -Whew! - -HAMM: Hallelujah! -Yeah! All right! -Hey, watch it! Sorry there, old spud head. Mission accomplished. Well done, men. Pack it up. We're goin' home. So did I tell ya? Huh? Nothin' to worry about. I knew you were right all along, Woody. Never doubted ya for a second. Wait a minute. Oh! -What do we have here? -Wait! Turn that thing back on! Come in, Mother Bird! Come in, Mother Bird! Mom has pulled a surprise present from the closet. Andy's opening it. He's really excited about this one. -Mom, what is it?  -SERGEANT: It's a huge package."
+      ],
+      "scene_length_chars": 2306,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.46555009484291077,
+        0.014300922863185406,
+        0.000993129680864513,
+        0.0006452692905440927,
+        0.0019282191060483456,
+        0.001952591584995389,
+        0.0031454735435545444,
+        0.09760066121816635,
+        0.0012748170411214232,
+        0.0013205206487327814,
+        0.0006768464809283614,
+        0.0022364561446011066,
+        0.002910356968641281,
+        0.24201564490795135,
+        0.003936874680221081,
+        0.020654886960983276,
+        0.0012336798245087266,
+        0.0007857788586989045,
+        0.0005941354320384562,
+        0.0006036993581801653,
+        0.018121084198355675,
+        0.007261728867888451,
+        0.005619082134217024,
+        0.0010384350316599011,
+        0.0030615997966378927,
+        0.0007757552666589618,
+        0.2029171735048294,
+        0.24367810785770416
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "neutral",
+        "excitement"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "Oh, get outta the... One of the kids is in the way. I can't see. -It's a... -KIDS TOGETHER: Wow! -(STATlC) -It's a what? What is it? -(POTATO HEAD SCREAMS) -Oh, no! Oh, ya big lizard! -Now we'll never know what it is! -Way to go, Rex! No, no! Turn 'em around! Turn 'em around! He's puttin' 'em in backwa... Here, you're puttin' 'em in backwards! Plus is positive, minus is negative! Oh, let me! (GRUNTING) -ANDY: Let's go to my room, guys! -(BOYS SHOUTING) Red alert! Red alert! Andy is coming upstairs! -(GRUNTS) There! -SOLDlER: Juvenile intrusion! Repeat, resume your positions now! Andy's coming! Everybody, back to your places! Hurry! HAMM: Get to your places! Get to your places! (REX SCREAMING) Where's my ear? Who's seen my ear? Did you see my ear? Out of my way! Here I come! Here I come! (GROANS) (BOYS SHOUTING) (BOYS SHOUTING) ANDY: Hey, look, its lasers light up. Take that, Zurg! Quick, make a space. This is where the spaceship lands. And he does it like that. And he does a karate chop action! MOM: Come on down, guys! It's time for games! -We've got prizes! -(KIDS CHATTERING) -What is it? -Can you see it? -What the heck is up there? -Woody, who's up there with ya? -(COUGHING) -SLINKY: Woody? -What are you doing under the bed? -Uh, nothin'. Uh, nothin'. I'm sure Andy was just a little excited, that's all. Too much cake and ice cream, I suppose. It's just a mistake! Well, that mistake is sitting in your spot, Woody. (CHUCKLES) -(GASPS) Have you been replaced? -What did I tell you earlier? No one is getting replaced. Now, let's all be polite and give whatever it is up there a nice, big Andy's-room welcome. (GULPS) (HEAVY BREATHING) -(BUZZES) -Buzz Lightyear to Star Command. Come in, Star Command. -(BUZZES) -Star Command, come in. Do you read me? Why don't they answer? (GASPS) My ship! Blast! This'll take weeks to repair. Buzz Lightyear mission log, stardate 4-0-7-2. My ship has run off course en route to sector 1 2. I've crash-landed on a strange planet. The impact must've awoken me from hypersleep. Terrain seems a bit unstable. No readout yet if the air is breathable. And there seems to be no sign of intelligent life anywhere. -Hello! -(KARATE YELL) (SCREAMS) Whoa! H-Hey! Whoa, whoa, whoa, whoa, whoa! -Did I frighten you? Didn't mean to. -(BUZZlNG) -Sorry.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, get outta the... One of the kids is in the way. I can't see. -It's a... -KIDS TOGETHER: Wow! - -It's a what? What is it? - -Oh, no! Oh, ya big lizard! -Now we'll never know what it is! -Way to go, Rex! No, no! Turn 'em around! Turn 'em around! He's puttin' 'em in backwa... Here, you're puttin' 'em in backwards! Plus is positive, minus is negative! Oh, let me!  -ANDY: Let's go to my room, guys! - Red alert! Red alert! Andy is coming upstairs! - There! -SOLDlER: Juvenile intrusion! Repeat, resume your positions now! Andy's coming! Everybody, back to your places! Hurry! HAMM: Get to your places! Get to your places!  Where's my ear? Who's seen my ear? Did you see my ear? Out of my way! Here I come! Here I come!    ANDY: Hey, look, its lasers light up. Take that, Zurg! Quick, make a space. This is where the spaceship lands. And he does it like that. And he does a karate chop action! MOM: Come on down, guys! It's time for games! -We've got prizes! - -What is it? -Can you see it? -What the heck is up there? -Woody, who's up there with ya? - -SLINKY: Woody? -What are you doing under the bed? -Uh, nothin'. Uh, nothin'. I'm sure Andy was just a little excited, that's all. Too much cake and ice cream, I suppose. It's just a mistake! Well, that mistake is sitting in your spot, Woody.  - Have you been replaced? -What did I tell you earlier? No one is getting replaced. Now, let's all be polite and give whatever it is up there a nice, big Andy's-room welcome.   - -Buzz Lightyear to Star Command. Come in, Star Command. - -Star Command, come in. Do you read me? Why don't they answer?  My ship! Blast! This'll take weeks to repair. Buzz Lightyear mission log, stardate 4-0-7-2. My ship has run off course en route to sector 1 2. I've crash-landed on a strange planet. The impact must've awoken me from hypersleep. Terrain seems a bit unstable. No readout yet if the air is breathable. And there seems to be no sign of intelligent life anywhere. -Hello! -  Whoa! H-Hey! Whoa, whoa, whoa, whoa, whoa! -Did I frighten you? Didn't mean to. - -Sorry."
+      ],
+      "scene_length_chars": 2295,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.01207862701267004,
+        0.007673845626413822,
+        0.02311203069984913,
+        0.004735844675451517,
+        0.0014758177567273378,
+        0.0021655973978340626,
+        0.021859750151634216,
+        0.0307980515062809,
+        0.0016886439407244325,
+        0.0014719602186232805,
+        0.00245376443490386,
+        0.002981079276651144,
+        0.05097636580467224,
+        0.24727800488471985,
+        0.1911451816558838,
+        0.005529025103896856,
+        0.01016206480562687,
+        0.004651188850402832,
+        0.0007234927034005523,
+        0.004391425289213657,
+        0.002048986963927746,
+        0.0026881059166043997,
+        0.006776557303965092,
+        0.001145681249909103,
+        0.01308157667517662,
+        0.0075202337466180325,
+        0.11057059466838837,
+        0.47608593106269836
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "excitement",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "Howdy. My name is Woody. -(BUZZlNG CONTlNUES) And this is Andy's room. That's all I wanted to say. And also, there has been a bit of a mix-up. This is my spot, see, the bed here. Local law enforcement. It's about time you got here. I'm Buzz Lightyear, Space Ranger, Universe Protection Unit. My ship has crash-landed here by mistake. Yes, it is a mistake because, you see, the bed here is my spot. I need to repair my turbo boosters. Do you people still use fossil fuel, or have you discovered crystallic fusion? -Well, let's see. We got double-A's. -(GASPS) Watch yourself! Halt! Who goes there? Don't shoot! It's okay. Friends. -Do you know these life-forms? -Yes! They're Andy's toys. All right, everyone, you're clear to come up. I am Buzz Lightyear. I come in peace. Oh, I'm so glad you're not a dinosaur! Wh-why, thank you! Now, thank you all for your kind welcome! -Say, what's that button do? -I'll show you. VOlCE BOX: Buzz Lightyear to the rescue! TOYS: Oh! Hey, Woody's got something like that. His is a pull string. -Only it's... -Only it sounds like a car ran over it. HAMM: Oh, yeah, but not like this. This is a quality sound system. Probably all copper wiring, huh? So, uh, where you from? Singapore? Hong Kong? Well, no. Actually, I-I'm stationed up in the Gamma Quadrant of Sector Four. As a member of the elite Universe Protection Unit of the Space Ranger Corps, I protect the galaxy from the threat of invasion from the evil Emperor Zurg, sworn enemy of the Galactic Alliance. Oh, really? I'm from Playskool. And I'm from Mattel. Well, I'm not really from Mattel. I'm actually from a smaller company that was purchased in a leveraged buyout. You'd think they'd never seen a new toy before. Well, sure. Look at him. He's got more gadgets on him than a Swiss Army knife. -(BUZZlNG) -Ah, ah, ah, ah! Please be careful. You don't want to be in the way when my laser goes off. Hey, a laser! How come you don't have a laser, Woody? It's not a laser! It's a... It's a little light bulb that blinks. -What's with him? -Laser envy. All right, that's enough! Look, we're all very impressed with Andy's new toy. -Toy? -T-O-Y. Toy! Excuse me, I think the word you're searching for is \"Space Ranger.\" The word I'm searching for I can't say because there's preschool toys present.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Howdy. My name is Woody. - And this is Andy's room. That's all I wanted to say. And also, there has been a bit of a mix-up. This is my spot, see, the bed here. Local law enforcement. It's about time you got here. I'm Buzz Lightyear, Space Ranger, Universe Protection Unit. My ship has crash-landed here by mistake. Yes, it is a mistake because, you see, the bed here is my spot. I need to repair my turbo boosters. Do you people still use fossil fuel, or have you discovered crystallic fusion? -Well, let's see. We got double-A's. - Watch yourself! Halt! Who goes there? Don't shoot! It's okay. Friends. -Do you know these life-forms? -Yes! They're Andy's toys. All right, everyone, you're clear to come up. I am Buzz Lightyear. I come in peace. Oh, I'm so glad you're not a dinosaur! Wh-why, thank you! Now, thank you all for your kind welcome! -Say, what's that button do? -I'll show you. VOlCE BOX: Buzz Lightyear to the rescue! TOYS: Oh! Hey, Woody's got something like that. His is a pull string. -Only it's... -Only it sounds like a car ran over it. HAMM: Oh, yeah, but not like this. This is a quality sound system. Probably all copper wiring, huh? So, uh, where you from? Singapore? Hong Kong? Well, no. Actually, I-I'm stationed up in the Gamma Quadrant of Sector Four. As a member of the elite Universe Protection Unit of the Space Ranger Corps, I protect the galaxy from the threat of invasion from the evil Emperor Zurg, sworn enemy of the Galactic Alliance. Oh, really? I'm from Playskool. And I'm from Mattel. Well, I'm not really from Mattel. I'm actually from a smaller company that was purchased in a leveraged buyout. You'd think they'd never seen a new toy before. Well, sure. Look at him. He's got more gadgets on him than a Swiss Army knife. - -Ah, ah, ah, ah! Please be careful. You don't want to be in the way when my laser goes off. Hey, a laser! How come you don't have a laser, Woody? It's not a laser! It's a... It's a little light bulb that blinks. -What's with him? -Laser envy. All right, that's enough! Look, we're all very impressed with Andy's new toy. -Toy? -T-O-Y. Toy! Excuse me, I think the word you're searching for is \"Space Ranger.\" The word I'm searching for I can't say because there's preschool toys present."
+      ],
+      "scene_length_chars": 2286,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2943250238895416,
+        0.0019386638887226582,
+        0.0007626705919392407,
+        0.0017459095688536763,
+        0.013703237287700176,
+        0.00874375831335783,
+        0.0014412911841645837,
+        0.009561058133840561,
+        0.0010321387089788914,
+        0.004243165720254183,
+        0.002730086212977767,
+        0.001564494683407247,
+        0.002700605196878314,
+        0.026903236284852028,
+        0.0025713976938277483,
+        0.3399498760700226,
+        0.0010909066768363118,
+        0.05050903931260109,
+        0.0004509461286943406,
+        0.0007633408531546593,
+        0.0029789849650114775,
+        0.014856211841106415,
+        0.0516977496445179,
+        0.027062298730015755,
+        0.0006692810566164553,
+        0.0003731116885319352,
+        0.17126061022281647,
+        0.33751416206359863
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "neutral",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Gettin' kinda tense, aren't ya? Uh, Mr. Lightyear, uh, now, I'm curious. What does a Space Ranger actually do? He's not a Space Ranger! He doesn't fight evil or, or shoot lasers or fly! Excuse me. -TOYS: Ooh! -Oh, impressive wingspan! Very good! Oh, what? What? These are plastic. He can't fly! They are a terillium-carbonic alloy, and I can fly. -No, you can't. -(SIGHS) Yes, I can. -You can't. -Can. Can't. Can't. Can't! I tell you, I could fly around this room with my eyes closed! -Okay, then, Mr. Light Beer, prove it. -All right, then, I will. Stand back, everyone! (ELECTRONIC HUM) To infinity and beyond! (AIRPLANE WHIRRING) -Can! -REX: Whoa! -Oh, wow, you flew magnificently! -(WHISTLING) I found my movin' buddy. Thank you. Th-Thank you all. Thank you. That wasn't flying! That was... falling with style. Man, the dolls must really go for you. Can you teach me that? -(LAUGHING) Golly bob howdy! -Oh, shut up! You know, in a couple of days, everything will be just the way it was. They'll see. -(ALL CHATTERING) -WOODY: They'll see. I'm still Andy's favorite toy. ♪ l was on top of the world livin' high ♪ lt was right in my pocket ANDY: (LAUGHING) Whoa! ♪ l was livin' the life ♪ Things were just the way they should be ♪ When from out of the sky like a bomb ♪ Comes some little punk in a rocket (LASER BUZZlNG) ♪ Now all of a sudden some strange things are happening to me Buzz Lightyear to the rescue! ♪ Strange ♪ Things are happening to me ♪ Strange ♪ Things ♪ Strange things are happening to me (LOUD ROAR) ♪ Ain't no doubt about it ♪ l had friends l had lots of friends ♪ Now all my friends are gone ♪ And l'm doin' the best l can ♪ To carry on -♪ l had power -CHORUS: ♪ Power -♪ l was respected -♪ Respected ♪ But not any more ♪ And l've lost the love of the one ♪ Whom l adore ♪ Let me tell you 'bout it Strange ♪ Things are happenin' to me (SLINKY GRUNTS) ♪ Strange ♪ Things ♪ Strange ♪ Things are happenin' to me ♪ Ain't no doubt about it ♪ Strange ♪ Things ♪ Strange ♪ Things ♪ (BIRDS CHIRPING) (GRUNTS) Finally! (SIGHS) Hey, who's got my hat? (SQUEAKS) Look, I'm Woody! Howdy, howdy, howdy! Ah-ha! Ah-ha, ha, ha! Gimme that! Say there, Lizard and Stretchy Dog, let me show you something. It looks as though I've been accepted into your culture.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Gettin' kinda tense, aren't ya? Uh, Mr. Lightyear, uh, now, I'm curious. What does a Space Ranger actually do? He's not a Space Ranger! He doesn't fight evil or, or shoot lasers or fly! Excuse me. -TOYS: Ooh! -Oh, impressive wingspan! Very good! Oh, what? What? These are plastic. He can't fly! They are a terillium-carbonic alloy, and I can fly. -No, you can't. - Yes, I can. -You can't. -Can. Can't. Can't. Can't! I tell you, I could fly around this room with my eyes closed! -Okay, then, Mr. Light Beer, prove it. -All right, then, I will. Stand back, everyone!  To infinity and beyond!  -Can! -REX: Whoa! -Oh, wow, you flew magnificently! - I found my movin' buddy. Thank you. Th-Thank you all. Thank you. That wasn't flying! That was... falling with style. Man, the dolls must really go for you. Can you teach me that? - Golly bob howdy! -Oh, shut up! You know, in a couple of days, everything will be just the way it was. They'll see. - -WOODY: They'll see. I'm still Andy's favorite toy. ♪ l was on top of the world livin' high ♪ lt was right in my pocket ANDY:  Whoa! ♪ l was livin' the life ♪ Things were just the way they should be ♪ When from out of the sky like a bomb ♪ Comes some little punk in a rocket  ♪ Now all of a sudden some strange things are happening to me Buzz Lightyear to the rescue! ♪ Strange ♪ Things are happening to me ♪ Strange ♪ Things ♪ Strange things are happening to me  ♪ Ain't no doubt about it ♪ l had friends l had lots of friends ♪ Now all my friends are gone ♪ And l'm doin' the best l can ♪ To carry on -♪ l had power -CHORUS: ♪ Power -♪ l was respected -♪ Respected ♪ But not any more ♪ And l've lost the love of the one ♪ Whom l adore ♪ Let me tell you 'bout it Strange ♪ Things are happenin' to me  ♪ Strange ♪ Things ♪ Strange ♪ Things are happenin' to me ♪ Ain't no doubt about it ♪ Strange ♪ Things ♪ Strange ♪ Things ♪   Finally!  Hey, who's got my hat?  Look, I'm Woody! Howdy, howdy, howdy! Ah-ha! Ah-ha, ha, ha! Gimme that! Say there, Lizard and Stretchy Dog, let me show you something. It looks as though I've been accepted into your culture."
+      ],
+      "scene_length_chars": 2266,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3551728427410126,
+        0.027479683980345726,
+        0.00932159274816513,
+        0.005832744296640158,
+        0.27466753125190735,
+        0.03345911577343941,
+        0.03659270703792572,
+        0.38915812969207764,
+        0.011220823973417282,
+        0.00796030554920435,
+        0.004111412912607193,
+        0.022575760260224342,
+        0.00984719768166542,
+        0.034451503306627274,
+        0.01749015785753727,
+        0.33435848355293274,
+        0.010271317325532436,
+        0.004482320975512266,
+        0.42507925629615784,
+        0.006126392632722855,
+        0.31026941537857056,
+        0.00981653481721878,
+        0.31762486696243286,
+        0.007343526929616928,
+        0.0062513030134141445,
+        0.041801899671554565,
+        0.06984854489564896,
+        0.0041308277286589146
+      ],
+      "goemotions_topk": [
+        "love",
+        "curiosity",
+        "admiration"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Your chief, Andy, inscribed his name on me. TOGETHER: Wow! With permanent ink too! Well, I must get back to repairing my ship. Don't let it get to you, Woody. Uh... let what? I don't, uh... What do you mean? Who? I know Andy's excited about Buzz. But you know he'll always have a special place for you. -Yeah, like the attic. (CHUCKLING) -All right, that's it! -(TONAL HUMMlNG SOUND) -Hmm. Unidirectional bonding strip. Mr. Lightyear wants more tape. (HUMMING) Hmm? Listen, Light Snack, you stay away from Andy. He's mine, and no one is taking him away from me. What are you talking about? -Where's that bonding strip? -(BEEPlNG SOUND) And another thing, stop with this spaceman thing! It's getting on my nerves! Are you saying you wanna lodge a complaint with Star Command? Oh-ho, okay! Ooh, well, so you wanna do it the hard way, huh? -Don't even think about it, cowboy. -Oh, yeah, tough guy? -(MECHANICAL WHOOSH) -(GASPS) (CHOKING) (CHOKING CONTINUES) (PANTING, SNIFFING) The air isn't... toxic. How dare you open a spaceman's helmet on an uncharted planet! My eyeballs could've been sucked from their sockets! You actually think you're the Buzz Lightyear? (LAUGHING) Oh, all this time I thought it was an act! Hey, guys, look! It's the real Buzz Lightyear! You're mocking me, aren't you? Oh, no, no. No, no, no, no, no. Buzz, look, an alien! -Where? -(LAUGHING) -(LAUGHING CONTINUES) -(DOG BARKING) -(BARKING CONTINUES) -BOY: (LAUGHING) Yes! -Whoa! -Uh-oh. It's Sid! -(TEETH CHATTERING) -SID: Don't Move! I thought he was at summer camp. They must've kicked him out early this year. -(ROBOT BUZZlNG) -REX: Oh, no, not Sid! -SID: (GRUNTING) Incoming! -(DOG BARKING) -Who is it this time? -I... I can't... I can't tell. -Hey, where's Lenny? -Right here, Woody. Oh, no, I can't bear to watch one of these again. WOODY: Oh, no, it's a Combat Carl. What's going on? Nothing that concerns you spacemen, just us toys. I'd better take a look anyway. (SID SHOUTING) BUZZ: Why is that soldier strapped to an explosive device? That's why, Sid. -(BARKING) -Hmm, sure is a hairy fellow. No, no, that's Scud, you idiot. -That is Sid. -(SINISTER LAUGHTER) -You mean that happy child? -That ain't no happy child. He tortures toys, just for fun! -(BARKING) -(GRUNTING) Well, then we've got to do something.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Your chief, Andy, inscribed his name on me. TOGETHER: Wow! With permanent ink too! Well, I must get back to repairing my ship. Don't let it get to you, Woody. Uh... let what? I don't, uh... What do you mean? Who? I know Andy's excited about Buzz. But you know he'll always have a special place for you. -Yeah, like the attic.  -All right, that's it! - -Hmm. Unidirectional bonding strip. Mr. Lightyear wants more tape.  Hmm? Listen, Light Snack, you stay away from Andy. He's mine, and no one is taking him away from me. What are you talking about? -Where's that bonding strip? - And another thing, stop with this spaceman thing! It's getting on my nerves! Are you saying you wanna lodge a complaint with Star Command? Oh-ho, okay! Ooh, well, so you wanna do it the hard way, huh? -Don't even think about it, cowboy. -Oh, yeah, tough guy? - -    The air isn't... toxic. How dare you open a spaceman's helmet on an uncharted planet! My eyeballs could've been sucked from their sockets! You actually think you're the Buzz Lightyear?  Oh, all this time I thought it was an act! Hey, guys, look! It's the real Buzz Lightyear! You're mocking me, aren't you? Oh, no, no. No, no, no, no, no. Buzz, look, an alien! -Where? - - - - -BOY:  Yes! -Whoa! -Uh-oh. It's Sid! - -SID: Don't Move! I thought he was at summer camp. They must've kicked him out early this year. - -REX: Oh, no, not Sid! -SID:  Incoming! - -Who is it this time? -I... I can't... I can't tell. -Hey, where's Lenny? -Right here, Woody. Oh, no, I can't bear to watch one of these again. WOODY: Oh, no, it's a Combat Carl. What's going on? Nothing that concerns you spacemen, just us toys. I'd better take a look anyway.  BUZZ: Why is that soldier strapped to an explosive device? That's why, Sid. - -Hmm, sure is a hairy fellow. No, no, that's Scud, you idiot. -That is Sid. - -You mean that happy child? -That ain't no happy child. He tortures toys, just for fun! - - Well, then we've got to do something."
+      ],
+      "scene_length_chars": 2293,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.02639695629477501,
+        0.19805602729320526,
+        0.2447090446949005,
+        0.19752220809459686,
+        0.0011839109938591719,
+        0.0017035030759871006,
+        0.03254386782646179,
+        0.20179016888141632,
+        0.0023777387104928493,
+        0.00482111144810915,
+        0.02703850343823433,
+        0.03911102935671806,
+        0.006743778008967638,
+        0.18691493570804596,
+        0.024569788947701454,
+        0.0007958178175613284,
+        0.001259617623873055,
+        0.012312757782638073,
+        0.0012253980385139585,
+        0.0016751817893236876,
+        0.007735736668109894,
+        0.0006175196031108499,
+        0.002433095360174775,
+        0.0004401683108881116,
+        0.00041468883864581585,
+        0.0008396258344873786,
+        0.05753163993358612,
+        0.2051410675048828
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "What are you doing? Get down from there! -I'm gonna teach that boy a lesson. -Yeah, sure. You go ahead. -Melt him with your scary laser. -(BUZZlNG) Be careful with that! It's extremely dangerous. He's lighting it! He's lighting it! Hit the dirt! (BO SCREAMS) -Look out! -(EXPLOSION) -(SCUD BARKING) -Yes! He's gone! He's history! -(LAUGHING) Whoo! -I could've stopped him. Buzz, I would love to see you try. Of course, I'd love to see you as a crater. -The sooner we move, the better. -(SID SHOUTING) Yeah! (LAUGHING) (CRICKETS CHIRPING) ANDY: To infinity and beyond! (IMITATES ROCKET SOUNDS AND EXPLOSIONS) All this packing makes me hungry. What would you say to dinner at, oh, Pizza Planet? Pizza Planet? Oh, cool! MOM: (LAUGHS) Go wash your hands, and I'll get Molly ready. -ANDY: Can I bring some toys? -You can bring one toy. -Just one? -One toy? -(SIGHS) -Hmm. -Will Andy pick me? -(LIQUID SWISHING) \"Don't count on it\"? (GROANS) (YELLS) (THUD) (BUZZ HUMMING) (HUMMING CONTINUES) Mmm! Buzz! Oh, Buzz! Buzz Lightyear. (PANTING) Buzz Lightyear, thank goodness. We've got trouble! -Trouble? Where? -Down there. Just down there. A helpless toy, it's... it's trapped, Buzz! Then we've no time to lose. I don't see anything! Oh, he's there! Just, just keep looking! -What kind of toy... (GASPS) -(GASPS) Oh! Whoa, whoa! Oh! -(SCREAMS) -TOGETHER: Buzz! -Buzz! -(TOYS CHATTERING) SLINKY: I don't see him in the driveway. -I think he bounced into Sid's yard! -Oh! Buzz! (HORN HONKING) Hey, everyone, R.C.'s trying to say something. What is it, boy? -He's saying that this was no accident. -What do you mean? -I mean Humpty-Dumpty was pushed... -No! ...by Woody! -ALL: What? -Wait a minute. You don't think I meant to knock Buzz out the window, do you? Potato Head? That's Mr. Potato Head to you, you back-stabbing murderer! -(GASPS) -Now, it was an accident, guys. Come on. Now, you, you gotta believe me. We believe ya, Woody. Right, Rex? Well, ye... N... I don't like confrontations! Where is your honor, dirt bag? You are an absolute disgrace! You don't deserve to... Hey! You couldn't handle Buzz cutting in on your playtime, could you, Woody? Didn't wanna face the fact that Buzz just might be Andy's new favorite toy. So you got rid of him. Well, what ifAndy starts playing with me more, Woody, huh?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What are you doing? Get down from there! -I'm gonna teach that boy a lesson. -Yeah, sure. You go ahead. -Melt him with your scary laser. - Be careful with that! It's extremely dangerous. He's lighting it! He's lighting it! Hit the dirt!  -Look out! - - -Yes! He's gone! He's history! - Whoo! -I could've stopped him. Buzz, I would love to see you try. Of course, I'd love to see you as a crater. -The sooner we move, the better. - Yeah!   ANDY: To infinity and beyond!  All this packing makes me hungry. What would you say to dinner at, oh, Pizza Planet? Pizza Planet? Oh, cool! MOM:  Go wash your hands, and I'll get Molly ready. -ANDY: Can I bring some toys? -You can bring one toy. -Just one? -One toy? - -Hmm. -Will Andy pick me? - \"Don't count on it\"?      Mmm! Buzz! Oh, Buzz! Buzz Lightyear.  Buzz Lightyear, thank goodness. We've got trouble! -Trouble? Where? -Down there. Just down there. A helpless toy, it's... it's trapped, Buzz! Then we've no time to lose. I don't see anything! Oh, he's there! Just, just keep looking! -What kind of toy...  - Oh! Whoa, whoa! Oh! - -TOGETHER: Buzz! -Buzz! - SLINKY: I don't see him in the driveway. -I think he bounced into Sid's yard! -Oh! Buzz!  Hey, everyone, R.C.'s trying to say something. What is it, boy? -He's saying that this was no accident. -What do you mean? -I mean Humpty-Dumpty was pushed... -No! ...by Woody! -ALL: What? -Wait a minute. You don't think I meant to knock Buzz out the window, do you? Potato Head? That's Mr. Potato Head to you, you back-stabbing murderer! - -Now, it was an accident, guys. Come on. Now, you, you gotta believe me. We believe ya, Woody. Right, Rex? Well, ye... N... I don't like confrontations! Where is your honor, dirt bag? You are an absolute disgrace! You don't deserve to... Hey! You couldn't handle Buzz cutting in on your playtime, could you, Woody? Didn't wanna face the fact that Buzz just might be Andy's new favorite toy. So you got rid of him. Well, what ifAndy starts playing with me more, Woody, huh?"
+      ],
+      "scene_length_chars": 2302,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.1484854370355606,
+        0.0074986657127738,
+        0.02307458408176899,
+        0.2346421778202057,
+        0.003397400723770261,
+        0.07960820198059082,
+        0.01813584566116333,
+        0.4334791898727417,
+        0.009278443641960621,
+        0.003990458324551582,
+        0.042628925293684006,
+        0.01217021606862545,
+        0.006310197990387678,
+        0.03537606820464134,
+        0.11189472675323486,
+        0.2420106679201126,
+        0.003277033334597945,
+        0.006816410925239325,
+        0.2267627865076065,
+        0.004504247102886438,
+        0.09906137734651566,
+        0.004570518154650927,
+        0.002912098541855812,
+        0.007478585932403803,
+        0.0020760279148817062,
+        0.0013177410000935197,
+        0.010434037074446678,
+        0.07294891774654388
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "You gonna knock me outta the window too? I don't think we should give him the chance. SERGEANT: There he is, men. Frag him! Let's string him up by his pull string! HAMM: I got dibs on his hat! BO: Would you boys stop it! Tackle him! No, no, no! Wait! I can explain everything! ANDY: Okay, Mom, be right down. I've gotta get Buzz. SERGEANT: Retreat! Mom, do you know where Buzz is? -MOM: No, I haven't seen him. -Psst! -MOM: Andy, I'm heading out the door! -But, Mom, I can't find him! Honey, just grab some other toy. Now, come on! Oh, okay. I couldn't find my Buzz. I know I left him right there. Honey, I'm sure he's around. You'll find him. (IGNITION STARTS) (CHITTERING) It's too short! We need more monkeys! There aren't any more! That's the whole barrel! Buzz, the monkeys aren't working! We're formulating another plan! Stay calm! Oh, where could he be? (SERVICE BELL DINGS) -Can I help pump the gas? -Sure! I'll even let you drive. -Yeah? -Yeah, when you're 1 6. -Yuk, yuk, yuk! Funny, Mom. -(LAUGHING) Aw, great. How am I gonna convince those guys it was an accident? Buzz! Buzz! Ha! You're alive! This is great! Oh, I'm saved! I'm saved. Andy'll find you here, he'll take us back to the room and then you can tell everyone that this was all just a big mistake. Huh? Right? (PANTING) Buddy? I just want you to know that even though you tried to terminate me, revenge is not an idea we promote on my planet. -Oh. Well, that's good. -But we're not on my planet, are we? -No. (SCREAMING) -(BUZZ GRUNTING) (BUZZ GRUNTING, SPACESUIT BUZZING, BEEPING) (SCREAMING, GROANS) Okay, come on! WOODY: You want a piece of me? (YELLS) (SQUEAKING) Owww! VOICE BOX: Buzz, Buzz, Buzz Lightyear to the rescue. -(SCREAMS) -MOM: Next stop. Pizza Planet! Yeah! (DOOR SLIDES SHUT, IGNITION STARTS) -(DOOR SHUTS) -(GASPS) Andy! (PANTING) Wh... Doesn't he realize that I'm not there? (LOUD GASP) I'm lost! (SOBS) Oh, I'm a lost toy! (SNIFFLING, SOBBING) Buzz Lightyear mission log. The local sheriff and I seem to be at a huge refueling station of some sort. You! (TRUCK APPROACHING, HORN HONKING) (BRAKES SQUEALING) (ENGINE IDLING) -According to my navi-computer, the... -(GASPS) Shut up! -Just shut up, you idiot! -Sheriff, this is no time to panic. This is the perfect time to panic. I'm lost.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You gonna knock me outta the window too? I don't think we should give him the chance. SERGEANT: There he is, men. Frag him! Let's string him up by his pull string! HAMM: I got dibs on his hat! BO: Would you boys stop it! Tackle him! No, no, no! Wait! I can explain everything! ANDY: Okay, Mom, be right down. I've gotta get Buzz. SERGEANT: Retreat! Mom, do you know where Buzz is? -MOM: No, I haven't seen him. -Psst! -MOM: Andy, I'm heading out the door! -But, Mom, I can't find him! Honey, just grab some other toy. Now, come on! Oh, okay. I couldn't find my Buzz. I know I left him right there. Honey, I'm sure he's around. You'll find him.   It's too short! We need more monkeys! There aren't any more! That's the whole barrel! Buzz, the monkeys aren't working! We're formulating another plan! Stay calm! Oh, where could he be?  -Can I help pump the gas? -Sure! I'll even let you drive. -Yeah? -Yeah, when you're 1 6. -Yuk, yuk, yuk! Funny, Mom. - Aw, great. How am I gonna convince those guys it was an accident? Buzz! Buzz! Ha! You're alive! This is great! Oh, I'm saved! I'm saved. Andy'll find you here, he'll take us back to the room and then you can tell everyone that this was all just a big mistake. Huh? Right?  Buddy? I just want you to know that even though you tried to terminate me, revenge is not an idea we promote on my planet. -Oh. Well, that's good. -But we're not on my planet, are we? -No.  -   Okay, come on! WOODY: You want a piece of me?   Owww! VOICE BOX: Buzz, Buzz, Buzz Lightyear to the rescue. - -MOM: Next stop. Pizza Planet! Yeah!  - - Andy!  Wh... Doesn't he realize that I'm not there?  I'm lost!  Oh, I'm a lost toy!  Buzz Lightyear mission log. The local sheriff and I seem to be at a huge refueling station of some sort. You!    -According to my navi-computer, the... - Shut up! -Just shut up, you idiot! -Sheriff, this is no time to panic. This is the perfect time to panic. I'm lost."
+      ],
+      "scene_length_chars": 2280,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2656228840351105,
+        0.10005460679531097,
+        0.0986170843243599,
+        0.01986171305179596,
+        0.0011106779566034675,
+        0.00368322292342782,
+        0.043215103447437286,
+        0.0708494782447815,
+        0.0015937191201373935,
+        0.02631622552871704,
+        0.07129494845867157,
+        0.03307546675205231,
+        0.0031841923482716084,
+        0.00628619035705924,
+        0.2492143213748932,
+        0.001637409208342433,
+        0.0037377215921878815,
+        0.02026354894042015,
+        0.0028051489498466253,
+        0.05638826638460159,
+        0.007294238079339266,
+        0.002229508478194475,
+        0.004936574958264828,
+        0.0010179020464420319,
+        0.0032522601541131735,
+        0.005312823690474033,
+        0.0050864452496171,
+        0.3051742613315582
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Andy is gone. They're gonna move from their house in two days, and it's all your fault! My... My fault? If you hadn't pushed me out of the window in the first place... Oh, yeah? Well, if you hadn't shown up in your stupid little cardboard spaceship and taken away everything that was important to me... Don't talk to me about importance! Because of you the security of this entire universe is in jeopardy! What? What are you talkin' about? Right now, poised at the edge of the galaxy, Emperor Zurg has been secretly building a weapon with the destructive capacity to annihilate an entire planet! I alone have information that reveals this weapon's only weakness. And you, my friend, are responsible for delaying my rendezvous with Star Command! You... are... a... toy! You aren't the real Buzz Lightyear! You're a... You're an action figure! You are a child's plaything! You are a sad, strange little man, and you have my pity. Farewell. Oh, yeah? Well, good riddance, ya loony! -\"Rendezvous with Star Command.\" -(CAR APPROACHING) DRIVER: Hey, gas dude! ATTENDANT: You talkin' to me? -Yeah, man. Can you help me? -Pizza Planet? Andy! Do you know where Cutting Boulevard is? Oh, no! I can't show my face in that room without Buzz. -Buzz! Buzz, come back! -Go away! No! Buzz, you gotta come back! I... -(ENGINE REVVING) -I found a spaceship! It's a spaceship, Buzz! Come on, man, hurry up! Um, like, the pizzas are getting cold here! -ATTENDANT: Cutting Boulevard, huh? -Yeah, yeah. Which way? Now, you're sure this space freighter will return to its port of origin -once it jettisons its food supply? -Uh-huh. And when we get there, we'll be able to find a way to transport you home. -Well, then, let's climb aboard. -No, no, no, wait, Buzz! Buzz! Let's get in the back. No one will see us there. Negative. There are no restraining harnesses in the cargo area. -We'll be much safer in the cockpit. -Yeah, bu... Buzz! Buzz! DRIVER: That's two lefts and a right, huh? -Thanks for the directions, okay? -Yeah. And remember, kid... -Buzz! -(IGNITION STARTS) (SCREAMS) It's safer in the cockpit than the cargo bay. What an idiot. -(TIRES SCREECH) -(GRUNTS, GROANS) -(ROCK MUSlC PLAYS ON STEREO) -(TIRES SQUEALING) (YELLING, GROANING) (SCREAMS) (CAR HORN HONKING) -(BRAKES SCREECH) -(DOOR SIGNAL BUZZING) MAN ON PA: Next shuttle lift-off is scheduled for -T-minus 30 minutes and counting.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Andy is gone. They're gonna move from their house in two days, and it's all your fault! My... My fault? If you hadn't pushed me out of the window in the first place... Oh, yeah? Well, if you hadn't shown up in your stupid little cardboard spaceship and taken away everything that was important to me... Don't talk to me about importance! Because of you the security of this entire universe is in jeopardy! What? What are you talkin' about? Right now, poised at the edge of the galaxy, Emperor Zurg has been secretly building a weapon with the destructive capacity to annihilate an entire planet! I alone have information that reveals this weapon's only weakness. And you, my friend, are responsible for delaying my rendezvous with Star Command! You... are... a... toy! You aren't the real Buzz Lightyear! You're a... You're an action figure! You are a child's plaything! You are a sad, strange little man, and you have my pity. Farewell. Oh, yeah? Well, good riddance, ya loony! -\"Rendezvous with Star Command.\" - DRIVER: Hey, gas dude! ATTENDANT: You talkin' to me? -Yeah, man. Can you help me? -Pizza Planet? Andy! Do you know where Cutting Boulevard is? Oh, no! I can't show my face in that room without Buzz. -Buzz! Buzz, come back! -Go away! No! Buzz, you gotta come back! I... - -I found a spaceship! It's a spaceship, Buzz! Come on, man, hurry up! Um, like, the pizzas are getting cold here! -ATTENDANT: Cutting Boulevard, huh? -Yeah, yeah. Which way? Now, you're sure this space freighter will return to its port of origin -once it jettisons its food supply? -Uh-huh. And when we get there, we'll be able to find a way to transport you home. -Well, then, let's climb aboard. -No, no, no, wait, Buzz! Buzz! Let's get in the back. No one will see us there. Negative. There are no restraining harnesses in the cargo area. -We'll be much safer in the cockpit. -Yeah, bu... Buzz! Buzz! DRIVER: That's two lefts and a right, huh? -Thanks for the directions, okay? -Yeah. And remember, kid... -Buzz! -  It's safer in the cockpit than the cargo bay. What an idiot. - - - -    - - MAN ON PA: Next shuttle lift-off is scheduled for -T-minus 30 minutes and counting."
+      ],
+      "scene_length_chars": 2381,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0015912990784272552,
+        0.0017949590692296624,
+        0.19702047109603882,
+        0.14832307398319244,
+        0.0007317551062442362,
+        0.0030397672671824694,
+        0.003040224313735962,
+        0.01679563708603382,
+        0.00048159091966226697,
+        0.009034812450408936,
+        0.010291707701981068,
+        0.001764047658070922,
+        0.0018403733847662807,
+        0.0007267818436957896,
+        0.0012867687037214637,
+        0.18843798339366913,
+        0.0007326824706979096,
+        0.0003913948021363467,
+        0.00025123762316070497,
+        0.00017243066395167261,
+        0.1621280163526535,
+        0.002354780212044716,
+        0.0017565801972523332,
+        0.0028054597787559032,
+        0.0010634316131472588,
+        0.0032673636451363564,
+        0.0017365854000672698,
+        0.40168285369873047
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "-(JETS HUMMING) ROBOT: You are clear to enter. Welcome to Pizza Planet. WOMAN ON PA: The white zone is for immediate pizza... -Sheriff! -(GRUNTS, GROANS) There you are. Now, the entrance is heavily guarded. We need a way to get inside. -(COUGHING) -Great idea, Woody. I like your thinkin'. ROBOT: You are clear to enter. Welcome to Pizza Planet. BUZZ: Now! Quickly, Sheriff! The air lock is closing. WOMAN ON PA: Jones, party of five, your shuttle is now boarding... BOY: Hey, Mom, can we have some tokens? Ow! Watch where you're going! Sorry. (GROANS) MAN ON PA: ...nine, eight, seven, six, -five, four, three, -(CHILDREN SHOUTING) two, one. What a spaceport! Good work, Woody. (BEEPING, FIRES) Mom, can I play Black Hole? Please, please, please? -Andy! -Now, we need to find a ship -that's headed for Sector 1 2. -Wait a minute. No, Buzz! This way. -There's a special ship. I just saw it. -You mean it has hyperdrive? Hyperactive hyperdrive. -(CHATTERING) -And Astro... turf! -Where is it? I-I don't see the... -Come on. That's it. Spaceship! All right, Buzz, get ready. And... -And the universe explodes! -Okay, Buzz, when I say go, we're gonna jump in the basket. Buzz! -(GRUNTS) No! -ANDY: Mom, if I eat all my pizza, can I have some alien slime? This cannot be happening to me. (GASPS) (OBJECTS SQUEAKING) -A stranger. -From the outside. -ALIENS TOGETHER: Ooh! -Greetings. I am Buzz Lightyear. -I come in peace. -(ALL GIBBERING) MAN ON PA: Before your space journey, re-energize yourself with a slice of pepperoni, now boarding at counter three. BUZZ: This is an intergalactic emergency. I need to commandeer your vessel to Sector 1 2. Who's in charge here? ALIENS: The claw! The claw is our master. The claw chooses who will go and who will stay. -This is ludicrous. (GASPS) -Hey, bozo, you got a brain in there? -(LAUGHING) Take that! -(BUZZlNG) Oh, no! Sid! -Get down! -(GRUNTS) What's gotten into you? I was... You are the one that decided to climb into this... Shh! The claw, it moves. (ALIENS SQUEAKING) (SQUEAKS) I have been chosen! Farewell, my friends. I go on to a better place. Gotcha! A Buzz Lightyear? No way! -(COIN CLICKING) -(ALIEN SQUEAKS) (SQUEAK) (GRUNTING) (CLAW BUZZING) -SID: Yes! -(GASPS) Buzz! No! (GRUNTING) -Hey! -(GRUNTING) -(GRUNTING) -He has been chosen!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- ROBOT: You are clear to enter. Welcome to Pizza Planet. WOMAN ON PA: The white zone is for immediate pizza... -Sheriff! - There you are. Now, the entrance is heavily guarded. We need a way to get inside. - -Great idea, Woody. I like your thinkin'. ROBOT: You are clear to enter. Welcome to Pizza Planet. BUZZ: Now! Quickly, Sheriff! The air lock is closing. WOMAN ON PA: Jones, party of five, your shuttle is now boarding... BOY: Hey, Mom, can we have some tokens? Ow! Watch where you're going! Sorry.  MAN ON PA: ...nine, eight, seven, six, -five, four, three, - two, one. What a spaceport! Good work, Woody.  Mom, can I play Black Hole? Please, please, please? -Andy! -Now, we need to find a ship -that's headed for Sector 1 2. -Wait a minute. No, Buzz! This way. -There's a special ship. I just saw it. -You mean it has hyperdrive? Hyperactive hyperdrive. - -And Astro... turf! -Where is it? I-I don't see the... -Come on. That's it. Spaceship! All right, Buzz, get ready. And... -And the universe explodes! -Okay, Buzz, when I say go, we're gonna jump in the basket. Buzz! - No! -ANDY: Mom, if I eat all my pizza, can I have some alien slime? This cannot be happening to me.   -A stranger. -From the outside. -ALIENS TOGETHER: Ooh! -Greetings. I am Buzz Lightyear. -I come in peace. - MAN ON PA: Before your space journey, re-energize yourself with a slice of pepperoni, now boarding at counter three. BUZZ: This is an intergalactic emergency. I need to commandeer your vessel to Sector 1 2. Who's in charge here? ALIENS: The claw! The claw is our master. The claw chooses who will go and who will stay. -This is ludicrous.  -Hey, bozo, you got a brain in there? - Take that! - Oh, no! Sid! -Get down! - What's gotten into you? I was... You are the one that decided to climb into this... Shh! The claw, it moves.   I have been chosen! Farewell, my friends. I go on to a better place. Gotcha! A Buzz Lightyear? No way! - -    -SID: Yes! - Buzz! No!  -Hey! - - -He has been chosen!"
+      ],
+      "scene_length_chars": 2289,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3503280580043793,
+        0.00687215942889452,
+        0.004554464016109705,
+        0.0017466065473854542,
+        0.009047623723745346,
+        0.004209608305245638,
+        0.01741623505949974,
+        0.05451621115207672,
+        0.0012652119621634483,
+        0.002169075421988964,
+        0.020098356530070305,
+        0.0019889152608811855,
+        0.005159853491932154,
+        0.02306239679455757,
+        0.009406832978129387,
+        0.015051804482936859,
+        0.003563944948837161,
+        0.014813682995736599,
+        0.0125509612262249,
+        0.0007490372518077493,
+        0.0041418010368943214,
+        0.0053865015506744385,
+        0.006860783323645592,
+        0.0014797586482018232,
+        0.007885501720011234,
+        0.0011703453492373228,
+        0.0033613673876971006,
+        0.4577259123325348
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "admiration",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "-He must go. -Hey! -What are you doing? -Do not fight the claw. Stop it! Stop it, you zealots! All right! Double prizes! Let's go home and... play. (SINISTER CHUCKLE) (CHATTERS, GRUNTS) (HUMMING) Sheriff, I can see your dwelling from here. -You're almost home. -Nirvana is coming. -The mystic portal awaits. -Will you be quiet? You guys don't get it, do you? Once we go into Sid's house, we won't be coming out. -(BARKING) -Whoa, Scud! Hey, boy! -Sit! Good boy. -(GROWLING) -Hey, I got something for you, boy. -Freeze! -(GROWLS, PANTING) -Ready, set, now! -(SNARLING) -(ALIEN SQUEAKING) Hannah! Hey, Hannah! -What? -Did I get my package in the mail? -I don't know. -What do you mean you don't know? -I don't know! -(SIGHS) -Oh, no, Hannah! Look, Janie! -What? Hey! -She's sick! -No, she's not! I'll have to perform one of my operations. -HANNAH: No! -No, not Sid's room. Not there. Hey, give her back! Sid! Sid! Oh, no, we have a sick patient here, nurse. -(BANGING ON DOOR) -Prepare the OR, stat! (SINISTER CHUCKLE) Patient is... prepped. No one's ever attempted a double bypass brain transplant before. Now for the tricky part. Pliers! I don't believe that man's ever been to medical school. (CHUCKLES, IMITATES NURSE) Doctor, you've done it! Hannah! -Janie's all better now. -(SCREAMING) HANNAH: Mom! Mom! SID: She's lying! Whatever she says, it's not true! (DEPARTING FOOTFALLS) (GASPING, SHUDDERING) (SHUDDERING) We are gonna die. I'm outta here! Locked. There's gotta be another way outta here. (RUSTLING) Uh, Buzz? W-Was that you? -(TEETH CHATTERING, GASPS) -(CREAKING) (RUSTLING) (CREAKING) Hey, hi there, little fella. Come out here. Do you know a way outta here? (GASPS, TEETH CHATTERING) (GASPS) (GASPS) (BOX PLAYS POP GOES THE WEASEL) (YELLS, MUTTERING, GIBBERING) B-B-B-B-Bu... Buzz! -They're cannibals. -(GASPS) -(BUZZES) -Mayday, mayday. Come in, Star Command. Send reinforcements. -(TEETH CHATTERING) -Star Command, do you copy? -(BUZZlNG) -I've set my laser from stun to kill. Aw, great. Great. Yeah, and if anyone attacks us, we can blink 'em to death. (RUSTLING) REX: Hey, you guys, I think I found him! -Buzz, is that you? -(CAT YOWLS) Whiskers, will you get outta here! You're interfering with the search and rescue! -(CAR APPROACHING) -(GASPS) Look, they're home.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "-He must go. -Hey! -What are you doing? -Do not fight the claw. Stop it! Stop it, you zealots! All right! Double prizes! Let's go home and... play.    Sheriff, I can see your dwelling from here. -You're almost home. -Nirvana is coming. -The mystic portal awaits. -Will you be quiet? You guys don't get it, do you? Once we go into Sid's house, we won't be coming out. - -Whoa, Scud! Hey, boy! -Sit! Good boy. - -Hey, I got something for you, boy. -Freeze! - -Ready, set, now! - - Hannah! Hey, Hannah! -What? -Did I get my package in the mail? -I don't know. -What do you mean you don't know? -I don't know! - -Oh, no, Hannah! Look, Janie! -What? Hey! -She's sick! -No, she's not! I'll have to perform one of my operations. -HANNAH: No! -No, not Sid's room. Not there. Hey, give her back! Sid! Sid! Oh, no, we have a sick patient here, nurse. - -Prepare the OR, stat!  Patient is... prepped. No one's ever attempted a double bypass brain transplant before. Now for the tricky part. Pliers! I don't believe that man's ever been to medical school.  Doctor, you've done it! Hannah! -Janie's all better now. - HANNAH: Mom! Mom! SID: She's lying! Whatever she says, it's not true!    We are gonna die. I'm outta here! Locked. There's gotta be another way outta here.  Uh, Buzz? W-Was that you? - -   Hey, hi there, little fella. Come out here. Do you know a way outta here?      B-B-B-B-Bu... Buzz! -They're cannibals. - - -Mayday, mayday. Come in, Star Command. Send reinforcements. - -Star Command, do you copy? - -I've set my laser from stun to kill. Aw, great. Great. Yeah, and if anyone attacks us, we can blink 'em to death.  REX: Hey, you guys, I think I found him! -Buzz, is that you? - Whiskers, will you get outta here! You're interfering with the search and rescue! - - Look, they're home."
+      ],
+      "scene_length_chars": 2285,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2578003406524658,
+        0.018199289217591286,
+        0.006044402252882719,
+        0.0011862372048199177,
+        0.0012493283720687032,
+        0.001952292281202972,
+        0.012482489459216595,
+        0.1202443391084671,
+        0.0019857194274663925,
+        0.0018001729622483253,
+        0.004925895947962999,
+        0.0015106766950339079,
+        0.001349467202089727,
+        0.011181524954736233,
+        0.00394231965765357,
+        0.00029507867293432355,
+        0.0026373539585620165,
+        0.001752499956637621,
+        0.0009451453806832433,
+        0.00044348789379000664,
+        0.01332817692309618,
+        0.0011498206295073032,
+        0.004669164307415485,
+        0.0005128892953507602,
+        0.0010480220662429929,
+        0.0011047560255974531,
+        0.015179779380559921,
+        0.6420948505401611
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 13,
+    "lines_per_scene_fallback": 20
+  }
+}

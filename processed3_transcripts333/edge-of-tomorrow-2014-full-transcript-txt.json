@@ -1,0 +1,2507 @@
+{
+  "source_file": "Edge of Tomorrow _2014_ - full transcript.txt",
+  "title": "Edge of Tomorrow",
+  "year": "2014",
+  "meta_description": null,
+  "num_scenes": 46,
+  "avg_scene_chars": 998,
+  "characters": [
+    "CAGE",
+    "CARTER",
+    "COMPUTER",
+    "FARELL",
+    "KIMMEL",
+    "MAN",
+    "MAN 1",
+    "MONTGOMERY",
+    "RITA",
+    "SERGEANT",
+    "SKINNER"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "[INDISTINCT CHATTERING]",
+      "raw_text": "MAN 1 : Start talking. MAN 2: I'm not sure if we're on the air. This is a series of explosions-- WOMAN 1 : We're being told... ...this is a major incident. The emergency is a major incident. MAN 3: --bright lights and an orange glow. WOMAN 2: That was the moment the meteor hit. MAN 4: It does now appear... ...to be a major attack. WOMAN 3: Since they landed outside Hamburg five years ago... ...they have steadily advanced... ...across Europe. We've suffered millions of casualties. The evacuation of key government officials continuing. MAN 5: Nothing has stopped their advance. MAN 6: In human costs, the Europeans have paid the highest price. They have the ability to mimic and even anticipate our actions. BRIGHAM: If we do not defeat them... ...in France... ...we'll be fighting them in London... ...then New York, then Tokyo.",
+      "characters": [
+        "MAN 1"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN 1",
+          "text": "Start talking. MAN 2: I'm not sure if we're on the air. This is a series of explosions-- WOMAN 1 : We're being told... ...this is a major incident. The emergency is a major incident. MAN 3: --bright lights and an orange glow. WOMAN 2: That was the moment the meteor hit. MAN 4: It does now appear... ...to be a major attack. WOMAN 3: Since they landed outside Hamburg five years ago... ...they have steadily advanced... ...across Europe. We've suffered millions of casualties. The evacuation of key government officials continuing. MAN 5: Nothing has stopped their advance. MAN 6: In human costs, the Europeans have paid the highest price. They have the ability to mimic and even anticipate our actions. BRIGHAM: If we do not defeat them... ...in France... ...we'll be fighting them in London... ...then New York, then Tokyo."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 833,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0007117419154383242,
+        0.0008412820752710104,
+        0.0008035298669710755,
+        0.0006772885099053383,
+        0.00691294576972723,
+        0.0006971920374780893,
+        0.42918044328689575,
+        0.0017467011930420995,
+        0.0006927327485755086,
+        0.004121135454624891,
+        0.0003199903294444084,
+        0.00015885372704360634,
+        0.0001931697188410908,
+        0.0004752025124616921,
+        0.0010732576483860612,
+        0.00012056822015438229,
+        0.0014673963887616992,
+        0.000406321429181844,
+        0.0006733304471708834,
+        0.0009500278392806649,
+        0.058660052716732025,
+        0.0009239109931513667,
+        0.12796996533870697,
+        0.0008832903113216162,
+        0.0005650114617310464,
+        0.00411193585023284,
+        0.008080502972006798,
+        0.6763768196105957
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "confusion",
+        "realization"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "confusion",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "[CROWD YELLING]",
+      "raw_text": "All of humanity's at stake. MAN 7: After five years... ...we finally have a victory. WOMAN 4: These pictures are just in... ...from Verdun. MAN 8: One of the striking things was how low casualties were... ...and how little damage... MAN 9: We have seen a stunning victory here today. HILL: How do you convince people that this is... ...a fight that can be won? This is an alien invasion in a global war. With the new jacket technology and limited training... ...we've been able to create super-soldiers. Look at Rita Vrataski, the Angel of Verdun. WOMAN 5: They're calling her the Angel of Verdun. She is seen as the new hope for this war. WOMAN 6: It's extraordinary. With the new jacket technology and limited training... ...Rita Vrataski was able to kill... ...hundreds of mimics on only her first day. MAN 10\". Is the tide of this war changing? WOMAN 7: The Army attribute this success to a revolutionary new technology: The Exosuit jacket.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "All of humanity's at stake. MAN 7: After five years... ...we finally have a victory. WOMAN 4: These pictures are just in... ...from Verdun. MAN 8: One of the striking things was how low casualties were... ...and how little damage... MAN 9: We have seen a stunning victory here today. HILL: How do you convince people that this is... ...a fight that can be won? This is an alien invasion in a global war. With the new jacket technology and limited training... ...we've been able to create super-soldiers. Look at Rita Vrataski, the Angel of Verdun. WOMAN 5: They're calling her the Angel of Verdun. She is seen as the new hope for this war. WOMAN 6: It's extraordinary. With the new jacket technology and limited training... ...Rita Vrataski was able to kill... ...hundreds of mimics on only her first day. MAN 10\". Is the tide of this war changing? WOMAN 7: The Army attribute this success to a revolutionary new technology: The Exosuit jacket."
+      ],
+      "scene_length_chars": 944,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.4923289120197296,
+        0.0027384678833186626,
+        0.0008431700989603996,
+        0.0004921359941363335,
+        0.002040916122496128,
+        0.00017927991575561464,
+        0.0030408089514821768,
+        0.0019379373406991363,
+        0.0005371911101974547,
+        0.0037550823763012886,
+        0.0007024076185189188,
+        0.0004364436026662588,
+        0.0010056416504085064,
+        0.01306884828954935,
+        0.0017010864103212953,
+        0.0004398138262331486,
+        0.0005327446851879358,
+        0.000750016828533262,
+        0.001296525588259101,
+        0.0007000481709837914,
+        0.0030036012176424265,
+        0.0017984685255214572,
+        0.4892861545085907,
+        0.00046830507926642895,
+        0.0005418061628006399,
+        0.0011127862380817533,
+        0.031578127294778824,
+        0.11063852906227112
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "realization",
+        "neutral"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "realization"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "[PEOPLE SPEAKING INDISTINCTLY]",
+      "raw_text": "She was able to kill hundreds of mimics on only her first day in combat. Imagine an army of Rita Vrataskis. BURNETT: We're holding them... ...back at the English Channel, but for how long? MAN 11: This is dangerous talk. People are suspicious about this invasion. MAN 12: Over 17 nations have joined the United Defense Force... ...which hopes to push them back. We've got them contained. And with this new technology, we're gonna defeat them. Operation Downfall is going to be the largest mechanized invasion in history. We will be victorious. We fight. That's what we do. CAGE: Major William Cage, United States Military Media. Welcome to London, major. The general will see you now. Thank you. BRIGHAM: Operation Downfall. The entire UDF, invading from France, the Mediterranean, Scandinavia... ...relieving pressure on the eastern front... ...allowing the Russians and Chinese to push the enemy back. We all meet in the middle... ...exterminating this mimic scourge along the way. A lot of good soldiers are gonna die tomorrow, major. When all the smoke clears... ...and the body bags start coming home, people look for someone to blame... ...someone like me. Ideally, I'd prefer a different scenario. Please. A best-selling memoir, perhaps. Maybe a career in politics? Off the top of my head, I would go with... ...the sense of manifest destiny. Rags to riches. Rapid rise through the ranks. Born to deliver us. And the people, well, they love that sort of thing. You misunderstand. I didn't ask you here to sell me. Sell the invasion. Okay. You ship for the coast in one hour. Your camera crew is standing by. You'll be on the beach with the first wave. I'm sorry, the first wave? The beach? You mean the front? France. Satellites show minimal enemy movement on the coast. Little resistance. A little excitement, something to tell your grandchildren. While I appreciate... ...the confidence, general... ...I do this to avoid doing that.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "She was able to kill hundreds of mimics on only her first day in combat. Imagine an army of Rita Vrataskis. BURNETT: We're holding them... ...back at the English Channel, but for how long? MAN 11: This is dangerous talk. People are suspicious about this invasion. MAN 12: Over 17 nations have joined the United Defense Force... ...which hopes to push them back. We've got them contained. And with this new technology, we're gonna defeat them. Operation Downfall is going to be the largest mechanized invasion in history. We will be victorious. We fight. That's what we do. CAGE: Major William Cage, United States Military Media. Welcome to London, major. The general will see you now. Thank you. BRIGHAM: Operation Downfall. The entire UDF, invading from France, the Mediterranean, Scandinavia... ...relieving pressure on the eastern front... ...allowing the Russians and Chinese to push the enemy back. We all meet in the middle... ...exterminating this mimic scourge along the way. A lot of good soldiers are gonna die tomorrow, major. When all the smoke clears... ...and the body bags start coming home, people look for someone to blame... ...someone like me. Ideally, I'd prefer a different scenario. Please. A best-selling memoir, perhaps. Maybe a career in politics? Off the top of my head, I would go with... ...the sense of manifest destiny. Rags to riches. Rapid rise through the ranks. Born to deliver us. And the people, well, they love that sort of thing. You misunderstand. I didn't ask you here to sell me. Sell the invasion. Okay. You ship for the coast in one hour. Your camera crew is standing by. You'll be on the beach with the first wave. I'm sorry, the first wave? The beach? You mean the front? France. Satellites show minimal enemy movement on the coast. Little resistance. A little excitement, something to tell your grandchildren. While I appreciate... ...the confidence, general... ...I do this to avoid doing that."
+      ],
+      "scene_length_chars": 1941,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.021846655756235123,
+        0.00048206764040514827,
+        0.003233544295653701,
+        0.0011132711078971624,
+        0.004017558880150318,
+        0.014087589457631111,
+        0.12116188555955887,
+        0.3045276403427124,
+        0.01331817265599966,
+        0.029594630002975464,
+        0.00423072325065732,
+        0.0005796973709948361,
+        0.005898572504520416,
+        0.020267650485038757,
+        0.002947648521512747,
+        0.491364061832428,
+        0.018079636618494987,
+        0.020261291414499283,
+        0.005860474426299334,
+        0.0012459635036066175,
+        0.49426203966140747,
+        0.008960438892245293,
+        0.019402839243412018,
+        0.017099633812904358,
+        0.1938406527042389,
+        0.024531705304980278,
+        0.00905429944396019,
+        0.00740691926330328
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "gratitude",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "[CHUCKLES]",
+      "raw_text": "I was in ROTC in college. The war broke out, I lost my advertising firm... ...and here I am. You know, I do what I do, and you do what you do. But... ...I'm not a soldier, really. No, of course you're not. I'm embedding you with several hundred thousand who are. While it is an honor, I'm afraid I'm gonna have to decline. Can't stand the sight of blood. Not so much as a paper cut.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I was in ROTC in college. The war broke out, I lost my advertising firm... ...and here I am. You know, I do what I do, and you do what you do. But... ...I'm not a soldier, really. No, of course you're not. I'm embedding you with several hundred thousand who are. While it is an honor, I'm afraid I'm gonna have to decline. Can't stand the sight of blood. Not so much as a paper cut."
+      ],
+      "scene_length_chars": 382,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005767222493886948,
+        0.0009498699218966067,
+        0.005364672746509314,
+        0.00465493556112051,
+        0.0013569698203355074,
+        0.001559642725624144,
+        0.0014799581840634346,
+        0.001236227690242231,
+        0.001204971456900239,
+        0.0029196329414844513,
+        0.09318693727254868,
+        0.005665753502398729,
+        0.005654975306242704,
+        0.004719968419522047,
+        0.9808601140975952,
+        0.0032393024303019047,
+        0.00613793171942234,
+        0.0056360261514782906,
+        0.0014139990089461207,
+        0.019134318456053734,
+        0.0016216007061302662,
+        0.002646418521180749,
+        0.008648392744362354,
+        0.0017238486325368285,
+        0.001200457802042365,
+        0.004113236907869577,
+        0.002906822133809328,
+        0.009275862947106361
+      ],
+      "goemotions_topk": [
+        "fear",
+        "disapproval",
+        "nervousness"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": "[CHUCKLES]",
+      "raw_text": "Uh, but, uh... ...sitting here thinking about this... ...a couple of names come to mind... ...that I feel I could recommend to you. It's not an offer, major. It's an order. General, I am an officer in the United States military. - You don't even have the authority. - I have spoken to your CO. You are now under my command. You will retain your present rank... ...of course. My secretary has all the details. Do a good job, major. Good luck. You are dismissed. General? I just inspired millions of people to join your army. And when the body bags come home and they're looking... ...for someone to blame, how hard do you think it would be... ...for me to convince people to blame you? I'd imagine... ...the general would prefer to avoid that. Are you blackmailing me, major? I would prefer... ...not to be filming acts of heroism and valor on that beach tomorrow. You won't be. I'm glad we could, uh, work this out. Now if you'll excuse me, general. I-- Thank you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Uh, but, uh... ...sitting here thinking about this... ...a couple of names come to mind... ...that I feel I could recommend to you. It's not an offer, major. It's an order. General, I am an officer in the United States military. - You don't even have the authority. - I have spoken to your CO. You are now under my command. You will retain your present rank... ...of course. My secretary has all the details. Do a good job, major. Good luck. You are dismissed. General? I just inspired millions of people to join your army. And when the body bags come home and they're looking... ...for someone to blame, how hard do you think it would be... ...for me to convince people to blame you? I'd imagine... ...the general would prefer to avoid that. Are you blackmailing me, major? I would prefer... ...not to be filming acts of heroism and valor on that beach tomorrow. You won't be. I'm glad we could, uh, work this out. Now if you'll excuse me, general. I-- Thank you."
+      ],
+      "scene_length_chars": 964,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005347651895135641,
+        0.0004115075571462512,
+        0.00643232511356473,
+        0.02953272871673107,
+        0.006135042291134596,
+        0.39228805899620056,
+        0.004110277630388737,
+        0.04300476238131523,
+        0.0026602111756801605,
+        0.007852436043322086,
+        0.15429456532001495,
+        0.000355414638761431,
+        0.0004919777275063097,
+        0.000764914439059794,
+        0.00038508741999976337,
+        0.5031219124794006,
+        0.0008623171015642583,
+        0.007016351912170649,
+        0.0005008019506931305,
+        0.0005294376169331372,
+        0.1936981976032257,
+        0.0007413861458189785,
+        0.0036219903267920017,
+        0.007561152800917625,
+        0.002088002162054181,
+        0.0007437753956764936,
+        0.0005172778619453311,
+        0.005630808882415295
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "caring",
+        "optimism"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "caring",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": "[CHATTERING]",
+      "raw_text": "Arrest this man. What? SOLDIER 1: Hey! Hey! SOLDIER 2: Stop right there! Hey! Stop! Get out of the way! Out of the way! SOLDIER 3: Hold it! MAN 1: Left flank, march! MAN 2: Forward, march! About-turn!\n[PEOPLE SPEAKING OVER PA IN FOREIGN LANGUAGES]\nWOMAN",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Arrest this man. What? SOLDIER 1: Hey! Hey! SOLDIER 2: Stop right there! Hey! Stop! Get out of the way! Out of the way! SOLDIER 3: Hold it! MAN 1: Left flank, march! MAN 2: Forward, march! About-turn!",
+        "WOMAN"
+      ],
+      "scene_length_chars": 253,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.019952956587076187,
+        0.000615142285823822,
+        0.9320066571235657,
+        0.007007242646068335,
+        0.0008792211883701384,
+        0.006897374056279659,
+        0.002146155573427677,
+        0.010630822740495205,
+        0.002156011061742902,
+        0.0011549999471753836,
+        0.0027366038411855698,
+        0.0017047047149389982,
+        0.0003031652595382184,
+        0.002584901638329029,
+        0.006755424197763205,
+        0.0004596004437189549,
+        0.0018572171684354544,
+        0.0004262771108187735,
+        0.0017147378530353308,
+        0.00021158292656764388,
+        0.001128818141296506,
+        0.0018572666449472308,
+        0.0008417342323809862,
+        0.00012259799405001104,
+        0.0006458197603933513,
+        0.00077438895823434,
+        0.022382475435733795,
+        0.25935041904449463
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": "[OVER PA]",
+      "raw_text": ": Supplies closing in 10 minutes. SERGEANT: On your feet... ...maggot! That is no way... ...to address an officer, sergeant. It's how I address a slack-jawed recruit before I bust his hole... ...with my boot heel, maggot. FARELL: Hold up there, sergeant. Can I help you, sir? Where the hell am I, sergeant? Forward Operating Base Heathrow. You just came in with... -...the fresh recruits. - Do I strike you as a fresh recruit? No, sir, you do not. My name is Major William Cage. - I'm an American officer. - Officer? This is processing. There's no officers here. I got this, sergeant. How the hell... ...did you end up in processing? What was it? Poker night? Bachelor party? If it's all the same to you, sergeant... ...I'd like to explain that to my commanding officer in Washington. - If you'll take me to a phone-- - Haven't you heard? We're T-minus-Haul-Ass-H-Hour. We're fixing to invade France. This whole FOB's on lockdown. No calls, in or out. - Name is Farell. - That's right. Master Sergeant Farell. You're an American. No, sir. I'm from Kentucky. Okay. Well, look at me. And look at where I am. I've been railroaded. It's obvious I don't belong here. So please, sergeant, there has to be a way I can make a phone call. I'll get you sorted out, sir. - Thank you. - Right this way. CAGE: Where you from in Kentucky? FARELL: Little town called Science Hill. Heard of it? I have now. - Where you from? - Cranbury, New Jersey. They grow a lot of cranberries there? Tomatoes. Best you ever had. Why they call it Cranberry, then? Why they call it Science Hill? Never asked. Don't care. After you. You're not taking me to a phone, are you? No, I am not. Seems about the only honest thing you said to me so far is your name. Says here you're a deserter. It says here you were caught impersonating an officer. It says here... ...you'd likely try to make an outside call, compromise security of this operation. Anything to get out of combat duty tomorrow. But that's not gonna happen. Even Private Cage.\n[WILLY MOON'S \"RAILROAD TRACK\" PLAYS OVER SPEAKERS]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": Supplies closing in 10 minutes. SERGEANT: On your feet... ...maggot! That is no way... ...to address an officer, sergeant. It's how I address a slack-jawed recruit before I bust his hole... ...with my boot heel, maggot. FARELL: Hold up there, sergeant. Can I help you, sir? Where the hell am I, sergeant? Forward Operating Base Heathrow. You just came in with... -...the fresh recruits. - Do I strike you as a fresh recruit? No, sir, you do not. My name is Major William Cage. - I'm an American officer. - Officer? This is processing. There's no officers here. I got this, sergeant. How the hell... ...did you end up in processing? What was it? Poker night? Bachelor party? If it's all the same to you, sergeant... ...I'd like to explain that to my commanding officer in Washington. - If you'll take me to a phone-- - Haven't you heard? We're T-minus-Haul-Ass-H-Hour. We're fixing to invade France. This whole FOB's on lockdown. No calls, in or out. - Name is Farell. - That's right. Master Sergeant Farell. You're an American. No, sir. I'm from Kentucky. Okay. Well, look at me. And look at where I am. I've been railroaded. It's obvious I don't belong here. So please, sergeant, there has to be a way I can make a phone call. I'll get you sorted out, sir. - Thank you. - Right this way. CAGE: Where you from in Kentucky? FARELL: Little town called Science Hill. Heard of it? I have now. - Where you from? - Cranbury, New Jersey. They grow a lot of cranberries there? Tomatoes. Best you ever had. Why they call it Cranberry, then? Why they call it Science Hill? Never asked. Don't care. After you. You're not taking me to a phone, are you? No, I am not. Seems about the only honest thing you said to me so far is your name. Says here you're a deserter. It says here you were caught impersonating an officer. It says here... ...you'd likely try to make an outside call, compromise security of this operation. Anything to get out of combat duty tomorrow. But that's not gonna happen. Even Private Cage."
+      ],
+      "scene_length_chars": 2055,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0019188681617379189,
+        0.0006086392677389085,
+        0.29486873745918274,
+        0.05968141928315163,
+        0.0020122916903346777,
+        0.0016102787340059876,
+        0.012892733328044415,
+        0.15665096044540405,
+        0.0013813154073432088,
+        0.01975482515990734,
+        0.052738796919584274,
+        0.0026108238380402327,
+        0.0014558247057721019,
+        0.0009163240320049226,
+        0.001795702031813562,
+        0.31976211071014404,
+        0.0007535230251960456,
+        0.00023129921464715153,
+        0.0004051659780088812,
+        0.0005204493063502014,
+        0.0045438786037266254,
+        0.0006227401900105178,
+        0.002192932413890958,
+        0.0013462683418765664,
+        0.0012154714204370975,
+        0.001434745849110186,
+        0.004507709760218859,
+        0.47840848565101624
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "anger"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": "[SPEAKING INDISTINCTLY]",
+      "raw_text": "Take you down to the early days When the champagne Flow like a river stream FARELL: Rumor is a terrible thing. Come nightfall, these men will all reach the same conclusion. That you're a coward and a liar, putting your life above theirs. Good news is... ...there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. The one place where all men truly share the same rank... ...regardless of what kind of parasitic scum they were going in.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Take you down to the early days When the champagne Flow like a river stream FARELL: Rumor is a terrible thing. Come nightfall, these men will all reach the same conclusion. That you're a coward and a liar, putting your life above theirs. Good news is... ...there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. The one place where all men truly share the same rank... ...regardless of what kind of parasitic scum they were going in."
+      ],
+      "scene_length_chars": 537,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.3728905916213989,
+        0.0006822317955084145,
+        0.010304735042154789,
+        0.006901834160089493,
+        0.005882855970412493,
+        0.011304001323878765,
+        0.003312450833618641,
+        0.002085675485432148,
+        0.015799881890416145,
+        0.005204472690820694,
+        0.002466257894411683,
+        0.002111148787662387,
+        0.000751837040297687,
+        0.001554897055029869,
+        0.0007389698876067996,
+        0.00538024865090847,
+        0.00045863783452659845,
+        0.0028345691971480846,
+        0.008186318911612034,
+        0.0006121416809037328,
+        0.9939456582069397,
+        0.0018563768826425076,
+        0.006390439812093973,
+        0.0005357302725315094,
+        0.000561144610401243,
+        0.000740290037356317,
+        0.002065650885924697,
+        0.0027341742534190416
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "admiration",
+        "desire"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "admiration",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": "[MAN WHISTLES]",
+      "raw_text": "Squad! This here... ...is Private Cage. Private Cage, J Squad. Isn't that an officer's uniform? Those sure ain't officer cufflinks. FARELL: I see everyone... ...is having a productive morning. You know, it gives me a swell of pride... ...knowing soldiers of your... ...caliber will be leading the charge tomorrow. Tip of the spear. Edge of the knife. Crack of my... ...ass. NANCE: Oh, shit. FARELL: Private Kimmel, what is my view of gambling... -...in the barracks? - You dislike it. Nance, why do I dislike it'? It entertains the notion our fate is in hands other than our own. FARELL: And what is my definitive position on the concept... ...of fate, chorus? ALL: Through readiness and discipline, we are masters of our fate. FARELL: You might call... ...that notion ironic. But trust me, you'll come around. Private Cage is a deserter. I'm making you all... ...personally responsible... ...for his deliverance. He will be combat ready... ...at 0600 tomorrow. Combat ready? FARELL: Cage is under the delusion he does not belong here. We must dissuade him of this delusion. If he tries to run, feel free to dissuade him until he can't piss standing up. You have to listen to me. - I will never be combat ready. - I envy you, Cage. Tomorrow morning, you will be baptized. Born again. PT! Ten minutes! So everybody Come along with me Go down the river And wash your feet To where the people Live a life that's sweet And a place that's ripe You're not in uniform... ...private.\n[ALARM WAILING]\nMAN",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Squad! This here... ...is Private Cage. Private Cage, J Squad. Isn't that an officer's uniform? Those sure ain't officer cufflinks. FARELL: I see everyone... ...is having a productive morning. You know, it gives me a swell of pride... ...knowing soldiers of your... ...caliber will be leading the charge tomorrow. Tip of the spear. Edge of the knife. Crack of my... ...ass. NANCE: Oh, shit. FARELL: Private Kimmel, what is my view of gambling... -...in the barracks? - You dislike it. Nance, why do I dislike it'? It entertains the notion our fate is in hands other than our own. FARELL: And what is my definitive position on the concept... ...of fate, chorus? ALL: Through readiness and discipline, we are masters of our fate. FARELL: You might call... ...that notion ironic. But trust me, you'll come around. Private Cage is a deserter. I'm making you all... ...personally responsible... ...for his deliverance. He will be combat ready... ...at 0600 tomorrow. Combat ready? FARELL: Cage is under the delusion he does not belong here. We must dissuade him of this delusion. If he tries to run, feel free to dissuade him until he can't piss standing up. You have to listen to me. - I will never be combat ready. - I envy you, Cage. Tomorrow morning, you will be baptized. Born again. PT! Ten minutes! So everybody Come along with me Go down the river And wash your feet To where the people Live a life that's sweet And a place that's ripe You're not in uniform... ...private.",
+        "MAN"
+      ],
+      "scene_length_chars": 1495,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0027283690869808197,
+        0.0004836049920413643,
+        0.006829392164945602,
+        0.014412461780011654,
+        0.007607562467455864,
+        0.052469898015260696,
+        0.0022571671288460493,
+        0.0025665895082056522,
+        0.003991045989096165,
+        0.012792122550308704,
+        0.0029634444508701563,
+        0.00029460430960170925,
+        0.0008706122171133757,
+        0.00547606498003006,
+        0.0010779283475130796,
+        0.0019572556484490633,
+        0.002053596079349518,
+        0.00559092266485095,
+        0.0017373403534293175,
+        0.0004034882877022028,
+        0.11051639914512634,
+        0.12127313762903214,
+        0.07631976902484894,
+        0.06100242957472801,
+        0.00306168501265347,
+        0.0007405266514979303,
+        0.007252274081110954,
+        0.5390878915786743
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "pride",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": "[OVER PA]",
+      "raw_text": ": Could all combat-ready squadrons proceed--? FARELL: It's a new day, people. Destiny calls. The world expects only one thing from us: That we will win.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": Could all combat-ready squadrons proceed--? FARELL: It's a new day, people. Destiny calls. The world expects only one thing from us: That we will win."
+      ],
+      "scene_length_chars": 152,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.007257265038788319,
+        0.003821884747594595,
+        0.0004930663271807134,
+        0.0004503419913817197,
+        0.014322145842015743,
+        0.0020294664427638054,
+        0.0007497747428715229,
+        0.01839601993560791,
+        0.018889375030994415,
+        0.0005829714355058968,
+        0.000394491566112265,
+        0.00025149641442112625,
+        0.0002687417436391115,
+        0.4864186644554138,
+        0.0005322721553966403,
+        0.0015047185588628054,
+        0.00071754987584427,
+        0.017201432958245277,
+        0.0004113883769605309,
+        0.0004388735687825829,
+        0.7948703169822693,
+        0.004788647871464491,
+        0.0016687607858330011,
+        0.0021693571470677853,
+        0.00043645978439599276,
+        0.00035915905027650297,
+        0.003658725181594491,
+        0.6177654266357422
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "neutral",
+        "excitement"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "excitement",
+        "optimism",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": "[CHATTERING]",
+      "raw_text": "Come on, Kimmel, let's have it! Oh, for chrissake, Kimmel. I got to be free, man. Let's get this show on the road. I gotta suit up. What's that noise? That... MAN 1 : Let's go. Listen, I've never been in one of these. I've never been with two girls at the same time. You can bet when that day comes, I'll make it work. Kimmel. It's Griff. Griff. Griff. You bet. Just think about this, man. I could hurt somebody with it. Not with the safety on, you won't. But-- - Where is the safety? MAN 2: Exactly. MAN: It's time. Bloody hell, it's the Full Metal-- Move. FARELL: Griff. - Sarge? - Take care of Private Cage. - What, all day? Something tells me it won't be nearly that long. - Cage! 'Cage! 'Cage! FARELL: We lost Germany. We lost France. If we lose today... ...we won't get to fight another. I know... ...the pressure on you is enormous. Two minutes to drop. It's all right to be scared. Remember, there's no courage without fear. SKINNER: Oi! Oi, mate! I think there's something wrong with your suit. Yeah. There's a dead guy in it.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Come on, Kimmel, let's have it! Oh, for chrissake, Kimmel. I got to be free, man. Let's get this show on the road. I gotta suit up. What's that noise? That... MAN 1 : Let's go. Listen, I've never been in one of these. I've never been with two girls at the same time. You can bet when that day comes, I'll make it work. Kimmel. It's Griff. Griff. Griff. You bet. Just think about this, man. I could hurt somebody with it. Not with the safety on, you won't. But-- - Where is the safety? MAN 2: Exactly. MAN: It's time. Bloody hell, it's the Full Metal-- Move. FARELL: Griff. - Sarge? - Take care of Private Cage. - What, all day? Something tells me it won't be nearly that long. - Cage! 'Cage! 'Cage! FARELL: We lost Germany. We lost France. If we lose today... ...we won't get to fight another. I know... ...the pressure on you is enormous. Two minutes to drop. It's all right to be scared. Remember, there's no courage without fear. SKINNER: Oi! Oi, mate! I think there's something wrong with your suit. Yeah. There's a dead guy in it."
+      ],
+      "scene_length_chars": 1035,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00265918904915452,
+        0.0004653151845559478,
+        0.23095959424972534,
+        0.009673910215497017,
+        0.07428482174873352,
+        0.14244505763053894,
+        0.009112752974033356,
+        0.015393685549497604,
+        0.009158539585769176,
+        0.009514573030173779,
+        0.0018623089417815208,
+        0.0011688697850331664,
+        0.0008003511466085911,
+        0.002995868446305394,
+        0.4848610460758209,
+        0.0006027005147188902,
+        0.00838939193636179,
+        0.0011449785670265555,
+        0.0024612238630652428,
+        0.019076833501458168,
+        0.23476043343544006,
+        0.00419937539845705,
+        0.024689408019185066,
+        0.0015169134130701423,
+        0.0019055488519370556,
+        0.009158791974186897,
+        0.005910156294703484,
+        0.07921677827835083
+      ],
+      "goemotions_topk": [
+        "fear",
+        "optimism",
+        "anger"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": "[ALL LAUGHING]",
+      "raw_text": "Hey, watch your back out there, sir. No one else will. FARELL: One minute! One minute to drop! Hey- - Hey! - What? How do I turn the safety off of my weapon? What?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hey, watch your back out there, sir. No one else will. FARELL: One minute! One minute to drop! Hey- - Hey! - What? How do I turn the safety off of my weapon? What?"
+      ],
+      "scene_length_chars": 163,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0033231889829039574,
+        0.0016042657662183046,
+        0.010230635292828083,
+        0.002808654448017478,
+        0.0017133328365162015,
+        0.0008880515233613551,
+        0.05171950161457062,
+        0.8005826473236084,
+        0.00080506457015872,
+        0.00040176932816393673,
+        0.0009756162762641907,
+        0.0017376437317579985,
+        0.0013785825576633215,
+        0.006958642974495888,
+        0.0049878754653036594,
+        0.0007099815411493182,
+        0.0007434017024934292,
+        0.0001376596192130819,
+        0.0003636229957919568,
+        0.0002472352352924645,
+        0.001733255572617054,
+        0.0004690169880632311,
+        0.002343221567571163,
+        0.00033325524418614805,
+        0.00024786448921076953,
+        0.00033803790574893355,
+        0.758918046951294,
+        0.08675551414489746
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "surprise",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "surprise"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": "[ALARM WAILING]",
+      "raw_text": "How do I turn the safety off--? Oh, my God! FARELL: Get ready! Thirty seconds... ...to drop! On my mark! Stand by to deploy! Activate drop lines. Remember-- Aah! Aah! Drop now! Let's drop! Drop! Drop! Drop! Go! Go, let's go! Come on! Drop! Drop! Cage! Drop or die!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How do I turn the safety off--? Oh, my God! FARELL: Get ready! Thirty seconds... ...to drop! On my mark! Stand by to deploy! Activate drop lines. Remember-- Aah! Aah! Drop now! Let's drop! Drop! Drop! Drop! Go! Go, let's go! Come on! Drop! Drop! Cage! Drop or die!"
+      ],
+      "scene_length_chars": 264,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0023175429087132215,
+        0.0003320536343380809,
+        0.001540901605039835,
+        0.00018233114678878337,
+        0.0091656893491745,
+        0.10882753133773804,
+        0.009263571351766586,
+        0.27968156337738037,
+        0.001817183569073677,
+        0.0001494061143603176,
+        0.0004273572121746838,
+        0.00014964709407649934,
+        0.0003637422632891685,
+        0.02453671395778656,
+        0.007763679604977369,
+        0.0026184332091361284,
+        0.002778060734272003,
+        0.000826290633995086,
+        0.000750164850614965,
+        0.0005169064970687032,
+        0.011114511638879776,
+        0.0032288210932165384,
+        0.0032375878654420376,
+        0.0033050132915377617,
+        0.0009953939588740468,
+        0.0004317068087402731,
+        0.16143064200878143,
+        0.458560973405838
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "surprise"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": "[CAGE YELLING]",
+      "raw_text": "KIMMEL: Yeah! Whoo! We made it! Thank God, we made it! COMPUTER: Select language.\n[GRUNTING]\nWOMAN\n[OVER RADIO]\n: We need help! We need it now!",
+      "characters": [
+        "KIMMEL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "KIMMEL",
+          "text": "Yeah! Whoo! We made it! Thank God, we made it! COMPUTER: Select language."
+        }
+      ],
+      "actions": [
+        "WOMAN",
+        ": We need help! We need it now!"
+      ],
+      "scene_length_chars": 143,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.03567507863044739,
+        0.000385038903914392,
+        0.0005786117981187999,
+        0.0019522320944815874,
+        0.06239307299256325,
+        0.0005720047047361732,
+        0.0008820674265734851,
+        0.000957360549364239,
+        0.0009826476452872157,
+        0.0006984783103689551,
+        0.0010842543561011553,
+        0.0005863019614480436,
+        0.00032581176492385566,
+        0.3724985718727112,
+        0.0018547393847256899,
+        0.9937782287597656,
+        0.0005368568818084896,
+        0.002630275208503008,
+        0.00041981416870839894,
+        0.0008215259877033532,
+        0.0015876090619713068,
+        0.020734651014208794,
+        0.02648124098777771,
+        0.018014192581176758,
+        0.001314925029873848,
+        0.0007325763581320643,
+        0.013077854178845882,
+        0.0016695266822353005
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "excitement",
+        "approval"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "excitement",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "heading": "[FEEDBACK SCREECHING]",
+      "raw_text": "What the--? FARELL: Private Cage! You're going the wrong way. You're gonna miss your moment. What the hell? They're not supposed to know we're coming. We walked into a slaughterhouse, man. It's a slaughterhouse! MAN: Pull yourself together! FARELL: On your feet, people! Get in line! Nance, get me a sitrep. - Safety! My safety! FARELL: Griff, Ford, cover the flank! My safety. My safety. How do I get my safety--? - I'm waiting, Nance! NANCE: I got traces! Five hundred meters and they're coming in fast! FARELL: Son of a bitch. Out of the way! Look alive if you wanna stay that way! Firing positions! Move!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What the--? FARELL: Private Cage! You're going the wrong way. You're gonna miss your moment. What the hell? They're not supposed to know we're coming. We walked into a slaughterhouse, man. It's a slaughterhouse! MAN: Pull yourself together! FARELL: On your feet, people! Get in line! Nance, get me a sitrep. - Safety! My safety! FARELL: Griff, Ford, cover the flank! My safety. My safety. How do I get my safety--? - I'm waiting, Nance! NANCE: I got traces! Five hundred meters and they're coming in fast! FARELL: Son of a bitch. Out of the way! Look alive if you wanna stay that way! Firing positions! Move!"
+      ],
+      "scene_length_chars": 608,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004200753290206194,
+        0.000375318166334182,
+        0.8853849172592163,
+        0.020377453416585922,
+        0.002169181825593114,
+        0.5744537711143494,
+        0.0008526361198164523,
+        0.007271363399922848,
+        0.003579832846298814,
+        0.00201416970230639,
+        0.0023784744553267956,
+        0.004888596944510937,
+        0.0012355102226138115,
+        0.0020262347534298897,
+        0.010259442962706089,
+        0.0050019617192447186,
+        0.009366599842905998,
+        0.0028085072990506887,
+        0.0027457319665700197,
+        0.0005344892852008343,
+        0.018319545313715935,
+        0.005715673789381981,
+        0.003178337123245001,
+        0.0027815531939268112,
+        0.0021724735852330923,
+        0.0010381635511294007,
+        0.014797554351389408,
+        0.016111889854073524
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "heading": "[COMPUTER SPEAKING IN FOREIGN LANGUAGE]",
+      "raw_text": "Here they come. Mean as hell and thick as grass. Wait till they're right on us! Few more seconds! CAGE: Hey! Hey!\n[YELLING]\nFARELL: Fall back! Ha! Ha-ha!\n[LAUGHING]\n[BEEPING]\nCOMPUTER: Reload.\n[SCREAMS]",
+      "characters": [
+        "COMPUTER",
+        "FARELL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FARELL",
+          "text": "Fall back! Ha! Ha-ha!"
+        },
+        {
+          "speaker": "COMPUTER",
+          "text": "Reload."
+        }
+      ],
+      "actions": [
+        "Here they come. Mean as hell and thick as grass. Wait till they're right on us! Few more seconds! CAGE: Hey! Hey!"
+      ],
+      "scene_length_chars": 202,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.011168647557497025,
+        0.4732995629310608,
+        0.0017976945964619517,
+        0.001228750217705965,
+        0.001637426670640707,
+        0.0018625054508447647,
+        0.00011767197429435328,
+        0.003177507547661662,
+        0.009823309257626534,
+        0.00016792760288808495,
+        0.0002055835648206994,
+        0.0069940653629601,
+        0.0013435743749141693,
+        0.1858953833580017,
+        0.002471533138304949,
+        0.0002502953284420073,
+        0.001459728111512959,
+        0.11193174123764038,
+        0.0002404986007604748,
+        0.0003329554747324437,
+        0.005540471989661455,
+        0.0014960491098463535,
+        0.00026285136118531227,
+        0.000759756367187947,
+        0.00040641892701387405,
+        0.0006239506765268743,
+        0.01355151366442442,
+        0.6156983375549316
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "amusement",
+        "excitement"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "amusement",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 26,
+      "heading": "[GASPING]",
+      "raw_text": "SERGEANT: On your feet... ...maggot! Get in line before I bust your hole... ...with my boot heel! FARELL: Hold up there, sergeant. Can I help you, sir? Sergeant Farell. Is it...? That is my name. I think I get it. What was it? Poker night? Bachelor party? You know, I'm not sure. It happens. I'll get you sorted out, sir. Let me take those... ...for you. What day is it? For!\" you? Judgment Day. The good news is there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which... -...the only true heroes are-- - The only true heroes... ...are forged. Did you just interrupt me, private? Sarge, you're-- You're not gonna believe what I'm about to tell you. No, I'm not. Now, where was I? The fiery crucible. The fiery crucible... ...in which the only true heroes are forged. The one place where all men truly share... ...the same rank, regardless of what kind of parasitic scum they were going in.",
+      "characters": [
+        "SERGEANT"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SERGEANT",
+          "text": "On your feet... ...maggot! Get in line before I bust your hole... ...with my boot heel! FARELL: Hold up there, sergeant. Can I help you, sir? Sergeant Farell. Is it...? That is my name. I think I get it. What was it? Poker night? Bachelor party? You know, I'm not sure. It happens. I'll get you sorted out, sir. Let me take those... ...for you. What day is it? For!\" you? Judgment Day. The good news is there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which... -...the only true heroes are-- - The only true heroes... ...are forged. Did you just interrupt me, private? Sarge, you're-- You're not gonna believe what I'm about to tell you. No, I'm not. Now, where was I? The fiery crucible. The fiery crucible... ...in which the only true heroes are forged. The one place where all men truly share... ...the same rank, regardless of what kind of parasitic scum they were going in."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 959,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0008416843484155834,
+        0.0009727781871333718,
+        0.0019572414457798004,
+        0.007196830119937658,
+        0.00133496371563524,
+        0.030356423929333687,
+        0.08735591173171997,
+        0.46501249074935913,
+        0.004125187173485756,
+        0.0030057833064347506,
+        0.001237078569829464,
+        0.0004798743175342679,
+        0.000513197504915297,
+        0.0011948406463488936,
+        0.0009035331313498318,
+        0.0009734723134897649,
+        0.0006552122649736702,
+        0.0011780622880905867,
+        0.00048390758456662297,
+        0.0006255160551518202,
+        0.45178359746932983,
+        0.0002061213890556246,
+        0.0016360812587663531,
+        0.0004975756746716797,
+        0.0006249210564419627,
+        0.0010204907739534974,
+        0.0031202444806694984,
+        0.5059152841567993
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "optimism",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 27,
+      "heading": "[WILLY MOON'S \"RAILROAD TRACK\" PLAYS OVER SPEAKERS]",
+      "raw_text": "MAN: Welcome to hell. FARELL: Squad! This here is Private Cage. Private Cage... ...J Squad. Isn't that an officer's uniform? They sure ain't officer cufflinks. FARELL: You know, it gives me a swell of pride... ...knowing soldiers of your caliber... ...will be leading the charge tomorrow. Tip of the spear, edge of the knife. Crack of my ass. Private Kimmel, what is my view of gambling in the barracks? KIMMEL: Dislike it, sergeant. FARELL: Nance, why do I dislike it? It entertains the notion our fate is in hands other than our own. FARELL: And what is my definitive position... ...on the concept of fate, chorus? ALL: Through readiness and discipline, we are masters of our fate. You might call that notion ironic. Trust me, you'll come around. NANCE: Oh, for chrissake, Kimmel. KIMMEL: I gotta be free, man. GRIFF: All right, man. Let's get this show on the road. I gotta suit up. COMPUTER: Disengaged. Hey, what the hell's wrong with you? Haven't you ever been in one of these before? Maybe. Know where the safety is? - I'm not sure. - Good. FARELL: I know the pressure on you is enormous. Two minutes to drop. It's all right to be scared. There's no courage... ...without fear. SKINNER: Oi! Oi, mate! I think there's something wrong with your suit. Yeah. There's a dead guy in it.",
+      "characters": [
+        "MAN"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN",
+          "text": "Welcome to hell. FARELL: Squad! This here is Private Cage. Private Cage... ...J Squad. Isn't that an officer's uniform? They sure ain't officer cufflinks. FARELL: You know, it gives me a swell of pride... ...knowing soldiers of your caliber... ...will be leading the charge tomorrow. Tip of the spear, edge of the knife. Crack of my ass. Private Kimmel, what is my view of gambling in the barracks? KIMMEL: Dislike it, sergeant. FARELL: Nance, why do I dislike it? It entertains the notion our fate is in hands other than our own. FARELL: And what is my definitive position... ...on the concept of fate, chorus? ALL: Through readiness and discipline, we are masters of our fate. You might call that notion ironic. Trust me, you'll come around. NANCE: Oh, for chrissake, Kimmel. KIMMEL: I gotta be free, man. GRIFF: All right, man. Let's get this show on the road. I gotta suit up. COMPUTER: Disengaged. Hey, what the hell's wrong with you? Haven't you ever been in one of these before? Maybe. Know where the safety is? - I'm not sure. - Good. FARELL: I know the pressure on you is enormous. Two minutes to drop. It's all right to be scared. There's no courage... ...without fear. SKINNER: Oi! Oi, mate! I think there's something wrong with your suit. Yeah. There's a dead guy in it."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1287,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004091550130397081,
+        0.0007235805387608707,
+        0.0039725759997963905,
+        0.007419155910611153,
+        0.011360490694642067,
+        0.00700590293854475,
+        0.02141513116657734,
+        0.006440776400268078,
+        0.001926798140630126,
+        0.0016396273858845234,
+        0.0024461683351546526,
+        0.0013746591284871101,
+        0.0011357634793967009,
+        0.030368870124220848,
+        0.49455755949020386,
+        0.03491305559873581,
+        0.002634279662743211,
+        0.0013745951000601053,
+        0.0006739335949532688,
+        0.028372833505272865,
+        0.21193285286426544,
+        0.020869391039013863,
+        0.010563910007476807,
+        0.013291670940816402,
+        0.002859303494915366,
+        0.001530179870314896,
+        0.004781156778335571,
+        0.14264285564422607
+      ],
+      "goemotions_topk": [
+        "fear",
+        "optimism",
+        "neutral"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 28,
+      "heading": "[ALL LAUGHING]",
+      "raw_text": "Watch your back out there... ...sir. NANCE: No one else will. - No one else will. Ha-ha! Jinx, bitch!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Watch your back out there... ...sir. NANCE: No one else will. - No one else will. Ha-ha! Jinx, bitch!"
+      ],
+      "scene_length_chars": 101,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004683640785515308,
+        0.7180081009864807,
+        0.05557271093130112,
+        0.022832490503787994,
+        0.0054250131361186504,
+        0.015317677520215511,
+        0.00025086753885261714,
+        0.0005287184612825513,
+        0.004033295437693596,
+        0.0003191521973349154,
+        0.0008810863364487886,
+        0.0018516038544476032,
+        0.00039113202365115285,
+        0.0043022059835493565,
+        0.0012468962231650949,
+        0.00014071525947656482,
+        0.0011349557898938656,
+        0.04722733795642853,
+        0.0013930655550211668,
+        0.00014864021795801818,
+        0.001951008103787899,
+        0.001630663638934493,
+        0.0007222318672575057,
+        0.0007714909734204412,
+        0.0003665643744170666,
+        0.000365797255653888,
+        0.0040003578178584576,
+        0.7742481827735901
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "amusement",
+        "anger"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "amusement",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 29,
+      "heading": "[ALARM WAILING]",
+      "raw_text": "FARELL: On my mark! Stand by to deploy! Activate drop lines, 30 seconds. - Remember, hit-- - Hey! Go! GO! KIMELL: Whoo-hoo! We made it! Behind you! Look out! Incoming! I'm hit. I'm hit. How bad is it? Is there a lot of blood? You have a hole in your chest. Really? RITA: Yeah. Did you just take my--? My battery? No, no, no. Holy fu---- Aah! SERGEANT: On your feet... ...maggot! Sergeant Farell! Sergeant Farell. FARELL: Can I help you, sir? My name is Major Bill Cage. I'm U.S. Army Media Relations. I was not at a bachelor party or a poker game. You have an order that says... ...I'm a deserter caught impersonating an officer. But what it doesn't say is... ...your name is Master Sergeant Farell from Science Hill, Kentucky. If you give me 30 seconds... ...to explain how I know that, you may save the lives... ...of every soldier on this base. You have to listen to me! They know we're coming! They're waiting for us! I have been there! I've seen it! You're all doomed! You're doomed! Okay. Okay. Okay, I'm fine. I'm fine. This is J Squad. Yes? This is J Squad, yes. Not that I should know that, but okay. Have any of you met me before? Bitch, I don't know you. Exactly! Yes! Thank you. Your name is Nance. You're Bibble. Kibble-- Kimmel! You fight balls out. Literally. Ford. Skinner. Griff. You're-- He doesn't talk much. But there's a card game... -...under the bed. - Thanks a lot. CAGE: Kimmel's working on a flush. Spades-- No, clubs. You're gonna make them eat those cards. Am I right? Now... ...what I'm about to tell you sounds crazy. It's true. And you have to listen to me. Your very lives depend on it.",
+      "characters": [
+        "FARELL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FARELL",
+          "text": "On my mark! Stand by to deploy! Activate drop lines, 30 seconds. - Remember, hit-- - Hey! Go! GO! KIMELL: Whoo-hoo! We made it! Behind you! Look out! Incoming! I'm hit. I'm hit. How bad is it? Is there a lot of blood? You have a hole in your chest. Really? RITA: Yeah. Did you just take my--? My battery? No, no, no. Holy fu---- Aah! SERGEANT: On your feet... ...maggot! Sergeant Farell! Sergeant Farell. FARELL: Can I help you, sir? My name is Major Bill Cage. I'm U.S. Army Media Relations. I was not at a bachelor party or a poker game. You have an order that says... ...I'm a deserter caught impersonating an officer. But what it doesn't say is... ...your name is Master Sergeant Farell from Science Hill, Kentucky. If you give me 30 seconds... ...to explain how I know that, you may save the lives... ...of every soldier on this base. You have to listen to me! They know we're coming! They're waiting for us! I have been there! I've seen it! You're all doomed! You're doomed! Okay. Okay. Okay, I'm fine. I'm fine. This is J Squad. Yes? This is J Squad, yes. Not that I should know that, but okay. Have any of you met me before? Bitch, I don't know you. Exactly! Yes! Thank you. Your name is Nance. You're Bibble. Kibble-- Kimmel! You fight balls out. Literally. Ford. Skinner. Griff. You're-- He doesn't talk much. But there's a card game... -...under the bed. - Thanks a lot. CAGE: Kimmel's working on a flush. Spades-- No, clubs. You're gonna make them eat those cards. Am I right? Now... ...what I'm about to tell you sounds crazy. It's true. And you have to listen to me. Your very lives depend on it."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1618,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0005514587392099202,
+        0.0007084499229677022,
+        0.006828170735388994,
+        0.21210075914859772,
+        0.21275310218334198,
+        0.004149505402892828,
+        0.03660108521580696,
+        0.18774448335170746,
+        0.0011523509165272117,
+        0.0009180563502013683,
+        0.0009701569215394557,
+        0.0038065200205892324,
+        0.0008016503416001797,
+        0.0010652620112523437,
+        0.0006772163324058056,
+        0.3164021372795105,
+        0.0004511816950980574,
+        0.0003828441258519888,
+        0.0003057788126170635,
+        0.00018711939628701657,
+        0.0016642349073663354,
+        0.0012119215680286288,
+        0.0011603661114349961,
+        0.0038304796908050776,
+        0.0007330850348807871,
+        0.0010265795281156898,
+        0.01030340138822794,
+        0.5315212607383728
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 30,
+      "heading": "[GRUNTING]",
+      "raw_text": "FARELL: One minute! GRIFF: What? What is he... ...saying? Nance! What is he saying?",
+      "characters": [
+        "FARELL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FARELL",
+          "text": "One minute! GRIFF: What? What is he... ...saying? Nance! What is he saying?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 83,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0004647649475373328,
+        0.001135707483626902,
+        0.0015393617795780301,
+        0.0009480718872509897,
+        0.000124795114970766,
+        0.00010779988951981068,
+        0.0021126349456608295,
+        0.006766750477254391,
+        0.0003319327370263636,
+        0.0012462782906368375,
+        0.0005283499485813081,
+        0.0003379817062523216,
+        0.0004539830260910094,
+        0.00032377801835536957,
+        0.00018589790852274746,
+        6.790843326598406e-05,
+        0.0003035525151062757,
+        0.00011332175927236676,
+        0.00021081330487504601,
+        6.181520438985899e-05,
+        0.0007729221833869815,
+        0.00018747734429780394,
+        0.00035688505158759654,
+        0.00010452113929204643,
+        0.00027353668701834977,
+        0.0006083701155148447,
+        0.005091487895697355,
+        0.9945709109306335
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "surprise"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 31,
+      "heading": "[ALARM WAILING]",
+      "raw_text": "On my mark! Stand by to deploy! The ship is about to explode! KIMMEL: Yeah! Whoo! We made it! Thank God, we made it! Aah! SERGEANT: --before I bust your hole with my boot heel! KIMMEL: Yeah! Whoo! We made it! Thank God, we made it! CAGE: Aah! I'm sorry. I'm trying to save you. We're getting... ...slaughtered. You need to get us off this beach. We have to go. This drop ship... ...is about to explode. We have to go now. Wait. Come on! Come on! Come on! This ship is going to explode! What are you doing? Find me when you wake up. What? Come find me when you wake up. Aah! SERGEANT: On your feet... ...maggot! Get in line before I bust your hole with my boot heel! FARELL: Good news is there's hope for you, private. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. The one place where all men truly sh--",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "On my mark! Stand by to deploy! The ship is about to explode! KIMMEL: Yeah! Whoo! We made it! Thank God, we made it! Aah! SERGEANT: --before I bust your hole with my boot heel! KIMMEL: Yeah! Whoo! We made it! Thank God, we made it! CAGE: Aah! I'm sorry. I'm trying to save you. We're getting... ...slaughtered. You need to get us off this beach. We have to go. This drop ship... ...is about to explode. We have to go now. Wait. Come on! Come on! Come on! This ship is going to explode! What are you doing? Find me when you wake up. What? Come find me when you wake up. Aah! SERGEANT: On your feet... ...maggot! Get in line before I bust your hole with my boot heel! FARELL: Good news is there's hope for you, private. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. The one place where all men truly sh--"
+      ],
+      "scene_length_chars": 847,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.009741973131895065,
+        0.0005567178595811129,
+        0.01901848241686821,
+        0.005639511626213789,
+        0.002040819264948368,
+        0.14266465604305267,
+        0.0012460699072107673,
+        0.008245555683970451,
+        0.0029927834402769804,
+        0.0009538248414173722,
+        0.0008930184994824231,
+        0.003818160155788064,
+        0.003427298041060567,
+        0.009548019617795944,
+        0.012198950164020061,
+        0.4918908178806305,
+        0.009208176285028458,
+        0.0018347101286053658,
+        0.00046845892211422324,
+        0.0005257120355963707,
+        0.24822092056274414,
+        0.014235123991966248,
+        0.002634336706250906,
+        0.03667405620217323,
+        0.016960280016064644,
+        0.0016021898481994867,
+        0.008405197411775589,
+        0.5012401342391968
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "gratitude",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 32,
+      "heading": "[WILLY MOON'S \"RAILROAD TRACK\" PLAYS OVER SPEAKERS]",
+      "raw_text": "Squad, this here is-- Private Cage. And you must be J Squad. It's good to meet you. Isn't that an officer's uniform? SKINNER: Those sure-- - These sure ain't officer's... ...cufflinks. Keys in the... ...left pocket, probably. FARELL: Private Cage is a deserter. I'm making you all personally responsible for his deliverance. He will be combat ready by 0600 tomorrow. Private Cage is under the delusion he does not belong here. We must dissuade him of this delusion. - If he tries to run, feel free to dissuade him-- - Oh, no. I'm not gonna run. - Not a chance. - Till he can't piss standing up. Thank you, Sergeant Farell. What next? A little, uh, PT? FARELL: PT! Ten minutes! FARELL: Left! Left! Left! - What are you? Sound off! ALL: I'm a warrior! - What do warriors do? ALL: Kill! FARELL: What are you gonna do? ALL: Kill! FARELL: What are you gonna do? ALL: Kill! FORD: It's gonna be my 20th battle tomorrow. - You haven't been in 20 battles, mate. - I have too. You're gonna dump your load the second we hit the beach. Why don't you get yourselves a cup of shut-the-hell-up? FORD: Ha-ha. You funny, girl. I bet I set a record tomorrow. Fastest time running backwards, Ford, slipping in your own shit. Knock off the grab-ass! Grab this, sarge! Hold up! Private, drop... ...and give me... Fifty, sarge? That's right. Fifty. Platoon! Drop and give me 50! Compliments of Private Cage. CAGE: Thank you, sarge. FARELL: And one! ALL: One! FARELL: And two! ALL: Two! FARELL: And three! ALL: Three! CAGE: Aah! - Oh! What the hell were you thinking? FARELL: There's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. FARELL: Three! ALL: Three! FARELL: Four! ALL: Four! FARELL: Five! ALL: Five! CAGE: Excuse me. Sergeant Vrataski. Excuse me. Sergeant Vrataski?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Squad, this here is-- Private Cage. And you must be J Squad. It's good to meet you. Isn't that an officer's uniform? SKINNER: Those sure-- - These sure ain't officer's... ...cufflinks. Keys in the... ...left pocket, probably. FARELL: Private Cage is a deserter. I'm making you all personally responsible for his deliverance. He will be combat ready by 0600 tomorrow. Private Cage is under the delusion he does not belong here. We must dissuade him of this delusion. - If he tries to run, feel free to dissuade him-- - Oh, no. I'm not gonna run. - Not a chance. - Till he can't piss standing up. Thank you, Sergeant Farell. What next? A little, uh, PT? FARELL: PT! Ten minutes! FARELL: Left! Left! Left! - What are you? Sound off! ALL: I'm a warrior! - What do warriors do? ALL: Kill! FARELL: What are you gonna do? ALL: Kill! FARELL: What are you gonna do? ALL: Kill! FORD: It's gonna be my 20th battle tomorrow. - You haven't been in 20 battles, mate. - I have too. You're gonna dump your load the second we hit the beach. Why don't you get yourselves a cup of shut-the-hell-up? FORD: Ha-ha. You funny, girl. I bet I set a record tomorrow. Fastest time running backwards, Ford, slipping in your own shit. Knock off the grab-ass! Grab this, sarge! Hold up! Private, drop... ...and give me... Fifty, sarge? That's right. Fifty. Platoon! Drop and give me 50! Compliments of Private Cage. CAGE: Thank you, sarge. FARELL: And one! ALL: One! FARELL: And two! ALL: Two! FARELL: And three! ALL: Three! CAGE: Aah! - Oh! What the hell were you thinking? FARELL: There's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. FARELL: Three! ALL: Three! FARELL: Four! ALL: Four! FARELL: Five! ALL: Five! CAGE: Excuse me. Sergeant Vrataski. Excuse me. Sergeant Vrataski?"
+      ],
+      "scene_length_chars": 1793,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.32531973719596863,
+        0.30983811616897583,
+        0.011796076782047749,
+        0.03818453475832939,
+        0.0023758315946906805,
+        0.004368987865746021,
+        0.008538528345525265,
+        0.029366841539740562,
+        0.0035341614857316017,
+        0.0007801747997291386,
+        0.001236819545738399,
+        0.000987366889603436,
+        0.0010104980319738388,
+        0.0037819386925548315,
+        0.0007258507539518178,
+        0.38093554973602295,
+        0.0009410019847564399,
+        0.007018761243671179,
+        0.0010224842699244618,
+        0.00015813719073776156,
+        0.38354215025901794,
+        0.0025262159761041403,
+        0.005773922894150019,
+        0.0035367347300052643,
+        0.002224899595603347,
+        0.00033982444438152015,
+        0.021500898525118828,
+        0.22964011132717133
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "gratitude",
+        "admiration"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "gratitude",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 33,
+      "heading": "[ALARM SOUNDING]",
+      "raw_text": "Excuse me. Yes? Who said you could talk to me? Have I got something on my face? You did. You did. Tomorrow. At the beach. Tomorrow. At the beach. We meet. You said to find you when I wake up. You do know what's happening to me. Come with me. Now. You don't talk to anyone about this but me. The best-case scenario is you're gonna end up in a psych ward. Worst case, you'll get... ...dissected for study. Are we clear? - Yes? - Yes. First time you died, what happened? - You killed a mimic? - Yes. - Describe it. - It was different. It was bigger. Bluish. And you got covered in its blood. As a matter of fact, I did. They know we're coming on the beach tomorrow. It's a slaughter, isn't it? How do you know this? Could you just--? Wait! Wait. Wait. Would you explain to me what the hell is happening. What happened to you happened to me. I had it. I lost it. Okay? That's great. There's a cure. How do I get rid of this? First, I need your help. Help with what exactly? Winning the war. Let's go! Come on! CARTER: Rita, what is this? What are you doing here? You gotta give me some warning. - Who's this? - He's me. Before Verdun. He's gonna help us. What? You mean he's--? Yes. When did he die? Where? On the beach. Tomorrow. How many fingers am I holding up behind my back? How should I know that? CARTER: Okay. So this is the first time we've had this conversation. - You should try this on him. - What is that? It doesn't work. Has he had any visions yet? Visions of what? There's still time. - Yes. - Time? Look, I'm sorry. Who is this? Who are you? I'm Dr. Carter. Particle physics. Advanced microbiology. He's also the only other person who'll believe what's happening to you. No one understands mimic biology better than him. He's a top analyst at Whitehall. Well, I mean, I was until I met Rita and now I'm just... ...a \"mechanic with psychiatric delusions.\" Carter. Show him. Yeah, right. Right. Well, first of all... ...you're not fighting an army. You have to think of this as a single organism. Now, these common drones, they act like... ...its claws. And Alphas, like the one that you killed, are much more rare. CARTER: Yeah. They're like one in... ...6.18 million, by my guess. RITA: Yes. They act as the enemy's-- They're like its central nervous system. But this... ...is the brain. It controls them all. And this is the Omega. And the Omega has the ability to control time. Whenever an Alpha is killed... ...an automatic response is triggered. The Omega starts the day over again. But you see, this time, it can remember what's going to happen... ...just like you do. CARTER: It knows exactly... ...what we're gonna do before we're gonna do it. - And an enemy that knows the future can't lose. - It can't lose. But if that's true, how did you win at Verdun? We were allowed to win. This thing wants us to believe we can win. It wants us to throw everything we have into the invasion. Operation Downfall isn't our endgame... ...it's the enemy's. CARTER: The thing you've got to understand is... ...this is a perfectly evolved... ...world-conquering organism. For all we know, there are millions of those asteroids... ...floating around in the cosmos... ...like a virus. They're just waiting... ...to crash-land into a world with just the right conditions. All they need is for the dominant life form to attack and: RITA: There'll be nothing to stop the mimics... ...from conquering the rest of the world. Unless you change the outcome. Me? When you killed that Alpha, you inadvertently entered the enemy's nervous system. Cage, you've seized control... ...of the Omega's ability to reset the day. - How's that even possible? CARTER: Perhaps this organism's... ...only vulnerability, its only vulnerability... ...is humanity. Regardless of that, you control the power now. Just as I did in Verdun. So I'm resetting the day? Okay.)'- How do I control it? You have to die. Every day)'- Until the Omega's destroyed. First of all... ...this is a terrific presentation. Terrific. I know the general. We should take this to him. - You just tell him everything you told me. - I went to see the general. Any number of times. Psych ward. Dissection. Remember? What are you expecting from me? Have you seen anything strange? Is he shitting me? Visions. Visions. Have you seen any visions like that? The Omega senses when it's losing control... ...of its power. Even now it's mentally searching to find you. RITA: When it's close to finding you... ...you will start having visions. You'll start to see that. You'll even see where it is. And you had these visions? Yes. But eventually you saw it. I mean, you actually saw it. Right? Never in the flesh. So this is all just some... ...theory. You don't know if this thing even exists. The visions showed me it was at Verdun. I could see it. I-- I just... ...lost the power before I could get to it. CARTER: And by the time we took... ...Verdun... ...the Omega was gone. Okay. So all I have to do is... ...wait to have these visions... ...and then tell you where this Omega thing is. No. Cage. You're gonna get me there. And I'm gonna kill it. Get you there? I'm not even trained for combat. COMPUTER: Reload. Reload.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Excuse me. Yes? Who said you could talk to me? Have I got something on my face? You did. You did. Tomorrow. At the beach. Tomorrow. At the beach. We meet. You said to find you when I wake up. You do know what's happening to me. Come with me. Now. You don't talk to anyone about this but me. The best-case scenario is you're gonna end up in a psych ward. Worst case, you'll get... ...dissected for study. Are we clear? - Yes? - Yes. First time you died, what happened? - You killed a mimic? - Yes. - Describe it. - It was different. It was bigger. Bluish. And you got covered in its blood. As a matter of fact, I did. They know we're coming on the beach tomorrow. It's a slaughter, isn't it? How do you know this? Could you just--? Wait! Wait. Wait. Would you explain to me what the hell is happening. What happened to you happened to me. I had it. I lost it. Okay? That's great. There's a cure. How do I get rid of this? First, I need your help. Help with what exactly? Winning the war. Let's go! Come on! CARTER: Rita, what is this? What are you doing here? You gotta give me some warning. - Who's this? - He's me. Before Verdun. He's gonna help us. What? You mean he's--? Yes. When did he die? Where? On the beach. Tomorrow. How many fingers am I holding up behind my back? How should I know that? CARTER: Okay. So this is the first time we've had this conversation. - You should try this on him. - What is that? It doesn't work. Has he had any visions yet? Visions of what? There's still time. - Yes. - Time? Look, I'm sorry. Who is this? Who are you? I'm Dr. Carter. Particle physics. Advanced microbiology. He's also the only other person who'll believe what's happening to you. No one understands mimic biology better than him. He's a top analyst at Whitehall. Well, I mean, I was until I met Rita and now I'm just... ...a \"mechanic with psychiatric delusions.\" Carter. Show him. Yeah, right. Right. Well, first of all... ...you're not fighting an army. You have to think of this as a single organism. Now, these common drones, they act like... ...its claws. And Alphas, like the one that you killed, are much more rare. CARTER: Yeah. They're like one in... ...6.18 million, by my guess. RITA: Yes. They act as the enemy's-- They're like its central nervous system. But this... ...is the brain. It controls them all. And this is the Omega. And the Omega has the ability to control time. Whenever an Alpha is killed... ...an automatic response is triggered. The Omega starts the day over again. But you see, this time, it can remember what's going to happen... ...just like you do. CARTER: It knows exactly... ...what we're gonna do before we're gonna do it. - And an enemy that knows the future can't lose. - It can't lose. But if that's true, how did you win at Verdun? We were allowed to win. This thing wants us to believe we can win. It wants us to throw everything we have into the invasion. Operation Downfall isn't our endgame... ...it's the enemy's. CARTER: The thing you've got to understand is... ...this is a perfectly evolved... ...world-conquering organism. For all we know, there are millions of those asteroids... ...floating around in the cosmos... ...like a virus. They're just waiting... ...to crash-land into a world with just the right conditions. All they need is for the dominant life form to attack and: RITA: There'll be nothing to stop the mimics... ...from conquering the rest of the world. Unless you change the outcome. Me? When you killed that Alpha, you inadvertently entered the enemy's nervous system. Cage, you've seized control... ...of the Omega's ability to reset the day. - How's that even possible? CARTER: Perhaps this organism's... ...only vulnerability, its only vulnerability... ...is humanity. Regardless of that, you control the power now. Just as I did in Verdun. So I'm resetting the day? Okay.)'- How do I control it? You have to die. Every day)'- Until the Omega's destroyed. First of all... ...this is a terrific presentation. Terrific. I know the general. We should take this to him. - You just tell him everything you told me. - I went to see the general. Any number of times. Psych ward. Dissection. Remember? What are you expecting from me? Have you seen anything strange? Is he shitting me? Visions. Visions. Have you seen any visions like that? The Omega senses when it's losing control... ...of its power. Even now it's mentally searching to find you. RITA: When it's close to finding you... ...you will start having visions. You'll start to see that. You'll even see where it is. And you had these visions? Yes. But eventually you saw it. I mean, you actually saw it. Right? Never in the flesh. So this is all just some... ...theory. You don't know if this thing even exists. The visions showed me it was at Verdun. I could see it. I-- I just... ...lost the power before I could get to it. CARTER: And by the time we took... ...Verdun... ...the Omega was gone. Okay. So all I have to do is... ...wait to have these visions... ...and then tell you where this Omega thing is. No. Cage. You're gonna get me there. And I'm gonna kill it. Get you there? I'm not even trained for combat. COMPUTER: Reload. Reload."
+      ],
+      "scene_length_chars": 5170,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.018891656771302223,
+        0.0006044526817277074,
+        0.008521913550794125,
+        0.006731921341270208,
+        0.0018287762068212032,
+        0.001901431125588715,
+        0.04621029272675514,
+        0.5828573703765869,
+        0.001833335030823946,
+        0.0024954359978437424,
+        0.02501792646944523,
+        0.001376479514874518,
+        0.0005690022953785956,
+        0.004991773050278425,
+        0.03246814012527466,
+        0.0006295268540270627,
+        0.0012022916926071048,
+        0.00021986277715768665,
+        0.0006905692280270159,
+        0.0010983772808685899,
+        0.09217915683984756,
+        0.0005398111534304917,
+        0.017134347930550575,
+        0.0002951188653241843,
+        0.0009517229627817869,
+        0.001100584166124463,
+        0.054448384791612625,
+        0.28076842427253723
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 34,
+      "heading": "[GRUNTING]",
+      "raw_text": "Are you all right, Cage? I think I broke something. What? My back. The only thing I can feel are my lips. Now listen carefully. This is a very important rule. This is the only rule. You get injured on the field, you better make sure you die. Why? Last time I was in combat... ...I was hit. I was bleeding out. Just not fast enough. I woke up in a field hospital... ...with three pints of someone else's blood and I was out. I lost the power. Do you understand? Think we better start over. - Don't you? - What? Aah! FARELL: No one knows what happened to Private Cage! You dumb-ass. He was right next to you. You don't know where that slippery son of a bitch went? NO, Sarge! All right. Let's do another 50, shall we? And one! No, wait! Wait. My name is Bill Cage. L-- We met on the beach. We meet on the beach. Tomorrow. I have what you had. Ugh. All right, let's go again. You don't have time to think. Remember. It's not enough knowing where they're going to be. You have to know how to kill them. Hold on. Hold on. Listen. List-- Okay. Do it. Unh! On your feet, maggot! CAGE: Stop! Wait! Wait, wait, wait! Stop! Wait! Wait a second! Wait a sec. Wait a second. You know, I've been thinking. I mean, this thing's in my blood. So maybe there's some way... ...I can transfer it to you. I've tried everything. It doesn't work. I mean, have you... ...you know... ...tried all the options? Oh, you mean sex. Yep. Tried it. How many times? All right. Left. Left! Left, left! Keep your eyes open. Again. Again. Again. Again. Just wait! Wait. I think I'm okay. Unh! On your feet! Maggot! Maggot! I'm trying to be nice to you, maggot! Move! RITA: You okay, Cage? Oh yeah, yeah! I'm good! I'm good! Your leg's broken. No. I can still feel my toes. Oh, come on. Aah! CARTER: Rita. Rita. What is this? What are you doing here? - Who's this guy? - He's me... -...before Verdun. - Before Verdun. What do you mean? He's...? - Yes. Yes. - When did he die? - Where? - On the beach. Tomorrow. I'm Bill Cage. You're Dr. Carter. We've had this conversation before. Two fingers behind your back. I've had the visions. I've seen the Omega. CARTER: Um... It's pretty much game over tomorrow. So can we move this along? Okay. Where? There's a dam. It's in the mountains. I saw German writing. RITA: Do you think you can work out where that is? I mean, there can't be... ...too many places that fit that description. I'll see what I can do. Training's over. I'll see you tomorrow. We don't even know where we're going. We will soon enough. In the meantime, you need to figure out a way to get us off that beach. RITA: What next? Where are we going? Which way? Focus. Which way? - I'm thinking. - Okay. CAGE: Oh, man! RITA: How far did we make it? You know, it's hard to say, really. CAGE: Hold! Hold! Okay, go! Son of a bitch! I thought stepping left, ducking-- Just for the record. - It was pretty specific. - Stepping left, ducking right. Stepping left, ducking right. Move on. CAGE: Hold on! Now, remember: Across the trench, 12:00! Then look to your right! You're not being specific. You need to be specific. Otherwise, I'm dead. Rita. RITA: Cage! --Paces up to the top of the trench. I'm gonna step left. A mimic there, which I'll kill. --Ship explosion. I'm gonna run 30 paces northwest. I'm gonna duck at the top of that trench and then I'm gonna turn left. Have I got something on my face? No. SKINNER: Cage! We've been looking everywhere for you. Cage! - Cage, we've been looking-- - Guys. Guys. Can we... ...just... ...not do this today? What are you talking about? Farell almost strung us up by our bollocks for losing track... ...of you. Okay, Skinner. Watch this. Now I'm gonna close my eyes. - Ready? - Yeah.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Are you all right, Cage? I think I broke something. What? My back. The only thing I can feel are my lips. Now listen carefully. This is a very important rule. This is the only rule. You get injured on the field, you better make sure you die. Why? Last time I was in combat... ...I was hit. I was bleeding out. Just not fast enough. I woke up in a field hospital... ...with three pints of someone else's blood and I was out. I lost the power. Do you understand? Think we better start over. - Don't you? - What? Aah! FARELL: No one knows what happened to Private Cage! You dumb-ass. He was right next to you. You don't know where that slippery son of a bitch went? NO, Sarge! All right. Let's do another 50, shall we? And one! No, wait! Wait. My name is Bill Cage. L-- We met on the beach. We meet on the beach. Tomorrow. I have what you had. Ugh. All right, let's go again. You don't have time to think. Remember. It's not enough knowing where they're going to be. You have to know how to kill them. Hold on. Hold on. Listen. List-- Okay. Do it. Unh! On your feet, maggot! CAGE: Stop! Wait! Wait, wait, wait! Stop! Wait! Wait a second! Wait a sec. Wait a second. You know, I've been thinking. I mean, this thing's in my blood. So maybe there's some way... ...I can transfer it to you. I've tried everything. It doesn't work. I mean, have you... ...you know... ...tried all the options? Oh, you mean sex. Yep. Tried it. How many times? All right. Left. Left! Left, left! Keep your eyes open. Again. Again. Again. Again. Just wait! Wait. I think I'm okay. Unh! On your feet! Maggot! Maggot! I'm trying to be nice to you, maggot! Move! RITA: You okay, Cage? Oh yeah, yeah! I'm good! I'm good! Your leg's broken. No. I can still feel my toes. Oh, come on. Aah! CARTER: Rita. Rita. What is this? What are you doing here? - Who's this guy? - He's me... -...before Verdun. - Before Verdun. What do you mean? He's...? - Yes. Yes. - When did he die? - Where? - On the beach. Tomorrow. I'm Bill Cage. You're Dr. Carter. We've had this conversation before. Two fingers behind your back. I've had the visions. I've seen the Omega. CARTER: Um... It's pretty much game over tomorrow. So can we move this along? Okay. Where? There's a dam. It's in the mountains. I saw German writing. RITA: Do you think you can work out where that is? I mean, there can't be... ...too many places that fit that description. I'll see what I can do. Training's over. I'll see you tomorrow. We don't even know where we're going. We will soon enough. In the meantime, you need to figure out a way to get us off that beach. RITA: What next? Where are we going? Which way? Focus. Which way? - I'm thinking. - Okay. CAGE: Oh, man! RITA: How far did we make it? You know, it's hard to say, really. CAGE: Hold! Hold! Okay, go! Son of a bitch! I thought stepping left, ducking-- Just for the record. - It was pretty specific. - Stepping left, ducking right. Stepping left, ducking right. Move on. CAGE: Hold on! Now, remember: Across the trench, 12:00! Then look to your right! You're not being specific. You need to be specific. Otherwise, I'm dead. Rita. RITA: Cage! --Paces up to the top of the trench. I'm gonna step left. A mimic there, which I'll kill. --Ship explosion. I'm gonna run 30 paces northwest. I'm gonna duck at the top of that trench and then I'm gonna turn left. Have I got something on my face? No. SKINNER: Cage! We've been looking everywhere for you. Cage! - Cage, we've been looking-- - Guys. Guys. Can we... ...just... ...not do this today? What are you talking about? Farell almost strung us up by our bollocks for losing track... ...of you. Okay, Skinner. Watch this. Now I'm gonna close my eyes. - Ready? - Yeah."
+      ],
+      "scene_length_chars": 3697,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00469022523611784,
+        0.001472325879149139,
+        0.021590275689959526,
+        0.0017362034413963556,
+        0.004541296977549791,
+        0.1559199094772339,
+        0.03225149214267731,
+        0.6317279934883118,
+        0.010039722546935081,
+        0.0011380377691239119,
+        0.001193217234686017,
+        0.0010213588830083609,
+        0.0008151048677973449,
+        0.004383363761007786,
+        0.02308330498635769,
+        0.0006797394016757607,
+        0.002399121643975377,
+        0.00031016775756143034,
+        0.001834066933952272,
+        0.0026073302142322063,
+        0.013300493359565735,
+        0.0012744974810630083,
+        0.009360188618302345,
+        0.0007960467482917011,
+        0.0007928942213766277,
+        0.0013510528951883316,
+        0.007506073918193579,
+        0.6523153185844421
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 35,
+      "heading": "[SKINNER GRUNTING]",
+      "raw_text": "SKINNER: Sneaky... ...bastard. I didn't mind the extra push-ups.",
+      "characters": [
+        "SKINNER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SKINNER",
+          "text": "Sneaky... ...bastard. I didn't mind the extra push-ups."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 64,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0031002776231616735,
+        0.0006736606010235846,
+        0.004016938153654337,
+        0.9612110257148743,
+        0.08174043893814087,
+        0.000518221699167043,
+        0.00034759973641484976,
+        0.0033726368565112352,
+        0.0026667832862585783,
+        0.010865076445043087,
+        0.0017447161953896284,
+        0.04336616024374962,
+        0.009162060916423798,
+        0.014648071490228176,
+        0.0007011622656136751,
+        0.0008802442462183535,
+        0.000478327099699527,
+        0.0067077637650072575,
+        0.0004598868254106492,
+        0.001357902423478663,
+        0.0052037592977285385,
+        0.005981806665658951,
+        0.007448210380971432,
+        0.008084269240498543,
+        0.0005232165567576885,
+        0.0007985268021002412,
+        0.0023248319048434496,
+        0.0025061462074518204
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "approval",
+        "disgust"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 36,
+      "heading": "[ALARM WAILING]",
+      "raw_text": "FARELL: It's a new day... ...people. Destiny calls. The world expects only one thing from us: that we will win. WOMAN",
+      "characters": [
+        "FARELL"
+      ],
+      "dialogues": [
+        {
+          "speaker": "FARELL",
+          "text": "It's a new day... ...people. Destiny calls. The world expects only one thing from us: that we will win. WOMAN"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 117,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004643621854484081,
+        0.004508750047534704,
+        0.0010235473746433854,
+        0.002321036998182535,
+        0.016683530062437057,
+        0.004441115073859692,
+        0.0008461939287371933,
+        0.0016540908254683018,
+        0.010061782784759998,
+        0.003201077226549387,
+        0.0011152713559567928,
+        0.0007061801152303815,
+        0.0008068251772783697,
+        0.6400766968727112,
+        0.0008477644296362996,
+        0.005357944872230291,
+        0.0014379654312506318,
+        0.1793670356273651,
+        0.0012791710905730724,
+        0.0016469524707645178,
+        0.9834585189819336,
+        0.013402442447841167,
+        0.017887113615870476,
+        0.02330930344760418,
+        0.0010669199982658029,
+        0.0009195532184094191,
+        0.007617536932229996,
+        0.0183971356600523
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "excitement",
+        "joy"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "excitement",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 37,
+      "heading": "[ON TV]",
+      "raw_text": ": --current situation on the front line. Our troops have suffered heavy casualties. MAN 1: It's about time we showed those things what we're made of. My father flew in the Battle of Britain. Three years before the Yanks came into the war. Couldn't be broken. Backbone. MAN 2: My Uncle George landed on the beach at Normandy. MAN 1: Yeah? MAN 2: In their day, this war would have been over by now. What do they want with us, anyway? It's obvious, isn't it? Minerals. - Minerals? - Yeah, minerals. Metals. MAN 3: Oxygen, they want. MAN 1: Oxygen? MAN 3: Think about it. - What difference does it make? They're here. They're winning. And whatever it is, they're gonna get it. MAN 4: Shouldn't you be... ...over there? I've been over there. More times... ...than anybody. As a matter of fact, I'm usually long dead by now. Coward. MAN 5: What's going on? MAN 6: The power's gone.\n[SIRENS WAILING]\n[PEOPLE SCREAMING]\n[GUNFIRE]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": --current situation on the front line. Our troops have suffered heavy casualties. MAN 1: It's about time we showed those things what we're made of. My father flew in the Battle of Britain. Three years before the Yanks came into the war. Couldn't be broken. Backbone. MAN 2: My Uncle George landed on the beach at Normandy. MAN 1: Yeah? MAN 2: In their day, this war would have been over by now. What do they want with us, anyway? It's obvious, isn't it? Minerals. - Minerals? - Yeah, minerals. Metals. MAN 3: Oxygen, they want. MAN 1: Oxygen? MAN 3: Think about it. - What difference does it make? They're here. They're winning. And whatever it is, they're gonna get it. MAN 4: Shouldn't you be... ...over there? I've been over there. More times... ...than anybody. As a matter of fact, I'm usually long dead by now. Coward. MAN 5: What's going on? MAN 6: The power's gone."
+      ],
+      "scene_length_chars": 921,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0013526969123631716,
+        0.0002821848320309073,
+        0.0019371152156963944,
+        0.0006495127454400063,
+        0.0005621571908704937,
+        0.0006933016702532768,
+        0.026854276657104492,
+        0.41452986001968384,
+        0.0007130153244361281,
+        0.07470383495092392,
+        0.00035899216891266406,
+        0.0026640654541552067,
+        0.002725207479670644,
+        0.0010770481312647462,
+        0.001624918426387012,
+        8.587967022322118e-05,
+        0.004393473267555237,
+        0.0001999723317567259,
+        0.00048686593072488904,
+        0.0010725127067416906,
+        0.0015387671301141381,
+        0.00042299265624023974,
+        0.00765096815302968,
+        0.0006688162102364004,
+        0.0012085770722478628,
+        0.012877990491688251,
+        0.007232239004224539,
+        0.7909190654754639
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "disappointment"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 41,
+      "heading": "[GRUNTING]",
+      "raw_text": "CARTER: I found the Omega. I found it. It has to be here. Curnera Dam, Germany. - This has got to be it. It fits the description. CAGE: You found it. Again. What difference does it make? Because we're never gonna get there. No matter what we do... ...no matter how carefully we plan... ...we can't get off that beach. You can do this. You can. You keep coming here every day and I'll train you. You already have. - I'm waiting, Nance! - Five hundred meters and closing fast! What the--?",
+      "characters": [
+        "CARTER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "CARTER",
+          "text": "I found the Omega. I found it. It has to be here. Curnera Dam, Germany. - This has got to be it. It fits the description. CAGE: You found it. Again. What difference does it make? Because we're never gonna get there. No matter what we do... ...no matter how carefully we plan... ...we can't get off that beach. You can do this. You can. You keep coming here every day and I'll train you. You already have. - I'm waiting, Nance! - Five hundred meters and closing fast! What the--?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 486,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.017522523179650307,
+        0.0008194052497856319,
+        0.001368833938613534,
+        0.001607511076144874,
+        0.07531443238258362,
+        0.023532427847385406,
+        0.011515702120959759,
+        0.315266877412796,
+        0.1233091652393341,
+        0.004201248288154602,
+        0.0025796464178711176,
+        0.0007007435197010636,
+        0.00038524813135154545,
+        0.0014419154031202197,
+        0.0013776748673990369,
+        0.00024645408848300576,
+        0.000611129158642143,
+        0.00019817834254354239,
+        0.0009299912489950657,
+        0.0013891562120988965,
+        0.7871089577674866,
+        0.0011099253315478563,
+        0.03285457193851471,
+        0.00040624963003210723,
+        0.000575460959225893,
+        0.0006736984942108393,
+        0.001155796111561358,
+        0.5174442529678345
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "optimism",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 42,
+      "heading": "[GRUNTING]",
+      "raw_text": "COMPUTER: Reload. What's next? Straight shot up the hill. RITA: Okay. Hey, sarge, the new guy... ...what's his name again? CAGE: We'll need a vehicle to get further inland. What's the problem? The ambush waiting for us. They kill us before we find a working car. Okay. So, what's the current plan? Two cars we haven't tried yet. - The minivan and the green SUV. - Yeah. Okay. I'll head for the SUV, draw the mimics to me. You go for the minivan. You get it started, just go, take off. Do not wait for me. Okay.)'- Just don't forget to disconnect the caravan... ...before you take off. You are going to be... ...in a hurry, you don't want any dead weight.\n[ENGINE SPUTTERING]\nCome on.\n[ENGINE STARTS]\nCome on, Cage! WOMAN",
+      "characters": [
+        "COMPUTER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "COMPUTER",
+          "text": "Reload. What's next? Straight shot up the hill. RITA: Okay. Hey, sarge, the new guy... ...what's his name again? CAGE: We'll need a vehicle to get further inland. What's the problem? The ambush waiting for us. They kill us before we find a working car. Okay. So, what's the current plan? Two cars we haven't tried yet. - The minivan and the green SUV. - Yeah. Okay. I'll head for the SUV, draw the mimics to me. You go for the minivan. You get it started, just go, take off. Do not wait for me. Okay.)'- Just don't forget to disconnect the caravan... ...before you take off. You are going to be... ...in a hurry, you don't want any dead weight."
+        }
+      ],
+      "actions": [
+        "Come on.",
+        "Come on, Cage! WOMAN"
+      ],
+      "scene_length_chars": 720,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002002058085054159,
+        0.00042507966281846166,
+        0.02187584899365902,
+        0.0033576537389308214,
+        0.0028895149007439613,
+        0.09662730246782303,
+        0.008797976188361645,
+        0.8102919459342957,
+        0.0034898919984698296,
+        0.0007895702729001641,
+        0.0017878568032756448,
+        0.001708060852251947,
+        0.0005077970563434064,
+        0.0009210948483087122,
+        0.014375937171280384,
+        0.00018837595416698605,
+        0.0020230081863701344,
+        0.00018947698117699474,
+        0.0005678285961039364,
+        0.0006488266517408192,
+        0.0019389006774872541,
+        0.0006240877555683255,
+        0.0032497115898877382,
+        0.0002399582735961303,
+        0.0007286528707481921,
+        0.0007607656880281866,
+        0.001627922523766756,
+        0.7715275883674622
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 45,
+      "heading": "[OVER RADIO]",
+      "raw_text": ": --casualties. The enemy has breached... ...security at Dover. Can%see. Can you? WOMAN\". Stay where you are and remain calm. If you are in a vehicle... ...please lock doors... ...and stay inside. I'm sorry. The enemy has reached London. Repeat: London is under attack. Good driving. I forgot to unhook the trailer. COMPUTER: Engage. You don't talk much. I'm not a fan. Of talking? Not a fan of talking. No. You know you eventually do talk to me. It's usually around Lyons. You tell me about the time you went there with your family. Your brother got lost. I've never been to Lyons. You tell me your middle name. Peyton. That's not my middle name. You find your brother in the arcade, by the way. RITA: Well, maybe I made it all up just to keep you quiet. CAGE: But you do talk to me. RITA: Cage, I do not need to get to know you. If you knew what was good for you, you wouldn't want to get to know me. It's the only way you make it through this thing. What about Hendricks? You get to know him? - How do you know that name? - You mentioned him. That's not possible. Then how do I know his name? When did I mention him? Under what circumstance? Is he why you won't talk to me? Don't ever mention his name again. Why? Are you... -...in love with him? - He's dead. And I watched him die 300 times... ...and I remember every detail. I remember everything. So I don't need to talk about it. I'm sorry. It's just war.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": --casualties. The enemy has breached... ...security at Dover. Can%see. Can you? WOMAN\". Stay where you are and remain calm. If you are in a vehicle... ...please lock doors... ...and stay inside. I'm sorry. The enemy has reached London. Repeat: London is under attack. Good driving. I forgot to unhook the trailer. COMPUTER: Engage. You don't talk much. I'm not a fan. Of talking? Not a fan of talking. No. You know you eventually do talk to me. It's usually around Lyons. You tell me about the time you went there with your family. Your brother got lost. I've never been to Lyons. You tell me your middle name. Peyton. That's not my middle name. You find your brother in the arcade, by the way. RITA: Well, maybe I made it all up just to keep you quiet. CAGE: But you do talk to me. RITA: Cage, I do not need to get to know you. If you knew what was good for you, you wouldn't want to get to know me. It's the only way you make it through this thing. What about Hendricks? You get to know him? - How do you know that name? - You mentioned him. That's not possible. Then how do I know his name? When did I mention him? Under what circumstance? Is he why you won't talk to me? Don't ever mention his name again. Why? Are you... -...in love with him? - He's dead. And I watched him die 300 times... ...and I remember every detail. I remember everything. So I don't need to talk about it. I'm sorry. It's just war."
+      ],
+      "scene_length_chars": 1412,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.4138824939727783,
+        0.0006330283358693123,
+        0.03387359902262688,
+        0.0061513143591582775,
+        0.0026922007091343403,
+        0.29906415939331055,
+        0.007448575459420681,
+        0.5157718062400818,
+        0.003378346562385559,
+        0.05412045866250992,
+        0.006692808121442795,
+        0.0019263538997620344,
+        0.002502159681171179,
+        0.0017462072428315878,
+        0.001544298487715423,
+        0.0009245180408470333,
+        0.018978117033839226,
+        0.0011746095260605216,
+        0.007411024067550898,
+        0.0015003974549472332,
+        0.0036159115843474865,
+        0.00419510155916214,
+        0.032520610839128494,
+        0.0017387911211699247,
+        0.17640621960163116,
+        0.08921030908823013,
+        0.001280347816646099,
+        0.008444780483841896
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 46,
+      "heading": "[BEEPING]",
+      "raw_text": "There's nothing here. Let's keep going. We have to find the keys. Let's just siphon the gas. - Why drive when we can fly? - In that thing? - Let me guess. You're afraid of heights. - I'm afraid... ...of crashing. And not at all ashamed to admit it. You'll be fine, Cage. You'll learn. Oh. What is it? It's nothing. I'm fine. - What is it? - It's nothing. Rita. Let me see.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "There's nothing here. Let's keep going. We have to find the keys. Let's just siphon the gas. - Why drive when we can fly? - In that thing? - Let me guess. You're afraid of heights. - I'm afraid... ...of crashing. And not at all ashamed to admit it. You'll be fine, Cage. You'll learn. Oh. What is it? It's nothing. I'm fine. - What is it? - It's nothing. Rita. Let me see."
+      ],
+      "scene_length_chars": 372,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.009994897991418839,
+        0.0009805294685065746,
+        0.002555972198024392,
+        0.0007517639314755797,
+        0.02279016003012657,
+        0.08171392232179642,
+        0.007433223072439432,
+        0.01294713094830513,
+        0.0034179268404841423,
+        0.000533616344910115,
+        0.009191474877297878,
+        0.004019687883555889,
+        0.0005526313907466829,
+        0.003086971817538142,
+        0.9849108457565308,
+        0.0005547881009988487,
+        0.0061687929555773735,
+        0.0032630464993417263,
+        0.003895728848874569,
+        0.021085724234580994,
+        0.017824020236730576,
+        0.002795216627418995,
+        0.007915902882814407,
+        0.00129555887542665,
+        0.00043655838817358017,
+        0.0024493972305208445,
+        0.0036291368305683136,
+        0.036138832569122314
+      ],
+      "goemotions_topk": [
+        "fear",
+        "caring",
+        "neutral"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 47,
+      "heading": "[RITA GROANS]",
+      "raw_text": "We have to find the keys to the helicopter. I'm sure they're around here somewhere. You know, the heli's full of fuel, though. I found a hose. We're flying, Cage. Let's just say we find... ...the keys. You know? Get that helicopter started. We don't have our jackets or ammunition. It's gonna be dark in a few hours. Might be better off just going back to the farmhouse. Seeing what we could salvage. Spend the night there. Come back here in the morning. And curl up by the fire and open a bottle of wine.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We have to find the keys to the helicopter. I'm sure they're around here somewhere. You know, the heli's full of fuel, though. I found a hose. We're flying, Cage. Let's just say we find... ...the keys. You know? Get that helicopter started. We don't have our jackets or ammunition. It's gonna be dark in a few hours. Might be better off just going back to the farmhouse. Seeing what we could salvage. Spend the night there. Come back here in the morning. And curl up by the fire and open a bottle of wine."
+      ],
+      "scene_length_chars": 505,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00032009711139835417,
+        0.0008439415832981467,
+        0.00071005430072546,
+        0.00041530802263878286,
+        0.021617986261844635,
+        0.43700599670410156,
+        0.0015589880058541894,
+        0.04142288118600845,
+        0.003908265382051468,
+        0.0003624300588853657,
+        0.00047284315223805606,
+        0.0013525158865377307,
+        0.0009296169155277312,
+        0.0007206895970739424,
+        0.0049754236824810505,
+        0.00026992091443389654,
+        0.002046688925474882,
+        0.00031730058253742754,
+        0.0028430421371012926,
+        0.0019501973874866962,
+        0.07190866768360138,
+        0.001031400985084474,
+        0.017266202718019485,
+        0.0012647972907871008,
+        0.0005206733476370573,
+        0.0011452645994722843,
+        0.0005752892466261983,
+        0.8967512249946594
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "caring",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 48,
+      "heading": "[LAUGHS]",
+      "raw_text": "I think we should just reset. Whoa! It's a dead end. If it's all the same to you... ...I'm tired. I'm in pain. - I'd rather just start fresh. - Tell you what. Take a few minutes. Coffee's ready. I'll look for the keys. That's productive. - Ten minutes. - Okay. Then I'm killing you. Fine. I can't believe you found coffee. Thank you. Oh. Sugar, right? Yeah. - Thank you. - No, hold on. Three. You like three. There's a shirt over there. It should be your size. How many times have we been here? How many times? Where are the keys? - Where are the goddamn keys? - Okay. You can fly it, can't you? No. Well, yes. I mean, I can take off. I'm still working on my landing. What are we still doing here? - You're wasting time! - Rita, if you start that engine, you die. This is as far as you go. No matter what I do... ...this is as far as you ever make it. There's a mimic buried 20 yards away. It attacks when you start the engine. Get your weapon and get in the helicopter, Cage. There's more in the field back there. Only one of us ever makes it. RITA: Get in. Only thing we haven't tried is you walk away. Go to the farmhouse. There's a cellar, food. Wait there... ...till I get back. You'll be safe. I'm a soldier. I volunteered. I'm not walking away. You die here. Right here. I can't save you. And if I go on and kill the Omega, you're dead. Forever. Why does it matter what happens to me? I Wish... ...I didn't know you. But I do. My middle name... ...is Rose.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I think we should just reset. Whoa! It's a dead end. If it's all the same to you... ...I'm tired. I'm in pain. - I'd rather just start fresh. - Tell you what. Take a few minutes. Coffee's ready. I'll look for the keys. That's productive. - Ten minutes. - Okay. Then I'm killing you. Fine. I can't believe you found coffee. Thank you. Oh. Sugar, right? Yeah. - Thank you. - No, hold on. Three. You like three. There's a shirt over there. It should be your size. How many times have we been here? How many times? Where are the keys? - Where are the goddamn keys? - Okay. You can fly it, can't you? No. Well, yes. I mean, I can take off. I'm still working on my landing. What are we still doing here? - You're wasting time! - Rita, if you start that engine, you die. This is as far as you go. No matter what I do... ...this is as far as you ever make it. There's a mimic buried 20 yards away. It attacks when you start the engine. Get your weapon and get in the helicopter, Cage. There's more in the field back there. Only one of us ever makes it. RITA: Get in. Only thing we haven't tried is you walk away. Go to the farmhouse. There's a cellar, food. Wait there... ...till I get back. You'll be safe. I'm a soldier. I volunteered. I'm not walking away. You die here. Right here. I can't save you. And if I go on and kill the Omega, you're dead. Forever. Why does it matter what happens to me? I Wish... ...I didn't know you. But I do. My middle name... ...is Rose."
+      ],
+      "scene_length_chars": 1463,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.012207859195768833,
+        0.00044267321936786175,
+        0.011086329817771912,
+        0.003928083460777998,
+        0.020892105996608734,
+        0.4739616811275482,
+        0.0019749728962779045,
+        0.01746521145105362,
+        0.08882683515548706,
+        0.0005876109353266656,
+        0.002947453875094652,
+        0.0004735178081318736,
+        0.0001980077795451507,
+        0.004464988596737385,
+        0.006158705800771713,
+        0.4993263781070709,
+        0.0031273129861801863,
+        0.0008659841259941459,
+        0.023295704275369644,
+        0.0010931993601843715,
+        0.017911862581968307,
+        0.002657538978382945,
+        0.007521330378949642,
+        0.00531140947714448,
+        0.0018082876922562718,
+        0.0023191303480416536,
+        0.005830503534525633,
+        0.2438672035932541
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "caring",
+        "neutral"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "caring",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 49,
+      "heading": "[RUSTLING]",
+      "raw_text": "SERGEANT: On your feet, maggot! FARELL\". The good news is there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. Yes? Who said you could talk to me? Have I got something on my face, soldier? I'm sorry to disturb you, sergeant. Let's get this show on the road. I gotta suit up. Where's your helmet? Never wear one. It's a distraction. Have you been drinking? I need three more clips of 5.56... ...eight grenades and an extra battery. Get it. SKINNER: Oi! Oi, mate! There's something wrong with your suit. There's a dead guy in it. KIMMEL: Whoo-hoo! We made it! Thank God, we made it!",
+      "characters": [
+        "SERGEANT"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SERGEANT",
+          "text": "On your feet, maggot! FARELL\". The good news is there's hope for you, private. Hope in the form of glorious combat. Battle is the great redeemer. The fiery crucible in which the only true heroes are forged. Yes? Who said you could talk to me? Have I got something on my face, soldier? I'm sorry to disturb you, sergeant. Let's get this show on the road. I gotta suit up. Where's your helmet? Never wear one. It's a distraction. Have you been drinking? I need three more clips of 5.56... ...eight grenades and an extra battery. Get it. SKINNER: Oi! Oi, mate! There's something wrong with your suit. There's a dead guy in it. KIMMEL: Whoo-hoo! We made it! Thank God, we made it!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 686,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.012523178942501545,
+        0.007115450222045183,
+        0.0027927705086767673,
+        0.008723054081201553,
+        0.0042028166353702545,
+        0.10437917709350586,
+        0.025503885000944138,
+        0.7503892183303833,
+        0.09285340458154678,
+        0.04304807260632515,
+        0.001719165127724409,
+        0.0019669770263135433,
+        0.020654143765568733,
+        0.0402219183743,
+        0.0025626521091908216,
+        0.4597751200199127,
+        0.025470320135354996,
+        0.00787606555968523,
+        0.0009419255657121539,
+        0.005814248230308294,
+        0.9789251089096069,
+        0.00932611059397459,
+        0.008967172354459763,
+        0.06965229660272598,
+        0.1296723186969757,
+        0.03025437518954277,
+        0.038929715752601624,
+        0.0026036358904093504
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "curiosity",
+        "gratitude"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 50,
+      "heading": "[GUNFIRE]",
+      "raw_text": "Finish it! - It isn't there. CARTER: What do you mean? CAGE: My guess is it never was. They knew we were coming. They ambushed us. The visions were a trap. Just like Rita's visions were a trap at Verdun. It could have killed me, but it didn't. It was after my blood. So they know who you are. They-- They want their power back. They're gonna get it one way or another. Unless we find the Omega. - There isn't any other way. We're finished. - No. We're not finished. I can't get it to work. You built a prototype at Whitehall. CARTER: Yes, and I got fired for it, thank you very much. - What is this thing? - It's a transponder. Stick it into the Alpha and it taps into the wavelength connecting it to the Omega. That's the idea, anyway. I can't get it to work. Not with the equipment I have. How do we get what you need? That's the thing. When I was at Whitehall, I built one. I was even ready to test it. When I told my superiors about it, I lost my job. They thought he was crazy. So we need to go to Whitehall. CARTER: She'd be arrested... ...10 feet from the door. Psych ward, dissection, remember? Hey, hey, he)'- Aren't you forgetting something? The transponder requires a live Alpha to make it work. We don't need one. We got the next best thing. CAGE: When the Chinese delegation comes out... ...we pick up the pace. This guy with the yellow armband always recognizes you... ...so just keep your head down and stay to my right. Nicely done. Three, two, one. Go. One... Six, seven... ...eight... Twelve... Fifteen. Now. And, turn. Okay. Keep walking. Just stare straight ahead. MAN: Robinson. I've asked not to be disturbed. This had better be critical. CAGE: The fate of mankind. Critical enough? I don't believe what I'm seeing. I've had more than my share of that. RITA: Sit down, general. Stay away from the desk. I'd take her... ...very seriously if I were you. Have to hand it to you, major. When you left this office today, I never imagined you'd be back... ...let alone with my most decorated soldier. I'm gonna tell you a story. It's gonna sound ridiculous. The longer I talk, the more rational it's going to appear.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Finish it! - It isn't there. CARTER: What do you mean? CAGE: My guess is it never was. They knew we were coming. They ambushed us. The visions were a trap. Just like Rita's visions were a trap at Verdun. It could have killed me, but it didn't. It was after my blood. So they know who you are. They-- They want their power back. They're gonna get it one way or another. Unless we find the Omega. - There isn't any other way. We're finished. - No. We're not finished. I can't get it to work. You built a prototype at Whitehall. CARTER: Yes, and I got fired for it, thank you very much. - What is this thing? - It's a transponder. Stick it into the Alpha and it taps into the wavelength connecting it to the Omega. That's the idea, anyway. I can't get it to work. Not with the equipment I have. How do we get what you need? That's the thing. When I was at Whitehall, I built one. I was even ready to test it. When I told my superiors about it, I lost my job. They thought he was crazy. So we need to go to Whitehall. CARTER: She'd be arrested... ...10 feet from the door. Psych ward, dissection, remember? Hey, hey, he)'- Aren't you forgetting something? The transponder requires a live Alpha to make it work. We don't need one. We got the next best thing. CAGE: When the Chinese delegation comes out... ...we pick up the pace. This guy with the yellow armband always recognizes you... ...so just keep your head down and stay to my right. Nicely done. Three, two, one. Go. One... Six, seven... ...eight... Twelve... Fifteen. Now. And, turn. Okay. Keep walking. Just stare straight ahead. MAN: Robinson. I've asked not to be disturbed. This had better be critical. CAGE: The fate of mankind. Critical enough? I don't believe what I'm seeing. I've had more than my share of that. RITA: Sit down, general. Stay away from the desk. I'd take her... ...very seriously if I were you. Have to hand it to you, major. When you left this office today, I never imagined you'd be back... ...let alone with my most decorated soldier. I'm gonna tell you a story. It's gonna sound ridiculous. The longer I talk, the more rational it's going to appear."
+      ],
+      "scene_length_chars": 2132,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.30844467878341675,
+        0.008444703184068203,
+        0.30004945397377014,
+        0.2758980691432953,
+        0.008935928344726562,
+        0.0075859869830310345,
+        0.04027795419096947,
+        0.006535427179187536,
+        0.015243694186210632,
+        0.02785627543926239,
+        0.004112184513360262,
+        0.0012603513896465302,
+        0.0014465706190094352,
+        0.00458504119887948,
+        0.0035899782087653875,
+        0.2778308391571045,
+        0.0015838034451007843,
+        0.0016933385049924254,
+        0.001309019629843533,
+        0.0011525790905579925,
+        0.04797464609146118,
+        0.004731506109237671,
+        0.021781085059046745,
+        0.002077859127894044,
+        0.001988107804208994,
+        0.0012729751178994775,
+        0.012922755442559719,
+        0.1894410103559494
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 51,
+      "heading": "[PHONE RINGS]",
+      "raw_text": "Tell him you'll call back. Tell who? Major General Beaumont, calling from Halifax. His plane's just been delayed. Bad weather. Yes. Thank you, Beaumont. I'll call you back. CAGE: Tomorrow's invasion... ...is a slaughter. I'm dead within minutes of landing... ...along with every other soldier you are sending. And that's because the enemy knows we're coming. How do I know this? Before I died... ...I killed a mimic, only this one was different. It passed something on to me. In my blood. Now I live the same day over and over again. Just like they do. Just like Sergeant Vrataski... ...at Verdun. Tell your secretary everything's fine. Beg your pardon? SECRETARY: Sorry, general. I thought you were alone. It's fine. She typed up those orders for you to authorize. But she left out the ones referring to the fuel dump... ...at Greenwich. Your name is Iris. Your birthday is September 17th. The general pulled some strings... ...stationed your son in Australia, as far from the war as possible. Tell the general... ...his dinner's been canceled. Call just came in. Your dinner was canceled. You forgot the fuel dump. Thank you, Iris. That'll be all. - Cage, let's go. Come on. CAGE: Rita. - Let me-- Don't shoot him again. RITA: What are we doing? Okay? Just... General, this isn't the first time we've had this conversation. That's because you're stubborn. You won't believe me when I tell you... ...that Dr. Carter was right. That the enemy can manipulate time. The invasion will fail. No matter how many bodies you throw at it. The only way to win this war is... ...by finding this power source of the mimic horde and killing it. And the only means of finding it is in that safe right there. No matter how many times we have this conversation... ...you refuse to accept that the enemy breaks through to London tomorrow... ...and we lose. We lose everything. Let's say for one moment... ...that I can't rationally explain... ...your impressive parlor tricks. Dr. Carter told me... ...this device requires a live mimic to work. What use is it to you? - That's my concern. BRIGHAM: On the contrary. According to you, this concerns the whole world. Well, what would you do if you believed everything I just told you? I would locate this... Omega. Bomb it out of existence. You're not mentally equipped to fight this thing. And you never will be. What do we do now? I don't know. We've never gotten this far. That was easy. SOLDIER 1: Down! SOLDIER 2: Stop right there! Don't move! SOLDIER 3: Nobody move! SOLDIER 4: Weapon! Stop! - They're off and away! - They're-- What do I do with this? Stick it in your leg. Do it!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Tell him you'll call back. Tell who? Major General Beaumont, calling from Halifax. His plane's just been delayed. Bad weather. Yes. Thank you, Beaumont. I'll call you back. CAGE: Tomorrow's invasion... ...is a slaughter. I'm dead within minutes of landing... ...along with every other soldier you are sending. And that's because the enemy knows we're coming. How do I know this? Before I died... ...I killed a mimic, only this one was different. It passed something on to me. In my blood. Now I live the same day over and over again. Just like they do. Just like Sergeant Vrataski... ...at Verdun. Tell your secretary everything's fine. Beg your pardon? SECRETARY: Sorry, general. I thought you were alone. It's fine. She typed up those orders for you to authorize. But she left out the ones referring to the fuel dump... ...at Greenwich. Your name is Iris. Your birthday is September 17th. The general pulled some strings... ...stationed your son in Australia, as far from the war as possible. Tell the general... ...his dinner's been canceled. Call just came in. Your dinner was canceled. You forgot the fuel dump. Thank you, Iris. That'll be all. - Cage, let's go. Come on. CAGE: Rita. - Let me-- Don't shoot him again. RITA: What are we doing? Okay? Just... General, this isn't the first time we've had this conversation. That's because you're stubborn. You won't believe me when I tell you... ...that Dr. Carter was right. That the enemy can manipulate time. The invasion will fail. No matter how many bodies you throw at it. The only way to win this war is... ...by finding this power source of the mimic horde and killing it. And the only means of finding it is in that safe right there. No matter how many times we have this conversation... ...you refuse to accept that the enemy breaks through to London tomorrow... ...and we lose. We lose everything. Let's say for one moment... ...that I can't rationally explain... ...your impressive parlor tricks. Dr. Carter told me... ...this device requires a live mimic to work. What use is it to you? - That's my concern. BRIGHAM: On the contrary. According to you, this concerns the whole world. Well, what would you do if you believed everything I just told you? I would locate this... Omega. Bomb it out of existence. You're not mentally equipped to fight this thing. And you never will be. What do we do now? I don't know. We've never gotten this far. That was easy. SOLDIER 1: Down! SOLDIER 2: Stop right there! Don't move! SOLDIER 3: Nobody move! SOLDIER 4: Weapon! Stop! - They're off and away! - They're-- What do I do with this? Stick it in your leg. Do it!"
+      ],
+      "scene_length_chars": 2617,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.010217743925750256,
+        0.0004138036456424743,
+        0.08099081367254257,
+        0.01972752809524536,
+        0.0020739755127578974,
+        0.3193214535713196,
+        0.03247526288032532,
+        0.2653528153896332,
+        0.0016214186325669289,
+        0.0028812524396926165,
+        0.02226337604224682,
+        0.0010320445289835334,
+        0.0006561155314557254,
+        0.0012689880095422268,
+        0.0513455905020237,
+        0.42512258887290955,
+        0.0027031393256038427,
+        0.0007938193157315254,
+        0.0031796360854059458,
+        0.01042956579476595,
+        0.002511373721063137,
+        0.0013782490277662873,
+        0.006939599756151438,
+        0.006606412585824728,
+        0.0022982486989349127,
+        0.002198656788095832,
+        0.0034269895404577255,
+        0.34578248858451843
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "neutral",
+        "caring"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 52,
+      "heading": "[CAGE YELLS]",
+      "raw_text": "RITA: Cage, what's happening? Talk to me. CAGE: I feel it. It's taking me there. RITA: What do you see? CAGE: It's the Louvre. RITA: Where? Where are you? CAGE: I'm inside now. It's flooded. Now I'm going down. I'm in a garage. A garage underneath the museum. RITA: The Omega. Can you see it? It's in Paris. Rita!",
+      "characters": [
+        "RITA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "RITA",
+          "text": "Cage, what's happening? Talk to me. CAGE: I feel it. It's taking me there. RITA: What do you see? CAGE: It's the Louvre. RITA: Where? Where are you? CAGE: I'm inside now. It's flooded. Now I'm going down. I'm in a garage. A garage underneath the museum. RITA: The Omega. Can you see it? It's in Paris. Rita!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 313,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.001116690575145185,
+        0.0004124246188439429,
+        0.003780508413910866,
+        0.00023293477715924382,
+        0.0008588289492763579,
+        0.0007094712345860898,
+        0.012950707226991653,
+        0.23514215648174286,
+        0.0020156106911599636,
+        0.0005722473724745214,
+        0.00022342510055750608,
+        0.0001516345946583897,
+        0.0001259990967810154,
+        0.0016193174524232745,
+        0.00047918257769197226,
+        0.00011145363532705233,
+        0.0006761772092431784,
+        0.00011438178626121953,
+        0.0014029203448444605,
+        0.00014723718049935997,
+        0.0006558794411830604,
+        0.0003205625107511878,
+        0.003399200737476349,
+        9.696771303424612e-05,
+        0.00021172720880713314,
+        0.0012468458153307438,
+        0.005724161397665739,
+        0.946470320224762
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "confusion"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 53,
+      "heading": "[ALARM CHIMING]",
+      "raw_text": "MAN 1: Stay in the car! MAN 2: Stay back. MAN 1: Move away. Move away.\n[MONITOR BEEPING]",
+      "characters": [
+        "MAN 1"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN 1",
+          "text": "Stay in the car! MAN 2: Stay back. MAN 1: Move away. Move away."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 88,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0010558838257566094,
+        0.0010952672455459833,
+        0.9888508915901184,
+        0.02012416161596775,
+        0.0016748362686485052,
+        0.006051765754818916,
+        0.0030027066823095083,
+        0.0038830782286822796,
+        0.002226049080491066,
+        0.002302936278283596,
+        0.01386402640491724,
+        0.009267855435609818,
+        0.0008645415073260665,
+        0.0007015616865828633,
+        0.0017151403008028865,
+        0.0007471388089470565,
+        0.0019004279747605324,
+        0.0013362303143367171,
+        0.0028243272099643946,
+        0.00029644399182870984,
+        0.0004063545784447342,
+        0.0005200919695198536,
+        0.0012846286408603191,
+        0.00013001434854231775,
+        0.0008462491678074002,
+        0.001318586990237236,
+        0.004601685330271721,
+        0.07984235137701035
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 55,
+      "heading": "[MONITOR BEEPING FASTER]",
+      "raw_text": "CAGE: What have you done? What have... ---you done? NURSE: You'll be fine. You just needed blood. You don't know... ...what you've just done. NURSE: I can't talk to you. I was with someone. Rita Vrataski. Is she alive? Rita Vrataski. Please. Just tell me that. Please... ...tell me. NURSE: I'm sorry.\n[DOOR OPENS]",
+      "characters": [
+        "CAGE"
+      ],
+      "dialogues": [
+        {
+          "speaker": "CAGE",
+          "text": "What have you done? What have... ---you done? NURSE: You'll be fine. You just needed blood. You don't know... ...what you've just done. NURSE: I can't talk to you. I was with someone. Rita Vrataski. Is she alive? Rita Vrataski. Please. Just tell me that. Please... ...tell me. NURSE: I'm sorry."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 313,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003519564343150705,
+        0.0008819422801025212,
+        0.002534230938181281,
+        0.0016774933319538832,
+        0.0015657918993383646,
+        0.049304764717817307,
+        0.008194150403141975,
+        0.9788892269134521,
+        0.00239502708427608,
+        0.003910591825842857,
+        0.0011403271928429604,
+        0.000859564112033695,
+        0.0010187557199969888,
+        0.006711436901241541,
+        0.006613945122808218,
+        0.0007353471592068672,
+        0.010102811269462109,
+        0.0007382885087281466,
+        0.0010649255709722638,
+        0.0028250431641936302,
+        0.0015936685958877206,
+        0.00039745800313539803,
+        0.0017800420755520463,
+        0.0007713810773566365,
+        0.009282192215323448,
+        0.09438472986221313,
+        0.007099216803908348,
+        0.014593717642128468
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "sadness",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 57,
+      "heading": "[ALARM WAILING]",
+      "raw_text": "RITA: I was out of those things... ...in three minutes flat. What's wrong with you? I thought you were dead. Not yet. Sorry, Cage. No! Whoa. Wait! Wait! I'm out. I'm out. They gave me blood. I lost the power. I feel it. I can't reset the day anymore. We have to kill the Omega... ...before the invasion starts. That gives us less than three hours. We need a drop ship to get to Paris in time. Need more soldiers too. Now, who's crazy enough to follow us to Paris? Cage! Cage! CAGE: Guys! - We've been looking... ...everywhere for you. CAGE: Just listen. - Farell almost strung us up... -...for losing track of you. - I know. Just listen. You're gonna wanna hear this. It's gonna sound ridiculous at first. The longer I talk, the more rational it's going to appear. Yeah? He named the school I went to. And then he tells me my second grade teacher... ...was called Miss Polio. She wouldn't let him go to the bathroom... ...made him wet his pants. Shut up. Look, I am telling you, man. He knows everything. About all of us. - Bullshit. - Yeah? He says your name ain't really Ford. Says Ford was your friend. Died in combat on his first day. You took his place. Send your checks to his family. You slippery bitch. SKINNER: Cage says the enemy... ...knows us too. They're waiting for us. And we all die. The whole invasion is a slaughter. Well, this is great. Really good confidence boost for tomorrow. Thanks. But we can change it, right? There has to be something that we can do. There has to be a way that we can win. There is a chance. It's a slim one. But it means coming with me right now. GRIFF: Listen, pal. I don't really care what you think you know about us. We just met you. Why follow him into combat? I don't expect you to follow me. I expect you to follow her. - That's the Full Metal Bitch. CAGE: J Squad. This is Rita Vrataski. - Otherwise known as-- KUNTZ: Yeah, yeah. The Angel of Verdun. Okay.)'- FARELL: It's a new day, people. Destiny calls. The world expects only one thing from us: that we will win. Rest assured the enemy will thank you for not giving 100 percent today. Squad? Where's J Squad? Right, okay. So this Omega, it controls time. Just blow the New Age bollocks back where it came from. And then we go home. - Right, it's guarded by an Alpha. KUNTZ: Just kill it. Okay? No! You heard what Cage said. Do not kill an Alpha. If we do, the Omega will reset this whole day. We'll never remember we had this conversation. They're gonna know we're coming. What am I supposed to do if an Alpha is about to kill me? You take a hit for the team. When we're on the ground... ...there's not gonna be a lot of time before they know we're there. We're gonna need eyes up here. I'm going in, Cage. Thirty seconds till contact. GRIFF: Cage! Kimmel! No!",
+      "characters": [
+        "RITA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "RITA",
+          "text": "I was out of those things... ...in three minutes flat. What's wrong with you? I thought you were dead. Not yet. Sorry, Cage. No! Whoa. Wait! Wait! I'm out. I'm out. They gave me blood. I lost the power. I feel it. I can't reset the day anymore. We have to kill the Omega... ...before the invasion starts. That gives us less than three hours. We need a drop ship to get to Paris in time. Need more soldiers too. Now, who's crazy enough to follow us to Paris? Cage! Cage! CAGE: Guys! - We've been looking... ...everywhere for you. CAGE: Just listen. - Farell almost strung us up... -...for losing track of you. - I know. Just listen. You're gonna wanna hear this. It's gonna sound ridiculous at first. The longer I talk, the more rational it's going to appear. Yeah? He named the school I went to. And then he tells me my second grade teacher... ...was called Miss Polio. She wouldn't let him go to the bathroom... ...made him wet his pants. Shut up. Look, I am telling you, man. He knows everything. About all of us. - Bullshit. - Yeah? He says your name ain't really Ford. Says Ford was your friend. Died in combat on his first day. You took his place. Send your checks to his family. You slippery bitch. SKINNER: Cage says the enemy... ...knows us too. They're waiting for us. And we all die. The whole invasion is a slaughter. Well, this is great. Really good confidence boost for tomorrow. Thanks. But we can change it, right? There has to be something that we can do. There has to be a way that we can win. There is a chance. It's a slim one. But it means coming with me right now. GRIFF: Listen, pal. I don't really care what you think you know about us. We just met you. Why follow him into combat? I don't expect you to follow me. I expect you to follow her. - That's the Full Metal Bitch. CAGE: J Squad. This is Rita Vrataski. - Otherwise known as-- KUNTZ: Yeah, yeah. The Angel of Verdun. Okay.)'- FARELL: It's a new day, people. Destiny calls. The world expects only one thing from us: that we will win. Rest assured the enemy will thank you for not giving 100 percent today. Squad? Where's J Squad? Right, okay. So this Omega, it controls time. Just blow the New Age bollocks back where it came from. And then we go home. - Right, it's guarded by an Alpha. KUNTZ: Just kill it. Okay? No! You heard what Cage said. Do not kill an Alpha. If we do, the Omega will reset this whole day. We'll never remember we had this conversation. They're gonna know we're coming. What am I supposed to do if an Alpha is about to kill me? You take a hit for the team. When we're on the ground... ...there's not gonna be a lot of time before they know we're there. We're gonna need eyes up here. I'm going in, Cage. Thirty seconds till contact. GRIFF: Cage! Kimmel! No!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2767,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.015241479501128197,
+        0.0006039423169568181,
+        0.1401689499616623,
+        0.06681331247091293,
+        0.001046475488692522,
+        0.00666467659175396,
+        0.0036228345707058907,
+        0.015130523592233658,
+        0.00358256371691823,
+        0.007573940325528383,
+        0.002850120887160301,
+        0.0009003136656247079,
+        0.002374620409682393,
+        0.0043907249346375465,
+        0.00547606498003006,
+        0.4200538992881775,
+        0.002201704541221261,
+        0.0008898059604689479,
+        0.002023742301389575,
+        0.0038159950636327267,
+        0.039712633937597275,
+        0.008384251035749912,
+        0.021182585507631302,
+        0.005225882865488529,
+        0.0031052620615810156,
+        0.0023771116975694895,
+        0.004226394928991795,
+        0.30960601568222046
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "neutral",
+        "anger"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 58,
+      "heading": "[YELLS]",
+      "raw_text": "Ford! Let's go! Cage! Talk to me, Rita! We gotta go. CAGE: Drop. Cage, they know we're coming, man! Drop! Drop! Drop! Drop. You're not hooked in. What took you so long? Any others? SKINNER: We're low on ammo. I've got one Claymore. Ford, you're out. Griff has only got half a magazine and he can hardly move. I thought you could see the future. I haven't lived this day. I don't know what's gonna happen. RITA: It doesn't matter. What matters is we finish this. FORD: With What? I mean, Griff can't even walk. We're three men down. - Come on. RITA: We're running out of time. Collect your ammo. SKINNER: Must be a thousand mimics between us and the pyramid. What we gonna do? Walk up to the front door? - If we stay here, we die. SKINNER: Yeah? We'll never get through. We could. In that. That ship will never fly. Doesn't need to fly. It just needs to get us across there with speed. If the engines are... ...still running, we could steer it with the power levers. Skinner. Clear a path.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Ford! Let's go! Cage! Talk to me, Rita! We gotta go. CAGE: Drop. Cage, they know we're coming, man! Drop! Drop! Drop! Drop. You're not hooked in. What took you so long? Any others? SKINNER: We're low on ammo. I've got one Claymore. Ford, you're out. Griff has only got half a magazine and he can hardly move. I thought you could see the future. I haven't lived this day. I don't know what's gonna happen. RITA: It doesn't matter. What matters is we finish this. FORD: With What? I mean, Griff can't even walk. We're three men down. - Come on. RITA: We're running out of time. Collect your ammo. SKINNER: Must be a thousand mimics between us and the pyramid. What we gonna do? Walk up to the front door? - If we stay here, we die. SKINNER: Yeah? We'll never get through. We could. In that. That ship will never fly. Doesn't need to fly. It just needs to get us across there with speed. If the engines are... ...still running, we could steer it with the power levers. Skinner. Clear a path."
+      ],
+      "scene_length_chars": 988,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0023725826758891344,
+        0.0020352667197585106,
+        0.0017829833086580038,
+        0.0005647200159728527,
+        0.021147755905985832,
+        0.001322826137766242,
+        0.0031726842280477285,
+        0.010485186241567135,
+        0.0009090210078284144,
+        0.0004193946660961956,
+        0.0006043050670996308,
+        0.00048472575144842267,
+        0.0004253376100677997,
+        0.0015504863113164902,
+        0.0009385526063852012,
+        0.00019538754713721573,
+        0.0003049537190236151,
+        0.00025412903050892055,
+        0.0004636010271497071,
+        0.00019185352721251547,
+        0.026791701093316078,
+        0.0005908010643906891,
+        0.0017212445382028818,
+        0.00033101614098995924,
+        0.00024231252609752119,
+        0.00019741585128940642,
+        0.0017803861992433667,
+        0.9941869974136353
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "optimism",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 59,
+      "heading": "[YELLING]",
+      "raw_text": "RITA: Try it again, now. - No, it's not reading. Condition lever, low. Master power, on. Griff! We've gotta go! Come on! GRIFF: I'm not gonna be any good in there, mate. Let me buy you some time. CAGE: Power's on. This is gonna work. FORD: Hey! Hey, come on, man! We gotta go! Don't wait for us! Skinner! Griff, come on! - We're good to go. Where are they? - Where's Skinner and Griff? They're not coming. GRIFF: Go, brother. You gotta go, man. I'll see you in the next life. Bollocks. Move over! Move over! We gotta go! Yo, we gotta go now! They're coming, Cage. Come on, you bastards! Come on! COMPUTER: Reload. Reload. Reload. We got incoming! Come on! RITA: Cage! You have to take over! Rita! Punch it! Punch it!",
+      "characters": [
+        "RITA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "RITA",
+          "text": "Try it again, now. - No, it's not reading. Condition lever, low. Master power, on. Griff! We've gotta go! Come on! GRIFF: I'm not gonna be any good in there, mate. Let me buy you some time. CAGE: Power's on. This is gonna work. FORD: Hey! Hey, come on, man! We gotta go! Don't wait for us! Skinner! Griff, come on! - We're good to go. Where are they? - Where's Skinner and Griff? They're not coming. GRIFF: Go, brother. You gotta go, man. I'll see you in the next life. Bollocks. Move over! Move over! We gotta go! Yo, we gotta go now! They're coming, Cage. Come on, you bastards! Come on! COMPUTER: Reload. Reload. Reload. We got incoming! Come on! RITA: Cage! You have to take over! Rita! Punch it! Punch it!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 716,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.010200949385762215,
+        0.0018572701374068856,
+        0.3085744380950928,
+        0.17745858430862427,
+        0.002542387694120407,
+        0.07276477664709091,
+        0.0012687485432252288,
+        0.003882109886035323,
+        0.10007344186306,
+        0.029975099489092827,
+        0.0016529732383787632,
+        0.001285109668970108,
+        0.0007597933290526271,
+        0.15543782711029053,
+        0.0076300036162137985,
+        0.007876613177359104,
+        0.0060113887302577496,
+        0.0025568048004060984,
+        0.0011650854721665382,
+        0.0066127232275903225,
+        0.738251268863678,
+        0.027562133967876434,
+        0.019222311675548553,
+        0.003920733463019133,
+        0.0016549770953133702,
+        0.0022111653815954924,
+        0.05914853513240814,
+        0.1295674592256546
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "anger",
+        "annoyance"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 60,
+      "heading": "[GRUNTS]",
+      "raw_text": "We've been through worse. Okay.)'- CAGE: It's there. In the water. There. RITA: That's an Alpha. I'm gonna draw that thing away. You kill the Omega. No. You won't make it 10 feet... ...before that thing kills you, Cage. - I can do it. - Take the grenades. I can do it. Listen to me. Listen to me. Neither one of us is getting out of here. Thank you... ...for getting me this far. You're a good man, Cage. I wish I had the chance to know you better.\n[GASPS]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We've been through worse. Okay.)'- CAGE: It's there. In the water. There. RITA: That's an Alpha. I'm gonna draw that thing away. You kill the Omega. No. You won't make it 10 feet... ...before that thing kills you, Cage. - I can do it. - Take the grenades. I can do it. Listen to me. Listen to me. Neither one of us is getting out of here. Thank you... ...for getting me this far. You're a good man, Cage. I wish I had the chance to know you better."
+      ],
+      "scene_length_chars": 456,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.12916988134384155,
+        0.0001973706966964528,
+        0.006516214460134506,
+        0.0031753666698932648,
+        0.016670791432261467,
+        0.2855023741722107,
+        0.0023049344308674335,
+        0.019821416586637497,
+        0.04666917398571968,
+        0.0014904786366969347,
+        0.0064378404058516026,
+        0.002628793241456151,
+        0.0008214332046918571,
+        0.017521848902106285,
+        0.02256741188466549,
+        0.9942654967308044,
+        0.00635053776204586,
+        0.00217439909465611,
+        0.0017229418735951185,
+        0.001429120427928865,
+        0.22904740273952484,
+        0.04492587223649025,
+        0.004396827891469002,
+        0.03560284152626991,
+        0.011078165844082832,
+        0.0028616630006581545,
+        0.0020406905096024275,
+        0.004128279164433479
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "caring",
+        "optimism"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 62,
+      "heading": "[BELL RINGING]",
+      "raw_text": "MONTGOMERY: Welcome to London, major. I'm Corporal Montgomery... ...your liaison to General Brigham's press office. Very good to have you. Have you heard the news? Isn't it brilliant?\n[INAUDIBLE DIALOGUE]\nBRIGHAM",
+      "characters": [
+        "MONTGOMERY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MONTGOMERY",
+          "text": "Welcome to London, major. I'm Corporal Montgomery... ...your liaison to General Brigham's press office. Very good to have you. Have you heard the news? Isn't it brilliant?"
+        }
+      ],
+      "actions": [
+        "BRIGHAM"
+      ],
+      "scene_length_chars": 212,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.7607089281082153,
+        0.0001439932530047372,
+        0.0003350107872392982,
+        0.0003015351830981672,
+        0.009937587194144726,
+        0.004931584000587463,
+        0.003064917167648673,
+        0.21396508812904358,
+        0.00041312226676382124,
+        0.00031627737917006016,
+        0.00037377013359218836,
+        0.00016585792764090002,
+        7.744736649328843e-05,
+        0.03199611231684685,
+        0.00033572822576388717,
+        0.04022812098264694,
+        0.00034807456540875137,
+        0.0013585000997409225,
+        0.00018206151435151696,
+        4.1967494325945154e-05,
+        0.0013130414299666882,
+        0.016308123245835304,
+        0.0010330431396141648,
+        0.0021025955211371183,
+        0.0005249759997241199,
+        0.00013872564886696637,
+        0.004406861495226622,
+        0.09836335480213165
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 64,
+      "heading": "[ON TV]",
+      "raw_text": ": Just before sunrise this morning... ...a large surge of energy was detected in Paris. We do not know exactly what this signifies. But the result appears to be... ...a total collapse of the enemy's capacity to fight. Russian and Chinese troops are now moving across Europe without resistance. Tomorrow, we advance on the western front. We believe we are marching to claim victory for ourselves... ...for our loved ones, for our countrymen... ...for the entire human race. FARELL: What are you? Sound off! ALL: I'm a warrior! - What do warriors do? ALL: Kill! - What are you gonna do? ALL: Kill! - You have not been in 20 battles. - I have too. You're gonna dump your load the second you hit the beach. How about you two go get yourselves a nice hot cup of shut-the-hell-up! Ha-ha. You funny, girl. I bet you I set some kind of record tomorrow. Fastest time running backwards, Ford, slipping in your own shit. Knock off the grab-ass! - What are you? Sound off! ALL: I'm a warrior! FARELL: What do warriors do? ALL: Kill! Attention! Yes? What do you want'?\n[CHUCKLES]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": Just before sunrise this morning... ...a large surge of energy was detected in Paris. We do not know exactly what this signifies. But the result appears to be... ...a total collapse of the enemy's capacity to fight. Russian and Chinese troops are now moving across Europe without resistance. Tomorrow, we advance on the western front. We believe we are marching to claim victory for ourselves... ...for our loved ones, for our countrymen... ...for the entire human race. FARELL: What are you? Sound off! ALL: I'm a warrior! - What do warriors do? ALL: Kill! - What are you gonna do? ALL: Kill! - You have not been in 20 battles. - I have too. You're gonna dump your load the second you hit the beach. How about you two go get yourselves a nice hot cup of shut-the-hell-up! Ha-ha. You funny, girl. I bet you I set some kind of record tomorrow. Fastest time running backwards, Ford, slipping in your own shit. Knock off the grab-ass! - What are you? Sound off! ALL: I'm a warrior! FARELL: What do warriors do? ALL: Kill! Attention! Yes? What do you want'?"
+      ],
+      "scene_length_chars": 1066,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00941197294741869,
+        0.4711228609085083,
+        0.018184971064329147,
+        0.01973833702504635,
+        0.004497013054788113,
+        0.0019551017321646214,
+        0.017533067613840103,
+        0.04883068799972534,
+        0.009232074953615665,
+        0.001398269203491509,
+        0.0022151677403599024,
+        0.0015665017999708652,
+        0.0010034748120233417,
+        0.001584356650710106,
+        0.0011166714830324054,
+        0.00019883632194250822,
+        0.0007436878513544798,
+        0.007465626113116741,
+        0.0012829059269279242,
+        0.0004077172197867185,
+        0.4476621448993683,
+        0.00029240589356049895,
+        0.005501784849911928,
+        0.00017629335343372077,
+        0.0006345560541376472,
+        0.0007236611563712358,
+        0.0035710129886865616,
+        0.502715528011322
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "amusement",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "amusement",
+        "optimism",
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "headings_or_brackets",
+    "final_num_scenes": 46,
+    "lines_per_scene_fallback": 20
+  }
+}

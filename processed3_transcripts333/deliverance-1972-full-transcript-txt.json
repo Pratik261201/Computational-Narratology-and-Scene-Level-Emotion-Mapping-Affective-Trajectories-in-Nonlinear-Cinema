@@ -1,0 +1,683 @@
+{
+  "source_file": "Deliverance _1972_ - full transcript.txt",
+  "title": "Deliverance",
+  "year": "1972",
+  "meta_description": null,
+  "num_scenes": 13,
+  "avg_scene_chars": 2272,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "You... You wanna talk about the vanishing wilderness? Lewis, listen, why are you so anxious about this? Because they're building a dam across the Cahulawassee River. They're gonna flood a whole valley, Bobby, that's why. Damn it, they're drowning the river. They're drowning the river, man. All right, man, all right. All right. We're talking to you. All right. Just about the last wild, untamed, unpolluted... ...unfucked-up river in the South. Don't you understand what I'm saying? They're gonna stop the river up. There ain't gonna be no more river. Just gonna be a big dead lake. - That's progress. - That ain't progress, that's shit. It's a very clean way of making electric power. Those lakes up there provide people with recreation... I don't give a shit. My father-in-law has a houseboat on Lake Bowie. That's a nice place too. You just push a little more... You push a little more power into Atlanta... ...a little more air conditioners for your smug little suburb... ...and you know what's gonna happen? We're gonna rape this whole damn landscape. - We're gonna rape it. - Oh, Lewis. My... That's an extreme point of view, Lewis. It is. Extremist. We're gonna leave Friday from Atlanta. I'm gonna have you back in your little suburban house... ...in time to see the football game on Sunday afternoon. I know you... You'll be back in time to see the pompom girls at halftime... ...because I know that's all you care about. Listen... Listen, Lewis, I'm gonna thank you. - You are gonna thank me. - I'm gonna thank you. Are there any hillbillies up here anymore, Lewis? Yeah, there's some people up there that ain't ever seen a town before... ...no bigger than Aintry, anyway. Them... Those woods are real deep. The river's inaccessible, except at a couple of points. How we gonna get there, Lewis? - Well, cancel my tickets... - I'm gonna take you there. Well, what the hell do you know about canoeing for Christ's sakes? I know enough about canoeing to handle the both of you. Oh, man. I don't know what that means, but I'll go along. Lewis... - You better... - We're into it. This is the last chance we got to see this river. You just wait until you feel that white water on you. - Ain't that right? Tell him about that. - I don't know if I'm ready. I don't know, but I'm willing.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You... You wanna talk about the vanishing wilderness? Lewis, listen, why are you so anxious about this? Because they're building a dam across the Cahulawassee River. They're gonna flood a whole valley, Bobby, that's why. Damn it, they're drowning the river. They're drowning the river, man. All right, man, all right. All right. We're talking to you. All right. Just about the last wild, untamed, unpolluted... ...unfucked-up river in the South. Don't you understand what I'm saying? They're gonna stop the river up. There ain't gonna be no more river. Just gonna be a big dead lake. - That's progress. - That ain't progress, that's shit. It's a very clean way of making electric power. Those lakes up there provide people with recreation... I don't give a shit. My father-in-law has a houseboat on Lake Bowie. That's a nice place too. You just push a little more... You push a little more power into Atlanta... ...a little more air conditioners for your smug little suburb... ...and you know what's gonna happen? We're gonna rape this whole damn landscape. - We're gonna rape it. - Oh, Lewis. My... That's an extreme point of view, Lewis. It is. Extremist. We're gonna leave Friday from Atlanta. I'm gonna have you back in your little suburban house... ...in time to see the football game on Sunday afternoon. I know you... You'll be back in time to see the pompom girls at halftime... ...because I know that's all you care about. Listen... Listen, Lewis, I'm gonna thank you. - You are gonna thank me. - I'm gonna thank you. Are there any hillbillies up here anymore, Lewis? Yeah, there's some people up there that ain't ever seen a town before... ...no bigger than Aintry, anyway. Them... Those woods are real deep. The river's inaccessible, except at a couple of points. How we gonna get there, Lewis? - Well, cancel my tickets... - I'm gonna take you there. Well, what the hell do you know about canoeing for Christ's sakes? I know enough about canoeing to handle the both of you. Oh, man. I don't know what that means, but I'll go along. Lewis... - You better... - We're into it. This is the last chance we got to see this river. You just wait until you feel that white water on you. - Ain't that right? Tell him about that. - I don't know if I'm ready. I don't know, but I'm willing."
+      ],
+      "scene_length_chars": 2290,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.1351158767938614,
+        0.0011677610455080867,
+        0.029768742620944977,
+        0.01171114668250084,
+        0.029266415163874626,
+        0.01994320936501026,
+        0.01716947928071022,
+        0.7576441168785095,
+        0.003902936354279518,
+        0.0024264762178063393,
+        0.03395034000277519,
+        0.015292610041797161,
+        0.0006786155863665044,
+        0.0022548760753124952,
+        0.005080833565443754,
+        0.30326399207115173,
+        0.001784669584594667,
+        0.0005575196701101959,
+        0.0012590136611834168,
+        0.00048629348748363554,
+        0.0075730979442596436,
+        0.0010288445046171546,
+        0.0007182527333498001,
+        0.0008810299914330244,
+        0.0013813559198752046,
+        0.0026941767428070307,
+        0.0018484416650608182,
+        0.1466979831457138
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Lewis... ...if we are lost, I don't wanna hear about it. I've never been lost in my life. I'll have you in the water in another hour. Christ, Drew. Drew, look at the junk. Look here. I think this is where everything finishes up. We just may be at the end of the line. Hey, hey, not so loud, Bobby. Let's not upset these people. People? What people? This area may be evacuated already. That's my '51 Dodge. No, that's my car. That's my car. Hoo! All my youth and passion spent in that back seat. It's all gone you see. All gone. Rust and dust. Uh, Lewis? We got a live one here. - Howdy. - Howdy. Let me ask you something: Are you from the power company? Power company? What power company? Ni... About the dam. No, no, no. Look, come here a minute. See that car there? See that car down there? We want somebody to drive them down to Aintry for us. Hell, you're crazy. No shit. Hey, come here. Fill that one up with gas, huh, okay? Hell. Say, mister, I love the way you wear that hat. You don't know nothing. - Lewis? - No. - Just ask him about his hat? - No. I don't think you understood me. I wanna get some drivers to drive this car... ...and that car down to Aintry. Drivers, you understand? You might get the Griner brothers. - Who? - The Griner brothers. Where do they live? They live back over that way. - Four ninety-nine. - Right. Talk about genetic deficiencies. Isn't that pitiful? Who's picking the banjo here? Come on, I'm with you. I'm lost. Ahoo! Goddamn, I could play all day with that guy! I believe you could too. I believe you could. - That's good. - That's very good, sir. Goddamn, you play a mean banjo. Hey, you... You wanna play another one? Give him a couple of bucks. - Can that chubby boy handle himself? - Who? Bobby? He's rather well thought of in his field, Lewis. Insurance? Shit. I never been insured in my life. I don't believe in insurance. There's no risk. I have some. Ed. Over here. Shit. Fuck. God almighty. Anything we can do for you? No. It ain't as bad as I thought. Your name Griner? What do you wanna know for? Can you and your brother drive two cars down to Aintry for us? Drive them down there for what? Me and my buddy here, we're gonna take a canoe trip down the Cahulawassee. We'd like to have them cars in Aintry when we get there. Be there about Sunday noon.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Lewis... ...if we are lost, I don't wanna hear about it. I've never been lost in my life. I'll have you in the water in another hour. Christ, Drew. Drew, look at the junk. Look here. I think this is where everything finishes up. We just may be at the end of the line. Hey, hey, not so loud, Bobby. Let's not upset these people. People? What people? This area may be evacuated already. That's my '51 Dodge. No, that's my car. That's my car. Hoo! All my youth and passion spent in that back seat. It's all gone you see. All gone. Rust and dust. Uh, Lewis? We got a live one here. - Howdy. - Howdy. Let me ask you something: Are you from the power company? Power company? What power company? Ni... About the dam. No, no, no. Look, come here a minute. See that car there? See that car down there? We want somebody to drive them down to Aintry for us. Hell, you're crazy. No shit. Hey, come here. Fill that one up with gas, huh, okay? Hell. Say, mister, I love the way you wear that hat. You don't know nothing. - Lewis? - No. - Just ask him about his hat? - No. I don't think you understood me. I wanna get some drivers to drive this car... ...and that car down to Aintry. Drivers, you understand? You might get the Griner brothers. - Who? - The Griner brothers. Where do they live? They live back over that way. - Four ninety-nine. - Right. Talk about genetic deficiencies. Isn't that pitiful? Who's picking the banjo here? Come on, I'm with you. I'm lost. Ahoo! Goddamn, I could play all day with that guy! I believe you could too. I believe you could. - That's good. - That's very good, sir. Goddamn, you play a mean banjo. Hey, you... You wanna play another one? Give him a couple of bucks. - Can that chubby boy handle himself? - Who? Bobby? He's rather well thought of in his field, Lewis. Insurance? Shit. I never been insured in my life. I don't believe in insurance. There's no risk. I have some. Ed. Over here. Shit. Fuck. God almighty. Anything we can do for you? No. It ain't as bad as I thought. Your name Griner? What do you wanna know for? Can you and your brother drive two cars down to Aintry for us? Drive them down there for what? Me and my buddy here, we're gonna take a canoe trip down the Cahulawassee. We'd like to have them cars in Aintry when we get there. Be there about Sunday noon."
+      ],
+      "scene_length_chars": 2305,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3005383312702179,
+        0.0034805440809577703,
+        0.021929452195763588,
+        0.034043677151203156,
+        0.0031715959776192904,
+        0.024665551260113716,
+        0.02955835871398449,
+        0.7594387531280518,
+        0.024002619087696075,
+        0.05837148055434227,
+        0.0290021151304245,
+        0.003067881567403674,
+        0.0011203534668311477,
+        0.004591506440192461,
+        0.0019217408262193203,
+        0.0010031936690211296,
+        0.001996834296733141,
+        0.0020784030202776194,
+        0.013195134699344635,
+        0.0011456491192802787,
+        0.27530422806739807,
+        0.0007181980763562024,
+        0.0016081957146525383,
+        0.0005048691527917981,
+        0.0014846660196781158,
+        0.005673252046108246,
+        0.012049033306539059,
+        0.016822880133986473
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Canoe trip? That's right, a canoe trip. What the hell you wanna go fuck around that river for? Because it's there. It's there all right. You get in there and can't get out... ...you gonna wish it wasn't. Listen, Lewis, let's go back to town and play golf. I'll give you $30 to take those cars down to Aintry. I'll take 50. Fifty, my ass. Lewis, don't play games with these people. What'd you say? I said, \"Fifty, my ass.\" Lewis. I'll do it for 40. Mm-hm. You good for 10? - Sure. - You got it. - Brando. - Hey, Lewis, you guys all right? It's all set. Brando, come on out. - We heard hollering and shouting... - I said, it's all set. This river cruise gonna happen or not? Just get in your car, huh? Lewis, for God's sake. You don't think we'd better let them show us the river? If I thought that, I would have let them go first, Ed. We know about where it is. Here we go. Well, we fucked up. You better let them show us. You're missing the whole point, Ed. Where you going, city boy? We'll find it. It ain't nothing but the biggest river in the state. We'll find it. Lewis, you son of a bitch, why do we have to go so damn fast? You're gonna like it, Ed. When you see the river, you're gonna like it. Jesus Christ. Are you all right? Whoo! Lewis! You're gonna kill us both, you son of a bitch... ...before we ever see any water. - Slow it down, Lewis, come on. - Here we go. Come on, don't fool around. Listen, Ed. Listen. Yeah. Sometimes you have to lose yourself before you can find anything. Any snakes around here? This is the one. There she is. Looks good. Looks good. Couple more months, and she'll all be gone. Even up as far as here? - Ed! - From Aintry on up. Lewis! One big dead lake. Over here! Hey, couldn't we have found a harder place to get in? - Oh, this is steep here now. - All right. - Watch yourself. - I'm watching. You're losing glass on your bow. Whoo, it's freezing. - Hell, it'll hold. - Mm-hm. What in the hell are we gonna do... ...if we come off this river, and our cars are not at what's-its-name? They'll be there. Well, they're pretty rough-looking boys. You can't judge people by the way they look, chubby. You can trust them. I'm going with you, Ed, and not with Mr. Lewis Medlock. Because I done seen how he drives these country roads he don't know nothing about.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Canoe trip? That's right, a canoe trip. What the hell you wanna go fuck around that river for? Because it's there. It's there all right. You get in there and can't get out... ...you gonna wish it wasn't. Listen, Lewis, let's go back to town and play golf. I'll give you $30 to take those cars down to Aintry. I'll take 50. Fifty, my ass. Lewis, don't play games with these people. What'd you say? I said, \"Fifty, my ass.\" Lewis. I'll do it for 40. Mm-hm. You good for 10? - Sure. - You got it. - Brando. - Hey, Lewis, you guys all right? It's all set. Brando, come on out. - We heard hollering and shouting... - I said, it's all set. This river cruise gonna happen or not? Just get in your car, huh? Lewis, for God's sake. You don't think we'd better let them show us the river? If I thought that, I would have let them go first, Ed. We know about where it is. Here we go. Well, we fucked up. You better let them show us. You're missing the whole point, Ed. Where you going, city boy? We'll find it. It ain't nothing but the biggest river in the state. We'll find it. Lewis, you son of a bitch, why do we have to go so damn fast? You're gonna like it, Ed. When you see the river, you're gonna like it. Jesus Christ. Are you all right? Whoo! Lewis! You're gonna kill us both, you son of a bitch... ...before we ever see any water. - Slow it down, Lewis, come on. - Here we go. Come on, don't fool around. Listen, Ed. Listen. Yeah. Sometimes you have to lose yourself before you can find anything. Any snakes around here? This is the one. There she is. Looks good. Looks good. Couple more months, and she'll all be gone. Even up as far as here? - Ed! - From Aintry on up. Lewis! One big dead lake. Over here! Hey, couldn't we have found a harder place to get in? - Oh, this is steep here now. - All right. - Watch yourself. - I'm watching. You're losing glass on your bow. Whoo, it's freezing. - Hell, it'll hold. - Mm-hm. What in the hell are we gonna do... ...if we come off this river, and our cars are not at what's-its-name? They'll be there. Well, they're pretty rough-looking boys. You can't judge people by the way they look, chubby. You can trust them. I'm going with you, Ed, and not with Mr. Lewis Medlock. Because I done seen how he drives these country roads he don't know nothing about."
+      ],
+      "scene_length_chars": 2298,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2893098294734955,
+        0.003973861690610647,
+        0.2044525295495987,
+        0.22103947401046753,
+        0.006477054208517075,
+        0.03608996793627739,
+        0.009786189533770084,
+        0.44309067726135254,
+        0.16661980748176575,
+        0.01135365292429924,
+        0.005490681156516075,
+        0.018453000113368034,
+        0.0013595959171652794,
+        0.015592084266245365,
+        0.020456498488783836,
+        0.002910493640229106,
+        0.004087287001311779,
+        0.0024968141224235296,
+        0.0010640212567523122,
+        0.002004846930503845,
+        0.3028377592563629,
+        0.010496010072529316,
+        0.0037811368238180876,
+        0.0012935098493471742,
+        0.0014685889473184943,
+        0.002207956975325942,
+        0.02205008827149868,
+        0.1970158964395523
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "optimism",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "You're gonna be with me, chubby. Get them supplies. - All right. - Come on. - Whoo, it's cold! - Put this on. Looks like my mama's corset or something. I'm coming, I'm coming. - Here you go, Drew. - Thank you. - Okay. - Let's go. - I'm coming. - You can't go without your paddle. Just let me take it. Like to went up the river without my oar, didn't I? Shit. We hit any strong water, instead of bare-assing through it... I'm ready. - Come on. - I'm coming on. I got myself a humdinger here. I think we can save ourselves considerable hardship... ...if we just backwater, talk it out before we make our move. - You got that? - Right. All right, put on your life jacket. - Right. - Here. Which way are we going? I think downstream would be a good idea, don't you? - All right. - Go. You and Bobby see some rocks, you yell out. - Right. - We're supposed to holler \"rocks\"? Lewis, is this the way you get your rocks off? Uh-huh. - Let's go. - Let's go. - Keep your eyes open, Drew. - I'll race you. - Keep your eyes open, Robert. - Come on, come on, come on. Thattaboy, thattaboy. Get with it. Every move you make, call it out. I'm behind you. Right. Here we go. See how fast we can shoot down here. What is this? Is this some fast water we're coming up to? All right, Drew, just get in behind Lewis there. - Look at this. - Let's pick up some speed here. All right, all right, let's go. Just a little, there you have it. - To the left. - Whoo! Hey, now, that didn't hurt too bad, did it? Whoo! I'm with you, Ed. Now you getting it, boy. Very good. Look, Ed. Well, for the Lord's sake, will you look at that? What do we do now? This gonna be fun. Just follow us. Hey, what...? What happens if we flip this thing over? Now that you brought that up, hang on to your paddle. And if you hit any rocks, don't hit them with your head. Watch Lewis. Maybe we can learn something. Backwater now. Oh, yeah. Go right. - Go right, go right. - Yeah. Go right, go right. - Now look up ahead where you're going. - All right, I'm looking. Oh! Don't quit, don't quit. Come on, paddle, paddle. Okay. We did it. - Are you gonna call them? - Right. - Come on, go right. - Right, right. - All right. Now back to your left. - All right, now left. Left, to your left. - All right. - Here we go. Whoo! - Keep it straight. - Watch that tree.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You're gonna be with me, chubby. Get them supplies. - All right. - Come on. - Whoo, it's cold! - Put this on. Looks like my mama's corset or something. I'm coming, I'm coming. - Here you go, Drew. - Thank you. - Okay. - Let's go. - I'm coming. - You can't go without your paddle. Just let me take it. Like to went up the river without my oar, didn't I? Shit. We hit any strong water, instead of bare-assing through it... I'm ready. - Come on. - I'm coming on. I got myself a humdinger here. I think we can save ourselves considerable hardship... ...if we just backwater, talk it out before we make our move. - You got that? - Right. All right, put on your life jacket. - Right. - Here. Which way are we going? I think downstream would be a good idea, don't you? - All right. - Go. You and Bobby see some rocks, you yell out. - Right. - We're supposed to holler \"rocks\"? Lewis, is this the way you get your rocks off? Uh-huh. - Let's go. - Let's go. - Keep your eyes open, Drew. - I'll race you. - Keep your eyes open, Robert. - Come on, come on, come on. Thattaboy, thattaboy. Get with it. Every move you make, call it out. I'm behind you. Right. Here we go. See how fast we can shoot down here. What is this? Is this some fast water we're coming up to? All right, Drew, just get in behind Lewis there. - Look at this. - Let's pick up some speed here. All right, all right, let's go. Just a little, there you have it. - To the left. - Whoo! Hey, now, that didn't hurt too bad, did it? Whoo! I'm with you, Ed. Now you getting it, boy. Very good. Look, Ed. Well, for the Lord's sake, will you look at that? What do we do now? This gonna be fun. Just follow us. Hey, what...? What happens if we flip this thing over? Now that you brought that up, hang on to your paddle. And if you hit any rocks, don't hit them with your head. Watch Lewis. Maybe we can learn something. Backwater now. Oh, yeah. Go right. - Go right, go right. - Yeah. Go right, go right. - Now look up ahead where you're going. - All right, I'm looking. Oh! Don't quit, don't quit. Come on, paddle, paddle. Okay. We did it. - Are you gonna call them? - Right. - Come on, go right. - Right, right. - All right. Now back to your left. - All right, now left. Left, to your left. - All right. - Here we go. Whoo! - Keep it straight. - Watch that tree."
+      ],
+      "scene_length_chars": 2312,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.20838582515716553,
+        0.0039373040199279785,
+        0.0005630168016068637,
+        0.001026273239403963,
+        0.3626294434070587,
+        0.061484407633543015,
+        0.007280434016138315,
+        0.4595426619052887,
+        0.02640252746641636,
+        0.0005871164612472057,
+        0.0005861182580702007,
+        0.0009206461836583912,
+        0.0004761231830343604,
+        0.086490698158741,
+        0.0024489453062415123,
+        0.3151470720767975,
+        0.0016388528747484088,
+        0.0012745396234095097,
+        0.00039860085234977305,
+        0.0014022585237398744,
+        0.27306950092315674,
+        0.005206578876823187,
+        0.006009987089782953,
+        0.004840319976210594,
+        0.0010567415738478303,
+        0.0009613849106244743,
+        0.012015682645142078,
+        0.14696072041988373
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "approval",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "approval",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "- Left. - Watch your head. We ain't gonna make it. Whoo! Damn it. Hey, this doesn't seem right. Just a little unorthodox. Yoo-hoo-hoo! All right, go left, dummy. Come on, go left. - Straighten it out. Straighten it out. - I got it straight. Oh, my God. - Oh, yes. Thank you, Lord. - Turn it around. All right, hold it a minute, slow it down. All right, go. Go. Good, good, good. Straight ahead. Good. Hell, here's a big one. We're gonna make it. Keep it straight. Whoo! I'm with you, Ed. - All right. You're doing all right, now. - All right. Keep her headed right. Go. Go, go, go. Go. Go. Yeah, go. Go. Go, go, go. Go. There's a rock. On the right. Watch it, now. - Steady, now. - I got it. All right now, chubby, don't fall apart. How you doing, sailors? Oh, Lord, that sure was something! What the hell did I tell you, he's something else, ain't he? Oh, yeah. - Hold on. - I'll tell you, Lewis, That's the best... The second best sensation I ever felt. You did good, chubby, you did good. Damn, I thought we bought the farm there for a while. You know that one place there? - You know what I was thinking? - That one spot where... The first explorers saw this country... Saw it just like us... ...in a canoe. I can imagine how they felt. Yeah. We beat it, didn't we? Didn't we beat that? You don't beat it. You don't beat this river. Machines are gonna fail. And the system's gonna fail. And then... And then what? Then survival. Who has the ability to survive? That's the game, survive. And you can't wait for it to happen, can you? You can't wait for it. Well, the system's done all right by me. Oh, yeah. You got a nice job. Got a nice house. Nice wife. Nice kid. You make that sound... ...rather shitty, Lewis. Why do you go on these trips with me, Ed? I like my life, Lewis. Yeah, but why do you go on these trips with me? You know, sometimes I wonder about that. Whoo! Here's to you, Lewis. Hot damn, he got one. Terrific, Lewis. I hate him. I'm glad we came here. - Lewis? - Lewis does not drink. It's true, Lewis, what you said. There's something in the woods and the water that we have lost in the city. We didn't lose it... ...just sold it. Well, I'll say one thing for the system. The system did produce the air mattress. Or as it's better known among we camping types... ...the instant broad.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Left. - Watch your head. We ain't gonna make it. Whoo! Damn it. Hey, this doesn't seem right. Just a little unorthodox. Yoo-hoo-hoo! All right, go left, dummy. Come on, go left. - Straighten it out. Straighten it out. - I got it straight. Oh, my God. - Oh, yes. Thank you, Lord. - Turn it around. All right, hold it a minute, slow it down. All right, go. Go. Good, good, good. Straight ahead. Good. Hell, here's a big one. We're gonna make it. Keep it straight. Whoo! I'm with you, Ed. - All right. You're doing all right, now. - All right. Keep her headed right. Go. Go, go, go. Go. Go. Yeah, go. Go. Go, go, go. Go. There's a rock. On the right. Watch it, now. - Steady, now. - I got it. All right now, chubby, don't fall apart. How you doing, sailors? Oh, Lord, that sure was something! What the hell did I tell you, he's something else, ain't he? Oh, yeah. - Hold on. - I'll tell you, Lewis, That's the best... The second best sensation I ever felt. You did good, chubby, you did good. Damn, I thought we bought the farm there for a while. You know that one place there? - You know what I was thinking? - That one spot where... The first explorers saw this country... Saw it just like us... ...in a canoe. I can imagine how they felt. Yeah. We beat it, didn't we? Didn't we beat that? You don't beat it. You don't beat this river. Machines are gonna fail. And the system's gonna fail. And then... And then what? Then survival. Who has the ability to survive? That's the game, survive. And you can't wait for it to happen, can you? You can't wait for it. Well, the system's done all right by me. Oh, yeah. You got a nice job. Got a nice house. Nice wife. Nice kid. You make that sound... ...rather shitty, Lewis. Why do you go on these trips with me, Ed? I like my life, Lewis. Yeah, but why do you go on these trips with me? You know, sometimes I wonder about that. Whoo! Here's to you, Lewis. Hot damn, he got one. Terrific, Lewis. I hate him. I'm glad we came here. - Lewis? - Lewis does not drink. It's true, Lewis, what you said. There's something in the woods and the water that we have lost in the city. We didn't lose it... ...just sold it. Well, I'll say one thing for the system. The system did produce the air mattress. Or as it's better known among we camping types... ...the instant broad."
+      ],
+      "scene_length_chars": 2307,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.5130503177642822,
+        0.0014381554210558534,
+        0.07231270521879196,
+        0.014092751778662205,
+        0.28104254603385925,
+        0.015681300312280655,
+        0.012652424164116383,
+        0.31023964285850525,
+        0.0037309012841433287,
+        0.004861094057559967,
+        0.002957110060378909,
+        0.001710645854473114,
+        0.00042572888196446,
+        0.14454136788845062,
+        0.0015673761954531074,
+        0.3100370168685913,
+        0.0010635099606588483,
+        0.004221459850668907,
+        0.0024836689699441195,
+        0.0005546066095121205,
+        0.03611196205019951,
+        0.02236911840736866,
+        0.008492858149111271,
+        0.03738623484969139,
+        0.0024446852039545774,
+        0.0009017108823172748,
+        0.01897159032523632,
+        0.008974463678896427
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "gratitude"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "And if you fellas will excuse me, I'm gonna go be mean to my air mattress. I do baptize thee, now in the name of modern technology. How sweet, oh, yeah. Some idea. Lewis? Does he think he is Tarzan or what? He knows the woods though, he really does. - He does. - Not really. He learned them, he doesn't feel them, that's Lewis' problem. He wants to be one with nature, and he can't hack it. This is a hell of a time to be telling us that. Jesus. Lewis, you scared the shit out of me. Oh, what was it, Lewis? I don't know, I thought I heard something. Something or someone? I don't know. Good night, Lewis. Good night, Drew. I'm going to sleep. Night has fallen... ...and there's nothing we can do about it. I had my first wet dream in a sleeping bag. - How was it? - Great. - There's no repeating it. - Never mind. No matter what disaster may occur in other parts of the world... ...or what petty little problems arise in Atlanta... ...no one can find us up here. Good night, Lewis. Goddamn it. Hey, Bobby, look what came out of the forest. Uh-huh. Get a shot, Ed? Hell, sometimes a man can hunt for three years... ...never get a shot. Isn't that right, Lewis? Right. I don't understand how anyone could shoot an animal. Some people never can, Drew. Hell, I've known tournament archers, damn good shots. - Lewis? - Never out of the five ring. Draw down on a live animal, and they get buck ager. What the hell's that? Loss of control, psychological. Who gives a shit? You take that chubby boy with you today, okay? Hope to God we can get off this river today. Don't get too far ahead now. No, we'll be taking it slow. Easy, easy, my man. I got eaten alive last night. - My bites have got bites. - Robert? - I'm a salesman, Ed. - Robert? Good morning. I'm not mad at you, Ed. Just do me a favor, don't holler at me. I'm not used to being hollered at. Damn friend of yours screamed at me all day long yesterday. Paddle, you son of a bitch. Look. What in the hell are Lewis and Drew doing up there anyway? Probably doing the same thing we are. Bobby? How goes it? What the hell you think you're doing? Heading down river. Little canoe trip. - Heading for Aintry. - Aintry? Sure, this river only runs one way, captain. Haven't you heard? You ain't never gonna get down to Aintry. - Well...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And if you fellas will excuse me, I'm gonna go be mean to my air mattress. I do baptize thee, now in the name of modern technology. How sweet, oh, yeah. Some idea. Lewis? Does he think he is Tarzan or what? He knows the woods though, he really does. - He does. - Not really. He learned them, he doesn't feel them, that's Lewis' problem. He wants to be one with nature, and he can't hack it. This is a hell of a time to be telling us that. Jesus. Lewis, you scared the shit out of me. Oh, what was it, Lewis? I don't know, I thought I heard something. Something or someone? I don't know. Good night, Lewis. Good night, Drew. I'm going to sleep. Night has fallen... ...and there's nothing we can do about it. I had my first wet dream in a sleeping bag. - How was it? - Great. - There's no repeating it. - Never mind. No matter what disaster may occur in other parts of the world... ...or what petty little problems arise in Atlanta... ...no one can find us up here. Good night, Lewis. Goddamn it. Hey, Bobby, look what came out of the forest. Uh-huh. Get a shot, Ed? Hell, sometimes a man can hunt for three years... ...never get a shot. Isn't that right, Lewis? Right. I don't understand how anyone could shoot an animal. Some people never can, Drew. Hell, I've known tournament archers, damn good shots. - Lewis? - Never out of the five ring. Draw down on a live animal, and they get buck ager. What the hell's that? Loss of control, psychological. Who gives a shit? You take that chubby boy with you today, okay? Hope to God we can get off this river today. Don't get too far ahead now. No, we'll be taking it slow. Easy, easy, my man. I got eaten alive last night. - My bites have got bites. - Robert? - I'm a salesman, Ed. - Robert? Good morning. I'm not mad at you, Ed. Just do me a favor, don't holler at me. I'm not used to being hollered at. Damn friend of yours screamed at me all day long yesterday. Paddle, you son of a bitch. Look. What in the hell are Lewis and Drew doing up there anyway? Probably doing the same thing we are. Bobby? How goes it? What the hell you think you're doing? Heading down river. Little canoe trip. - Heading for Aintry. - Aintry? Sure, this river only runs one way, captain. Haven't you heard? You ain't never gonna get down to Aintry. - Well..."
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.22393731772899628,
+        0.0013995328918099403,
+        0.05405232310295105,
+        0.32581910490989685,
+        0.004553129430860281,
+        0.013795602135360241,
+        0.15390373766422272,
+        0.24695129692554474,
+        0.010976165533065796,
+        0.08568734675645828,
+        0.008956734091043472,
+        0.0035857621114701033,
+        0.0012638571206480265,
+        0.003060827264562249,
+        0.2894648611545563,
+        0.0019197766669094563,
+        0.0015173768624663353,
+        0.0007808464579284191,
+        0.0010629898170009255,
+        0.003581239841878414,
+        0.3674803078174591,
+        0.0011561758583411574,
+        0.007180593907833099,
+        0.0009302242542617023,
+        0.001142616500146687,
+        0.003007492981851101,
+        0.006429899949580431,
+        0.017903007566928864
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "annoyance",
+        "fear"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "- Why not? Because this river don't go to Aintry. You done taken the wrong turn. See, this here river don't go nowhere near Aintry. Where does it go, then? Boy, you are lost, ain't you? Well, hell, I guess this river comes out somewhere, don't it? That's where we're going, somewhere. Look, we don't want any trouble here. If you two gentlemen have a still near here, that's fine with us. Why, sure. We'd never tell anybody where it is. You know something? You're right, we're lost. - We don't know where in the hell we are. - A still? Right, yeah, you're making some whiskey up here. We'll buy some from you, we could use it. - You don't know what you're talking about. - We don't know what you're talking about. You said something about whiskey. Ain't that what you said? Didn't you said we was making whiskey? We don't know what you're doing, and we don't care. That's none of our business. That's right, none of your goddamn business. We've got quite a long journey ahead of us, we'll just... - Hold it. - Jesus. You ain't going no damn where. This is ridiculous. - Excuse me. - Hold it. Or I'll blow your guts out all over these woods. Wait, gentlemen, we can talk this thing over. What is it you require of us? Well, we require that you get your goddamn ass up in them woods right now. All right, look. You get up there now. Okay, all right. - Get up there. - All right. Faster, boy. - Move that ass. - Take it easy with that weapon. You, too, shut up. - Come on. Right on back here. - Okay. What's the trouble here? - Oh, you in trouble. - Just don't argue with them, Ed. - See that sapling over yonder? - You heard him. Back up against that. Is this a matter of money? You gentlemen... If we want money, we'll take your money. Back up against the tree. - Put your back against it. - Back against it. All right, stay just there. Now be still. Be real still. If he tries that again, shoot that one there. I'll blow his goddamn balls off. - Now, boy... - You ain't going anywhere, big boy. Be still, now. Now, let's you just drop them pants. - Drop? - Just take them right off. - I mean, what's this all about? - Don't say anything, just do it. Just drop them, boy. You ever had your balls cut off, you fucking ape? Lord. Lookie there. That's sharp. I bet it'd shave a hair.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Why not? Because this river don't go to Aintry. You done taken the wrong turn. See, this here river don't go nowhere near Aintry. Where does it go, then? Boy, you are lost, ain't you? Well, hell, I guess this river comes out somewhere, don't it? That's where we're going, somewhere. Look, we don't want any trouble here. If you two gentlemen have a still near here, that's fine with us. Why, sure. We'd never tell anybody where it is. You know something? You're right, we're lost. - We don't know where in the hell we are. - A still? Right, yeah, you're making some whiskey up here. We'll buy some from you, we could use it. - You don't know what you're talking about. - We don't know what you're talking about. You said something about whiskey. Ain't that what you said? Didn't you said we was making whiskey? We don't know what you're doing, and we don't care. That's none of our business. That's right, none of your goddamn business. We've got quite a long journey ahead of us, we'll just... - Hold it. - Jesus. You ain't going no damn where. This is ridiculous. - Excuse me. - Hold it. Or I'll blow your guts out all over these woods. Wait, gentlemen, we can talk this thing over. What is it you require of us? Well, we require that you get your goddamn ass up in them woods right now. All right, look. You get up there now. Okay, all right. - Get up there. - All right. Faster, boy. - Move that ass. - Take it easy with that weapon. You, too, shut up. - Come on. Right on back here. - Okay. What's the trouble here? - Oh, you in trouble. - Just don't argue with them, Ed. - See that sapling over yonder? - You heard him. Back up against that. Is this a matter of money? You gentlemen... If we want money, we'll take your money. Back up against the tree. - Put your back against it. - Back against it. All right, stay just there. Now be still. Be real still. If he tries that again, shoot that one there. I'll blow his goddamn balls off. - Now, boy... - You ain't going anywhere, big boy. Be still, now. Now, let's you just drop them pants. - Drop? - Just take them right off. - I mean, what's this all about? - Don't say anything, just do it. Just drop them, boy. You ever had your balls cut off, you fucking ape? Lord. Lookie there. That's sharp. I bet it'd shave a hair."
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004226199351251125,
+        0.003593394299969077,
+        0.5445377826690674,
+        0.24245725572109222,
+        0.0050073470920324326,
+        0.318218857049942,
+        0.05508117750287056,
+        0.5351017713546753,
+        0.014717843383550644,
+        0.0021622509229928255,
+        0.003722846508026123,
+        0.006369131151586771,
+        0.0011039538076147437,
+        0.002251293743029237,
+        0.006814750377088785,
+        0.0018740134546533227,
+        0.0020811613649129868,
+        0.001082344795577228,
+        0.0010088038397952914,
+        0.0009584885556250811,
+        0.0037127763498574495,
+        0.0010415972210466862,
+        0.0018659509951248765,
+        0.00044453205191530287,
+        0.0009295761701650918,
+        0.0012060162844136357,
+        0.005074732471257448,
+        0.08822698146104813
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Why don't you try it and see? Lord... Lord, deliver us from all... Pull off that little old bitty shirt there too. - Is he bleeding? - He bled. Them panties, take them off. Get up. Get up, boy. Come on, get on up there. No, no, no. Oh, no. Don't. Don't. - Don't. - Hey, boy. - No. - You look just like a hog. - No, don't, don't. - Just like a hog. Come here, piggy. - No. - Come here, piggy, piggy, piggy. Come on. Come on, piggy. Come on, piggy. Come on, piggy, give me a ride. A ride. Hey, boy, get up and give me a ride. - All right. All right. - Get up and give me a ride, boy. - All right. - Get up! - All right. - Get up there! No, no. - Get going. Get going. - No, no. - Come on. - No. - Come on. - No. No. - No. No. No. - Come on. Whoo. Looks like we got us a sow here instead of a boar. Don't. Don't. Don't, don't. What's the matter, boy? I bet you can squeal. I bet you can squeal like a pig. Go ahead, squeal. Squeal, now. Squeal. Squeal louder. Louder. Louder! Louder! Louder. Get down now, boy. Louder! Louder. All right, get them britches down. Just there. Don't. You can do better than that. You can do better than that. Come on, squeal. Squeal. What you wanna do with him? He got a real pretty mouth, ain't he? That's the truth. You're gonna do some praying for me, boy. And you better pray good. Here, hold that on him. Ugh! You better run, you son of a bitch! Can't we do anything for him? No. It's a center shot. I thought they'd surely kill us. They would have. They would have for sure. What we gonna do with him? There's not but one thing to do. Take the body down to Aintry. Turn it over to the highway patrol. Tell them what happened. Tell them what exactly? Just what happened. This is justifiable homicide if anything is. They were... They were sexually assaulting two members of our party at gunpoint. Like you said, there was nothing else we could do. Is he alive? Not now. Well, let's get our heads together. Come on, now, let's not do anything foolish. Anybody know anything about the law? Well, look, I... I was on jury duty once. It wasn't a murder trial. Murder trial? I don't know the technical word for it, Drew, but I know this: You take this man and turn him over to the sheriff, there's gonna be a trial all right. Trial by jury. So what? We killed a man, Drew. Shot him in the back.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Why don't you try it and see? Lord... Lord, deliver us from all... Pull off that little old bitty shirt there too. - Is he bleeding? - He bled. Them panties, take them off. Get up. Get up, boy. Come on, get on up there. No, no, no. Oh, no. Don't. Don't. - Don't. - Hey, boy. - No. - You look just like a hog. - No, don't, don't. - Just like a hog. Come here, piggy. - No. - Come here, piggy, piggy, piggy. Come on. Come on, piggy. Come on, piggy. Come on, piggy, give me a ride. A ride. Hey, boy, get up and give me a ride. - All right. All right. - Get up and give me a ride, boy. - All right. - Get up! - All right. - Get up there! No, no. - Get going. Get going. - No, no. - Come on. - No. - Come on. - No. No. - No. No. No. - Come on. Whoo. Looks like we got us a sow here instead of a boar. Don't. Don't. Don't, don't. What's the matter, boy? I bet you can squeal. I bet you can squeal like a pig. Go ahead, squeal. Squeal, now. Squeal. Squeal louder. Louder. Louder! Louder! Louder. Get down now, boy. Louder! Louder. All right, get them britches down. Just there. Don't. You can do better than that. You can do better than that. Come on, squeal. Squeal. What you wanna do with him? He got a real pretty mouth, ain't he? That's the truth. You're gonna do some praying for me, boy. And you better pray good. Here, hold that on him. Ugh! You better run, you son of a bitch! Can't we do anything for him? No. It's a center shot. I thought they'd surely kill us. They would have. They would have for sure. What we gonna do with him? There's not but one thing to do. Take the body down to Aintry. Turn it over to the highway patrol. Tell them what happened. Tell them what exactly? Just what happened. This is justifiable homicide if anything is. They were... They were sexually assaulting two members of our party at gunpoint. Like you said, there was nothing else we could do. Is he alive? Not now. Well, let's get our heads together. Come on, now, let's not do anything foolish. Anybody know anything about the law? Well, look, I... I was on jury duty once. It wasn't a murder trial. Murder trial? I don't know the technical word for it, Drew, but I know this: You take this man and turn him over to the sheriff, there's gonna be a trial all right. Trial by jury. So what? We killed a man, Drew. Shot him in the back."
+      ],
+      "scene_length_chars": 2321,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.14701886475086212,
+        0.004313082899898291,
+        0.11370795965194702,
+        0.0029495267663151026,
+        0.002799704670906067,
+        0.02364676631987095,
+        0.008880802430212498,
+        0.3528859615325928,
+        0.04765729978680611,
+        0.0011737713357433677,
+        0.006828374695032835,
+        0.012126623652875423,
+        0.0008405377739109099,
+        0.02722117491066456,
+        0.15784205496311188,
+        0.0007770006195642054,
+        0.00284026307053864,
+        0.0008558680419810116,
+        0.0012472389498725533,
+        0.001767930225469172,
+        0.02370298095047474,
+        0.002937096869572997,
+        0.001477890065871179,
+        0.00021935044787824154,
+        0.0009746597497723997,
+        0.0010977814672514796,
+        0.02800583839416504,
+        0.37617361545562744
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "A mountain man. Cracker. Gives us something to consider. All right, consider it. We're listening. Shit, all these people are related. I'll be goddamned if I wanna come back here... ...and stand trial with his aunt and his uncle. Maybe his mama and his daddy sitting in the jury box. What do you think, Bobby? How about you, Ed? I don't know, I really don't know. Now, you listen, Lewis. I don't know what you got in mind, but if you try to conceal this body... ...you're setting yourself up for a murder charge. Now, that much law I do know! This ain't one of your fucking games! You killed somebody. There he is! I see him, Drew. That's right, I killed somebody. But you're wrong if you don't see this as a game. - Lewis. - Now, you listen, Ed! Damn it, we can get out of this thing without any questions asked. We get connected up with that body and the law... This thing's gonna be hanging over us the rest of our lives. We gotta get rid of that guy. Just how are you gonna do that, Lewis? Where? Anywhere. Everywhere. Nowhere. How do you know that other guy hasn't already gone for the police? Well, what in the hell is he gonna tell them, Drew? What he did to Bobby? Why couldn't he go get some other mountain men? Now, why isn't he gonna do that? You look around you, Lewis. He could be out there anywhere, watching us right now. We ain't gonna be so hard to follow dragging a corpse. You let me worry about that, Drew. You let me take care of that. You know what's gonna be here? Right here? A lake. As far as you can see. Hundreds of feet deep. Hundreds of feet deep. Did you ever look out over a lake... ...think about something buried underneath it? Buried underneath it. Man, that's about as buried as you can get. Well, I am telling you, Lewis. - I don't want any part of it. - Well, you are part of it! It is a matter of the law! The law? Ha! The law? What law? Where's the law, Drew? Huh? You believe in democracy, don't you? Yes, I do. Well, then, we'll take a vote. And I'll stand by it. And so will you. What do you say, Bobby? Let's bury him. I don't want this getting around. Okay? Okay? It's up to you, Ed. It's all up to you, Ed. Now, just think of what you're doing, Ed. For God's sake. You got a wife. You got a child. You're not involved in this. Think about your family, Ed.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "A mountain man. Cracker. Gives us something to consider. All right, consider it. We're listening. Shit, all these people are related. I'll be goddamned if I wanna come back here... ...and stand trial with his aunt and his uncle. Maybe his mama and his daddy sitting in the jury box. What do you think, Bobby? How about you, Ed? I don't know, I really don't know. Now, you listen, Lewis. I don't know what you got in mind, but if you try to conceal this body... ...you're setting yourself up for a murder charge. Now, that much law I do know! This ain't one of your fucking games! You killed somebody. There he is! I see him, Drew. That's right, I killed somebody. But you're wrong if you don't see this as a game. - Lewis. - Now, you listen, Ed! Damn it, we can get out of this thing without any questions asked. We get connected up with that body and the law... This thing's gonna be hanging over us the rest of our lives. We gotta get rid of that guy. Just how are you gonna do that, Lewis? Where? Anywhere. Everywhere. Nowhere. How do you know that other guy hasn't already gone for the police? Well, what in the hell is he gonna tell them, Drew? What he did to Bobby? Why couldn't he go get some other mountain men? Now, why isn't he gonna do that? You look around you, Lewis. He could be out there anywhere, watching us right now. We ain't gonna be so hard to follow dragging a corpse. You let me worry about that, Drew. You let me take care of that. You know what's gonna be here? Right here? A lake. As far as you can see. Hundreds of feet deep. Hundreds of feet deep. Did you ever look out over a lake... ...think about something buried underneath it? Buried underneath it. Man, that's about as buried as you can get. Well, I am telling you, Lewis. - I don't want any part of it. - Well, you are part of it! It is a matter of the law! The law? Ha! The law? What law? Where's the law, Drew? Huh? You believe in democracy, don't you? Yes, I do. Well, then, we'll take a vote. And I'll stand by it. And so will you. What do you say, Bobby? Let's bury him. I don't want this getting around. Okay? Okay? It's up to you, Ed. It's all up to you, Ed. Now, just think of what you're doing, Ed. For God's sake. You got a wife. You got a child. You're not involved in this. Think about your family, Ed."
+      ],
+      "scene_length_chars": 2299,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0008517030510120094,
+        0.0017234217375516891,
+        0.032014038413763046,
+        0.12975679337978363,
+        0.000999158713966608,
+        0.10123982280492783,
+        0.005270069465041161,
+        0.5002752542495728,
+        0.003846922190859914,
+        0.00704544922336936,
+        0.0013745591277256608,
+        0.001844507292844355,
+        0.0008472409681417048,
+        0.0013507605763152242,
+        0.032867275178432465,
+        0.00018494062533136457,
+        0.0027747107669711113,
+        0.0003692694299388677,
+        0.00040578373591415584,
+        0.007958631031215191,
+        0.10027509927749634,
+        0.00022683948918711394,
+        0.0029512278269976377,
+        0.00026708238874562085,
+        0.0004176321963313967,
+        0.01078423485159874,
+        0.005291746463626623,
+        0.44677305221557617
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "This may be the most important decision of your whole life, Ed. Yes. There's no way we can change this. There's no way we can change what happened to Bobby. We gotta do the right thing. Ed, we're gonna have to live with this. Right! I'm with Lewis. All right. Let's get on with it then. Lewis, let's go. Lewis. What's the plan, Lewis? Plan? We just paddle on down to Aintry, get the cars and go home. Put your jacket on, Drew. Drew. Put your life jacket on. Drew, paddle. Drew. Drew? Drew, what's the matter? Lewis, I'm gonna pull off to the side. - There's something wrong. - No, go on! Drew, what is it? - Don't stop, Ed! - I'm gonna pull in. No don't! - Drew! - Drew! What happened? Ed, look out! Ah! Ah! Lewis! Lewis. Bobby! Christ! Lewis! Lewis! Ah! Lewis. Where's Drew? My leg's broke! Boys. Where's Drew? I'm taking roll call. Lewis. Lewis. Drew was shot. Something happened to him. What? Drew was shot. Shot? Lewis? Don't touch it! Lewis? Here, here. - Hold him here. - I got... I got him. Hold on. Hold him here. Drew. - Drew! - Drew! - Drew! - Drew was shot! Bobby, Drew was shot. Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew. Drew. Drew? Drew. Ed? Ed. He was shot, Bobby. Drew was shot. Here's his jacket. He wasn't wearing it. Ed. Ed. Maybe Lewis is right. Of course, he's right! Of course. Lewis. You mean that other guy shot him? Did...? Did you see him? Drew was shot. Ed. Lewis says, that other guy... ...that toothless bastard shot him. He's right up there. He's gonna try and kill us too. If he killed Drew... ...he's gonna have to kill us. Lewis. Lewis! Lewis, I'll tell you what. Let's... We'll wait until dark, and we'll put you in the bottom of the canoe... ...and we'll sneak out of here. - Okay, Ed? - Bobby, look at those rapids down there. - Look at those rapids. - Christ. - Christ. - We can't move out of here in the dark. Ed! We're not... We're not gonna move you, Lewis. Lewis, we're trapped in this gorge. Ed? - Ed. - Lewis. - Ed. - What are we gonna do, Lewis? You're the guy with the answers. What the hell do we do now? Now you get to play the game. You're ruined! Lewis, you're ruined! Ed. Ed. Ed, listen. He's hurt bad, isn't he? What are we gonna do? The guy must know exactly where we are. Well, if he knows where we are... ...then we sure as hell know where he's gonna be. Right up there.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "This may be the most important decision of your whole life, Ed. Yes. There's no way we can change this. There's no way we can change what happened to Bobby. We gotta do the right thing. Ed, we're gonna have to live with this. Right! I'm with Lewis. All right. Let's get on with it then. Lewis, let's go. Lewis. What's the plan, Lewis? Plan? We just paddle on down to Aintry, get the cars and go home. Put your jacket on, Drew. Drew. Put your life jacket on. Drew, paddle. Drew. Drew? Drew, what's the matter? Lewis, I'm gonna pull off to the side. - There's something wrong. - No, go on! Drew, what is it? - Don't stop, Ed! - I'm gonna pull in. No don't! - Drew! - Drew! What happened? Ed, look out! Ah! Ah! Lewis! Lewis. Bobby! Christ! Lewis! Lewis! Ah! Lewis. Where's Drew? My leg's broke! Boys. Where's Drew? I'm taking roll call. Lewis. Lewis. Drew was shot. Something happened to him. What? Drew was shot. Shot? Lewis? Don't touch it! Lewis? Here, here. - Hold him here. - I got... I got him. Hold on. Hold him here. Drew. - Drew! - Drew! - Drew! - Drew was shot! Bobby, Drew was shot. Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew! Drew. Drew. Drew? Drew. Ed? Ed. He was shot, Bobby. Drew was shot. Here's his jacket. He wasn't wearing it. Ed. Ed. Maybe Lewis is right. Of course, he's right! Of course. Lewis. You mean that other guy shot him? Did...? Did you see him? Drew was shot. Ed. Lewis says, that other guy... ...that toothless bastard shot him. He's right up there. He's gonna try and kill us too. If he killed Drew... ...he's gonna have to kill us. Lewis. Lewis! Lewis, I'll tell you what. Let's... We'll wait until dark, and we'll put you in the bottom of the canoe... ...and we'll sneak out of here. - Okay, Ed? - Bobby, look at those rapids down there. - Look at those rapids. - Christ. - Christ. - We can't move out of here in the dark. Ed! We're not... We're not gonna move you, Lewis. Lewis, we're trapped in this gorge. Ed? - Ed. - Lewis. - Ed. - What are we gonna do, Lewis? You're the guy with the answers. What the hell do we do now? Now you get to play the game. You're ruined! Lewis, you're ruined! Ed. Ed. Ed, listen. He's hurt bad, isn't he? What are we gonna do? The guy must know exactly where we are. Well, if he knows where we are... ...then we sure as hell know where he's gonna be. Right up there."
+      ],
+      "scene_length_chars": 2341,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004229595419019461,
+        0.0016806252533569932,
+        0.017376849427819252,
+        0.004749011714011431,
+        0.004881865344941616,
+        0.12580205500125885,
+        0.13906745612621307,
+        0.8167071342468262,
+        0.003564887447282672,
+        0.003649642691016197,
+        0.0010908013209700584,
+        0.004453158006072044,
+        0.002312849508598447,
+        0.0027414995711296797,
+        0.23166228830814362,
+        0.0002843400288838893,
+        0.006511660758405924,
+        0.0008493300992995501,
+        0.0011652098037302494,
+        0.007879075594246387,
+        0.04366927221417427,
+        0.0006802548305131495,
+        0.0035177201498299837,
+        0.0004090573638677597,
+        0.000642696802970022,
+        0.010002844966948032,
+        0.015092785470187664,
+        0.3147384226322174
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "fear"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Christ. What a view. Ah! Goddamn it! You'll never get out of this gorge alive! Goddamn it. Pull... Pull yourself together. It's okay. Release. Ah! No. No. Ah! Ed. I don't believe it. You... You did it, Ed. You killed him. Good. Good. Lewis... Lewis had a bad night. More than once I thought he'd die. You did it, Ed. That's good. You sure it's him? That's the guy with the gun, huh? I think so. He wasn't just some guy up there... Up there hunting or something? You tell me. Ed. Was he shot? What about here? What about right there? Could have been a rock. What are you gonna do with Drew? If... If a bullet made this, there are people who can tell. Oh, God. There's no end to it. I didn't really know him. Drew was... ...a good husband... ...to his wife Linda. And... ...you're a wonderful father to your boys, Drew. Jimmy and Billy Ray. And if... ...we come through this, I promise... ...to do all I can for them. He was the best of us. Amen. Christ. Look at that. God help us. Ah! Ah! Bobby? Bobby. We made it. We made it, Ed. We made it. Ah! We're back, Ed. Lewis. We gotta get Lewis to a doctor. - Right, Ed. Right. - Gotta get Lewis to a doctor. - Right. - Bobby. - Lewis. - Bobby. We're back. - We made it. - Everything... Everything happened... Bobby, listen. Everything happened right here. Everything happened right here. Lewis... Lewis broke his leg in those rapids there, and Drew drowned here. - No, no, Ed. - This place. - No, nothing happened here. - Bobby, listen to me! We got to stop them from looking up river. It's important that we... We get together on this thing. You understand? I understand, Ed. I understand. That's right. That's right, Lewis. That's our story. Lewis, we're back. - It's all right. - We'll get Lewis to a doctor. All right, Ed. All right. We'll find a place to put him. We're not out of this yet. They... They brought the cars. You come for the cars, sir? Yes. Now, uh... Do you have a phone? Phone? Telephone? Yes, sir. You're gonna be all right. What in the world happened to you guys? Drew Ballinger. B-A-L-L-I-N-G-E-R. - Did you look for him? - A long time. Could you show us where it happened? How did you manage to shoot yourself with your own arrow? Didn't think that could be done. This is nice. What's that? Oh... Chromium, paper tissues... ...hot water, that's nice. You falling asleep?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Christ. What a view. Ah! Goddamn it! You'll never get out of this gorge alive! Goddamn it. Pull... Pull yourself together. It's okay. Release. Ah! No. No. Ah! Ed. I don't believe it. You... You did it, Ed. You killed him. Good. Good. Lewis... Lewis had a bad night. More than once I thought he'd die. You did it, Ed. That's good. You sure it's him? That's the guy with the gun, huh? I think so. He wasn't just some guy up there... Up there hunting or something? You tell me. Ed. Was he shot? What about here? What about right there? Could have been a rock. What are you gonna do with Drew? If... If a bullet made this, there are people who can tell. Oh, God. There's no end to it. I didn't really know him. Drew was... ...a good husband... ...to his wife Linda. And... ...you're a wonderful father to your boys, Drew. Jimmy and Billy Ray. And if... ...we come through this, I promise... ...to do all I can for them. He was the best of us. Amen. Christ. Look at that. God help us. Ah! Ah! Bobby? Bobby. We made it. We made it, Ed. We made it. Ah! We're back, Ed. Lewis. We gotta get Lewis to a doctor. - Right, Ed. Right. - Gotta get Lewis to a doctor. - Right. - Bobby. - Lewis. - Bobby. We're back. - We made it. - Everything... Everything happened... Bobby, listen. Everything happened right here. Everything happened right here. Lewis... Lewis broke his leg in those rapids there, and Drew drowned here. - No, no, Ed. - This place. - No, nothing happened here. - Bobby, listen to me! We got to stop them from looking up river. It's important that we... We get together on this thing. You understand? I understand, Ed. I understand. That's right. That's right, Lewis. That's our story. Lewis, we're back. - It's all right. - We'll get Lewis to a doctor. All right, Ed. All right. We'll find a place to put him. We're not out of this yet. They... They brought the cars. You come for the cars, sir? Yes. Now, uh... Do you have a phone? Phone? Telephone? Yes, sir. You're gonna be all right. What in the world happened to you guys? Drew Ballinger. B-A-L-L-I-N-G-E-R. - Did you look for him? - A long time. Could you show us where it happened? How did you manage to shoot yourself with your own arrow? Didn't think that could be done. This is nice. What's that? Oh... Chromium, paper tissues... ...hot water, that's nice. You falling asleep?"
+      ],
+      "scene_length_chars": 2339,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.675986111164093,
+        0.001684370799921453,
+        0.008387915790081024,
+        0.0008013928309082985,
+        0.22672469913959503,
+        0.01848961040377617,
+        0.012121718376874924,
+        0.332160621881485,
+        0.002021195599809289,
+        0.00258544716052711,
+        0.0015149727696552873,
+        0.001168404589407146,
+        0.00018122220353689045,
+        0.004311250988394022,
+        0.0024317398201674223,
+        0.0003581694618333131,
+        0.0011249907547608018,
+        0.0012774995993822813,
+        0.0006286242278292775,
+        0.0004671927308663726,
+        0.00920616090297699,
+        0.006038653198629618,
+        0.01903929002583027,
+        0.0011022859252989292,
+        0.0004439996846485883,
+        0.0020849378779530525,
+        0.015278235077857971,
+        0.047387223690748215
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "approval"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "Don't forget to phone your wife, now. Let her know how you are. Yes, I... I will. Thank you. You see, you can never mix it up. Oh, hello. Come on in. If you eat too much, you won't... We saved you a seat. Do you feel like eating something? Please. Some corn? Thank you. Thank you. Would you like some peas? This corn is special, isn't it? Boy, this corn. I love good corn. We need that big cucumber I got out of the garden last night. - You know how long it was? - Tell me. Twelve and a half inches long Then I measured it around, and it's 10 and a half around. That's the darndest-looking cucumber you'll ever see. I tell you, I'll send it over and let you see it if you doubt it. That cucumber is a terrapin. That's mighty fine. We can show you the place. Now, I know where you told me it was. Well, uh, we just wanna cooperate. You recognize that piece of canoe over there? Well, we lost it. That could be it. But you ain't sure. Yeah, I think so. But it's kind of confusing. I'd think you'd recognize your own canoe. I think that it must be the canoe. I don't know... ...who else might've had one up there. Well, I'd... I'd appreciate it if you'd show me that spot. Well, we could... Ed could take you right to the place. Ed. Ed, we're in trouble. They don't believe us. What did you tell him, Bobby? What we agreed on. I heard you. I was in that room, Bobby. What did you tell him? They found part of the green canoe, didn't they, Bobby? Upstream and you got scared. Didn't you, Bobby? I know you. You told him the truth, didn't you, Bobby? - You told him the truth... - I didn't do that! I told him... ...like we said. But I don't think they believe me. Ed, I think they found that other canoe... ...upstream, above where we told them. I never said that. Yes, you did. - No, I didn't. - I know damn well you did. - I know what I said. - Yeah, well, that's a goddamn lie. Sheriff, that ain't what he said this morning. You tell me how a canoe can drift up river. Now, what about this? Look, sheriff... ...we've been through quite a lot. I don't know what's wrong with your man there. Mr. Queen's got a brother-in-law back up in there somewhere. He took off hunting, a couple three days ago, and... ...nobody's heard from him since. And Mr. Queen thought maybe y'all... ...might have happened up on him somewhere.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Don't forget to phone your wife, now. Let her know how you are. Yes, I... I will. Thank you. You see, you can never mix it up. Oh, hello. Come on in. If you eat too much, you won't... We saved you a seat. Do you feel like eating something? Please. Some corn? Thank you. Thank you. Would you like some peas? This corn is special, isn't it? Boy, this corn. I love good corn. We need that big cucumber I got out of the garden last night. - You know how long it was? - Tell me. Twelve and a half inches long Then I measured it around, and it's 10 and a half around. That's the darndest-looking cucumber you'll ever see. I tell you, I'll send it over and let you see it if you doubt it. That cucumber is a terrapin. That's mighty fine. We can show you the place. Now, I know where you told me it was. Well, uh, we just wanna cooperate. You recognize that piece of canoe over there? Well, we lost it. That could be it. But you ain't sure. Yeah, I think so. But it's kind of confusing. I'd think you'd recognize your own canoe. I think that it must be the canoe. I don't know... ...who else might've had one up there. Well, I'd... I'd appreciate it if you'd show me that spot. Well, we could... Ed could take you right to the place. Ed. Ed, we're in trouble. They don't believe us. What did you tell him, Bobby? What we agreed on. I heard you. I was in that room, Bobby. What did you tell him? They found part of the green canoe, didn't they, Bobby? Upstream and you got scared. Didn't you, Bobby? I know you. You told him the truth, didn't you, Bobby? - You told him the truth... - I didn't do that! I told him... ...like we said. But I don't think they believe me. Ed, I think they found that other canoe... ...upstream, above where we told them. I never said that. Yes, you did. - No, I didn't. - I know damn well you did. - I know what I said. - Yeah, well, that's a goddamn lie. Sheriff, that ain't what he said this morning. You tell me how a canoe can drift up river. Now, what about this? Look, sheriff... ...we've been through quite a lot. I don't know what's wrong with your man there. Mr. Queen's got a brother-in-law back up in there somewhere. He took off hunting, a couple three days ago, and... ...nobody's heard from him since. And Mr. Queen thought maybe y'all... ...might have happened up on him somewhere."
+      ],
+      "scene_length_chars": 2317,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.09051232784986496,
+        0.002485639648512006,
+        0.004392266273498535,
+        0.010701228864490986,
+        0.026184290647506714,
+        0.01104703452438116,
+        0.1752648800611496,
+        0.6597134470939636,
+        0.02109934575855732,
+        0.0012698963982984424,
+        0.028241490945219994,
+        0.00430937809869647,
+        0.000917188124731183,
+        0.004956868942826986,
+        0.09295105934143066,
+        0.3334275484085083,
+        0.0008941208361648023,
+        0.0023450106382369995,
+        0.03153624013066292,
+        0.0012125772191211581,
+        0.011361614800989628,
+        0.0017232740065082908,
+        0.0025234653148800135,
+        0.0015598138561472297,
+        0.0017504612915217876,
+        0.001050371676683426,
+        0.0009202603832818568,
+        0.32659032940864563
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "Well, we didn't. Don't let them go. These boys is lying. We got nothing to hold them for, Ortho. We don't have a thing. Let's just wait and see what comes out of the river. That there's the town hall. Right over there's the old fire station. Played a lot of checkers over there, sure did. All this land's gonna be covered with water. Best thing ever happened to this town. We may have to stop just a minute for the church to get out of the way. Christ. Doctor, how's our boy? Look, we're doing everything we can for him. But there's a chance he might lose that leg, so take it easy on him, okay? I'll talk with you later. Officer. Has he been awake yet? No, we're still waiting for him to come around. Lewis. Lewis, listen, we had to change our story. Lewis. How you feeling? Never better. Did you hear me? What happened on that last set of rapids? I don't remember nothing. Nothing. - Want me to drive Drew's car back? - No. - Talk to his wife? - I'll do it, Bobby, thank you. Y'all about ready to leave? Yeah. The Griner boys brought these cars down to you from Orie, is that right? Right. Did you happen to see another man with them up there? There was someone, wasn't there? I... I think so, yes. Before you go, buddy... ...let me ask you something. How come y'all ended up with four life jackets? Didn't we have an extra one? No. Drew wasn't wearing his. Well, how come he...? He wasn't wearing it? I don't know. Don't ever do nothing like this again. Don't come back up here. You don't have to worry about that, sheriff. I'd kind of like to see this town die peaceful. I hope Deputy Queen finds his brother-in-law. Oh... ...he'll come in drunk probably. Goodbye, Ed. Bye, Bobby. I don't think I'll see you for a while. Hey, Charlie. What you got there, guy? No! Ed? What's the matter? It's all right. It's all right. Shh. Go to sleep. Go to sleep.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Well, we didn't. Don't let them go. These boys is lying. We got nothing to hold them for, Ortho. We don't have a thing. Let's just wait and see what comes out of the river. That there's the town hall. Right over there's the old fire station. Played a lot of checkers over there, sure did. All this land's gonna be covered with water. Best thing ever happened to this town. We may have to stop just a minute for the church to get out of the way. Christ. Doctor, how's our boy? Look, we're doing everything we can for him. But there's a chance he might lose that leg, so take it easy on him, okay? I'll talk with you later. Officer. Has he been awake yet? No, we're still waiting for him to come around. Lewis. Lewis, listen, we had to change our story. Lewis. How you feeling? Never better. Did you hear me? What happened on that last set of rapids? I don't remember nothing. Nothing. - Want me to drive Drew's car back? - No. - Talk to his wife? - I'll do it, Bobby, thank you. Y'all about ready to leave? Yeah. The Griner boys brought these cars down to you from Orie, is that right? Right. Did you happen to see another man with them up there? There was someone, wasn't there? I... I think so, yes. Before you go, buddy... ...let me ask you something. How come y'all ended up with four life jackets? Didn't we have an extra one? No. Drew wasn't wearing his. Well, how come he...? He wasn't wearing it? I don't know. Don't ever do nothing like this again. Don't come back up here. You don't have to worry about that, sheriff. I'd kind of like to see this town die peaceful. I hope Deputy Queen finds his brother-in-law. Oh... ...he'll come in drunk probably. Goodbye, Ed. Bye, Bobby. I don't think I'll see you for a while. Hey, Charlie. What you got there, guy? No! Ed? What's the matter? It's all right. It's all right. Shh. Go to sleep. Go to sleep."
+      ],
+      "scene_length_chars": 1853,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.002877625869587064,
+        0.002352930838242173,
+        0.0033150261733680964,
+        0.0018639793852344155,
+        0.1330367922782898,
+        0.07938122004270554,
+        0.02215619385242462,
+        0.8088666796684265,
+        0.0041206576861441135,
+        0.0020405282266438007,
+        0.0037945022340863943,
+        0.0020715503487735987,
+        0.002356778597459197,
+        0.003261723555624485,
+        0.01466438639909029,
+        0.20852158963680267,
+        0.004510581027716398,
+        0.001589787076227367,
+        0.0037439223378896713,
+        0.0018580341711640358,
+        0.22814232110977173,
+        0.0008351660799235106,
+        0.003318891627714038,
+        0.004829821642488241,
+        0.004252202343195677,
+        0.008456922136247158,
+        0.004307128023356199,
+        0.06004004552960396
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "optimism",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 13,
+    "lines_per_scene_fallback": 20
+  }
+}

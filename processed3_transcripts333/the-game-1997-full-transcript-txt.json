@@ -1,0 +1,1103 @@
+{
+  "source_file": "The Game _1997_ - full transcript.txt",
+  "title": "The Game",
+  "year": "1997",
+  "meta_description": null,
+  "num_scenes": 21,
+  "avg_scene_chars": 2265,
+  "characters": [
+    "NICHOLAS",
+    "WOMAN ON TV"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "WOMAN ON TV: Here Friday morning. MAN ON TV: Now, let's get the stocks here in London. The Financial Times 100 Index up 11 points, just above the key 3,800 level. In the rest of Europe, Frankfurt's DAX gaining nine points to 2,532. In Paris, the CAC 40 losing seven, the weaker franc weighing on the market. Thank you, Ilsa. Have a nice day. (DOOR CLOSING) (CAR UNLOCKING) MAN ON RADIO: ... they are on time this morning. San Francisco's freeways are... Morning, sir. JACK ON SPEAKERPHONE: Tell me what we're supposed to do. You may be perched on majority shares, but we all get fucked if the actuals crash. That old man is gonna sink us. As soon as I have Baer/Grant's P&L report in hand, I will call you. - Is that a promise? - I'm sorry, I'm not aware of that term. Well, what do I do if Anson calls about substantiation procedure? Have your secretary say you're in a meeting. Thank you, Jack. - Yes, Maria? - Invitations. - The Museum Gala. - No. - Fitzwilliam Botanical Annual Fundraiser. - No. - The Hinchberger wedding. - Hinchberger wedding? Tuxedos, droning conversations, I don't think so, no. I'll send your regrets. Honestly, why must I bother? If you don't know about society, you don't have the satisfaction of avoiding it. (KNOCK ON DOOR) - Yes? - I have an Elizabeth on line three. - MARIA: Your ex-wife. - I know who it is. Take a message. Oh, happy birthday, sir. Thank you, Maggie. I don't like her. I wouldn't mention the following, but he was very insistent. - It's a prank. - What? A gentleman called requesting lunch. I assured him you were busy... - What's his name? - A Mr. Seymour Butts. Uhder The Bleachers by Seymour Butts. I'm sorry? Cancel my lunch. Make a reservation at the City Club for myself and Mr. Butts. My usual table. Maria, put the reservation under my name. (SOFT MUSIC PLAYING) - Are you ready to order, sir? - No, I'm still waiting. This was iced tea. (MOCK SNEEZING) - Conrad, what a surprise. - Happy birthday, Nickie. \"Seymour Butts\". I'll never get tired of that one. That's why it's a classic. Nice restaurant. They gave me a free jacket. I'm sure they'll want it back. - I remember being here. - I took you here once. No, I used to buy crystal meth off the maître d'. - Really? - In college. - Which college? - Touchè. Miss me?",
+      "characters": [
+        "WOMAN ON TV"
+      ],
+      "dialogues": [
+        {
+          "speaker": "WOMAN ON TV",
+          "text": "Here Friday morning. MAN ON TV: Now, let's get the stocks here in London. The Financial Times 100 Index up 11 points, just above the key 3,800 level. In the rest of Europe, Frankfurt's DAX gaining nine points to 2,532. In Paris, the CAC 40 losing seven, the weaker franc weighing on the market. Thank you, Ilsa. Have a nice day.   MAN ON RADIO: ... they are on time this morning. San Francisco's freeways are... Morning, sir. JACK ON SPEAKERPHONE: Tell me what we're supposed to do. You may be perched on majority shares, but we all get fucked if the actuals crash. That old man is gonna sink us. As soon as I have Baer/Grant's P&L report in hand, I will call you. - Is that a promise? - I'm sorry, I'm not aware of that term. Well, what do I do if Anson calls about substantiation procedure? Have your secretary say you're in a meeting. Thank you, Jack. - Yes, Maria? - Invitations. - The Museum Gala. - No. - Fitzwilliam Botanical Annual Fundraiser. - No. - The Hinchberger wedding. - Hinchberger wedding? Tuxedos, droning conversations, I don't think so, no. I'll send your regrets. Honestly, why must I bother? If you don't know about society, you don't have the satisfaction of avoiding it.  - Yes? - I have an Elizabeth on line three. - MARIA: Your ex-wife. - I know who it is. Take a message. Oh, happy birthday, sir. Thank you, Maggie. I don't like her. I wouldn't mention the following, but he was very insistent. - It's a prank. - What? A gentleman called requesting lunch. I assured him you were busy... - What's his name? - A Mr. Seymour Butts. Uhder The Bleachers by Seymour Butts. I'm sorry? Cancel my lunch. Make a reservation at the City Club for myself and Mr. Butts. My usual table. Maria, put the reservation under my name.  - Are you ready to order, sir? - No, I'm still waiting. This was iced tea.  - Conrad, what a surprise. - Happy birthday, Nickie. \"Seymour Butts\". I'll never get tired of that one. That's why it's a classic. Nice restaurant. They gave me a free jacket. I'm sure they'll want it back. - I remember being here. - I took you here once. No, I used to buy crystal meth off the maître d'. - Really? - In college. - Which college? - Touchè. Miss me?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2277,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33005020022392273,
+        0.0010155087802559137,
+        0.007275259122252464,
+        0.014829733408987522,
+        0.0019017799058929086,
+        0.0029474657494574785,
+        0.00645943870767951,
+        0.10637141019105911,
+        0.003647330915555358,
+        0.017110340297222137,
+        0.0037779773119837046,
+        0.0004232478386256844,
+        0.001247107982635498,
+        0.0031191911548376083,
+        0.0003449168580118567,
+        0.6637737154960632,
+        0.0010161066893488169,
+        0.0016769032226875424,
+        0.0006816561217419803,
+        0.00030889350455254316,
+        0.004373650532215834,
+        0.0015357272932305932,
+        0.021032854914665222,
+        0.005618430208414793,
+        0.007744261994957924,
+        0.003070106729865074,
+        0.019652334973216057,
+        0.015146191231906414
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "As much as that's possible. You look good. - So do you. To think I was worried. - Worried about me? How long's it been since Mom's funeral? Two, three years. - I thought you quit. - I did, it didn't take. - You can't smoke here. - I'm with you. It's illegal to smoke in restaurants in California. Fuck California. (PEOPLE MURMURING) - How are you? - Couldn't be better. - Elizabeth? - We're divorced. She remarried a pediatrician, or a gynecologist, or a pediatric gynecologist. Lives in Sausalito. That's too bad. I liked her. - And what about you? - You don't keep track of me anymore? Not since family week at rehab. So what brings you to town, Conrad? Everything all right? - Yeah. - Need anything? - No. - Really? No, I don't need anything from you. I just found myself laying naked on a beach near lbiza and all of a sudden it clicked, October 12th, Nickie's birthday. - October 11 th. - Whatever. - This is for you. - You shouldn't have. What do you get for the man who has everything? Consumer Recreation Services. Well, I do have golf clubs. Call that number. - Why? - It'll make your life fun. - Fun. - You know what that is? You've seen other people have it. It's an entertainment service. An escort service? A profound life experience. (ICED TEA SPILLING) - WAITRESS: Sorry. I'll just get... - Nah, it's all right, just... - Tell me you'll call. - I said I would. No, you didn't. You still on medication? - Why would you say that? - WAITRESS: You gentlemen ready to order? - I didn't mean how it sounded. - I'm not on anything. I'm not even seeing a shrink. And I feel great. Do you mind? I think you'll like this. I did. It was the best thing that ever happened to me. - I'll call them. - Do it. For you. I said I'll call, okay? All right, I'll call. It's just that... I hate surprises. I know. (CLINKING GLASS) Happy birthday to you Happy birthday, Mr. Van Orton Happy birthday to you MAN 1 ON SPEAKER: Someone's gotta drive a stake through Anson's heart. MAN 2: Have you seen the profitability report? NICHOLAS: Lmagine how unhappy I am. - MAN 1: You'll deal with Anson? - Correct. We're furious. - Sleep well, Nicholas. - I will. (PANTING) Good night, Ilsa. - Dinner's in the oven. - Thank you. Oh, I saw Conrad today. - Did you? How is he? - He's okay. I think he's in a personal improvement cult.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "As much as that's possible. You look good. - So do you. To think I was worried. - Worried about me? How long's it been since Mom's funeral? Two, three years. - I thought you quit. - I did, it didn't take. - You can't smoke here. - I'm with you. It's illegal to smoke in restaurants in California. Fuck California.  - How are you? - Couldn't be better. - Elizabeth? - We're divorced. She remarried a pediatrician, or a gynecologist, or a pediatric gynecologist. Lives in Sausalito. That's too bad. I liked her. - And what about you? - You don't keep track of me anymore? Not since family week at rehab. So what brings you to town, Conrad? Everything all right? - Yeah. - Need anything? - No. - Really? No, I don't need anything from you. I just found myself laying naked on a beach near lbiza and all of a sudden it clicked, October 12th, Nickie's birthday. - October 11 th. - Whatever. - This is for you. - You shouldn't have. What do you get for the man who has everything? Consumer Recreation Services. Well, I do have golf clubs. Call that number. - Why? - It'll make your life fun. - Fun. - You know what that is? You've seen other people have it. It's an entertainment service. An escort service? A profound life experience.  - WAITRESS: Sorry. I'll just get... - Nah, it's all right, just... - Tell me you'll call. - I said I would. No, you didn't. You still on medication? - Why would you say that? - WAITRESS: You gentlemen ready to order? - I didn't mean how it sounded. - I'm not on anything. I'm not even seeing a shrink. And I feel great. Do you mind? I think you'll like this. I did. It was the best thing that ever happened to me. - I'll call them. - Do it. For you. I said I'll call, okay? All right, I'll call. It's just that... I hate surprises. I know.  Happy birthday to you Happy birthday, Mr. Van Orton Happy birthday to you MAN 1 ON SPEAKER: Someone's gotta drive a stake through Anson's heart. MAN 2: Have you seen the profitability report? NICHOLAS: Lmagine how unhappy I am. - MAN 1: You'll deal with Anson? - Correct. We're furious. - Sleep well, Nicholas. - I will.  Good night, Ilsa. - Dinner's in the oven. - Thank you. Oh, I saw Conrad today. - Did you? How is he? - He's okay. I think he's in a personal improvement cult."
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.44757047295570374,
+        0.07525423914194107,
+        0.17382504045963287,
+        0.012216598726809025,
+        0.004149497952312231,
+        0.018368178978562355,
+        0.08733376860618591,
+        0.38884422183036804,
+        0.005501191597431898,
+        0.10882344841957092,
+        0.12487319856882095,
+        0.013893506489694118,
+        0.011240431107580662,
+        0.06535721570253372,
+        0.02798382192850113,
+        0.3107202649116516,
+        0.0093090133741498,
+        0.21964804828166962,
+        0.05523659661412239,
+        0.026002196595072746,
+        0.014235191978514194,
+        0.00829991139471531,
+        0.01300822850316763,
+        0.003815573872998357,
+        0.005165742710232735,
+        0.01309227105230093,
+        0.01732432283461094,
+        0.00578641751781106
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "gratitude"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Well, send my love if you see him again. - Happy birthday. - Good night. (HUMMING HAPPY BIRTHDAY TO YOU) ... companies that defaulted on their payments. (PHONE RINGING) The FCC expects to receive more than $500 million in bids... - Elizabeth, good evening. - Happy birthday, Nickie. 11:40. You almost missed it this year. - Have you had a nice birthday? - Does Rose Kennedy have a black dress? I went not once, but twice, through the spanking machine. I can only imagine. - How are you? - Connie asked me the same thing today. Connie? Really? I always liked your brother. (SIGHING) Anyway... I just thought this might be difficult for you. Just another birthday. Because of your father. That's right, he was 48, wasn't he? I hadn't thought about it until now. (ELIZABETH SIGHING) Why do I call? I honestly don't know. Please send Dr. Mel and Rachel my best. She has a little brother on the way. We did the ultrasound. Official nuclear family. You must be very pleased. We are. We are very pleased. Well, it's good to talk with you... I guess I should let you go. - Take care of yourself. - You too, Nicholas. I mean that, I really do. Be well. Bye. A proposal to encourage small businesses to provide their employees with health insurance is now being debated by Washington legislators. The bill, which attaches small-business health plans to those of larger corporations is receiving initial support from a number of key Republican leaders. However, Democratic lawmakers are voicing serious concerns about the bill, claiming that it would undermine local... I just wanted to make sure that we understand each other. Once you get it down on paper, then you can count on my full support. - We understand. - Thank you. We'll talk soon. (SOFT MUSIC PLAYING) You shouldn't feel this reflects negatively on you. MAN ON PHONE: I do feel this reflects... - I received this... - Just a moment. - I took these tests in good faith. - RECEPTIONIST: I'm sorry you feel that way. We hope we haven't caused you any inconvenience. Thank you for choosing CRS. Mr. Feingold, could you assist this gentleman? Oh, yeah, sure. Jim Feingold, VP Engineering, Data Analysis. I don't know exactly how this works. My brother sent me this card as a gift. All right, excellent. Let's get started.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Well, send my love if you see him again. - Happy birthday. - Good night.  ... companies that defaulted on their payments.  The FCC expects to receive more than $500 million in bids... - Elizabeth, good evening. - Happy birthday, Nickie. 11:40. You almost missed it this year. - Have you had a nice birthday? - Does Rose Kennedy have a black dress? I went not once, but twice, through the spanking machine. I can only imagine. - How are you? - Connie asked me the same thing today. Connie? Really? I always liked your brother.  Anyway... I just thought this might be difficult for you. Just another birthday. Because of your father. That's right, he was 48, wasn't he? I hadn't thought about it until now.  Why do I call? I honestly don't know. Please send Dr. Mel and Rachel my best. She has a little brother on the way. We did the ultrasound. Official nuclear family. You must be very pleased. We are. We are very pleased. Well, it's good to talk with you... I guess I should let you go. - Take care of yourself. - You too, Nicholas. I mean that, I really do. Be well. Bye. A proposal to encourage small businesses to provide their employees with health insurance is now being debated by Washington legislators. The bill, which attaches small-business health plans to those of larger corporations is receiving initial support from a number of key Republican leaders. However, Democratic lawmakers are voicing serious concerns about the bill, claiming that it would undermine local... I just wanted to make sure that we understand each other. Once you get it down on paper, then you can count on my full support. - We understand. - Thank you. We'll talk soon.  You shouldn't feel this reflects negatively on you. MAN ON PHONE: I do feel this reflects... - I received this... - Just a moment. - I took these tests in good faith. - RECEPTIONIST: I'm sorry you feel that way. We hope we haven't caused you any inconvenience. Thank you for choosing CRS. Mr. Feingold, could you assist this gentleman? Oh, yeah, sure. Jim Feingold, VP Engineering, Data Analysis. I don't know exactly how this works. My brother sent me this card as a gift. All right, excellent. Let's get started."
+      ],
+      "scene_length_chars": 2269,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.13732756674289703,
+        0.0012571238912642002,
+        0.0020497909281402826,
+        0.003547945059835911,
+        0.008015516214072704,
+        0.25819674134254456,
+        0.013001884333789349,
+        0.3393375873565674,
+        0.022108590230345726,
+        0.003115276573225856,
+        0.002754638670012355,
+        0.0005985802854411304,
+        0.0014811287401244044,
+        0.004169277381151915,
+        0.0006479796138592064,
+        0.6290786862373352,
+        0.001814569695852697,
+        0.007807251065969467,
+        0.050335515290498734,
+        0.000579178158659488,
+        0.17359302937984467,
+        0.003701947396621108,
+        0.0023760537151247263,
+        0.04421628639101982,
+        0.01912342570722103,
+        0.002012211363762617,
+        0.0023667707573622465,
+        0.017897633835673332
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "I'm sorry about all this hullabaloo here. We're... Well, we're still moving. I got an office around here somewhere. Do you mind holding that? Thank you very much. Thank you. - Are you hungry? New Moon Cafè. - No, thank you. Best in Chinatown. A gift from Conrad Van Orton. - Interesting. - What is? Your brother was a client with our London branch. We do a sort of informal scoring. His numbers are outstanding. Really? - You sure you're not hungry? - No. Now, you need to fill out these forms. There's an application and a couple of psych tests. The MMPI and the TAT. For the financial questionnaire, don't answer anything you don't feel like. We'll run a TRW. \"I sometimes hurt small animals. True or false?\" \"I feel guilty when I masturbate.\" (JIM CHUCKLING) Well, I don't write the questions. I just review the answers. (WOMAN CHATTERING ON PA) (SIGHING) - What is this for? - A sense of your capabilities... No, what is this for? What are you selling? Oh... - It's a game. - A game? Specifically tailored for each participant. Think of it as a great vacation. Except you don't go to it, it comes to you. What kind of vacation? - It's different every time. - Humor me with specifics. We provide whatever's lacking. - What if nothing is lacking? - May I make two suggestions? You think I'll participate without knowing... First, admit to yourself that it sounds intriguing. Second, you don't have to decide today. Take the silly test, fill out the forms. One day, your game begins. You either love it or hate it. Decide then. You know, we're like an experiential Book-of-the-Month Club. You can drop out at any time with no further obligation. That was my sales pitch. - How long will this take? - An hour for those, an hour for the physical. - Physical? - It's a cursory examination. Turn your head and cough. You'll be out of here in no time. (SIGHING) Confused. Risky. Bloody. Whoops. MARIA: Mr. Sutherland called. NICHOLAS: Make it Wednesday. Anson Baer called about tomorrow. Tomorrow? - How much longer will this take? - Not long, you're almost done. You said that two hours ago. Put it back until tomorrow. ELECTRONIC VOICE: ... following emotional responses. You have 0.9 seconds to enter your emotional response. Reaction time is a factor. Please make a selection for the following emotional responses.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm sorry about all this hullabaloo here. We're... Well, we're still moving. I got an office around here somewhere. Do you mind holding that? Thank you very much. Thank you. - Are you hungry? New Moon Cafè. - No, thank you. Best in Chinatown. A gift from Conrad Van Orton. - Interesting. - What is? Your brother was a client with our London branch. We do a sort of informal scoring. His numbers are outstanding. Really? - You sure you're not hungry? - No. Now, you need to fill out these forms. There's an application and a couple of psych tests. The MMPI and the TAT. For the financial questionnaire, don't answer anything you don't feel like. We'll run a TRW. \"I sometimes hurt small animals. True or false?\" \"I feel guilty when I masturbate.\"  Well, I don't write the questions. I just review the answers.   - What is this for? - A sense of your capabilities... No, what is this for? What are you selling? Oh... - It's a game. - A game? Specifically tailored for each participant. Think of it as a great vacation. Except you don't go to it, it comes to you. What kind of vacation? - It's different every time. - Humor me with specifics. We provide whatever's lacking. - What if nothing is lacking? - May I make two suggestions? You think I'll participate without knowing... First, admit to yourself that it sounds intriguing. Second, you don't have to decide today. Take the silly test, fill out the forms. One day, your game begins. You either love it or hate it. Decide then. You know, we're like an experiential Book-of-the-Month Club. You can drop out at any time with no further obligation. That was my sales pitch. - How long will this take? - An hour for those, an hour for the physical. - Physical? - It's a cursory examination. Turn your head and cough. You'll be out of here in no time.  Confused. Risky. Bloody. Whoops. MARIA: Mr. Sutherland called. NICHOLAS: Make it Wednesday. Anson Baer called about tomorrow. Tomorrow? - How much longer will this take? - Not long, you're almost done. You said that two hours ago. Put it back until tomorrow. ELECTRONIC VOICE: ... following emotional responses. You have 0.9 seconds to enter your emotional response. Reaction time is a factor. Please make a selection for the following emotional responses."
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.01675177551805973,
+        0.000940211582928896,
+        0.0021045797038823366,
+        0.002871459349989891,
+        0.009615215472877026,
+        0.010974415577948093,
+        0.3599558174610138,
+        0.5643133521080017,
+        0.0023731288965791464,
+        0.0015421141870319843,
+        0.003706078277900815,
+        0.0009867898188531399,
+        0.0025208115112036467,
+        0.0023980517871677876,
+        0.002953900722786784,
+        0.3357013463973999,
+        0.0012595808366313577,
+        0.0010564780095592141,
+        0.0018430290510877967,
+        0.0016705718589946628,
+        0.01431840006262064,
+        0.0010236585512757301,
+        0.007644021417945623,
+        0.0027795303612947464,
+        0.01131188590079546,
+        0.002292427932843566,
+        0.002070918446406722,
+        0.11072442680597305
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "confusion",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "You have 0.9 seconds to enter your emotional response. Does this thing end? (KNOCKING ON DOOR) - I'm sorry to keep you waiting. - Don't worry. It's been terrific spending my entire day with your crack team. It's all down to this, an insurance company requirement. It states you're aware that The Game exists, that you're willing to participate in it. Payment is at your brother's discretion, dependent on your satisfaction. If I'm not happy, he doesn't have to pay? We've never had an unsatisfied customer. I think you mean \"dissatisfied.\" That's right. You're a left-brain word fetishist. Initials. And sign there. In blood. Just kidding. All right, your copy will be at the front desk in this folder. And keep the pen. We'll let you know. CONRAD: Monday or Tuesday? NICHOLAS: Both bad. - How about tonight? - I'm working all this evening. NICHOLAS: Wednesday's the only possibility right now. - NICHOLAS: You wanna do dinner? - Okay. NICHOLAS: By the way, I went to CRS. CONRAD: Really? What'd you think? NICHOLAS: Well, they seemed just a little bit disorganized. CONRAD: When I did it in London, they'd been around a while. - Are you gonna do this? - I haven't decided yet. MAN 1: It's like getting in on the ground floor of the next Disneyland. MAN 2: CRS won't go public. They're family-owned. MAN 1: Stranger things have happened. MAN 2: No, they haven't, actually. MAN 1: They opened here. MAN 2: The Game in San Francisco? See? They're doing fine without any of us. MAN: A scotch and soda. - Nicholas, how are you? - James, good evening. - Got new members here? - I believe so, sir. - Put their next round on me. - Gotcha, sir. (JAZZ MUSIC PLAYING) (CHUCKLING) No, no, no. Last time I played Pebble, I swore I'd never pick up a club again. (ALL LAUGHING) Well, speaking about games, I couldn't help but overhear you talking about CRS. The reason I mention it is I took the test today. - The Montgomery street office. - You did? Kudos. - So yours hasn't started yet? - Not yet. That was one of the questions I had for you. What is it? - What is it? - The eternal question. You know, I envy you. I wish I could go back and do it for the first time, all over again. Here's to new experiences. Excuse me, I've gotta go. Night, Ted. - Nicholas. - Nice to meet you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You have 0.9 seconds to enter your emotional response. Does this thing end?  - I'm sorry to keep you waiting. - Don't worry. It's been terrific spending my entire day with your crack team. It's all down to this, an insurance company requirement. It states you're aware that The Game exists, that you're willing to participate in it. Payment is at your brother's discretion, dependent on your satisfaction. If I'm not happy, he doesn't have to pay? We've never had an unsatisfied customer. I think you mean \"dissatisfied.\" That's right. You're a left-brain word fetishist. Initials. And sign there. In blood. Just kidding. All right, your copy will be at the front desk in this folder. And keep the pen. We'll let you know. CONRAD: Monday or Tuesday? NICHOLAS: Both bad. - How about tonight? - I'm working all this evening. NICHOLAS: Wednesday's the only possibility right now. - NICHOLAS: You wanna do dinner? - Okay. NICHOLAS: By the way, I went to CRS. CONRAD: Really? What'd you think? NICHOLAS: Well, they seemed just a little bit disorganized. CONRAD: When I did it in London, they'd been around a while. - Are you gonna do this? - I haven't decided yet. MAN 1: It's like getting in on the ground floor of the next Disneyland. MAN 2: CRS won't go public. They're family-owned. MAN 1: Stranger things have happened. MAN 2: No, they haven't, actually. MAN 1: They opened here. MAN 2: The Game in San Francisco? See? They're doing fine without any of us. MAN: A scotch and soda. - Nicholas, how are you? - James, good evening. - Got new members here? - I believe so, sir. - Put their next round on me. - Gotcha, sir.   No, no, no. Last time I played Pebble, I swore I'd never pick up a club again.  Well, speaking about games, I couldn't help but overhear you talking about CRS. The reason I mention it is I took the test today. - The Montgomery street office. - You did? Kudos. - So yours hasn't started yet? - Not yet. That was one of the questions I had for you. What is it? - What is it? - The eternal question. You know, I envy you. I wish I could go back and do it for the first time, all over again. Here's to new experiences. Excuse me, I've gotta go. Night, Ted. - Nicholas. - Nice to meet you."
+      ],
+      "scene_length_chars": 2268,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.022043729200959206,
+        0.10539406538009644,
+        0.00046952953562140465,
+        0.000804818409960717,
+        0.0023003770038485527,
+        0.015033721923828125,
+        0.01533641666173935,
+        0.7004308700561523,
+        0.013674075715243816,
+        0.0017762348288670182,
+        0.001082673785276711,
+        0.0003713362675625831,
+        0.0008282485068775713,
+        0.08423667401075363,
+        0.004016192629933357,
+        0.0008050168980844319,
+        0.0017119720578193665,
+        0.0069174510426819324,
+        0.001711469143629074,
+        0.0016666104784235358,
+        0.017879663035273552,
+        0.000712311826646328,
+        0.005369022488594055,
+        0.0006775855435989797,
+        0.0009522493346594274,
+        0.0012735925847664475,
+        0.017259402200579643,
+        0.34552326798439026
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "amusement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "- So you played recently? - About a year ago. I was working in Los Angeles. I hear the London office is very good, too. Sounds like a lot of fantasy role-playing nonsense. You wanna know what it is? What it's all about? John, chapter 9, verse 25. I haven't been to Sunday school in a long time. \"Whereas once I was blind, now I can see.\" Good night, Nicholas. Best of luck. Good night. NICHOLAS: If the Baer/Grant meeting is not held tomorrow, it may as well not be held at all. (CHATTERING) When Mr. Van Orton boards his plane on the morrow, he will have every agreement and addendum, the complete closing package, flawlessly revised. So you'll miss another opera you would have slept during anyway. (CELL PHONE RINGING) We now have an opportunity to show our client how well we will rise to his exhilarating challenge. - Yes. - CYNTHIA: Nicholas Van Orton? - Who is this? - This is Cynthia from CRS. - How did you get this number? - We've processed your application. - I'm in a meeting... - I'm afraid it was rejected. I beg your pardon? You shouldn't feel this reflects negatively on you. - This is ridiculous. - Thank you for thinking of CRS. (PHONE DISCONNECTING) - Anything wrong? - No, nothing. FEMAL VOICE: You may hang up, or press \"pound\" for more options. Oh, this is Conrad, leave a message. Yes, Connie, it's Nicholas. Give me a ring when you get in. Oh, regarding your birthday present, things are a little crazy right now, I don't know if I can fit it in my schedule. We'll talk about it at dinner tomorrow. Thanks. Bye. Hello? ... resulting rise of unemployment and decline in viable small businesses. Meanwhile, Republican leaders argue that its passage would be the very stimulant a sluggish economy needs. No one has expressed an opinion as to how it will impact the pampered existence of Nicholas Van Orton. The one thing on which both Democrats and Republicans agree is that most Americans harbor serious doubts about the economic future. A recent poll suggests a staggering 57% of American workers believe there is a very real chance they will be unemployed within the next five to seven years. But what does that matter to a bloated, millionaire fat cat like you? Stock markets rose both domestically and abroad after the announcement of stronger than expected earnings by several hi-tech companies, but dipped again after reports that Nicholas Van Orton had sneezed.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- So you played recently? - About a year ago. I was working in Los Angeles. I hear the London office is very good, too. Sounds like a lot of fantasy role-playing nonsense. You wanna know what it is? What it's all about? John, chapter 9, verse 25. I haven't been to Sunday school in a long time. \"Whereas once I was blind, now I can see.\" Good night, Nicholas. Best of luck. Good night. NICHOLAS: If the Baer/Grant meeting is not held tomorrow, it may as well not be held at all.  When Mr. Van Orton boards his plane on the morrow, he will have every agreement and addendum, the complete closing package, flawlessly revised. So you'll miss another opera you would have slept during anyway.  We now have an opportunity to show our client how well we will rise to his exhilarating challenge. - Yes. - CYNTHIA: Nicholas Van Orton? - Who is this? - This is Cynthia from CRS. - How did you get this number? - We've processed your application. - I'm in a meeting... - I'm afraid it was rejected. I beg your pardon? You shouldn't feel this reflects negatively on you. - This is ridiculous. - Thank you for thinking of CRS.  - Anything wrong? - No, nothing. FEMAL VOICE: You may hang up, or press \"pound\" for more options. Oh, this is Conrad, leave a message. Yes, Connie, it's Nicholas. Give me a ring when you get in. Oh, regarding your birthday present, things are a little crazy right now, I don't know if I can fit it in my schedule. We'll talk about it at dinner tomorrow. Thanks. Bye. Hello? ... resulting rise of unemployment and decline in viable small businesses. Meanwhile, Republican leaders argue that its passage would be the very stimulant a sluggish economy needs. No one has expressed an opinion as to how it will impact the pampered existence of Nicholas Van Orton. The one thing on which both Democrats and Republicans agree is that most Americans harbor serious doubts about the economic future. A recent poll suggests a staggering 57% of American workers believe there is a very real chance they will be unemployed within the next five to seven years. But what does that matter to a bloated, millionaire fat cat like you? Stock markets rose both domestically and abroad after the announcement of stronger than expected earnings by several hi-tech companies, but dipped again after reports that Nicholas Van Orton had sneezed."
+      ],
+      "scene_length_chars": 2390,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.014208362437784672,
+        0.001310360967181623,
+        0.0005003056721761823,
+        0.0009918211726471782,
+        0.001260414021089673,
+        0.008794487453997135,
+        0.06961013376712799,
+        0.5012031197547913,
+        0.0005796756595373154,
+        0.00191350223030895,
+        0.004698300268501043,
+        0.0004660604754462838,
+        0.0005043432465754449,
+        0.0014801538782194257,
+        0.12431541085243225,
+        0.32521381974220276,
+        0.0010170013410970569,
+        0.0005234099226072431,
+        0.0006212681182660162,
+        0.0019654673524200916,
+        0.0036791199818253517,
+        0.0005569420172832906,
+        0.019187748432159424,
+        0.0013144490076228976,
+        0.00148759875446558,
+        0.001028672093525529,
+        0.0014097746461629868,
+        0.4814377725124359
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Are you gonna spend the rest of the evening prying at that clown's mouth? I... I don't... It's frustrating for me if you don't pay attention. What is this? This is your game, Nicholas, and welcome to it. I'm here to let you in on a few ground rules. You've received the very first key and others will follow. You won't know where you'll find them or how you'll need to use them, so keep your eyes open. - How do you... You can see me? - Let's save the questions till after. How does this work? There's a tiny camera looking at you right now. - That's impossible. - You're right. Impossible. You're having a conversation with your television. It's miniaturized. Do you know how dangerous that is? Mr. Van Orton? And in domestic news, in southern... Yes, Ilsa, what is it? - Is everything all right? - Fine... ... in a petroleum processing plant yesterday... I've finished for the evening. Will you be needing anything else? No, thank you. - Good night. - Good night, then. ... broke out in a petroleum processing plant yesterday. Several workers were injured... - Who's that? - Never mind who that is. You wanna know how a camera got into your home. Yes, I would. Cold. Colder. Warm. Warmer. Write this number down. It's a 24-hour Consumer Recreation Services hotline, for emergencies only. But don't call asking what the object of the game is. Figuring that out is the object of the game. Good luck, and congratulations on choosing CRS. ... threatened to have the American ambassador expelled. The US State Department responded quickly with a formal apology, and announcement of the ambassador's immediate removal. (LOCKING) MAN: Help me out here, huh? I used to be in Nam. ELECTRONIC VOICE: If you'd like to make a call, please hang up and try again. (DOOR OPENING) (WOMAN LAUGHING) (RATTLING) (BABY CRYING) May I help you? What is it? What? Thank you. (KNOCKING ON STALL DOOR) MAN: Bud? Can you help me out? I need some toilet paper, I ran out. Just go into the next stall. Come on, help me out. Hello? - Didn't expect to see you here. - I wanted to wish you luck. - You been up all night? - I checked it. Personally. I appreciate that. Go home and get some sleep. - You sure you don't want me along? - No, I'll be fine. - SAM: Nice shirt. - Don't ask. Ciao. ANSON: All these years, the first time ever you step foot in these offices, it's to ask me to step down.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Are you gonna spend the rest of the evening prying at that clown's mouth? I... I don't... It's frustrating for me if you don't pay attention. What is this? This is your game, Nicholas, and welcome to it. I'm here to let you in on a few ground rules. You've received the very first key and others will follow. You won't know where you'll find them or how you'll need to use them, so keep your eyes open. - How do you... You can see me? - Let's save the questions till after. How does this work? There's a tiny camera looking at you right now. - That's impossible. - You're right. Impossible. You're having a conversation with your television. It's miniaturized. Do you know how dangerous that is? Mr. Van Orton? And in domestic news, in southern... Yes, Ilsa, what is it? - Is everything all right? - Fine... ... in a petroleum processing plant yesterday... I've finished for the evening. Will you be needing anything else? No, thank you. - Good night. - Good night, then. ... broke out in a petroleum processing plant yesterday. Several workers were injured... - Who's that? - Never mind who that is. You wanna know how a camera got into your home. Yes, I would. Cold. Colder. Warm. Warmer. Write this number down. It's a 24-hour Consumer Recreation Services hotline, for emergencies only. But don't call asking what the object of the game is. Figuring that out is the object of the game. Good luck, and congratulations on choosing CRS. ... threatened to have the American ambassador expelled. The US State Department responded quickly with a formal apology, and announcement of the ambassador's immediate removal.  MAN: Help me out here, huh? I used to be in Nam. ELECTRONIC VOICE: If you'd like to make a call, please hang up and try again.     May I help you? What is it? What? Thank you.  MAN: Bud? Can you help me out? I need some toilet paper, I ran out. Just go into the next stall. Come on, help me out. Hello? - Didn't expect to see you here. - I wanted to wish you luck. - You been up all night? - I checked it. Personally. I appreciate that. Go home and get some sleep. - You sure you don't want me along? - No, I'll be fine. - SAM: Nice shirt. - Don't ask. Ciao. ANSON: All these years, the first time ever you step foot in these offices, it's to ask me to step down."
+      ],
+      "scene_length_chars": 2365,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3298133313655853,
+        0.001422950648702681,
+        0.005673801992088556,
+        0.016719505190849304,
+        0.005437756422907114,
+        0.13212226331233978,
+        0.011160778813064098,
+        0.4362508952617645,
+        0.009492100216448307,
+        0.0028093226719647646,
+        0.007252966519445181,
+        0.0015803031856194139,
+        0.0013712295331060886,
+        0.0016757746925577521,
+        0.0039998567663133144,
+        0.6623595356941223,
+        0.0017258137231692672,
+        0.0010485133389011025,
+        0.0011145309545099735,
+        0.001177357160486281,
+        0.015092253684997559,
+        0.005955677479505539,
+        0.0031963929068297148,
+        0.0073870401829481125,
+        0.00739021971821785,
+        0.0015940646408125758,
+        0.004643460735678673,
+        0.13735152781009674
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "NICHOLAS: You promised to meet the projections, Anson. $1.60 a share is what you said. I don't think this visit comes as a surprise. - The projections were too optimistic. - Admittedly, yes. Our EPS was 150 last quarter. We are up eight cents per share. The expectations were ten. The expectations meant everything. Will you hold me to it over pennies? My stock is falling, I don't know about yours. Those pennies are costing millions. Give me next quarter. If you still feel this way, vote your shares. Today is what counts, Anson. (SIGHING) You... You intractable son of a bitch. If your father could see you now. - What? - Your father was a friend. A friend. God damn it, I watched you grow up. Because you went fishing with my father, I should watch you throw my money away? - I was... - I'm not finished. You misspoke before when you said you're stepping down. I am firing you. Action is taken, confidence is restored. - The stock goes up. - No. There's no Baer/Grant Publishing... No Baer/Grant Publishing without Anson Baer. Where's Stewart Grant? Probably out sailing, enjoying his golden years, wondering where the hell you are, Anson. I'm sorry. You failed. I have prepared a severance package that is more than equitable. Valid until this evening. I could fight you on this. If I leave without your signature, this agreement begins to disintegrate. Benefits shrink, options narrow, and your compensation will be shriveled. I think it's in your best interest, Anson, to... Well, I guess this is your lucky day. My lawyers will be in touch with you. Excuse me, has Conrad Van Orton left a message? - I'll check right away, Mr. Van Orton. - Thank you. (EXCLAIMING) I'm so sorry. Here. - Please don't do that. - I'm so sorry. I wasn't even looking. - I'm really having a bad day. - How about a bad month? You did almost the same thing to me last week. - Here. - Don't do that. Just get me some napkins and some soda water. It looks like the cleaning bill's gonna be more than the suit. I don't think so. - It was an accident, sir. - Terrific. I said I was sorry. - Asshole. - Christine. - Mr. Van Orton is a valued customer. - Fine. Then you kiss his ass. - Don't you talk to me like that. - I apologized, I offered to help. - Clean out your locker. - What? You heard me.",
+      "characters": [
+        "NICHOLAS"
+      ],
+      "dialogues": [
+        {
+          "speaker": "NICHOLAS",
+          "text": "You promised to meet the projections, Anson. $1.60 a share is what you said. I don't think this visit comes as a surprise. - The projections were too optimistic. - Admittedly, yes. Our EPS was 150 last quarter. We are up eight cents per share. The expectations were ten. The expectations meant everything. Will you hold me to it over pennies? My stock is falling, I don't know about yours. Those pennies are costing millions. Give me next quarter. If you still feel this way, vote your shares. Today is what counts, Anson.  You... You intractable son of a bitch. If your father could see you now. - What? - Your father was a friend. A friend. God damn it, I watched you grow up. Because you went fishing with my father, I should watch you throw my money away? - I was... - I'm not finished. You misspoke before when you said you're stepping down. I am firing you. Action is taken, confidence is restored. - The stock goes up. - No. There's no Baer/Grant Publishing... No Baer/Grant Publishing without Anson Baer. Where's Stewart Grant? Probably out sailing, enjoying his golden years, wondering where the hell you are, Anson. I'm sorry. You failed. I have prepared a severance package that is more than equitable. Valid until this evening. I could fight you on this. If I leave without your signature, this agreement begins to disintegrate. Benefits shrink, options narrow, and your compensation will be shriveled. I think it's in your best interest, Anson, to... Well, I guess this is your lucky day. My lawyers will be in touch with you. Excuse me, has Conrad Van Orton left a message? - I'll check right away, Mr. Van Orton. - Thank you.  I'm so sorry. Here. - Please don't do that. - I'm so sorry. I wasn't even looking. - I'm really having a bad day. - How about a bad month? You did almost the same thing to me last week. - Here. - Don't do that. Just get me some napkins and some soda water. It looks like the cleaning bill's gonna be more than the suit. I don't think so. - It was an accident, sir. - Terrific. I said I was sorry. - Asshole. - Christine. - Mr. Van Orton is a valued customer. - Fine. Then you kiss his ass. - Don't you talk to me like that. - I apologized, I offered to help. - Clean out your locker. - What? You heard me."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2278,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.010782639496028423,
+        0.0037259317468851805,
+        0.11013814806938171,
+        0.12981943786144257,
+        0.0032244734466075897,
+        0.16347040235996246,
+        0.013311285525560379,
+        0.21101151406764984,
+        0.007627192419022322,
+        0.05383275821805,
+        0.023568421602249146,
+        0.007368072867393494,
+        0.015269664116203785,
+        0.0035701023880392313,
+        0.005068769678473473,
+        0.328754723072052,
+        0.021106502041220665,
+        0.003127584233880043,
+        0.0020286771468818188,
+        0.0016541775548830628,
+        0.1430857926607132,
+        0.005730296950787306,
+        0.09940975159406662,
+        0.04742784425616264,
+        0.4905284345149994,
+        0.036067649722099304,
+        0.10912800580263138,
+        0.005378457251936197
+      ],
+      "goemotions_topk": [
+        "remorse",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "remorse",
+      "goemotions_labels": [
+        "remorse"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "I'm terribly sorry, Mr. Van Orton. Will this table suit you for a complimentary meal? It'll be fine. - I'll fetch your waiter. - Thank you. Check, sir. Fuck you and your vichyssoise, you little... Miss? Pardon me, miss. Great, it's you. I don't know how this works, but do you have something for me? I... - I received this note. - What are you babbling about, psycho? I need to know what is going on. I'm going on my second job this month, and now it looks like I'm going on unemployment. - Maybe I should try to explain... - Don't explain, just fuck off. (GROANING) Son of a bitch. I'm trying to... I am apologizing. (MAN GROANING) Jesus. What is this? (MAN WHEEZING) - What's with him? - He just fell down. Sir, can you hear me? Do you know what to do? I don't even know if he's breathing. Move your head. Don't stand there, get help. Hey, hey. It's okay. - We're gonna get help. - How do we know he's real? There's piss in his pants, is that real enough for you? - Holy God. - He's turning blue. Police. (MAN CHATTERING ON RADIO) - You have to fill these forms out. - I don't know this man. I can't get involved. - I have to detain you. - Detain me? - The report's gotta be filled out. - She can do it. Ride with your wife, we'll meet at the hospital. Two blocks away. She's not my wife. (SIREN BLARING) NICHOLAS: This is insane. Ten minutes ago, I was enjoying a quiet little dinner. I received this note. (SIGHING) - He's breathing, isn't he? - Yes. Is the siren entirely necessary? Right. Let's just talk to someone who can get this over with. Hang on. They need your driver's license number. - Oh, no, you've got to be kidding. - What is happening? This is what I was trying to explain to you. This is a game. - A what? - It's a company. They plan elaborate pranks. I don't really understand it myself. What are you talking about? This is a... The lights, they went out. A hundred people ran away. Oh, so you mean the guy who just pissed himself and turned blue was... Sorry about that. You should be. Why are they involving you? There's gotta be a fucking flashlight. Oh, great. I thought that guy was gonna die. I gave him mouth-to-mouth. I'll see you around. - How do you know that's the way? - I don't. CHRISTINE: Where'd you all go, you motherfucking frat boys? You'd better hide.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm terribly sorry, Mr. Van Orton. Will this table suit you for a complimentary meal? It'll be fine. - I'll fetch your waiter. - Thank you. Check, sir. Fuck you and your vichyssoise, you little... Miss? Pardon me, miss. Great, it's you. I don't know how this works, but do you have something for me? I... - I received this note. - What are you babbling about, psycho? I need to know what is going on. I'm going on my second job this month, and now it looks like I'm going on unemployment. - Maybe I should try to explain... - Don't explain, just fuck off.  Son of a bitch. I'm trying to... I am apologizing.  Jesus. What is this?  - What's with him? - He just fell down. Sir, can you hear me? Do you know what to do? I don't even know if he's breathing. Move your head. Don't stand there, get help. Hey, hey. It's okay. - We're gonna get help. - How do we know he's real? There's piss in his pants, is that real enough for you? - Holy God. - He's turning blue. Police.  - You have to fill these forms out. - I don't know this man. I can't get involved. - I have to detain you. - Detain me? - The report's gotta be filled out. - She can do it. Ride with your wife, we'll meet at the hospital. Two blocks away. She's not my wife.  NICHOLAS: This is insane. Ten minutes ago, I was enjoying a quiet little dinner. I received this note.  - He's breathing, isn't he? - Yes. Is the siren entirely necessary? Right. Let's just talk to someone who can get this over with. Hang on. They need your driver's license number. - Oh, no, you've got to be kidding. - What is happening? This is what I was trying to explain to you. This is a game. - A what? - It's a company. They plan elaborate pranks. I don't really understand it myself. What are you talking about? This is a... The lights, they went out. A hundred people ran away. Oh, so you mean the guy who just pissed himself and turned blue was... Sorry about that. You should be. Why are they involving you? There's gotta be a fucking flashlight. Oh, great. I thought that guy was gonna die. I gave him mouth-to-mouth. I'll see you around. - How do you know that's the way? - I don't. CHRISTINE: Where'd you all go, you motherfucking frat boys? You'd better hide."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3258410096168518,
+        0.32278361916542053,
+        0.524843156337738,
+        0.2877826392650604,
+        0.00426220940425992,
+        0.30459338426589966,
+        0.061360012739896774,
+        0.5331994891166687,
+        0.012983989901840687,
+        0.012011907994747162,
+        0.01615101657807827,
+        0.03664699196815491,
+        0.01132861990481615,
+        0.004637125413864851,
+        0.010507669299840927,
+        0.3245098888874054,
+        0.008207504637539387,
+        0.014842619188129902,
+        0.006003007758408785,
+        0.002155398251488805,
+        0.014129966497421265,
+        0.009457992389798164,
+        0.00815411563962698,
+        0.003486233064904809,
+        0.056401576846838,
+        0.007511938456445932,
+        0.010196289978921413,
+        0.04639437794685364
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "(ELEVATOR DINGING) Lobby? (SIGHING) My brother got me this gift certificate to this company. Well, I got the key out of the mouth of this wooden clown. Never mind. (LOUD THUDDING) (BOTH GASPING) I don't like this. No signal. What is the going rate for a \"trapped-in-the-elevator\" adventure? - Don't even think about it. - Why not? Read the sign. \"Warning, do not attempt to open if elevator stops.\" - \"Use emergency...\" - \"Phone\"? If there was one. \"And wait for help.\" So, let's just wait for help. - Okay, I'll give you a boost. - You can go first. This is not gallantry. If I don't lift you, how will you get up? I don't know. You pull me up. - It's easier my way. Step up. - No. - Oh, please. - I'm not wearing any underwear. Okay? There, I said it. (NICHOLAS SIGHING) Okay. - We can use this like a ladder. - My hero. Let's go. I don't think so. Thank you. (GRUNTING) Damn it, my briefoase! I'll wait. Not as if anybody could open it. - Wait a minute. This is CRS. - What's CRS? The company I was telling you about, that gave me the gift certificate. This is their building. (ALARM BLARING) We'll wait for security to come, and we'll just explain. They'll love that! Explain for both of us. Wait. (TIRES SCREECHING) We don't want to draw any attention. We're just out for a stroll. Run! (SIREN BLARING) We can't fit down there! (POLICE DOGS BARKING) - NICHOLAS: Are you trying to ditch me? - I'm not responsible... I'm not the one who started running! Yeah, well, I'm not the one that started this... (BARKING) - Get up there! - I'm going! CHRISTINE: Here. Climb. Climb. (GRUNTING) (GROWLING) (EXCLAIMS) (BARKING) So where's your modesty around attack dogs? Shut up! Stupid fucking dogs. Let me guess. I go first. (GRUNTING) - There goes $1,000. - Your shoes cost $1,000? That one did. (BANGING) Here, come on. (DOGS BARKING) (SIRENS BLARING) CHRISTINE: Watch out for nails and rats. There should be a fire escape. That's classic. Why me? (SPEAKING FOREIGN LANGUAGE) Who are you? Nicholas Van Orton. What are you, a tsar or something? All right. I think, if we drop from here, the garbage will break our fall. I think not. Be careful! What the fuck are you looking at? Oh, shit. (EXCLAIMS) (SCREAMS) (LAUGHING) Table for two, please. CHRISTINE: Where are we going? That tall, bright building?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Lobby?  My brother got me this gift certificate to this company. Well, I got the key out of the mouth of this wooden clown. Never mind.   I don't like this. No signal. What is the going rate for a \"trapped-in-the-elevator\" adventure? - Don't even think about it. - Why not? Read the sign. \"Warning, do not attempt to open if elevator stops.\" - \"Use emergency...\" - \"Phone\"? If there was one. \"And wait for help.\" So, let's just wait for help. - Okay, I'll give you a boost. - You can go first. This is not gallantry. If I don't lift you, how will you get up? I don't know. You pull me up. - It's easier my way. Step up. - No. - Oh, please. - I'm not wearing any underwear. Okay? There, I said it.  Okay. - We can use this like a ladder. - My hero. Let's go. I don't think so. Thank you.  Damn it, my briefoase! I'll wait. Not as if anybody could open it. - Wait a minute. This is CRS. - What's CRS? The company I was telling you about, that gave me the gift certificate. This is their building.  We'll wait for security to come, and we'll just explain. They'll love that! Explain for both of us. Wait.  We don't want to draw any attention. We're just out for a stroll. Run!  We can't fit down there!  - NICHOLAS: Are you trying to ditch me? - I'm not responsible... I'm not the one who started running! Yeah, well, I'm not the one that started this...  - Get up there! - I'm going! CHRISTINE: Here. Climb. Climb.     So where's your modesty around attack dogs? Shut up! Stupid fucking dogs. Let me guess. I go first.  - There goes $1,000. - Your shoes cost $1,000? That one did.  Here, come on.   CHRISTINE: Watch out for nails and rats. There should be a fire escape. That's classic. Why me?  Who are you? Nicholas Van Orton. What are you, a tsar or something? All right. I think, if we drop from here, the garbage will break our fall. I think not. Be careful! What the fuck are you looking at? Oh, shit.    Table for two, please. CHRISTINE: Where are we going? That tall, bright building?"
+      ],
+      "scene_length_chars": 2297,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.1198224425315857,
+        0.0011498405365273356,
+        0.2494831383228302,
+        0.06060369685292244,
+        0.0021794838830828667,
+        0.09257374703884125,
+        0.033318184316158295,
+        0.2172757387161255,
+        0.00428821099922061,
+        0.005419107619673014,
+        0.007197646424174309,
+        0.015263800509274006,
+        0.0037409423384815454,
+        0.005020590033382177,
+        0.03446640819311142,
+        0.25212934613227844,
+        0.005227108485996723,
+        0.00200083339586854,
+        0.002280039479956031,
+        0.003238259581848979,
+        0.013712702319025993,
+        0.005985267926007509,
+        0.00799502246081829,
+        0.010716242715716362,
+        0.003221581457182765,
+        0.0022437411826103926,
+        0.027353284880518913,
+        0.2138013243675232
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "anger",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "It's right near there. POLICE OFFICER: Everything okay, miss? Yeah. How are you doing? San Francisco's finest. Is there some place I could throw this? There's a waste basket beside the desk. I think I have a fresh sweatshirt for you somewhere. CHRISTINE: That'd be great. You know, you've never even asked me my name. The maître d' said your name was Christine. Oh, right. I guess I'll call you a cab. (SIGHING) - You got a shower in your office? - Yeah. You an athlete or something? (CHUCKLES) No, I'm an investment banker. I move money from one place to another. Actually, would you mind if I just quickly rinsed off? No. - Is there a towel I could use? - Yeah, it's behind the door. - Oh. I'll just be a second. - No problem. Listen, I know the owner of the City Club. I'd be happy to give him a call if you'd like. Don't. It was a shitty job anyway. I overreacted. I... I have a confession to make. Someone gave me 400 bucks to spill drinks on you as a practical joke. Really? And what did they say? They said, \"300,\" I said, \"400,\" they said, \"The guy in the gray flannel suit.\" I think I said, \"The attractive guy in the gray flannel suit?\" MAN: Mr. Van Orton. I was afraid you weren't going to make it back. (PHONE RINGING) - Hello? - Mr. Van Orton? It's Maria. I thought I should call. - What time is it? - It's 11:00. I rescheduled your meeting with Allison and Dietrich. No, I'll be in there in an hour. Can you... I left my briefoase at 1019 Montgomery Street. Can you check with Lost and Found, please? Anson Baer is at the Ritz-Carlton. He's requesting dinner. We'll see about that. And the Hotel Nikko called to say they have your American Express card. You left it there last night? - Should I send someone? - Give me the number. - 565-1111. - I'll call you back. (RINGING) - MAN: Hotel Nikko. - This is Nicholas Van Orton. - You have my American Express card? - Yes, everything's in order. There will be wine and flowers in the room, and a young woman phoned to say she's en routo but running late. Did the young woman leave her name? - I'm sure I don't know. - Of course, you don't. Thank you. Sorry. My fault. (CLEARING THROAT) Mr. Van Orton. Welcome back. Here we go. Have we met? I believe so. If you'll just sign here, on this signature card. (SERVICE BELL RINGING) Thank you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "It's right near there. POLICE OFFICER: Everything okay, miss? Yeah. How are you doing? San Francisco's finest. Is there some place I could throw this? There's a waste basket beside the desk. I think I have a fresh sweatshirt for you somewhere. CHRISTINE: That'd be great. You know, you've never even asked me my name. The maître d' said your name was Christine. Oh, right. I guess I'll call you a cab.  - You got a shower in your office? - Yeah. You an athlete or something?  No, I'm an investment banker. I move money from one place to another. Actually, would you mind if I just quickly rinsed off? No. - Is there a towel I could use? - Yeah, it's behind the door. - Oh. I'll just be a second. - No problem. Listen, I know the owner of the City Club. I'd be happy to give him a call if you'd like. Don't. It was a shitty job anyway. I overreacted. I... I have a confession to make. Someone gave me 400 bucks to spill drinks on you as a practical joke. Really? And what did they say? They said, \"300,\" I said, \"400,\" they said, \"The guy in the gray flannel suit.\" I think I said, \"The attractive guy in the gray flannel suit?\" MAN: Mr. Van Orton. I was afraid you weren't going to make it back.  - Hello? - Mr. Van Orton? It's Maria. I thought I should call. - What time is it? - It's 11:00. I rescheduled your meeting with Allison and Dietrich. No, I'll be in there in an hour. Can you... I left my briefoase at 1019 Montgomery Street. Can you check with Lost and Found, please? Anson Baer is at the Ritz-Carlton. He's requesting dinner. We'll see about that. And the Hotel Nikko called to say they have your American Express card. You left it there last night? - Should I send someone? - Give me the number. - 565-1111. - I'll call you back.  - MAN: Hotel Nikko. - This is Nicholas Van Orton. - You have my American Express card? - Yes, everything's in order. There will be wine and flowers in the room, and a young woman phoned to say she's en routo but running late. Did the young woman leave her name? - I'm sure I don't know. - Of course, you don't. Thank you. Sorry. My fault.  Mr. Van Orton. Welcome back. Here we go. Have we met? I believe so. If you'll just sign here, on this signature card.  Thank you."
+      ],
+      "scene_length_chars": 2297,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.04606582224369049,
+        0.0007838543388061225,
+        0.003456281265243888,
+        0.008187011815607548,
+        0.002394476206973195,
+        0.031014136970043182,
+        0.027244074270129204,
+        0.4066131114959717,
+        0.005440620705485344,
+        0.04463918134570122,
+        0.0039559099823236465,
+        0.004242282826453447,
+        0.001359177753329277,
+        0.0014493893831968307,
+        0.2847425043582916,
+        0.33289968967437744,
+        0.001754413708113134,
+        0.0006970739341340959,
+        0.0012257631169632077,
+        0.0026551519986242056,
+        0.06244748830795288,
+        0.000870940275490284,
+        0.004564520437270403,
+        0.003194688120856881,
+        0.012942622415721416,
+        0.0027121196035295725,
+        0.0017372301081195474,
+        0.08928212523460388
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "fear"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "My key? Don't I get a key? - Didn't I give you one last night? - No, I don't think so. Cute. That's very cute. - This way, sir. - Thank you. Have a nice stay. (DOOR CLOSING) (WOMAN MOANING) (MAN BREATHING HEAVILY) (MOANING) (KNOCKING ON DOOR) WOMAN: Housekeeping. Could you come back a little later? (EXCLAIMS) Thank you, sir. (TIRES SCREECHING) (BEEPING) Where the fuck is he? - Jesus! - Why are you following me? What are you talking about? I'm not following you, I'm just driving. - Whatever I'm doing is none... - Is Anson Baer \"The Game\"? - Is that what this is all about? - Look, buddy, back off, huh? Oh, that's cute. That's really cute. I suppose \"The Game\" uses real bullets, huh? MAN: Jesus Christ! All right, I'm a private investigator. Somebody hired me to keep tabs on you. Who hired you? Who hired you? (PHONE RINGING) - Mr. Van... - Maria, get hold of Sutherland. Have him meet me at the Ritz-Carlton. I'm on my way. (SIGHING) - What's happened? - Follow me, Sam. Nicholas. This is unexpected. Now, do you really believe that just because you publish children's books, people will care about my reputation? You can have pictures of me wearing nipple rings, fucking Captain Kangaroo, they only care about the stock! And whether that stock is up or down! - Daddy? - It's all right. And the fact that you bring Conrad into this juvenile game is unconscionable. - Are you finished? - (SHOUTING) No, I'm not finished. Meet my attorney, Samuel Sutherland. The two of you have something to talk about. We met this morning. I signed the termination contract for Baer/Grant. I accepted your settlement, Nicholas. You were right. I'm going sailing. You know, sailing. You are welcome to join our luncheon. Maybe we can straighten this out. You remember my wife, Mary Carol, and my daughter-in-law, Kaleigh. Please accept my misguided... - How concerned should I be? - It was a misunderstanding. It looks a lot like you. You should see what they do with the nightly news. What? - Can I ask you to do me a favor? - You know you can. Find out about a company called Consumer Recreation Services. Sounds like they make tennis racquets. What do you know? Wait a minute. They gave me a waiver. - What is this? - It's a... What's... (GASPING) I don't believe it. It's invisible ink.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "My key? Don't I get a key? - Didn't I give you one last night? - No, I don't think so. Cute. That's very cute. - This way, sir. - Thank you. Have a nice stay.      WOMAN: Housekeeping. Could you come back a little later?  Thank you, sir.   Where the fuck is he? - Jesus! - Why are you following me? What are you talking about? I'm not following you, I'm just driving. - Whatever I'm doing is none... - Is Anson Baer \"The Game\"? - Is that what this is all about? - Look, buddy, back off, huh? Oh, that's cute. That's really cute. I suppose \"The Game\" uses real bullets, huh? MAN: Jesus Christ! All right, I'm a private investigator. Somebody hired me to keep tabs on you. Who hired you? Who hired you?  - Mr. Van... - Maria, get hold of Sutherland. Have him meet me at the Ritz-Carlton. I'm on my way.  - What's happened? - Follow me, Sam. Nicholas. This is unexpected. Now, do you really believe that just because you publish children's books, people will care about my reputation? You can have pictures of me wearing nipple rings, fucking Captain Kangaroo, they only care about the stock! And whether that stock is up or down! - Daddy? - It's all right. And the fact that you bring Conrad into this juvenile game is unconscionable. - Are you finished? -  No, I'm not finished. Meet my attorney, Samuel Sutherland. The two of you have something to talk about. We met this morning. I signed the termination contract for Baer/Grant. I accepted your settlement, Nicholas. You were right. I'm going sailing. You know, sailing. You are welcome to join our luncheon. Maybe we can straighten this out. You remember my wife, Mary Carol, and my daughter-in-law, Kaleigh. Please accept my misguided... - How concerned should I be? - It was a misunderstanding. It looks a lot like you. You should see what they do with the nightly news. What? - Can I ask you to do me a favor? - You know you can. Find out about a company called Consumer Recreation Services. Sounds like they make tennis racquets. What do you know? Wait a minute. They gave me a waiver. - What is this? - It's a... What's...  I don't believe it. It's invisible ink."
+      ],
+      "scene_length_chars": 2280,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3323749005794525,
+        0.0015741729876026511,
+        0.03547150641679764,
+        0.015665918588638306,
+        0.036237724125385284,
+        0.04278950020670891,
+        0.034791458398103714,
+        0.3539541959762573,
+        0.00845110323280096,
+        0.004635179881006479,
+        0.0035375962033867836,
+        0.0017882491229102015,
+        0.001149473013356328,
+        0.013970625586807728,
+        0.0030105654150247574,
+        0.3341437578201294,
+        0.0014239465817809105,
+        0.0030539839062839746,
+        0.014178701676428318,
+        0.0009287982247769833,
+        0.013904322870075703,
+        0.005061763804405928,
+        0.015131570398807526,
+        0.0018222890794277191,
+        0.002187995007261634,
+        0.0012957289582118392,
+        0.13300521671772003,
+        0.16329681873321533
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "You're joking. I'm being toyed with by a bunch of depraved children. This... Are you okay? Tell me not to worry. You don't have to worry. I promise. Okay. SAM: I'll call you later. Right. Okay, right. Maria, last night I got a taxi for a young woman named Christine. - What's the company we use? - United? - What? - United Taxi Company. Call them, find out who the driver was and where they took her. (ENGAGED TONE BLARING ON PHONE) Llsa? (EXCLAIMS) Shit! (BLARING STOPS) (FOOTSTEPS RUNNING) (SHOUTING) I have a gun! (CRASHING) (WHITE RABBIT PLAYING LOUDLY) You fuckers. (KNOCKING ON DOOR) Llsa? - Ilsa? - Mr. Van Orton! What's happened? You haven't seen the house? There's been a break-in. Stay inside. Lock your door. Be careful. - WOMAN: 911 Emergency. - I need the police. There's been a break-in in my house. Give me your address. 2210 Broadway. It's the biggest house on the street. - You said it was a break-in? - Yes. Are you sure they're gone? What? Are you sure there's not still someone in the house? (SCREAMING) Nickie! - Sir, are you still there? - Meet me at your car. Sir? All right, what happened? (SHUSHING) - Conrad, where are we going? - Just wait. What are you doing? If I can't trust room service in the hotel, I can't trust the fucking car. - Who? - CRS. When I think what I almost got you into. - What are you saying? - I'm so fucked! They just fuck you and they fuck you and they fuck you. Then when you think it's over, the real fucking starts. Take a breath. They won't stop, Nick. I gave them their fucking money. They won't leave me alone. - What are they doing to you? - I'm a goddamn human pinafa! Why do they keep playing if you already paid? I don't know. I paid them more to make it stop. (TIRE BURSTING) (SCREECHING) (CARS HONKING) (HISSING) - They did this. - It's a flat tire. - How do you know? - Get a grip on yourself. We'll figure it out. Okay. Okay. - The phone doesn't work. - Really? - Can you change a tire? - No. Can you? I don't think we should be out in the open. Get the Teletrac. It's in the glove compartment. You're with them. - What? - You're doing this. You're part of it. Whose are these? Somebody put them in the car. - You're behind it, aren't you? - You brought them to me. These were in your car! They were right there in your fucking car!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You're joking. I'm being toyed with by a bunch of depraved children. This... Are you okay? Tell me not to worry. You don't have to worry. I promise. Okay. SAM: I'll call you later. Right. Okay, right. Maria, last night I got a taxi for a young woman named Christine. - What's the company we use? - United? - What? - United Taxi Company. Call them, find out who the driver was and where they took her.  Llsa?  Shit!    I have a gun!   You fuckers.  Llsa? - Ilsa? - Mr. Van Orton! What's happened? You haven't seen the house? There's been a break-in. Stay inside. Lock your door. Be careful. - WOMAN: 911 Emergency. - I need the police. There's been a break-in in my house. Give me your address. 2210 Broadway. It's the biggest house on the street. - You said it was a break-in? - Yes. Are you sure they're gone? What? Are you sure there's not still someone in the house?  Nickie! - Sir, are you still there? - Meet me at your car. Sir? All right, what happened?  - Conrad, where are we going? - Just wait. What are you doing? If I can't trust room service in the hotel, I can't trust the fucking car. - Who? - CRS. When I think what I almost got you into. - What are you saying? - I'm so fucked! They just fuck you and they fuck you and they fuck you. Then when you think it's over, the real fucking starts. Take a breath. They won't stop, Nick. I gave them their fucking money. They won't leave me alone. - What are they doing to you? - I'm a goddamn human pinafa! Why do they keep playing if you already paid? I don't know. I paid them more to make it stop.     - They did this. - It's a flat tire. - How do you know? - Get a grip on yourself. We'll figure it out. Okay. Okay. - The phone doesn't work. - Really? - Can you change a tire? - No. Can you? I don't think we should be out in the open. Get the Teletrac. It's in the glove compartment. You're with them. - What? - You're doing this. You're part of it. Whose are these? Somebody put them in the car. - You're behind it, aren't you? - You brought them to me. These were in your car! They were right there in your fucking car!"
+      ],
+      "scene_length_chars": 2297,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0022050291299819946,
+        0.27294254302978516,
+        0.6941716074943542,
+        0.1410108208656311,
+        0.000567592098377645,
+        0.01078831497579813,
+        0.023108595982193947,
+        0.14464914798736572,
+        0.0044492571614682674,
+        0.005143434274941683,
+        0.0028198305517435074,
+        0.01538535300642252,
+        0.0017560283886268735,
+        0.0014462461695075035,
+        0.018635988235473633,
+        0.0009976308792829514,
+        0.0022580812219530344,
+        0.004005493130534887,
+        0.0017039006343111396,
+        0.001107082818634808,
+        0.005278715863823891,
+        0.0005104816518723965,
+        0.001754776225425303,
+        0.00017858383944258094,
+        0.000829093623906374,
+        0.002000521868467331,
+        0.010346208699047565,
+        0.04211100935935974
+      ],
+      "goemotions_topk": [
+        "anger",
+        "amusement",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "Conrad! Listen to yourself. - You won't control this conversation. - Why would I do what you're describing? - You resent me. - Stop being emotional. - It kills you that I'm living my life. - Lower your voice! You afraid someone's gonna witness a scene? - Get back to your house! - Stop it. I'm calling the cops. You're afraid someone will see what a control freak you are. What is wrong with you? Oh, I'm sorry I didn't live up to expectations. - Oh, bullshit. - I'm not you. I don't wanna be you. - There you go again. - I'm your brother. Pushing the responsibility on me. - I'm your brother! - All I ever tried to do was help you. I don't want your help. Nobody asked you to play Dad. No! You don't say that! Did I have a choice? Did I have a choice? (CAR HONKING) (DRIVER CURSING) Conrad! (PAY PHONE RINGING) (RINGING) (ALL PAY PHONES RINGING) NICHOLAS ON PHONE: All I ever tried to do was help you. CONRAD ON PHONE: Nobody asked you to play Dad. NICHOLAS ON PHONE: Did I have a choice? (PANTING) Taxi! 2210 Broadway. (SIGHING) (SOFT MUSIC PLAYING ON RADIO) Hey, buddy, you missed the turn. Hey! Do you hear me? You missed the turn... (DRIVER CHUCKLING) Oh, no. No. Stop the car. Stop the car! (TIRES SCREECHING) Thank you. Open the door. Unlock the door. Open the goddamned door! (TIRES SCREECHING) Listen, I am a very wealthy man (CACKLING) And whatever they're paying you, I'll double it. (SCREAMING) Jesus... (PANTING) No! (YELLING) MAN: Are you out of your fucking mind? It's a game. If it's a game... (GASPING) Here they are. - Detective, I'm Sam Sutherland. - Tim Foley. FOLEY: Do you know where we're going? SAM: This way. 14th floor. FOLEY: Okay, management for the building says the space hasn't been officially rented yet. The County Recorder has no listing for a Consumer Recreation Service or any derivation thereof. When the divers find the cab, they'll pull the plates. - Have you spoken to your brother? - He hasn't called me back yet. - What about the house? - The graffiti was oil-based. - Illegal in the States. - It's not impossible to trace. The photo, the gun, the clown, the ambulance, it's all pending. Breaking and entering, we got solid. Malicious mischief, vandalism and harassment. Illegal surveillance, reckless endangerment... Attempted murder.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Conrad! Listen to yourself. - You won't control this conversation. - Why would I do what you're describing? - You resent me. - Stop being emotional. - It kills you that I'm living my life. - Lower your voice! You afraid someone's gonna witness a scene? - Get back to your house! - Stop it. I'm calling the cops. You're afraid someone will see what a control freak you are. What is wrong with you? Oh, I'm sorry I didn't live up to expectations. - Oh, bullshit. - I'm not you. I don't wanna be you. - There you go again. - I'm your brother. Pushing the responsibility on me. - I'm your brother! - All I ever tried to do was help you. I don't want your help. Nobody asked you to play Dad. No! You don't say that! Did I have a choice? Did I have a choice?   Conrad!    NICHOLAS ON PHONE: All I ever tried to do was help you. CONRAD ON PHONE: Nobody asked you to play Dad. NICHOLAS ON PHONE: Did I have a choice?  Taxi! 2210 Broadway.   Hey, buddy, you missed the turn. Hey! Do you hear me? You missed the turn...  Oh, no. No. Stop the car. Stop the car!  Thank you. Open the door. Unlock the door. Open the goddamned door!  Listen, I am a very wealthy man  And whatever they're paying you, I'll double it.  Jesus...  No!  MAN: Are you out of your fucking mind? It's a game. If it's a game...  Here they are. - Detective, I'm Sam Sutherland. - Tim Foley. FOLEY: Do you know where we're going? SAM: This way. 14th floor. FOLEY: Okay, management for the building says the space hasn't been officially rented yet. The County Recorder has no listing for a Consumer Recreation Service or any derivation thereof. When the divers find the cab, they'll pull the plates. - Have you spoken to your brother? - He hasn't called me back yet. - What about the house? - The graffiti was oil-based. - Illegal in the States. - It's not impossible to trace. The photo, the gun, the clown, the ambulance, it's all pending. Breaking and entering, we got solid. Malicious mischief, vandalism and harassment. Illegal surveillance, reckless endangerment... Attempted murder."
+      ],
+      "scene_length_chars": 2277,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.00949904229491949,
+        0.000736720918212086,
+        0.32632043957710266,
+        0.19359265267848969,
+        0.0006122818449512124,
+        0.00565441744402051,
+        0.0162484273314476,
+        0.0747779831290245,
+        0.001225192449055612,
+        0.1439083218574524,
+        0.05940563604235649,
+        0.005813617259263992,
+        0.0027945246547460556,
+        0.0009798748651519418,
+        0.16502828896045685,
+        0.2961130738258362,
+        0.007941880263388157,
+        0.0021115064155310392,
+        0.000742305361200124,
+        0.0018861092394217849,
+        0.0016010369872674346,
+        0.0033513072412461042,
+        0.003993436228483915,
+        0.017942525446414948,
+        0.009897182695567608,
+        0.01097602117806673,
+        0.005766327027231455,
+        0.329192191362381
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 15,
+      "heading": null,
+      "raw_text": "Except you said you hired these guys. - That's irrelevant. - No, look. It's our job to tell you what we've got. So far we don't have a motive. What was my father like, Ilsa? Why do you ask? I don't know. All the time I've known you, you've never once asked about him. (SIGHING) - I guess he was just on my mind. - Your mother loved your father very much. I think he just worked too hard. NICHOLAS: Was he... Morose? I mean... What I remember most was that his manner was so slight. You could spend time in a room and not know he'd been there the whole time. No, what I mean is... - Before he... - What happened? No. Nobody expected it. I wonder how much of him there is in me. Not much, I think. - Was Mother worried about him? - Nobody ever worried about your father. (PHONE RINGING) Yes. MARIA: I found the address from United Taxi. Give it to me. (LOCKS BEEPING) (TIRES SCREECHING) Who are you? Christine, is she here? She's sleeping. CHRISTINE: Amy, who is it? - What are you doing here? - Can we talk? Sure. - Hi. - Hi. - Didn't think I'd see you again. - What can you tell me about these? Is this you? - Where'd you get them? - My hotel room. It was in my hotel room. Are you telling me this is not you? What makes you think this is me? The bra, the red bra. Okay. Well, I thought that... - Can I sit down for a minute? - Sure. Are you all right? You're not all right, are you? Is it this contest thing that you're in still, or... I'm sorry. I should go. No, it's okay. I'll put some clothes on and be right back. Do you have an aspirin? Can I get you something to drink? Is this you? Oh, yeah, that's First Communion. - Show it to me. - What's wrong? Take the picture out of the frame and show it to me. All right. - (WHISPERING) They're watching. - What? Not here. They can see. The smoke detector. What do you say... Let's go for a drive or something. No, no, no. I am tired of this. - I am goddamn tired of this. - We'll go for a drink, then. Who do you think you are? Who do you think you are... Come on out of there! - Nicholas, please! - Let's go. Come out of there right now! Now you've done it. Shit! - So what are they gonna do? - Get away from the window. (GUN COCKING) What the... (RADIO CRACKLING) - What is this? - Wake up. It's a fucking con. (MEN SHOUTING) CHRISTINE: Get in!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Except you said you hired these guys. - That's irrelevant. - No, look. It's our job to tell you what we've got. So far we don't have a motive. What was my father like, Ilsa? Why do you ask? I don't know. All the time I've known you, you've never once asked about him.  - I guess he was just on my mind. - Your mother loved your father very much. I think he just worked too hard. NICHOLAS: Was he... Morose? I mean... What I remember most was that his manner was so slight. You could spend time in a room and not know he'd been there the whole time. No, what I mean is... - Before he... - What happened? No. Nobody expected it. I wonder how much of him there is in me. Not much, I think. - Was Mother worried about him? - Nobody ever worried about your father.  Yes. MARIA: I found the address from United Taxi. Give it to me.   Who are you? Christine, is she here? She's sleeping. CHRISTINE: Amy, who is it? - What are you doing here? - Can we talk? Sure. - Hi. - Hi. - Didn't think I'd see you again. - What can you tell me about these? Is this you? - Where'd you get them? - My hotel room. It was in my hotel room. Are you telling me this is not you? What makes you think this is me? The bra, the red bra. Okay. Well, I thought that... - Can I sit down for a minute? - Sure. Are you all right? You're not all right, are you? Is it this contest thing that you're in still, or... I'm sorry. I should go. No, it's okay. I'll put some clothes on and be right back. Do you have an aspirin? Can I get you something to drink? Is this you? Oh, yeah, that's First Communion. - Show it to me. - What's wrong? Take the picture out of the frame and show it to me. All right. -  They're watching. - What? Not here. They can see. The smoke detector. What do you say... Let's go for a drive or something. No, no, no. I am tired of this. - I am goddamn tired of this. - We'll go for a drink, then. Who do you think you are? Who do you think you are... Come on out of there! - Nicholas, please! - Let's go. Come out of there right now! Now you've done it. Shit! - So what are they gonna do? - Get away from the window.  What the...  - What is this? - Wake up. It's a fucking con.  CHRISTINE: Get in!"
+      ],
+      "scene_length_chars": 2297,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.00956703256815672,
+        0.0034564894158393145,
+        0.22129176557064056,
+        0.2764534652233124,
+        0.0006970455287955701,
+        0.01670229621231556,
+        0.026680568233132362,
+        0.5374975800514221,
+        0.003212013514712453,
+        0.008113298565149307,
+        0.004017226863652468,
+        0.06459703296422958,
+        0.0018876626854762435,
+        0.006684015970677137,
+        0.08975642919540405,
+        0.0007450892589986324,
+        0.0033217452000826597,
+        0.0007294570095837116,
+        0.006664158310741186,
+        0.009690751321613789,
+        0.0016668584430590272,
+        0.0005625388002954423,
+        0.0057174027897417545,
+        0.0003562235797289759,
+        0.0019619406666606665,
+        0.007218626793473959,
+        0.14025937020778656,
+        0.05303065478801727
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "annoyance",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": null,
+      "raw_text": "(CAR ALARM WAILING) (TIRES SCREECHING) You all right? Hold on. (SCREECHING) Get out of the car. - I could've handed you to them. - Get out of the goddamn car! You don't have a choice. No one else is gonna tell you what's going on. You wanna know? 'Cause if I'm gone, you never will. They didn't take the time to get the fucking house right. - Who are they? - I don't know. I'm an employee. - Then what good are you? - Your brother was in on it. That's a lie. Yeah? I was your waitress on your birthday. Connie told you about CRS. Sorry. It wasn't his fault. I guess he thought it was his only way out. They fleeced him real good. - How did they get to him? - Same thing they did to you. - What are you talking about? - You checked your accounts? I got the number to your modem. That gave CRS remote access to your computer. - You gave them everything else. - What? You took their tests. Handwriting, psych info. They used it all to figure out your passwords. Feingold, the guy who signed you up, he did five years for hacking Citibank. They broke into your financial network, transferred your holdings into dummy accounts. Overseas operator, please. - Why else are they shooting at us? - Allgemeine Bank, Zurich. Because they're finished with you. Alive or dead's the same. As long as you disappear. (SPEAKING GERMAN) Yes. Blue, 2, backslash, 9690, D as in David. That's right. The balance? - That's impossible. - They already got it, Nicholas. They got everything. ELECTRONIC VOICE: This is the Sutherlands. Please leave a message. Sam, I have checked them all. I don't know how, but they have drained my accounts. They're trying to kill me. Call the cops. I've got one of them right here. We'll make her testity. I know how this sounds, but you call me, on my cellular. And you be careful. He cut your card in half, so... My treat. (SPOON STIRRING) You take two sugars, right? Never mind. My name's not Christine. It's... Who fucking cares? It's just money. You should be glad you're alive. I'd rather not talk about it right now. - Someone like you... - How many times have you done this? - What? - These scams, con games. How many? Lots. Whatever bullshit you pulled in the past, this is more than just me. This is pension plans, payrolls. This is $600 million. (PHONE RINGING) - Yes.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You all right? Hold on.  Get out of the car. - I could've handed you to them. - Get out of the goddamn car! You don't have a choice. No one else is gonna tell you what's going on. You wanna know? 'Cause if I'm gone, you never will. They didn't take the time to get the fucking house right. - Who are they? - I don't know. I'm an employee. - Then what good are you? - Your brother was in on it. That's a lie. Yeah? I was your waitress on your birthday. Connie told you about CRS. Sorry. It wasn't his fault. I guess he thought it was his only way out. They fleeced him real good. - How did they get to him? - Same thing they did to you. - What are you talking about? - You checked your accounts? I got the number to your modem. That gave CRS remote access to your computer. - You gave them everything else. - What? You took their tests. Handwriting, psych info. They used it all to figure out your passwords. Feingold, the guy who signed you up, he did five years for hacking Citibank. They broke into your financial network, transferred your holdings into dummy accounts. Overseas operator, please. - Why else are they shooting at us? - Allgemeine Bank, Zurich. Because they're finished with you. Alive or dead's the same. As long as you disappear.  Yes. Blue, 2, backslash, 9690, D as in David. That's right. The balance? - That's impossible. - They already got it, Nicholas. They got everything. ELECTRONIC VOICE: This is the Sutherlands. Please leave a message. Sam, I have checked them all. I don't know how, but they have drained my accounts. They're trying to kill me. Call the cops. I've got one of them right here. We'll make her testity. I know how this sounds, but you call me, on my cellular. And you be careful. He cut your card in half, so... My treat.  You take two sugars, right? Never mind. My name's not Christine. It's... Who fucking cares? It's just money. You should be glad you're alive. I'd rather not talk about it right now. - Someone like you... - How many times have you done this? - What? - These scams, con games. How many? Lots. Whatever bullshit you pulled in the past, this is more than just me. This is pension plans, payrolls. This is $600 million.  - Yes."
+      ],
+      "scene_length_chars": 2288,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0027957437559962273,
+        0.0018352208426222205,
+        0.40397801995277405,
+        0.12668977677822113,
+        0.001020897994749248,
+        0.22931915521621704,
+        0.0339934341609478,
+        0.3167910575866699,
+        0.002727954648435116,
+        0.005944663193076849,
+        0.006799530237913132,
+        0.0073482804000377655,
+        0.0015346474247053266,
+        0.005319906398653984,
+        0.1788652539253235,
+        0.0015191617421805859,
+        0.008711081929504871,
+        0.006368593778461218,
+        0.0017796301981434226,
+        0.004028933122754097,
+        0.007866937667131424,
+        0.0006156247109174728,
+        0.0026352994609624147,
+        0.0006173379370011389,
+        0.002694956958293915,
+        0.014159505255520344,
+        0.020650221034884453,
+        0.038694094866514206
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": null,
+      "raw_text": "- Nick, it's Sam. I got your message. I was disturbed. - So what are we gonna do? - I've been on the phone already. Nicholas, your funds are intact. Nothing's been touched. I checked on them myself. - CHRISTINE: Who is it? - I made the calls. Nothing's changed. Not one cent is unaccounted for. Who is it? - My attorney says nothing is missing. - He's in on it. Stay where you are until I get there. - Sutherland's in on it. - Nicholas, I have another call. Give me your precise location. Nicholas? Gotta get out of here. (PHONE RINGING) How did they get to him? Why did... I wouldn't worry about it. What do you mean? It's out of your hands. CHRISTINE: Cellular calls can be intercepted. All those calls you made, B of A, France, Switzerland... You were talking to us. You filled in the blanks, access codes and passwords. Stuff even your lawyer didn't have. We have it now so we're done. Bye, Nicholas. (GASPING) Embassy? American? Thank you. Things have happened and it's important... (SHUSHING) No money, no identification, no passport. What happened to you? (SIGHS) Where to begin... - It's complicated. - It always is. I was on holiday alone and I was robbed by two men... Robbed? What hotel were you staying at? I don't remember. I... Have you gone to the police? I don't speak Spanish. And I just need enough to get out of here. We'll help with the local law enforcement if you want. As far as money is concerned, can I make a suggestion? You say you were mugged? And they didn't take that watch? How much is a watch like that worth? A couple of hundred at least. A man with a watch like that doesn't necessarily have a passport problem. Excuse me. Can I have your attention, please? Thank you. Anybody here going to San Francisco? I need a ride. I got $18.78... For a ride to San Francisco. Anybody? (MEN CHATTERING ON RADIO) (GLASS SHATTERING) (EXCLAIMING) Keep the change. Conrad Van Orton. Could you ring his room, please? One moment, please. Is there a problem? - You're here for Conrad Van Orton? - Yes. - I'm the hotel manager. - Where is my brother? - Will you come with me? - Wait a minute. Is there trouble? Sir, this is a private matter for you. There were complaints by other guests, damage to his room. We did our best to accommodate his behavior. - His behavior?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Nick, it's Sam. I got your message. I was disturbed. - So what are we gonna do? - I've been on the phone already. Nicholas, your funds are intact. Nothing's been touched. I checked on them myself. - CHRISTINE: Who is it? - I made the calls. Nothing's changed. Not one cent is unaccounted for. Who is it? - My attorney says nothing is missing. - He's in on it. Stay where you are until I get there. - Sutherland's in on it. - Nicholas, I have another call. Give me your precise location. Nicholas? Gotta get out of here.  How did they get to him? Why did... I wouldn't worry about it. What do you mean? It's out of your hands. CHRISTINE: Cellular calls can be intercepted. All those calls you made, B of A, France, Switzerland... You were talking to us. You filled in the blanks, access codes and passwords. Stuff even your lawyer didn't have. We have it now so we're done. Bye, Nicholas.  Embassy? American? Thank you. Things have happened and it's important...  No money, no identification, no passport. What happened to you?  Where to begin... - It's complicated. - It always is. I was on holiday alone and I was robbed by two men... Robbed? What hotel were you staying at? I don't remember. I... Have you gone to the police? I don't speak Spanish. And I just need enough to get out of here. We'll help with the local law enforcement if you want. As far as money is concerned, can I make a suggestion? You say you were mugged? And they didn't take that watch? How much is a watch like that worth? A couple of hundred at least. A man with a watch like that doesn't necessarily have a passport problem. Excuse me. Can I have your attention, please? Thank you. Anybody here going to San Francisco? I need a ride. I got $18.78... For a ride to San Francisco. Anybody?    Keep the change. Conrad Van Orton. Could you ring his room, please? One moment, please. Is there a problem? - You're here for Conrad Van Orton? - Yes. - I'm the hotel manager. - Where is my brother? - Will you come with me? - Wait a minute. Is there trouble? Sir, this is a private matter for you. There were complaints by other guests, damage to his room. We did our best to accommodate his behavior. - His behavior?"
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002326571149751544,
+        0.0009445967734791338,
+        0.013836831785738468,
+        0.002498047659173608,
+        0.00398280518129468,
+        0.04192308709025383,
+        0.046191077679395676,
+        0.6810169816017151,
+        0.006345032248646021,
+        0.0021286970004439354,
+        0.0005771676660515368,
+        0.000670836481731385,
+        0.002470341743901372,
+        0.001995651749894023,
+        0.0018100336892530322,
+        0.3256601393222809,
+        0.0018189068650826812,
+        0.0006807420868426561,
+        0.0012941105524078012,
+        0.0014125731540843844,
+        0.010690897703170776,
+        0.0004577301151584834,
+        0.005598088726401329,
+        0.002294070553034544,
+        0.0024801355320960283,
+        0.0029370610136538744,
+        0.004716907162219286,
+        0.4149695336818695
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 18,
+      "heading": null,
+      "raw_text": "- There was an incident a few days ago. A nervous breakdown, they said. The police took him. They left this address in case anyone came. It's a hospital in Napa, sir. I'm terribly sorry. NICHOLAS: Elizabeth, I need to borrow your car. Nickie, what happened to you? I mean... (SIGHING) - Look at you. - What happened? I don't know. There's things I have to do and I need your car. Of course you can have it. Can't I get you something to eat? You know you're the only person that I can trust? Everyone else... If Sam Sutherland calls, don't tell him you talked to me. You lie to him and whatever else happens... WAITRESS: Coffee, English muffin and your water. This bottle is open. Who opened this bottle? - I opened it. - I don't want it. I want an unopened bottle. I don't want ice, just the glass. Please. Nickie, talk to me. You're scaring me. - I don't even know what you're saying. - I'm sorry, Liz, I don't mean to. I'm sorry. I've been thinking the last couple of days, I've had some spare time... And I wanted to tell you that... I understand why you left me. And I know that I resented it. I want to apologize to you for shutting you out... For not being there. I hope you can forgive me. JIM: You're tired. You've been on the go for days. There's nothing to forgive. Pain sets in. The onset of a migraine headache. If this sounds all too familiar, relief is here at last. No. You bastards! Taggarene. For nearly a decade... How did you find me here? Taggarene is strong medicine for headaches, toothaches... He's an actor. So if you trust your doctor, trust Taggarene. He's an actor on television. Some day I'll explain. Could I borrow your Yellow Pages? (CARS HONKING) Okay... New Moon Cafè. Best in Chinatown. Get out of the car, fucker. Open the door and leave it running. - You're making a mistake. - Get out of the car. - Get the fuck out of the car. - I am extremely fragile right now. New Moon Cafè. - He does commercials. - You know how many customers we have? I know he ordered from you. It went to Montgomery Street. Can anybody help me? He's an actor, like one of these people you have up here on your... Hey, where are you taking my picture? We were hoping he could audition today. He would be perfect for this part. - WOMAN: This will break his heart. - Is there any place to contact him?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- There was an incident a few days ago. A nervous breakdown, they said. The police took him. They left this address in case anyone came. It's a hospital in Napa, sir. I'm terribly sorry. NICHOLAS: Elizabeth, I need to borrow your car. Nickie, what happened to you? I mean...  - Look at you. - What happened? I don't know. There's things I have to do and I need your car. Of course you can have it. Can't I get you something to eat? You know you're the only person that I can trust? Everyone else... If Sam Sutherland calls, don't tell him you talked to me. You lie to him and whatever else happens... WAITRESS: Coffee, English muffin and your water. This bottle is open. Who opened this bottle? - I opened it. - I don't want it. I want an unopened bottle. I don't want ice, just the glass. Please. Nickie, talk to me. You're scaring me. - I don't even know what you're saying. - I'm sorry, Liz, I don't mean to. I'm sorry. I've been thinking the last couple of days, I've had some spare time... And I wanted to tell you that... I understand why you left me. And I know that I resented it. I want to apologize to you for shutting you out... For not being there. I hope you can forgive me. JIM: You're tired. You've been on the go for days. There's nothing to forgive. Pain sets in. The onset of a migraine headache. If this sounds all too familiar, relief is here at last. No. You bastards! Taggarene. For nearly a decade... How did you find me here? Taggarene is strong medicine for headaches, toothaches... He's an actor. So if you trust your doctor, trust Taggarene. He's an actor on television. Some day I'll explain. Could I borrow your Yellow Pages?  Okay... New Moon Cafè. Best in Chinatown. Get out of the car, fucker. Open the door and leave it running. - You're making a mistake. - Get out of the car. - Get the fuck out of the car. - I am extremely fragile right now. New Moon Cafè. - He does commercials. - You know how many customers we have? I know he ordered from you. It went to Montgomery Street. Can anybody help me? He's an actor, like one of these people you have up here on your... Hey, where are you taking my picture? We were hoping he could audition today. He would be perfect for this part. - WOMAN: This will break his heart. - Is there any place to contact him?"
+      ],
+      "scene_length_chars": 2310,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.06912905722856522,
+        0.003786408342421055,
+        0.23612521588802338,
+        0.013540111482143402,
+        0.0013846022775396705,
+        0.09756824374198914,
+        0.1179676428437233,
+        0.25185537338256836,
+        0.01285473257303238,
+        0.045302506536245346,
+        0.008316862396895885,
+        0.0051541682332754135,
+        0.00232821237295866,
+        0.0015871092909947038,
+        0.32580795884132385,
+        0.00230325385928154,
+        0.014376814477145672,
+        0.0011066454462707043,
+        0.0019798260182142258,
+        0.022339733317494392,
+        0.04810681939125061,
+        0.0014960345579311252,
+        0.005364833865314722,
+        0.0007453419384546578,
+        0.15930350124835968,
+        0.0579182393848896,
+        0.0073393420316278934,
+        0.013205434195697308
+      ],
+      "goemotions_topk": [
+        "fear",
+        "curiosity",
+        "anger"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 19,
+      "heading": null,
+      "raw_text": "His beeper's here. He took the kids to the zoo. - The zoo? That's very sweet. Which zoo? - The one with the white tiger. (TIGERS ROARING) Lionel Fisher, I love your work. Okay, please, can I... I got my kids. Get rid of them. All right, guys. Snack time. More snacks. Go, go, go. Look... It was just a job. Nothing personal. I play my part. Improvise a little. - It's what I'm good at. - I need to talk to who's in charge. Nobody knows. Nobody gets the big picture. Tammy, Alex, cut it out! Why do they do that? The offices are empty. I need to find out where they are. Look, they own the whole building. They just move from floor to floor. And you work for them, right? You can get me in. - No, I can't. - Yes, you can. Tell them the police called. Tell them I'm gonna blow the whistle on them. What whistle? There's no whistle. This is very dangerous. I don't think you understand. Right now I am extremely dangerous. Michael, guys, come on, we're leaving. - Well, we're here. - Drive in. What are you gonna do anyway? You won't get your money back. I don't care about money. I'm pulling back the curtain. I wanna meet the wizard. Hey. - He's eyeing us like Tiffeny Towers. - Pull in where they won't see you. (WALKIE-TALKIE CRACKLING) Shit. Stay down. - You're not allowed to be here. - They called me back. I got a fitting. He's with me. - You don't need me. - Shut up. Get in there. Cuff him to the rail. What floor? (ELEVATOR MUSIC PLAYING) SECURITY GUARD: You're fucked! - Where? - They hired me over the phone. - Where'd you pick up your checks? - It was a different floor. - Guess. - This way. Sort of. I don't know. I... Take it easy now. (PLATES SHATTERING) This is gonna be a surprise. Oh, fuck! What are you doing here? Back from the dead. Nicholas, you're not about to shoot anyone. Turn around. You're gonna come with me. Everybody, down! (GASPING) (CHRISTINE SCREAMING) (ALL SCREAMING) (ALARM RINGING) CHRISTINE: Where are we going? Stop! - What do you think you're doing? - You tell me! Who's behind this? Who did this to me? - Why? - What do you mean, why? How deluded can you be? It could've been any asshole with a couple of hundred million in the bank. Get your boss up here. Tell him I'm gonna shoot someone. They won't do it. Oh, yes, they will. Get someone up here because I'm gonna kill you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "His beeper's here. He took the kids to the zoo. - The zoo? That's very sweet. Which zoo? - The one with the white tiger.  Lionel Fisher, I love your work. Okay, please, can I... I got my kids. Get rid of them. All right, guys. Snack time. More snacks. Go, go, go. Look... It was just a job. Nothing personal. I play my part. Improvise a little. - It's what I'm good at. - I need to talk to who's in charge. Nobody knows. Nobody gets the big picture. Tammy, Alex, cut it out! Why do they do that? The offices are empty. I need to find out where they are. Look, they own the whole building. They just move from floor to floor. And you work for them, right? You can get me in. - No, I can't. - Yes, you can. Tell them the police called. Tell them I'm gonna blow the whistle on them. What whistle? There's no whistle. This is very dangerous. I don't think you understand. Right now I am extremely dangerous. Michael, guys, come on, we're leaving. - Well, we're here. - Drive in. What are you gonna do anyway? You won't get your money back. I don't care about money. I'm pulling back the curtain. I wanna meet the wizard. Hey. - He's eyeing us like Tiffeny Towers. - Pull in where they won't see you.  Shit. Stay down. - You're not allowed to be here. - They called me back. I got a fitting. He's with me. - You don't need me. - Shut up. Get in there. Cuff him to the rail. What floor?  SECURITY GUARD: You're fucked! - Where? - They hired me over the phone. - Where'd you pick up your checks? - It was a different floor. - Guess. - This way. Sort of. I don't know. I... Take it easy now.  This is gonna be a surprise. Oh, fuck! What are you doing here? Back from the dead. Nicholas, you're not about to shoot anyone. Turn around. You're gonna come with me. Everybody, down!     CHRISTINE: Where are we going? Stop! - What do you think you're doing? - You tell me! Who's behind this? Who did this to me? - Why? - What do you mean, why? How deluded can you be? It could've been any asshole with a couple of hundred million in the bank. Get your boss up here. Tell him I'm gonna shoot someone. They won't do it. Oh, yes, they will. Get someone up here because I'm gonna kill you."
+      ],
+      "scene_length_chars": 2316,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.011558818630874157,
+        0.0021431909408420324,
+        0.5860966444015503,
+        0.1757676750421524,
+        0.00424247607588768,
+        0.011524797417223454,
+        0.005070934537798166,
+        0.04963449016213417,
+        0.005065377335995436,
+        0.005063043907284737,
+        0.004492976702749729,
+        0.006480170879513025,
+        0.003508924739435315,
+        0.01758788526058197,
+        0.08920507878065109,
+        0.001078329049050808,
+        0.002867802046239376,
+        0.00289284554310143,
+        0.03777695819735527,
+        0.0025494948495179415,
+        0.005109956953674555,
+        0.0025195516645908356,
+        0.0027173105627298355,
+        0.00040362775325775146,
+        0.0008766786777414382,
+        0.0016305092722177505,
+        0.020469164475798607,
+        0.06108716130256653
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "fear"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "heading": null,
+      "raw_text": "They'll let me die. You're not in a position to threaten anyone. - Where'd you get that? - What? That gun. That's not an automatic. - What are you talking about? - Where'd you get the gun? - This is my gun. - We searched the house. Well, I guess you missed this. We got a real goddamn gun up here. (WALKIE-TALKIE CRACKLING) - This is fake. It's part of your game. - Don't start with me! - Listen to me! - Don't you fucking start with me! This is all the game. Bullshit. They shot that guy Feingold, Fisher. - They killed him. I saw them kill him. - What did you really see this whole time? Special effects. Squibs, like in the movies. Nicholas, listen! He's got a real gun. Okay, I'll put it down! Fisher's behind that door. He's an actor. - You're trying to kill me. - No one's trying to kill you. You're about to make a big mistake. There was a safety net. The taxi, there was a diver. - We were shot at with blanks. - That's not true. It's what you hired us for. They're waiting on the other side of that door with champagne. It's Conrad. Conrad's there! It's your birthday party. You stop lying! Let me show you. (COCKING GUN) Don't you move. He's got a gun! Get back from the door! (ALL GASPING) You shot him. (EXCLAIMS) Someone call an ambulance! He's dead. We thought you knew. JIM: How did you let this get so out of hand? He wouldn't listen to me. (SOBBING) JIM: We went through this over and over. (CHRISTINE SOBBING) JIM: The mark is your responsibility. You never, never let the mark take over. (SIRENS BLARING) CHRISTINE: I'm sorry. - JIM: You had a walkie-talkie. - I used it. We're going to jail. We're all going to jail for the rest of our lives. Oh, God. Nicholas! MAN 1: We got him. He's in the bag. MAN 2: He came in right on target. Stand by for a further medical. Keep them back until we clear away the breakaway glass. MAN 2: Don't open your eyes. This is breakaway glass but it can still cut you. (MEN CHATTERING ON WALKIE-TALKIES) MAN 1: I'm just gonna take a look. MAN 2: I'm gonna check your pulse. Take it easy. That was quite a fall. (SPECTATORS GASPING) Happy birthday, Nickie. What is this? It's your birthday present. I had to do something. You were becoming such an asshole. Ladies and gentlemen, my brother, Nicholas Van Orton. (ALL APPLAUDING) (SWING MUSIC PLAYING) Amazing.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "They'll let me die. You're not in a position to threaten anyone. - Where'd you get that? - What? That gun. That's not an automatic. - What are you talking about? - Where'd you get the gun? - This is my gun. - We searched the house. Well, I guess you missed this. We got a real goddamn gun up here.  - This is fake. It's part of your game. - Don't start with me! - Listen to me! - Don't you fucking start with me! This is all the game. Bullshit. They shot that guy Feingold, Fisher. - They killed him. I saw them kill him. - What did you really see this whole time? Special effects. Squibs, like in the movies. Nicholas, listen! He's got a real gun. Okay, I'll put it down! Fisher's behind that door. He's an actor. - You're trying to kill me. - No one's trying to kill you. You're about to make a big mistake. There was a safety net. The taxi, there was a diver. - We were shot at with blanks. - That's not true. It's what you hired us for. They're waiting on the other side of that door with champagne. It's Conrad. Conrad's there! It's your birthday party. You stop lying! Let me show you.  Don't you move. He's got a gun! Get back from the door!  You shot him.  Someone call an ambulance! He's dead. We thought you knew. JIM: How did you let this get so out of hand? He wouldn't listen to me.  JIM: We went through this over and over.  JIM: The mark is your responsibility. You never, never let the mark take over.  CHRISTINE: I'm sorry. - JIM: You had a walkie-talkie. - I used it. We're going to jail. We're all going to jail for the rest of our lives. Oh, God. Nicholas! MAN 1: We got him. He's in the bag. MAN 2: He came in right on target. Stand by for a further medical. Keep them back until we clear away the breakaway glass. MAN 2: Don't open your eyes. This is breakaway glass but it can still cut you.  MAN 1: I'm just gonna take a look. MAN 2: I'm gonna check your pulse. Take it easy. That was quite a fall.  Happy birthday, Nickie. What is this? It's your birthday present. I had to do something. You were becoming such an asshole. Ladies and gentlemen, my brother, Nicholas Van Orton.   Amazing."
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.5247433185577393,
+        0.006365183275192976,
+        0.4858233630657196,
+        0.024586593732237816,
+        0.0018781522521749139,
+        0.022829502820968628,
+        0.0033227342646569014,
+        0.006597568746656179,
+        0.002894475357607007,
+        0.006528983358293772,
+        0.0030627937521785498,
+        0.020607121288776398,
+        0.0038807112723588943,
+        0.024043792858719826,
+        0.07958663254976273,
+        0.003672464517876506,
+        0.036555398255586624,
+        0.004730970598757267,
+        0.0028988283593207598,
+        0.0015264680841937661,
+        0.008827011100947857,
+        0.01350600179284811,
+        0.004756458569318056,
+        0.0038820498157292604,
+        0.047933224588632584,
+        0.025761902332305908,
+        0.02738809399306774,
+        0.022009586915373802
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "anger",
+        "fear"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "heading": null,
+      "raw_text": "I just wanted to tell you. This was the best ever. Thank God you jumped. If you didn't, I was supposed to throw you off. (ALL LAUGHING) We have to head home. I just wanted to say goodbye. Rachel, sweet dreams. Thanks, Mel, for coming. Sorry about your car. - I left it at the zoo. - No problem. Happy birthday, Nicholas. I'll call you. I really will. Nicholas, I haven't a clue what this is all about, but your taste in champagne is excellent, as always. It was a great entrance. I want you to know... No, please. I've never been happier in my whole life. I thank you and my wife thanks you. Thank you for coming. Thank you, Sam. - What's this? - This is... The bill. - NICHOLAS: The bill? - Keep the pen. Thank you. Both. Wanna split it? Oh, God, yes, please. I'll take you up on that. Oh, my God. Thank you, Connie. What happened to that waitress? What was her name... Christine? She said something about catching a plane. I saw her hailing a cab. Christine? I... - I didn't get a chance to say goodbye. - Well, thank you. I... I never did ask you your name, did I? No. It's Clare. So you're catching a plane? Yeah, we have a gig starting next week in Australia. - You gonna shear some more sheep? - Just a walk-on this time. Well, when you get back... Maybe we could have some dinner. You don't know anything about me. No, I don't. So you tell me. - Well... - Where you're from. (CHUCKLES) Originally? Oklahoma. Colorado? (NICHOLAS CHUCKLING) I've been doing this way too long. You know... Would you like to have a coffee with me at the airport?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I just wanted to tell you. This was the best ever. Thank God you jumped. If you didn't, I was supposed to throw you off.  We have to head home. I just wanted to say goodbye. Rachel, sweet dreams. Thanks, Mel, for coming. Sorry about your car. - I left it at the zoo. - No problem. Happy birthday, Nicholas. I'll call you. I really will. Nicholas, I haven't a clue what this is all about, but your taste in champagne is excellent, as always. It was a great entrance. I want you to know... No, please. I've never been happier in my whole life. I thank you and my wife thanks you. Thank you for coming. Thank you, Sam. - What's this? - This is... The bill. - NICHOLAS: The bill? - Keep the pen. Thank you. Both. Wanna split it? Oh, God, yes, please. I'll take you up on that. Oh, my God. Thank you, Connie. What happened to that waitress? What was her name... Christine? She said something about catching a plane. I saw her hailing a cab. Christine? I... - I didn't get a chance to say goodbye. - Well, thank you. I... I never did ask you your name, did I? No. It's Clare. So you're catching a plane? Yeah, we have a gig starting next week in Australia. - You gonna shear some more sheep? - Just a walk-on this time. Well, when you get back... Maybe we could have some dinner. You don't know anything about me. No, I don't. So you tell me. - Well... - Where you're from.  Originally? Oklahoma. Colorado?  I've been doing this way too long. You know... Would you like to have a coffee with me at the airport?"
+      ],
+      "scene_length_chars": 1548,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.4912329614162445,
+        0.002203987678512931,
+        0.008869186975061893,
+        0.0056370822712779045,
+        0.0028255260549485683,
+        0.014098682440817356,
+        0.0226740762591362,
+        0.5138850212097168,
+        0.04780237376689911,
+        0.0037021180614829063,
+        0.003492704126983881,
+        0.0012387905735522509,
+        0.002505558542907238,
+        0.04042598605155945,
+        0.002763364464044571,
+        0.5296313762664795,
+        0.0035915535409003496,
+        0.07089439779520035,
+        0.013304305262863636,
+        0.0010614554630592465,
+        0.005224933382123709,
+        0.046538129448890686,
+        0.004702582955360413,
+        0.010652711614966393,
+        0.012364566326141357,
+        0.005761835258454084,
+        0.0048518795520067215,
+        0.01375540904700756
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity",
+        "gratitude"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 21,
+    "lines_per_scene_fallback": 20
+  }
+}

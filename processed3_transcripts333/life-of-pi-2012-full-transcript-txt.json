@@ -1,0 +1,839 @@
+{
+  "source_file": "Life of Pi _2012_ - full transcript.txt",
+  "title": "Life of Pi",
+  "year": "2012",
+  "meta_description": null,
+  "num_scenes": 16,
+  "avg_scene_chars": 2239,
+  "characters": [
+    "GITA",
+    "PI"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "(TAMIL SONG PLAYING) (SQUAWKING) WRITER: So you were raised in a zoo? PI: Born and raised. In Pondicherry, in what was the French part of lndia. My father owned the zoo... and I was delivered on short notice by a herpetologist... who was there to check on the Bengal monitor lizard. Mother and I were both healthy... but the poor lizard escaped... and was trampled by a frightened cassowary. The way of karma, huh? The way of God. That's quite a story. I had assumed your father was a mathematician because of your name. Far from it, I was named after a swimming pool. There is a swimming pool named \"Pi\"? (CHUCKLES) You see, my uncle Francis was born with too much water in his lungs. They say the doctors swung Francis around by the ankles to clear the water out... and that's what gave him the huge chest and skinny legs... that made him such a great swimmer. Is Francis actually your uncle? He said he was friends with your father. He's my honorary uncle, I call him Mamaji. My father's best friend, my swimming guru. PI: I trained with him three times a week at the ashram. His lessons would save my life in the end. (COUGHING) A mouthful of water will not harm you, but panic will. Remember to breathe now, don't hold your breath. Good boy. I hope you don't mind vegetarian. No, no. Not at all. And your name? Huh? You were going to tell me how you got your name, I think. Oh, yes. I got it from something Mamaji once told my father. You see, most travelers collect postcards or teacups on their journeys... but not Mamaji. Mamaji collects swimming pools. He swims in every pool he comes upon. One day, Mamaji said to my father that, of all the pools in the world... the most beautiful was a public pool in Paris. That the water there was so clear, you could make your morning coffee with it. That a single swim there changed his life. Before I was born, he said... \"If you want your son to have a clean soul...\" \"you must take him one day to swim in the Piscine Molitor.\" I never understood why my father took this so much to heart. But he did, and I was named \"Piscine Molitor Patel.\" Imagine me trying to explain that name. I barely made it to the age of 11 before... BOY: Hey, Piscine! Are you pissing right now? (ALL LAUGHING) Look at him, he's pissing!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "WRITER: So you were raised in a zoo? PI: Born and raised. In Pondicherry, in what was the French part of lndia. My father owned the zoo... and I was delivered on short notice by a herpetologist... who was there to check on the Bengal monitor lizard. Mother and I were both healthy... but the poor lizard escaped... and was trampled by a frightened cassowary. The way of karma, huh? The way of God. That's quite a story. I had assumed your father was a mathematician because of your name. Far from it, I was named after a swimming pool. There is a swimming pool named \"Pi\"?  You see, my uncle Francis was born with too much water in his lungs. They say the doctors swung Francis around by the ankles to clear the water out... and that's what gave him the huge chest and skinny legs... that made him such a great swimmer. Is Francis actually your uncle? He said he was friends with your father. He's my honorary uncle, I call him Mamaji. My father's best friend, my swimming guru. PI: I trained with him three times a week at the ashram. His lessons would save my life in the end.  A mouthful of water will not harm you, but panic will. Remember to breathe now, don't hold your breath. Good boy. I hope you don't mind vegetarian. No, no. Not at all. And your name? Huh? You were going to tell me how you got your name, I think. Oh, yes. I got it from something Mamaji once told my father. You see, most travelers collect postcards or teacups on their journeys... but not Mamaji. Mamaji collects swimming pools. He swims in every pool he comes upon. One day, Mamaji said to my father that, of all the pools in the world... the most beautiful was a public pool in Paris. That the water there was so clear, you could make your morning coffee with it. That a single swim there changed his life. Before I was born, he said... \"If you want your son to have a clean soul...\" \"you must take him one day to swim in the Piscine Molitor.\" I never understood why my father took this so much to heart. But he did, and I was named \"Piscine Molitor Patel.\" Imagine me trying to explain that name. I barely made it to the age of 11 before... BOY: Hey, Piscine! Are you pissing right now?  Look at him, he's pissing!"
+      ],
+      "scene_length_chars": 2264,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.5627984404563904,
+        0.0029726754873991013,
+        0.004422308411449194,
+        0.04155402258038521,
+        0.02669188380241394,
+        0.2671991288661957,
+        0.18584692478179932,
+        0.27825045585632324,
+        0.02109113521873951,
+        0.2055307775735855,
+        0.017374394461512566,
+        0.005559273064136505,
+        0.0018161885673180223,
+        0.007538485806435347,
+        0.2867141664028168,
+        0.001240172074176371,
+        0.00976996123790741,
+        0.0024620499461889267,
+        0.019915437325835228,
+        0.02529255300760269,
+        0.12502269446849823,
+        0.012442507781088352,
+        0.07224597036838531,
+        0.002385125495493412,
+        0.0034451885148882866,
+        0.022200895473361015,
+        0.011417715810239315,
+        0.018874751403927803
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "fear",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "PI: With one word, my name went from an elegant French swimming pool... to a stinking Indian latrine. I was \"Pissing\" everywhere. No Pissing in the schoolyard! (KIDS LAUGHING) PI: Even the teachers started doing it. Not deliberately, of course. So, then, what might occur if we release gas too quickly? Pissing? He said \"Pissing.\" (ALL MURMURING) (LAUGHING) That's enough! Order! Order! PI: When we returned the next year for our first day of school, I was prepared. Present, sir. Piscine Patel. Good morning. I am Piscine Molitor Patel. Known to all as... Pi, the sixteenth letter of the Greek alphabet... which is also used in mathematics to represent the ratio... of any circle's circumference to its diameter. An irrational number of infinite length, usually rounded to three digits... as 3. 14. Pi. Very impressive, Pi. Now, sit down. WRITER: And from then on, you were \"Pi\"? PI: Well, no, not quite. Nice try, Pissing. (LAUGHING) PI: But I still had the whole day ahead of me. French class was next. Je m'appelle Piscine Molitor Patel. Dit Pi. PI: Then, geography. These are the first 20 decimal places of pi. PI: My last class of the day was mathematics. Slowly, slowly, slowly. STUDENTS: Three. Seven. Five. Eight. Nine. Eight. Five. Eight. Nine. It's right. He's really doing this. (CHANTING) Pi! Pi! Pi! PI: By the end of that day, I was Pi Patel, school legend. Um, Mamaji tells me you're a legend among sailors, too. Out there, all alone. Oh, I don't even know how to sail. And I wasn't alone out there. Richard Parker was with me. Richard Parker? Mamaji didn't tell me everything. He just said I should look you up when I got back to Montreal. So, what were you doing in Pondicherry? Writing a novel. By the way, I enjoyed your first book. So, this new one, is it set in India? No, Portugal, actually. But it's cheaper living in India. Ah, well, I look forward to reading it. You can't. I threw it out. Two years trying to bring this thing to life... and then one day, it sputtered, coughed and died. Oh, I'm sorry. Uh, I was sitting in this coffee house in Pondicherry one afternoon, mourning my loss... when this old man at the table next to me struck up a conversation. Yeah, Mamaji, he does that. When I told him about my abandoned book, he said... (IMITATES INDIAN ACCENT) \"So, a Canadian who's come to French India \"in search of a story.\" \"Well, my friend, I know an Indian in French Canada...\" \"with the most incredible story to tell.\" \"It must be fate that the two of you should meet.\" Well, I haven't spoken about Richard Parker in so many years.",
+      "characters": [
+        "PI"
+      ],
+      "dialogues": [
+        {
+          "speaker": "PI",
+          "text": "With one word, my name went from an elegant French swimming pool... to a stinking Indian latrine. I was \"Pissing\" everywhere. No Pissing in the schoolyard!  PI: Even the teachers started doing it. Not deliberately, of course. So, then, what might occur if we release gas too quickly? Pissing? He said \"Pissing.\"   That's enough! Order! Order! PI: When we returned the next year for our first day of school, I was prepared. Present, sir. Piscine Patel. Good morning. I am Piscine Molitor Patel. Known to all as... Pi, the sixteenth letter of the Greek alphabet... which is also used in mathematics to represent the ratio... of any circle's circumference to its diameter. An irrational number of infinite length, usually rounded to three digits... as 3. 14. Pi. Very impressive, Pi. Now, sit down. WRITER: And from then on, you were \"Pi\"? PI: Well, no, not quite. Nice try, Pissing.  PI: But I still had the whole day ahead of me. French class was next. Je m'appelle Piscine Molitor Patel. Dit Pi. PI: Then, geography. These are the first 20 decimal places of pi. PI: My last class of the day was mathematics. Slowly, slowly, slowly. STUDENTS: Three. Seven. Five. Eight. Nine. Eight. Five. Eight. Nine. It's right. He's really doing this.  Pi! Pi! Pi! PI: By the end of that day, I was Pi Patel, school legend. Um, Mamaji tells me you're a legend among sailors, too. Out there, all alone. Oh, I don't even know how to sail. And I wasn't alone out there. Richard Parker was with me. Richard Parker? Mamaji didn't tell me everything. He just said I should look you up when I got back to Montreal. So, what were you doing in Pondicherry? Writing a novel. By the way, I enjoyed your first book. So, this new one, is it set in India? No, Portugal, actually. But it's cheaper living in India. Ah, well, I look forward to reading it. You can't. I threw it out. Two years trying to bring this thing to life... and then one day, it sputtered, coughed and died. Oh, I'm sorry. Uh, I was sitting in this coffee house in Pondicherry one afternoon, mourning my loss... when this old man at the table next to me struck up a conversation. Yeah, Mamaji, he does that. When I told him about my abandoned book, he said...  \"So, a Canadian who's come to French India \"in search of a story.\" \"Well, my friend, I know an Indian in French Canada...\" \"with the most incredible story to tell.\" \"It must be fate that the two of you should meet.\" Well, I haven't spoken about Richard Parker in so many years."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2568,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.6365721821784973,
+        0.004175265785306692,
+        0.002228112192824483,
+        0.0013826038921251893,
+        0.007519090082496405,
+        0.0029290057718753815,
+        0.21717680990695953,
+        0.2097533941268921,
+        0.005920847412198782,
+        0.01015137042850256,
+        0.010938569903373718,
+        0.0011703070485964417,
+        0.0008340629865415394,
+        0.1576371192932129,
+        0.0029515947680920362,
+        0.0034051586408168077,
+        0.016821814700961113,
+        0.12372060865163803,
+        0.0021357883233577013,
+        0.0007326435879804194,
+        0.03542092442512512,
+        0.005724528804421425,
+        0.007425682619214058,
+        0.0014551039785146713,
+        0.09072581678628922,
+        0.3005693554878235,
+        0.009304444305598736,
+        0.029669882729649544
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "sadness",
+        "confusion"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "So, what has Mamaji already told you? He said you had a story that would make me believe in God. (CHUCKLES) He would say that about a nice meal. As for God, I can only tell you my story. You will decide for yourself what you believe. Fair enough. Let's see, then. Where to begin? Pondicherry is the French Riviera of India. In the streets closest to the ocean, you might think you were in the south of France. A few blocks inland, there's a canal. Just beyond that is Indian Pondicherry. And the Muslim quarter is just to the west. When the French handed Pondicherry back to us in 1954... the town decided that some sort of commemoration was in order. My father, who was a clever businessman, came up with one. He ran a hotel, and he got the idea to open a zoo... in the local botanical gardens instead. (SPEAKING IN TAMIL) PI: As it also happened, my mother was a botanist in the gardens. They met, married, and a year later my brother Ravi was born. I came two years after that. It sounds magical, growing up in... Amen. Yeah, let's eat. I didn't know Hindus said \"amen.\" Catholic Hindus do. Catholic Hindus? We get to feel guilty before hundreds of gods, instead of just one. (CHUCKLES) But you're a Hindu first? None of us knows God until someone introduces us. I was first introduced to God as a Hindu. There are 33 million gods in the Hindu religion. How can I not come to know a few of them? I met Krishna first. (GITA SPEAKING IN TAMIL) Yashoda once accused baby Krishna of eating dirt. \"Tut, tut you naughty boy - you shouldn't do that.\" But he didn't! That's what he told her. \"I didn't eat dirt.\" Yashoda said, \"No? Well then...\" \"Open your mouth.\" So Krishna opened his mouth. And what do you think Yashoda saw? What? She saw in Krishna's mouth the whole entire universe. PI: The gods were my superheroes growing up. Hanuman, the monkey god... Lifting an entire mountain to save his friend Lakshman. Ganesh, the elephant-headed... risking his life to defend the honor of his mother, Parvati. Vishnu, the supreme soul, the source of all things. Vishnu sleeps, floating on the shoreless cosmic ocean... and we are the stuff of his dreaming. SANTOSH: Spectacle. Don't let these stories and pretty lights fool you, boys. Religion is darkness. PI: My dear appa believed himself part of the new India.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "So, what has Mamaji already told you? He said you had a story that would make me believe in God.  He would say that about a nice meal. As for God, I can only tell you my story. You will decide for yourself what you believe. Fair enough. Let's see, then. Where to begin? Pondicherry is the French Riviera of India. In the streets closest to the ocean, you might think you were in the south of France. A few blocks inland, there's a canal. Just beyond that is Indian Pondicherry. And the Muslim quarter is just to the west. When the French handed Pondicherry back to us in 1954... the town decided that some sort of commemoration was in order. My father, who was a clever businessman, came up with one. He ran a hotel, and he got the idea to open a zoo... in the local botanical gardens instead.  PI: As it also happened, my mother was a botanist in the gardens. They met, married, and a year later my brother Ravi was born. I came two years after that. It sounds magical, growing up in... Amen. Yeah, let's eat. I didn't know Hindus said \"amen.\" Catholic Hindus do. Catholic Hindus? We get to feel guilty before hundreds of gods, instead of just one.  But you're a Hindu first? None of us knows God until someone introduces us. I was first introduced to God as a Hindu. There are 33 million gods in the Hindu religion. How can I not come to know a few of them? I met Krishna first.  Yashoda once accused baby Krishna of eating dirt. \"Tut, tut you naughty boy - you shouldn't do that.\" But he didn't! That's what he told her. \"I didn't eat dirt.\" Yashoda said, \"No? Well then...\" \"Open your mouth.\" So Krishna opened his mouth. And what do you think Yashoda saw? What? She saw in Krishna's mouth the whole entire universe. PI: The gods were my superheroes growing up. Hanuman, the monkey god... Lifting an entire mountain to save his friend Lakshman. Ganesh, the elephant-headed... risking his life to defend the honor of his mother, Parvati. Vishnu, the supreme soul, the source of all things. Vishnu sleeps, floating on the shoreless cosmic ocean... and we are the stuff of his dreaming. SANTOSH: Spectacle. Don't let these stories and pretty lights fool you, boys. Religion is darkness. PI: My dear appa believed himself part of the new India."
+      ],
+      "scene_length_chars": 2307,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.015919385477900505,
+        0.002496639033779502,
+        0.0020065598655492067,
+        0.01983950100839138,
+        0.001322678872384131,
+        0.05036981776356697,
+        0.005433032754808664,
+        0.027421874925494194,
+        0.0006422667647711933,
+        0.004348774906247854,
+        0.0016980607761070132,
+        0.0015732810134068131,
+        0.000981318997219205,
+        0.0018912670202553272,
+        0.0022651953622698784,
+        0.0014659273438155651,
+        0.0007527857087552547,
+        0.0002626619825605303,
+        0.0004419802862685174,
+        0.0007981469971127808,
+        0.1134880855679512,
+        0.0024052353110164404,
+        0.020202038809657097,
+        0.0009202579385600984,
+        0.00030444024014286697,
+        0.0007241576095111668,
+        0.06228215992450714,
+        0.8564402461051941
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "optimism",
+        "surprise"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "As a child, he had had polio. He used to lie in bed racked with pain, wondering where God was. In the end, God didn't save him, Western medicine did. My Amma went to college... and thought her family was part of the new India as well... until her parents cut her off... because they thought she was marrying beneath her. Her religion was the only link she had to her past. I met Christ in the mountains when I was 12. We were visiting relatives, tea growers in Munnar. It was our third day there. Ravi and I were terribly bored. Challenge. I'll give you two rupees. Run in to that church and drink the holy water. PRIEST: You must be thirsty. Here. I brought you this. Why would a god do that? Why would He send his own son... to suffer for the sins of ordinary people? Because He loves us. God made Himself approachable to us, human, so we could understand Him. We can't understand God in all His perfection. But we can understand God's son and His suffering as we would a brother's. That made no sense. Sacrificing the innocent to atone for the sins of the guilty... What kind of love is that? But this son... I couldn't get him out of my head. YOU NG PI: If God is so perfect and we are not... why would He want to create all this? Why does He need us at all? All you have to know is that He loves us. God so loved this world that He gave His only son. PI: The longer I listened to the priest... the more I came to like this son of God. Thank you, Vishnu, for introducing me to Christ. I came to faith through Hinduism and I found God's love through Christ. But God wasn't finished with me yet. (MUEZZIN CALLING) PI: God works in mysterious ways. And so it was, He introduced Himself again. This time by the name of Allah. (MUEZZIN CALLING) Allahu Akbar. PI: My Arabic was never very good... but the sound and feel of the words brought me closer to God. In performing Salah... the ground I touched became holy ground... and I found a feeling of serenity and brotherhood. This lamb is exquisite. It's the best dish on the table. You're all missing out. You only need to convert to three more religions, Piscine... and you will spend your life on holiday. (RAVI LAUGHING) Are you going to Mecca this year, Swami Jesus? Or to Rome for your coronation as Pope Pi-us?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "As a child, he had had polio. He used to lie in bed racked with pain, wondering where God was. In the end, God didn't save him, Western medicine did. My Amma went to college... and thought her family was part of the new India as well... until her parents cut her off... because they thought she was marrying beneath her. Her religion was the only link she had to her past. I met Christ in the mountains when I was 12. We were visiting relatives, tea growers in Munnar. It was our third day there. Ravi and I were terribly bored. Challenge. I'll give you two rupees. Run in to that church and drink the holy water. PRIEST: You must be thirsty. Here. I brought you this. Why would a god do that? Why would He send his own son... to suffer for the sins of ordinary people? Because He loves us. God made Himself approachable to us, human, so we could understand Him. We can't understand God in all His perfection. But we can understand God's son and His suffering as we would a brother's. That made no sense. Sacrificing the innocent to atone for the sins of the guilty... What kind of love is that? But this son... I couldn't get him out of my head. YOU NG PI: If God is so perfect and we are not... why would He want to create all this? Why does He need us at all? All you have to know is that He loves us. God so loved this world that He gave His only son. PI: The longer I listened to the priest... the more I came to like this son of God. Thank you, Vishnu, for introducing me to Christ. I came to faith through Hinduism and I found God's love through Christ. But God wasn't finished with me yet.  PI: God works in mysterious ways. And so it was, He introduced Himself again. This time by the name of Allah.  Allahu Akbar. PI: My Arabic was never very good... but the sound and feel of the words brought me closer to God. In performing Salah... the ground I touched became holy ground... and I found a feeling of serenity and brotherhood. This lamb is exquisite. It's the best dish on the table. You're all missing out. You only need to convert to three more religions, Piscine... and you will spend your life on holiday.  Are you going to Mecca this year, Swami Jesus? Or to Rome for your coronation as Pope Pi-us?"
+      ],
+      "scene_length_chars": 2265,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33408740162849426,
+        0.0017275074496865273,
+        0.060917928814888,
+        0.012794464826583862,
+        0.003784018335863948,
+        0.004742836579680443,
+        0.04024289548397064,
+        0.13985295593738556,
+        0.0018590338295325637,
+        0.003960571717470884,
+        0.003407418727874756,
+        0.0019404833437874913,
+        0.005411012563854456,
+        0.002267371164634824,
+        0.001920999144203961,
+        0.3223298490047455,
+        0.007378161419183016,
+        0.002093214076012373,
+        0.23938442766666412,
+        0.0006050628144294024,
+        0.003642430528998375,
+        0.002072883304208517,
+        0.0305465254932642,
+        0.0018853993387892842,
+        0.0017333637224510312,
+        0.015594791620969772,
+        0.250002920627594,
+        0.009269987232983112
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "gratitude",
+        "surprise"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "GITA: You stay out of this, Ravi. Just as you like cricket, Pi has his own interests. No, GITA, Ravi has a point. You cannot follow three different religions at the same time, Piscine. Why not? Because believing in everything at the same time... is the same as not believing in anything at all. He's young, SANTOSH. He's still finding his way. And how can he find his way if he does not choose a path? Listen, instead of leaping from one religion to the next... why not start with reason? In a few hundred years... science has taken us farther in understanding the universe... than religion has in 10, 000. That is true. Your father is right. Science can teach us more about what is out there... but not what is in here. Some eat meat, some eat vegetable. I do not expect us all to agree about everything... but I would much rather have you believe in something I don't agree with... than to accept everything blindly. And that begins with thinking rationally. Do you understand? Good. I would like to be baptized. (SNIGGERS) So, you're a Christian and a Muslim? And a Hindu, of course. And a Jew, I suppose. Well, I do teach a course on the Kabbalah at the university. And why not? Faith is a house with many rooms. But no room for doubt? Oh, plenty. On every floor. Doubt is useful. It keeps faith a living thing. After all, you cannot know the strength of your faith until it's been tested. Where's Selvam? We shouldn't be in here without him. Stop worrying. I have seen him do this a thousand times. I want to meet our new tiger. Pi! Hello? Richard Parker? A tiger? Richard Parker was a tiger? Yeah, he got his name through a clerical error. A hunter caught him drinking from a stream when he was a cub... and named him Thirsty. When Thirsty got too big, the hunter sold him to our zoo... but the names got switched on the paperwork. (BOTH LAUGH) The hunter was listed as Thirsty, and the tiger was called Richard Parker. We laughed about it, and the name stuck. Let's go... before we get into trouble. I want to see him close up. You're not a zookeeper. Come on! (RICHARD PARKER GROWLS) That's it, Richard Parker. It's for you. (FOOTSTEPS APPROACH I NG) SANTOSH: No! What are you thinking? Are you out of your mind? Who gave you permission to come back here? You have just ignored everything I've ever taught you.",
+      "characters": [
+        "GITA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "GITA",
+          "text": "You stay out of this, Ravi. Just as you like cricket, Pi has his own interests. No, GITA, Ravi has a point. You cannot follow three different religions at the same time, Piscine. Why not? Because believing in everything at the same time... is the same as not believing in anything at all. He's young, SANTOSH. He's still finding his way. And how can he find his way if he does not choose a path? Listen, instead of leaping from one religion to the next... why not start with reason? In a few hundred years... science has taken us farther in understanding the universe... than religion has in 10, 000. That is true. Your father is right. Science can teach us more about what is out there... but not what is in here. Some eat meat, some eat vegetable. I do not expect us all to agree about everything... but I would much rather have you believe in something I don't agree with... than to accept everything blindly. And that begins with thinking rationally. Do you understand? Good. I would like to be baptized.  So, you're a Christian and a Muslim? And a Hindu, of course. And a Jew, I suppose. Well, I do teach a course on the Kabbalah at the university. And why not? Faith is a house with many rooms. But no room for doubt? Oh, plenty. On every floor. Doubt is useful. It keeps faith a living thing. After all, you cannot know the strength of your faith until it's been tested. Where's Selvam? We shouldn't be in here without him. Stop worrying. I have seen him do this a thousand times. I want to meet our new tiger. Pi! Hello? Richard Parker? A tiger? Richard Parker was a tiger? Yeah, he got his name through a clerical error. A hunter caught him drinking from a stream when he was a cub... and named him Thirsty. When Thirsty got too big, the hunter sold him to our zoo... but the names got switched on the paperwork.  The hunter was listed as Thirsty, and the tiger was called Richard Parker. We laughed about it, and the name stuck. Let's go... before we get into trouble. I want to see him close up. You're not a zookeeper. Come on!  That's it, Richard Parker. It's for you.  SANTOSH: No! What are you thinking? Are you out of your mind? Who gave you permission to come back here? You have just ignored everything I've ever taught you."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2318,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002408099127933383,
+        0.1594811975955963,
+        0.011404469609260559,
+        0.3124798834323883,
+        0.0562327541410923,
+        0.0381949283182621,
+        0.01454936433583498,
+        0.12361583113670349,
+        0.005191367585211992,
+        0.0047579058445990086,
+        0.24439716339111328,
+        0.0022632423788309097,
+        0.005132482852786779,
+        0.0020875046029686928,
+        0.039976056665182114,
+        0.0009626736864447594,
+        0.0022185349371284246,
+        0.005779894534498453,
+        0.0007142501999624074,
+        0.015337851829826832,
+        0.15455828607082367,
+        0.0003291750035714358,
+        0.09009331464767456,
+        0.0012958124279975891,
+        0.001214647782035172,
+        0.0013531600125133991,
+        0.0010366217466071248,
+        0.16661567986011505
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "disapproval",
+        "neutral"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "I just wanted to say hello to him. You think that tiger is your friend? He's an animal, not a playmate. Animals have souls. I have seen it in their eyes. (PANTING) Find Selvam. (SPEAKING IN TAMIL) You're sure, Sir? Pi's just a boy. Do it. Go ahead! Animals do not think like we do. People who forget that get themselves killed. That tiger is not your friend. When you look into his eyes... Nothing else. (WHISPERS) Don't be stupid. Say you're sorry. What have you done, Piscine? You know what your father said about coming back here. I am sorry. I was... What are you thinking? This is between a father and his sons. (SPEAKING TAMIL) He said he's sorry. You want to scar them for life? Scar them? That boy almost lost his arm. But he's still a boy. He will be a man sooner than you think. And this is a lesson I do not want them ever to forget. Selvam! (GATE OPEN I NG) (EXHALES) (GOAT BLEATING) (BLEATING CONTINUES) (GASPS) (CRUNCHING) MALE ANNOUNCER:... and so has placed the country in a state of emergency. Under the directive, the states of Gujarat and Tamil Nadu... will be placed under the direct authority of the central government. Police will be granted powers... (ALARM RI NG I NG) to arrest and indefinitely detain citizens responsible for the uprising. PI: Things changed after the day of Appa's lesson. The world had lost some of its enchantment. School was a bore. Nothing but facts, fractions and French. Words and patterns that went on and on, without end. Just like my irrational nickname. I grew restless searching for something that might bring meaning back into my life. And then, I met Anandi. (BHARATANATYAM MUSIC PLAYING) Mother made me study music. And one day, my teacher came down with the flu. He asked if I could take his place, playing rhythms for a dance class. (VOCALIZING) DANCE MASTER: No. (MUSIC STOPS) If you do not concentrate... you cannot express your love of God through dance. Feel the ground beneath your feet. Open your gaze out onto the horizon. Let that spiritual energy pulse through you and out into the world. Through abhinaya. Anandi, come to the front. Lead them. (STICK CLACKING) (STUDENTS GIGGLE) (FAINT HINDI MUSIC PLAYING) Why are you following me? What? You were following me. What does this mean? In the dance, you went from pataka...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I just wanted to say hello to him. You think that tiger is your friend? He's an animal, not a playmate. Animals have souls. I have seen it in their eyes.  Find Selvam.  You're sure, Sir? Pi's just a boy. Do it. Go ahead! Animals do not think like we do. People who forget that get themselves killed. That tiger is not your friend. When you look into his eyes... Nothing else.  Don't be stupid. Say you're sorry. What have you done, Piscine? You know what your father said about coming back here. I am sorry. I was... What are you thinking? This is between a father and his sons.  He said he's sorry. You want to scar them for life? Scar them? That boy almost lost his arm. But he's still a boy. He will be a man sooner than you think. And this is a lesson I do not want them ever to forget. Selvam!       MALE ANNOUNCER:... and so has placed the country in a state of emergency. Under the directive, the states of Gujarat and Tamil Nadu... will be placed under the direct authority of the central government. Police will be granted powers...  to arrest and indefinitely detain citizens responsible for the uprising. PI: Things changed after the day of Appa's lesson. The world had lost some of its enchantment. School was a bore. Nothing but facts, fractions and French. Words and patterns that went on and on, without end. Just like my irrational nickname. I grew restless searching for something that might bring meaning back into my life. And then, I met Anandi.  Mother made me study music. And one day, my teacher came down with the flu. He asked if I could take his place, playing rhythms for a dance class.  DANCE MASTER: No.  If you do not concentrate... you cannot express your love of God through dance. Feel the ground beneath your feet. Open your gaze out onto the horizon. Let that spiritual energy pulse through you and out into the world. Through abhinaya. Anandi, come to the front. Lead them.    Why are you following me? What? You were following me. What does this mean? In the dance, you went from pataka..."
+      ],
+      "scene_length_chars": 2290,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0017683967016637325,
+        0.0025867335498332977,
+        0.0063407844863832,
+        0.03766334801912308,
+        0.007629945874214172,
+        0.02891368418931961,
+        0.0033483856823295355,
+        0.005947073455899954,
+        0.004705659579485655,
+        0.021454526111483574,
+        0.0017321095801889896,
+        0.0016971054719761014,
+        0.0039461231790483,
+        0.0006897331331856549,
+        0.12277054786682129,
+        0.0003552957496140152,
+        0.009375404566526413,
+        0.00035890474100597203,
+        0.0009038325515575707,
+        0.019767852500081062,
+        0.03025517798960209,
+        0.00140646833460778,
+        0.1747891753911972,
+        0.0006333827623166144,
+        0.00688641844317317,
+        0.05135711655020714,
+        0.0009344310965389013,
+        0.4381124973297119
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "realization",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "which means the forest. And then you did... samputa... which means something that is hidden. And after that, you did this. And then you did chatura. But at the very end, you did this. None of the other dancers did that. What did you mean? The god of love is hiding in the forest? No, that also means the lotus flower. Lotus flower is hiding in the forest? Why would a lotus flower hide in the forest? And this is Richard Parker. He is the most magnificent creature we've ever had here. Look at the way he's turning his head. Showing off. Like a dancer. No, he heard something. He's listening, you see? We have talked about it for some time. Do you understand what I'm saying? Pi? Sorry, you've been... Worried. For my family. Our animals are worth far more abroad than here in India. And if the town council stops supporting us... I don't know where we will be. So, it is what we have to do. Do you understand? I'm sorry, what are we talking about? We are leaving India. What? We are selling the zoo. The zoo was never ours to sell. The land belongs to the town. But the animals are ours and if we sell them... we will have enough to start a new life. But where would we go? Our life is here, Appa. Canada. I have some opportunities for work in Winnipeg. I'll be shipping most of the animals for sale in North America. We can get freighter passage for the whole family. So... It is settled. We will sail like Columbus. But Columbus was looking for India. PI: Lt takes a lot of work to sell a zoo. Before we left... Anandi and I had time enough to break each other's hearts. Of course, I promised I would come back one day. It's funny. I remember everything else about our last day. But I don't remember saying goodbye. GITA: Pi? They're serving dinner below. Piscine... you have a whole life ahead of you. We are doing this for you and Ravi. Come inside and have some dinner. Vegetarian, please. Oh, my sons and I are vegetarians. Do you have anything... No, no, no. Not more gravy. You don't want gravy? No. (SPEAKING IN FRENCH) No, I want something vegetarian. Oh. Pas de problème. She asked if you have something vegetarian. The cow that produced this liver was vegetarian, the pigs that went into these sausages were vegetarian. Very funny. But my wife doesn't eat liver.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "which means the forest. And then you did... samputa... which means something that is hidden. And after that, you did this. And then you did chatura. But at the very end, you did this. None of the other dancers did that. What did you mean? The god of love is hiding in the forest? No, that also means the lotus flower. Lotus flower is hiding in the forest? Why would a lotus flower hide in the forest? And this is Richard Parker. He is the most magnificent creature we've ever had here. Look at the way he's turning his head. Showing off. Like a dancer. No, he heard something. He's listening, you see? We have talked about it for some time. Do you understand what I'm saying? Pi? Sorry, you've been... Worried. For my family. Our animals are worth far more abroad than here in India. And if the town council stops supporting us... I don't know where we will be. So, it is what we have to do. Do you understand? I'm sorry, what are we talking about? We are leaving India. What? We are selling the zoo. The zoo was never ours to sell. The land belongs to the town. But the animals are ours and if we sell them... we will have enough to start a new life. But where would we go? Our life is here, Appa. Canada. I have some opportunities for work in Winnipeg. I'll be shipping most of the animals for sale in North America. We can get freighter passage for the whole family. So... It is settled. We will sail like Columbus. But Columbus was looking for India. PI: Lt takes a lot of work to sell a zoo. Before we left... Anandi and I had time enough to break each other's hearts. Of course, I promised I would come back one day. It's funny. I remember everything else about our last day. But I don't remember saying goodbye. GITA: Pi? They're serving dinner below. Piscine... you have a whole life ahead of you. We are doing this for you and Ravi. Come inside and have some dinner. Vegetarian, please. Oh, my sons and I are vegetarians. Do you have anything... No, no, no. Not more gravy. You don't want gravy? No.  No, I want something vegetarian. Oh. Pas de problème. She asked if you have something vegetarian. The cow that produced this liver was vegetarian, the pigs that went into these sausages were vegetarian. Very funny. But my wife doesn't eat liver."
+      ],
+      "scene_length_chars": 2275,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.001395342405885458,
+        0.46613332629203796,
+        0.003214451717212796,
+        0.003360729431733489,
+        0.0018620578339323401,
+        0.008906896226108074,
+        0.12040656805038452,
+        0.5940608978271484,
+        0.004333250690251589,
+        0.05199987068772316,
+        0.1236892119050026,
+        0.005723727401345968,
+        0.02642838843166828,
+        0.003787112422287464,
+        0.020065978169441223,
+        0.0013627164298668504,
+        0.025391215458512306,
+        0.07017029076814651,
+        0.009715543128550053,
+        0.09827771037817001,
+        0.051747050136327744,
+        0.00030561021412722766,
+        0.04116148129105568,
+        0.0008940592524595559,
+        0.06331916153430939,
+        0.2135613113641739,
+        0.0034749284386634827,
+        0.043481696397066116
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "amusement",
+        "sadness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "amusement",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Pas de problème. Then she can eat the sausage, the rice, and the gravy. Or you can cook your own food. How dare you talk to my wife like that? Here's your rice. I cook for sailors... not curry-eaters. What did you say? Let go of me! Who do you think you are? You're nothing but a servant! I feed people! You feed monkeys! Hello. I am happy Buddhist. So, I eat rice next to gravy. On ship, gravy is not meat. Is taste. You try? (MONKEY CHATTERING) Don't worry. We will have plenty of fresh supplies after we stop in Manila. Why give Orange Juice tranquilizers? She's not going to cause any trouble. The stress of traveling is not good for the animals... and it helps with the seasickness. We don't want to be cleaning up after a seasick orangutan... do we? PI: My father was a businessman. He had never tended the animals himself. I realized... leaving India must have been harder for him than it was for me. So... Have I forgotten anything? I think you've set the stage. So far, we have an Indian boy named after a French swimming pool... on a Japanese ship full of animals, heading to Canada. Yes. Now, we have to send our boy into the middle of the Pacific and... And make me believe in God. Yeah. We'll get there. (CHUCKLES) It was four days out of Manila... above the Mariana Trench, the deepest spot on Earth. Our ship, The Tsimtsum, pushed on, bullishly indifferent to its surroundings. It moved with the slow, massive confidence of a continent. (WIND HOWLING) (RUMBLING) (WHISPERING) Ravi? Did you hear that, Ravi? I'm sleeping. It's a thunderstorm. Let's go watch. Are you crazy? We will get hit by lightning. No, we won't. It will hit the bridge first. Don't tempt a storm, Pi. (TUTS) (TICKING) Whoa. (WIND HOWLING) Oh! (LAUGHING) (GASPING) (YELLS) (GRUNTS) (GIGGLES) (LAUGHING) More rain! More rain! Lord of Storms! Whoa! Lightning! (GRUNTS) Ah! (MAN SHOUTING IN DISTANCE) (MAN YELLS) Amma! (ALARM BUZZING) Appa! Ravi! Get out! Get out! (INHALES) (GRUNTING) (COUGHING) Help me! (SAILOR YELLING) Help! Get in the boat! Please! Save my family! Don't scare, okay? Wait, stay here! You have to help them! Please! Put this on. No, no, my family! Please! (YELLING) We have to help them! We don't have time. My family's back there! We help! You must go! Who let all the animals out?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Pas de problème. Then she can eat the sausage, the rice, and the gravy. Or you can cook your own food. How dare you talk to my wife like that? Here's your rice. I cook for sailors... not curry-eaters. What did you say? Let go of me! Who do you think you are? You're nothing but a servant! I feed people! You feed monkeys! Hello. I am happy Buddhist. So, I eat rice next to gravy. On ship, gravy is not meat. Is taste. You try?  Don't worry. We will have plenty of fresh supplies after we stop in Manila. Why give Orange Juice tranquilizers? She's not going to cause any trouble. The stress of traveling is not good for the animals... and it helps with the seasickness. We don't want to be cleaning up after a seasick orangutan... do we? PI: My father was a businessman. He had never tended the animals himself. I realized... leaving India must have been harder for him than it was for me. So... Have I forgotten anything? I think you've set the stage. So far, we have an Indian boy named after a French swimming pool... on a Japanese ship full of animals, heading to Canada. Yes. Now, we have to send our boy into the middle of the Pacific and... And make me believe in God. Yeah. We'll get there.  It was four days out of Manila... above the Mariana Trench, the deepest spot on Earth. Our ship, The Tsimtsum, pushed on, bullishly indifferent to its surroundings. It moved with the slow, massive confidence of a continent.    Ravi? Did you hear that, Ravi? I'm sleeping. It's a thunderstorm. Let's go watch. Are you crazy? We will get hit by lightning. No, we won't. It will hit the bridge first. Don't tempt a storm, Pi.   Whoa.  Oh!       More rain! More rain! Lord of Storms! Whoa! Lightning!  Ah!   Amma!  Appa! Ravi! Get out! Get out!    Help me!  Help! Get in the boat! Please! Save my family! Don't scare, okay? Wait, stay here! You have to help them! Please! Put this on. No, no, my family! Please!  We have to help them! We don't have time. My family's back there! We help! You must go! Who let all the animals out?"
+      ],
+      "scene_length_chars": 2285,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.024475758895277977,
+        0.010272585786879063,
+        0.0823008343577385,
+        0.0037217738572508097,
+        0.14431355893611908,
+        0.31935641169548035,
+        0.01325163897126913,
+        0.030774062499403954,
+        0.010716692544519901,
+        0.005515867378562689,
+        0.023976052179932594,
+        0.001406105700880289,
+        0.0013970098225399852,
+        0.13236860930919647,
+        0.050588950514793396,
+        0.003261414123699069,
+        0.009402417577803135,
+        0.011413891799747944,
+        0.010568380355834961,
+        0.009177247993648052,
+        0.12294100970029831,
+        0.003829952096566558,
+        0.2830980718135834,
+        0.0026082992553710938,
+        0.002363070845603943,
+        0.014234890230000019,
+        0.010650690644979477,
+        0.013234964571893215
+      ],
+      "goemotions_topk": [
+        "caring",
+        "realization",
+        "approval"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "You have to go now! No, wait, my father! He can't swim! Go! SAILOR: Hang on to the boat! Hold, hold! Bring it down! (MEN SCREAMING INDISTINCTLY) Hey! You! What are you doing? Jump! Hey, hey! (COOK YELLS) (PI GASPS) (SCREAMS) (GRUNTS) (YELLS) (MEN YELLING INDISTINCTLY) (BLOWS WHISTLE) Hey! Over here! Over here! (GRUNTS) (GROANS) Richard Parker? No! No! No! Go away! Go away! (GASPS) (PI GROANS) (ZEBRA WHIMPERING) Agh! (COUGHING) Amma! Appa! Ravi. (SOBBING) I'm sorry. I'm sorry! (THUNDER RUMBLES) (GRUNTS) (GRUNTING) (RUSTLING) Hari? (GRUNTS) Looks as though your drugs haven't worn off yet. (SCREECHING) Orange Juice! Orange Juice! Welcome to Pi's Ark. (GRUNTS) Where is your boy, Orange Juice? Don't worry, I bet mother and father found him. They'll all be here soon. (FLIES BUZZING) Hello! Anybody! (HYENA LAUGHING) (GROWLING) (SCREECHING) (WHIMPERING) (RETCHING) (HYENA CACKLING) (ZEBRA WHINES) No! Stop it! No! Stop it! Stop it! (ZEBRA BRAYING) No! No! (GASPS) (COUGHING) (COUGHS) I'm sorry, Orange Juice. I don't have any seasickness medicine for you. Supplies. Oh, supplies! (GRUNTS) (GASPS) (SCREECHING) (HYENA LAUGHING) Yes! Yes! (SNARLING) No! No! (GRUNTS) (WHIMPERING) (GROWLS) Come on! Come on! Come on! (ROARS) (BON ES CRUNCHING) (GRUNTS) (ROARING) (SNARLING) (GRUNTS) Mmm. (SQUEAKING) (ROARS) (EXCLAIMS) (PI GASPING) (SNARLING) (SQUEAKING) (GROANING) (ROARS) (YELLS) (ROARING) (SCREAMING) (GRUNTING) (PANTING) (RETCHING) (THUMPING) (SOBBING) My name is Pi Patel. I have been in a shipwreck. I am on a lifeboat alone... with a tiger. Please send help. (ROARS) God, I give myself to you. I am your vessel. Whatever comes, I want to know. Show me. There are no lines. (READS) Set your house in order and dig in for the battle to survive. Establish a strict schedule for eating, keeping watch and getting rest. Do not drink urine or sea water. Keep busy but avoid unnecessary exertion. The mind can be kept occupied by playing card games... Twenty Questions, or I Spy. Community singing is another surefire way to lift the spirits. (RICHARD PARKER MOANING) Telling stories is highly recommended. Above all, don't lose hope. (RICHARD PARKER MOANING) Few things can sap the spirit faster than seasickness. Waves are most strongly felt when a boat turns sideways to the current.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You have to go now! No, wait, my father! He can't swim! Go! SAILOR: Hang on to the boat! Hold, hold! Bring it down!  Hey! You! What are you doing? Jump! Hey, hey!        Hey! Over here! Over here!   Richard Parker? No! No! No! Go away! Go away!    Agh!  Amma! Appa! Ravi.  I'm sorry. I'm sorry!     Hari?  Looks as though your drugs haven't worn off yet.  Orange Juice! Orange Juice! Welcome to Pi's Ark.  Where is your boy, Orange Juice? Don't worry, I bet mother and father found him. They'll all be here soon.  Hello! Anybody!        No! Stop it! No! Stop it! Stop it!  No! No!    I'm sorry, Orange Juice. I don't have any seasickness medicine for you. Supplies. Oh, supplies!     Yes! Yes!  No! No!    Come on! Come on! Come on!       Mmm.                 My name is Pi Patel. I have been in a shipwreck. I am on a lifeboat alone... with a tiger. Please send help.  God, I give myself to you. I am your vessel. Whatever comes, I want to know. Show me. There are no lines.  Set your house in order and dig in for the battle to survive. Establish a strict schedule for eating, keeping watch and getting rest. Do not drink urine or sea water. Keep busy but avoid unnecessary exertion. The mind can be kept occupied by playing card games... Twenty Questions, or I Spy. Community singing is another surefire way to lift the spirits.  Telling stories is highly recommended. Above all, don't lose hope.  Few things can sap the spirit faster than seasickness. Waves are most strongly felt when a boat turns sideways to the current."
+      ],
+      "scene_length_chars": 2287,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0016507949912920594,
+        0.0007209222530946136,
+        0.01046501100063324,
+        0.0014665228081867099,
+        0.0016651696059852839,
+        0.3981249928474426,
+        0.0009613634319975972,
+        0.00813178438693285,
+        0.005075852386653423,
+        0.007455775514245033,
+        0.0018414970254525542,
+        0.0016932946164160967,
+        0.005045329686254263,
+        0.001880882540717721,
+        0.05231960117816925,
+        0.002644270658493042,
+        0.05677692964673042,
+        0.004533044062554836,
+        0.005048625636845827,
+        0.0036487451288849115,
+        0.008302345871925354,
+        0.0027419570833444595,
+        0.004718326032161713,
+        0.00961063988506794,
+        0.18736818432807922,
+        0.18430915474891663,
+        0.002504077274352312,
+        0.4276272654533386
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "remorse"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "caring",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "A sea anchor is used as a drag to keep the boat's head to the wind. Proper use of them can increase control and reduce seasickness during rough seas. For castaways who must share their lifeboats with large, dangerous carnivores... it's advisable to establish a territory as your own. Try this method. Step one. Choose a day when waves are moderate, but regular. Step two. With the lifeboat facing into the waves... making the ride as comfortable as possible, blow your whistle soothingly. Step three. Turn the lifeboat sideways to the waves... accompanied by harsh, aggressive use of the whistle. With sufficient repetition... the animal will associate the sound of the whistle... with the discomfort of seasickness. Similar methods have long been used by circus trainers... though they generally lack access to rough seas. Let the trumpets blare! Let the drum rolls begin! Prepare to be amazed! Here it is, for your enjoyment and instruction! The show you've been waiting for all your life... will soon begin! (RICHARD PARKER MOANING) Are you ready for the miracle of it? Well, then, I give to you... the astounding Bengal tiger! (MOANING) Hello, Richard Parker. Sorry about the choppy ride. (SCREAMS) (URINATING) Mine! You understand? Yours, mine! (BLOWS WHISTLE) You understand? Ew! (SPITTING) Step four. Disregard steps one through three. (BLOWS WHISTLE) Here, Richard Parker. I got some water for you. (BLOWS WHISTLE) In the zoo, we fed our tigers an average of five kilos of meat a day. Richard Parker will be getting hungry soon. Tigers are powerful swimmers, and if he gets hungry enough... I'm afraid the little bit of water between us won't be any protection. I need to find a way to feed him. I can eat the biscuits but God made tigers carnivores... so I must learn to catch fish. If I don't, I'm afraid his last meaI will be a skinny, vegetarian boy. (FRUSTRATED GROAN) (GROWLING IMPATIENTLY) Patience! (GROWLING) (GRUNTING) (PANTING) (SCREAMING) What am I doing? (THUDDING) Wait! I'm thinking. (GRUNTS) (BLOWING WHISTLE) Thirty-two cartons of biscuits. Ninety-three cans of water. (GRUNTS) (GRUNTING) I'm sorry. (SOBBING) I'm sorry. Thank you, Lord Vishnu. Thank you for coming in the form of a fish and saving our lives. Thank you. (BLOWS WHISTLE) (CRUNCHING) (LAUGHING) (GASPS) Of course, I brought all the biscuits and water on the raft with me to keep them safe.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "A sea anchor is used as a drag to keep the boat's head to the wind. Proper use of them can increase control and reduce seasickness during rough seas. For castaways who must share their lifeboats with large, dangerous carnivores... it's advisable to establish a territory as your own. Try this method. Step one. Choose a day when waves are moderate, but regular. Step two. With the lifeboat facing into the waves... making the ride as comfortable as possible, blow your whistle soothingly. Step three. Turn the lifeboat sideways to the waves... accompanied by harsh, aggressive use of the whistle. With sufficient repetition... the animal will associate the sound of the whistle... with the discomfort of seasickness. Similar methods have long been used by circus trainers... though they generally lack access to rough seas. Let the trumpets blare! Let the drum rolls begin! Prepare to be amazed! Here it is, for your enjoyment and instruction! The show you've been waiting for all your life... will soon begin!  Are you ready for the miracle of it? Well, then, I give to you... the astounding Bengal tiger!  Hello, Richard Parker. Sorry about the choppy ride.   Mine! You understand? Yours, mine!  You understand? Ew!  Step four. Disregard steps one through three.  Here, Richard Parker. I got some water for you.  In the zoo, we fed our tigers an average of five kilos of meat a day. Richard Parker will be getting hungry soon. Tigers are powerful swimmers, and if he gets hungry enough... I'm afraid the little bit of water between us won't be any protection. I need to find a way to feed him. I can eat the biscuits but God made tigers carnivores... so I must learn to catch fish. If I don't, I'm afraid his last meaI will be a skinny, vegetarian boy.   Patience!     What am I doing?  Wait! I'm thinking.   Thirty-two cartons of biscuits. Ninety-three cans of water.   I'm sorry.  I'm sorry. Thank you, Lord Vishnu. Thank you for coming in the form of a fish and saving our lives. Thank you.     Of course, I brought all the biscuits and water on the raft with me to keep them safe."
+      ],
+      "scene_length_chars": 2379,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008089992217719555,
+        0.0009287427528761327,
+        0.0019210759783163667,
+        0.001542935729958117,
+        0.004659585654735565,
+        0.019314805045723915,
+        0.004607215989381075,
+        0.010868820361793041,
+        0.007404245436191559,
+        0.0015910951187834144,
+        0.0020113505888730288,
+        0.0017405812395736575,
+        0.0014208838110789657,
+        0.002565753646194935,
+        0.3303607106208801,
+        0.3343175947666168,
+        0.0032598909456282854,
+        0.0014196871779859066,
+        0.001465385896153748,
+        0.0256902277469635,
+        0.006445505190640688,
+        0.001972110942006111,
+        0.007318519055843353,
+        0.00729050999507308,
+        0.004824733827263117,
+        0.004806422628462315,
+        0.002086108550429344,
+        0.33757317066192627
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "fear"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Idiot. Hunger can change everything you ever thought you knew about yourself. (ROARS) (GROANS) (SPLASH I NG) (GROWLING) Here, it's yours! (ROARS) Oh! Ah! (GROANING) (SCREAMING) (SCREAMS) (ROARS) (GRUNTS) Mine! Mine! (SCREAMING) (GRUNTS) (PANTING) I can't risk my life every time I have to climb onto the boat for supplies. It's time to settle this. If we're going to live together, we have to learn to communicate. Maybe Richard Parker can't be tamed, but with God's will, he can be trained. (GROWLS) (ROARS) No! (EXCLAIMS) Good. (SNIFFING) Go, Richard Parker. Go. Go on home, I'll leave you alone. I'll respect that, I promise. Go. Come on. (SCREAMS) Yes! I never thought a small piece of shade could bring me so much happiness. That a pile of tools, a bucket, a knife, a pencil... might become my greatest treasures. Or that knowing Richard Parker was here might ever bring me peace. In times like these... I remember that he has as little experience with the real world as I do. We were both raised in a zoo by the same master. Now we've been orphaned, left to face our ultimate master together. Without Richard Parker, I would have died by now. My fear of him keeps me alert. Tending to his needs gives my life purpose. Dolphins. Hey, Richard Parker! Hey! (GUN CLICKING) Above all, don't lose hope. Eight, five, five, zero, three, six, six... zero, eight, zero, one... three, six, zero, four, six, six, eight... What are you looking at? Talk to me. Tell me what you see. Words are all I have left to hang on to. Everything mixed up. Fragmented. Can't tell daydreams, night dreams, from reality anymo...... (THUNDER RUMBLING) Storm, Richard Parker. (WIND HOWLING) No! (GASPS) No! Praise be to God! Lord of all worlds! The compassionate, the merciful! Ah! Come out. Richard Parker! Come out, you have to see this! It's beautiful! (GRUNTING) Don't hide yourself! He's come to us! It's a miracle! Come out and see God, Richard Parker! Why are you scaring him? Oh, God! I've lost my family! I've lost everything! I surrender! What more do you want? (GASPING) I'm sorry, Richard Parker. (BREATHING HEAVILY) We're dying, Richard Parker. I'm sorry. Amma, Appa, Ravi... I'm happy I'm going to see you soon. Can you feel the rain? (SOBBING) God, thank you for giving me my life.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Idiot. Hunger can change everything you ever thought you knew about yourself.     Here, it's yours!  Oh! Ah!      Mine! Mine!    I can't risk my life every time I have to climb onto the boat for supplies. It's time to settle this. If we're going to live together, we have to learn to communicate. Maybe Richard Parker can't be tamed, but with God's will, he can be trained.   No!  Good.  Go, Richard Parker. Go. Go on home, I'll leave you alone. I'll respect that, I promise. Go. Come on.  Yes! I never thought a small piece of shade could bring me so much happiness. That a pile of tools, a bucket, a knife, a pencil... might become my greatest treasures. Or that knowing Richard Parker was here might ever bring me peace. In times like these... I remember that he has as little experience with the real world as I do. We were both raised in a zoo by the same master. Now we've been orphaned, left to face our ultimate master together. Without Richard Parker, I would have died by now. My fear of him keeps me alert. Tending to his needs gives my life purpose. Dolphins. Hey, Richard Parker! Hey!  Above all, don't lose hope. Eight, five, five, zero, three, six, six... zero, eight, zero, one... three, six, zero, four, six, six, eight... What are you looking at? Talk to me. Tell me what you see. Words are all I have left to hang on to. Everything mixed up. Fragmented. Can't tell daydreams, night dreams, from reality anymo......  Storm, Richard Parker.  No!  No! Praise be to God! Lord of all worlds! The compassionate, the merciful! Ah! Come out. Richard Parker! Come out, you have to see this! It's beautiful!  Don't hide yourself! He's come to us! It's a miracle! Come out and see God, Richard Parker! Why are you scaring him? Oh, God! I've lost my family! I've lost everything! I surrender! What more do you want?  I'm sorry, Richard Parker.  We're dying, Richard Parker. I'm sorry. Amma, Appa, Ravi... I'm happy I'm going to see you soon. Can you feel the rain?  God, thank you for giving me my life."
+      ],
+      "scene_length_chars": 2272,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.39645838737487793,
+        0.0010163275292143226,
+        0.05911404266953468,
+        0.029159285128116608,
+        0.060721058398485184,
+        0.2843727767467499,
+        0.030197402462363243,
+        0.05240964516997337,
+        0.007013373076915741,
+        0.01769332028925419,
+        0.0064405109733343124,
+        0.0015066639753058553,
+        0.002676820382475853,
+        0.045966435223817825,
+        0.2805486023426056,
+        0.3286401033401489,
+        0.044955309480428696,
+        0.06217499449849129,
+        0.007383893709629774,
+        0.009311660192906857,
+        0.008139297366142273,
+        0.07914555817842484,
+        0.026738861575722694,
+        0.02585466392338276,
+        0.03843752294778824,
+        0.03496010601520538,
+        0.04258488491177559,
+        0.014511545188724995
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "gratitude",
+        "caring"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "I'm ready now. Richard Parker? (GROANS) Mmm. (DISTANT ANIMAL NOISES) (LOUD CHATTERING) (SNIFFING) Excuse me. Move. Move. Excuse me. (MEERKATS CHATTERING) (CHATTERING) Hey! Hey! Hey, come on! Hey. Hey, get away. This is my bed. WRITER: It was a human tooth? Don't you see? The island was carnivorous. Carnivorous? Like a Venus Flytrap? Yes, the whole island. The plants, the water in those pools, the very ground itself. During the day, those pools held fresh water. But at night, some chemical process turned the water in those pools into acid... acid that dissolved those fish... that sent the MEERKATS scurrying into the trees, and Richard Parker running to the boat. But where did the tooth come from? Years ago, some poor fellow, just like me... must have found himself stranded on that island... and, like me, thought he might stay there forever. But all that the island gave him by day, it took away again by night. To think, how many hours spent with only MEERKATS for company. How much loneliness taken on. All I know is that eventually he died and the island digested him... leaving behind only his teeth. I saw how my life would end if I stayed on that island. Alone and forgotten. I had to get back to the world, or die trying. I spent the next day preparing the boat. I filled my stores with fresh water... ate seaweed until my stomach could take no more... and brought as many MEERKATS as I could fit into the storage locker for Richard Parker. I couldn't leave without him, of course. It would mean killing him. (BLOWS WHISTLE) And so, I waited for his return. (BLOWING WHISTLE) I knew he wouldn't be late. Richard Parker! No one has seen that floating island since. And you won't read about those trees in any nature book. And yet, if I hadn't found those shores, I would have died. If I hadn't discovered that tooth, I would have been lost, alone forever. Even when God seemed to have abandoned me... He was watching. Even when He seemed indifferent to my suffering... He was watching. And when I was beyond all hope of saving, He gave me rest... then gave me a sign to continue my journey. By the time we reached the Mexican shore, I was afraid to let go of the boat. My strength was gone. I was so weak. I was afraid that in two feet of water, so close to deliverance...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm ready now. Richard Parker?  Mmm.    Excuse me. Move. Move. Excuse me.   Hey! Hey! Hey, come on! Hey. Hey, get away. This is my bed. WRITER: It was a human tooth? Don't you see? The island was carnivorous. Carnivorous? Like a Venus Flytrap? Yes, the whole island. The plants, the water in those pools, the very ground itself. During the day, those pools held fresh water. But at night, some chemical process turned the water in those pools into acid... acid that dissolved those fish... that sent the MEERKATS scurrying into the trees, and Richard Parker running to the boat. But where did the tooth come from? Years ago, some poor fellow, just like me... must have found himself stranded on that island... and, like me, thought he might stay there forever. But all that the island gave him by day, it took away again by night. To think, how many hours spent with only MEERKATS for company. How much loneliness taken on. All I know is that eventually he died and the island digested him... leaving behind only his teeth. I saw how my life would end if I stayed on that island. Alone and forgotten. I had to get back to the world, or die trying. I spent the next day preparing the boat. I filled my stores with fresh water... ate seaweed until my stomach could take no more... and brought as many MEERKATS as I could fit into the storage locker for Richard Parker. I couldn't leave without him, of course. It would mean killing him.  And so, I waited for his return.  I knew he wouldn't be late. Richard Parker! No one has seen that floating island since. And you won't read about those trees in any nature book. And yet, if I hadn't found those shores, I would have died. If I hadn't discovered that tooth, I would have been lost, alone forever. Even when God seemed to have abandoned me... He was watching. Even when He seemed indifferent to my suffering... He was watching. And when I was beyond all hope of saving, He gave me rest... then gave me a sign to continue my journey. By the time we reached the Mexican shore, I was afraid to let go of the boat. My strength was gone. I was so weak. I was afraid that in two feet of water, so close to deliverance..."
+      ],
+      "scene_length_chars": 2288,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0031866561621427536,
+        0.001344981137663126,
+        0.002084070583805442,
+        0.0014061379479244351,
+        0.0012054512044414878,
+        0.0033982200548052788,
+        0.013922552578151226,
+        0.25414684414863586,
+        0.0044511365704238415,
+        0.03775368258357048,
+        0.0011680637253448367,
+        0.003042512806132436,
+        0.0038765224162489176,
+        0.0022357150446623564,
+        0.34193456172943115,
+        0.0013706879690289497,
+        0.020206131041049957,
+        0.0016864639474079013,
+        0.0010574358748272061,
+        0.03397237882018089,
+        0.007600706536322832,
+        0.001790693961083889,
+        0.055649783462285995,
+        0.0010852481937035918,
+        0.0023513047490268946,
+        0.14495593309402466,
+        0.032156553119421005,
+        0.30378076434135437
+      ],
+      "goemotions_topk": [
+        "fear",
+        "neutral",
+        "curiosity"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "I would drown. I struggled to shore and fell upon the sand. It was warm and soft... like pressing my face against the cheek of God. And somewhere, two eyes were smiling at having me there. I was so spent, I could hardly move. And so, Richard Parker went ahead of me. He stretched his legs and walked along the shore. At the edge of the jungle, he stopped. I was certain he was going to look back at me... flatten his ears to his head, growl. That he would bring our relationship to an end in some way. But he just stared ahead into the jungle. And then, Richard Parker, my fierce companion... the terrible one who kept me alive... disappeared forever from my life. After a few hours, a member of my own species found me. He left and returned with a group who carried me away. (SOBBING) I wept like a child. Not because I was overwhelmed at having survived, although I was. I was weeping because Richard Parker left me so unceremoniously. It broke my heart. You know, my father was right. Richard Parker never saw me as his friend. After all we had been through, he didn't even look back. But I have to believe there was more in his eyes... than my own reflection staring back at me. I know it. I felt it. Even if I can't prove it. You know, I've left so much behind. My family, the zoo, India, Anandi. I suppose, in the end, the whole of life becomes an act of letting go. But what always hurts the most... is not taking a moment to say goodbye. I was never able to thank my father for all I learned from him. To tell him, without his lessons... I would never have survived. I know Richard Parker is a tiger, but I wish I had said... \"It's over. We survived.\" \"Thank you for saving my life. I love you, Richard Parker.\" \"You will always be with me.\" \"May God be with you .\" I don't know what to say. It's hard to believe, isn't it? It is a lot to take in. To figure out what it all means. If it happened, it happened. Why should it have to mean anything? Some of it is pretty incredible. See, I was the only one who survived the shipwreck. So the Japanese shipping company sent two men to talk to me... in the Mexican hospital where I was recovering. I still have a copy of their report. They had insurance claims to settle... and they wanted to find out why the ship sank.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I would drown. I struggled to shore and fell upon the sand. It was warm and soft... like pressing my face against the cheek of God. And somewhere, two eyes were smiling at having me there. I was so spent, I could hardly move. And so, Richard Parker went ahead of me. He stretched his legs and walked along the shore. At the edge of the jungle, he stopped. I was certain he was going to look back at me... flatten his ears to his head, growl. That he would bring our relationship to an end in some way. But he just stared ahead into the jungle. And then, Richard Parker, my fierce companion... the terrible one who kept me alive... disappeared forever from my life. After a few hours, a member of my own species found me. He left and returned with a group who carried me away.  I wept like a child. Not because I was overwhelmed at having survived, although I was. I was weeping because Richard Parker left me so unceremoniously. It broke my heart. You know, my father was right. Richard Parker never saw me as his friend. After all we had been through, he didn't even look back. But I have to believe there was more in his eyes... than my own reflection staring back at me. I know it. I felt it. Even if I can't prove it. You know, I've left so much behind. My family, the zoo, India, Anandi. I suppose, in the end, the whole of life becomes an act of letting go. But what always hurts the most... is not taking a moment to say goodbye. I was never able to thank my father for all I learned from him. To tell him, without his lessons... I would never have survived. I know Richard Parker is a tiger, but I wish I had said... \"It's over. We survived.\" \"Thank you for saving my life. I love you, Richard Parker.\" \"You will always be with me.\" \"May God be with you .\" I don't know what to say. It's hard to believe, isn't it? It is a lot to take in. To figure out what it all means. If it happened, it happened. Why should it have to mean anything? Some of it is pretty incredible. See, I was the only one who survived the shipwreck. So the Japanese shipping company sent two men to talk to me... in the Mexican hospital where I was recovering. I still have a copy of their report. They had insurance claims to settle... and they wanted to find out why the ship sank."
+      ],
+      "scene_length_chars": 2273,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.17603646218776703,
+        0.0009148516692221165,
+        0.006183914840221405,
+        0.002742073265835643,
+        0.019074611365795135,
+        0.035674795508384705,
+        0.027267353609204292,
+        0.021049244329333305,
+        0.011013682000339031,
+        0.010368578135967255,
+        0.0018910104408860207,
+        0.0016017792513594031,
+        0.0014264308847486973,
+        0.0022922067437320948,
+        0.03308584913611412,
+        0.33310574293136597,
+        0.029020443558692932,
+        0.0033538031857460737,
+        0.26193487644195557,
+        0.006308491807430983,
+        0.1284431666135788,
+        0.008976245298981667,
+        0.028560148552060127,
+        0.006057079881429672,
+        0.006738371681421995,
+        0.3767193853855133,
+        0.009768404997885227,
+        0.3354506194591522
+      ],
+      "goemotions_topk": [
+        "sadness",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "sadness",
+      "goemotions_labels": [
+        "sadness"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "They didn't believe me, either. Thousands of MEERKATS on a floating carnivorous island... and no one has ever seen it? Yes, just like I told you. Bananas don't float. (SPEAKING JAPANESE) Why are you talking about bananas? You said the orangutan floated to you on a bundle of bananas. But bananas don't float. Are you sure about that? Of course they do. Try it for yourself. In any case, we are not here to talk about bananas or MEERKATS. Look, I've just told you a long story and I'm very tired. We are here because a Japanese cargo ship sank in the Pacific. Something I never forget. I lost my whole family. Get him some water. We don't mean to push you. And you have our deepest sympathies. But we have come a long way... and we are no closer to understanding why the ship sank. Because I don't know. I was asleep. Something woke me up. It could have been an explosion, I can't be sure. And then the ship sank. What else do you want from me? A story that won't make us look like fools. We need a simpler story for our report. One our company can understand. A story we can all believe. So, a story without things you've never seen before. That's right. Without surprises. Without animals or islands. Yes. The truth. So, what did you do? I told them another story. Four of us survived. The cook and the sailor were already aboard. The cook threw me a lifebuoy and pulled me aboard... and Mother held on to some bananas and made it to the lifeboat. The cook was a disgusting man. He ate a rat. We had food enough for weeks, but he found the rat in the first few days... and he killed it, dried it in the sun and ate it. He was such a brute, that man. But he was resourceful. It was his idea to build the raft to catch fish. We would have died in those first few days without him. The sailor was the same man who brought rice and gravy, the Buddhist. We didn't understand much of what he said, only that he was suffering. He had broken his leg horribly in the fall. We tried to set it as best we could, but the leg became infected... and the cook said that we had to do something or he'd die. The cook said he'd do it, but Mother and I had to hold the man down. And I believed him, we needed to do it. So... I kept saying, \"I'm sorry, I'm sorry.\" And he just kept looking at me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "They didn't believe me, either. Thousands of MEERKATS on a floating carnivorous island... and no one has ever seen it? Yes, just like I told you. Bananas don't float.  Why are you talking about bananas? You said the orangutan floated to you on a bundle of bananas. But bananas don't float. Are you sure about that? Of course they do. Try it for yourself. In any case, we are not here to talk about bananas or MEERKATS. Look, I've just told you a long story and I'm very tired. We are here because a Japanese cargo ship sank in the Pacific. Something I never forget. I lost my whole family. Get him some water. We don't mean to push you. And you have our deepest sympathies. But we have come a long way... and we are no closer to understanding why the ship sank. Because I don't know. I was asleep. Something woke me up. It could have been an explosion, I can't be sure. And then the ship sank. What else do you want from me? A story that won't make us look like fools. We need a simpler story for our report. One our company can understand. A story we can all believe. So, a story without things you've never seen before. That's right. Without surprises. Without animals or islands. Yes. The truth. So, what did you do? I told them another story. Four of us survived. The cook and the sailor were already aboard. The cook threw me a lifebuoy and pulled me aboard... and Mother held on to some bananas and made it to the lifeboat. The cook was a disgusting man. He ate a rat. We had food enough for weeks, but he found the rat in the first few days... and he killed it, dried it in the sun and ate it. He was such a brute, that man. But he was resourceful. It was his idea to build the raft to catch fish. We would have died in those first few days without him. The sailor was the same man who brought rice and gravy, the Buddhist. We didn't understand much of what he said, only that he was suffering. He had broken his leg horribly in the fall. We tried to set it as best we could, but the leg became infected... and the cook said that we had to do something or he'd die. The cook said he'd do it, but Mother and I had to hold the man down. And I believed him, we needed to do it. So... I kept saying, \"I'm sorry, I'm sorry.\" And he just kept looking at me."
+      ],
+      "scene_length_chars": 2277,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009434983134269714,
+        0.0024809357710182667,
+        0.005186132621020079,
+        0.005983841139823198,
+        0.09165535122156143,
+        0.03510035201907158,
+        0.36742833256721497,
+        0.4581880271434784,
+        0.003607585094869137,
+        0.06366797536611557,
+        0.003465047338977456,
+        0.22054649889469147,
+        0.0012980595929548144,
+        0.0014786397805437446,
+        0.03010503016412258,
+        0.001601428259164095,
+        0.01798342354595661,
+        0.0007989791338331997,
+        0.0011242176406085491,
+        0.007022086065262556,
+        0.2389768809080124,
+        0.0025760987773537636,
+        0.11896202713251114,
+        0.0038922785315662622,
+        0.043429527431726456,
+        0.26681071519851685,
+        0.010945371352136135,
+        0.0418679304420948
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "confusion",
+        "sadness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "confusion",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": null,
+      "raw_text": "His eyes were so... I'll never understand the point of that man's suffering. I can still hear him. The happy Buddhist, he only ate rice and gravy. We didn't save him, of course. He died. The morning after, the cook caught his first dorado... and I didn't understand what he had done at first, but Mother did... and I had never seen Mother so angry. \"Stop whining and be happy,\" he said. \"We need more food or we'll die. That was the whole point.\" \"What was the whole point?\" Mother asked. \"You let that poor boy die in order to get bait, you monster!\" The cook got furious. He started towards her with his fist raised... and Mother slapped him hard, right across the face. I was stunned. I thought he was going to kill her right then. But he didn't. The cook didn't stop at bait either, no. The sailor... He went the same way the rat went. The cook was a resourceful man. It was a week later that he... Because of me. Because I couldn't hold on to a stupid turtle. It slipped out of my hands and swam away. And the cook came up and he punched me on the side of my head... and my teeth clacked and I saw stars. I thought he was going to hit me again... but Mother started pounding on him with her fists... She yelled at me to go to the raft. (SPEAKING TAMIL) I thought she was coming with me, or I'd never have... I don't know why I didn't make her go first. I think about that every day. I jumped over and turned back just as the knife came out. There wasn't anything I could do. I couldn't look away. He threw her body overboard. And then the sharks came. And I saw what they... I saw. The next day, I killed him. He didn't even fight back. He knew he had gone too far... even by his own standards. He'd left the knife out on the bench, and I did to him what he did to the sailor. He was such an evil man, but worse still, he... He brought the evil out in me. And I have to live with that. I was alone in a lifeboat... drifting across the Pacific Ocean. And I survived. PI: After that, they had no more questions. The investigators didn't seem to like the story, exactly. But they thanked me, they wished me well, and they left. So the stories... both the zebra and the sailor... broke their leg. And the hyena killed the zebra and the orangutan. So... the hyena is the cook.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "His eyes were so... I'll never understand the point of that man's suffering. I can still hear him. The happy Buddhist, he only ate rice and gravy. We didn't save him, of course. He died. The morning after, the cook caught his first dorado... and I didn't understand what he had done at first, but Mother did... and I had never seen Mother so angry. \"Stop whining and be happy,\" he said. \"We need more food or we'll die. That was the whole point.\" \"What was the whole point?\" Mother asked. \"You let that poor boy die in order to get bait, you monster!\" The cook got furious. He started towards her with his fist raised... and Mother slapped him hard, right across the face. I was stunned. I thought he was going to kill her right then. But he didn't. The cook didn't stop at bait either, no. The sailor... He went the same way the rat went. The cook was a resourceful man. It was a week later that he... Because of me. Because I couldn't hold on to a stupid turtle. It slipped out of my hands and swam away. And the cook came up and he punched me on the side of my head... and my teeth clacked and I saw stars. I thought he was going to hit me again... but Mother started pounding on him with her fists... She yelled at me to go to the raft.  I thought she was coming with me, or I'd never have... I don't know why I didn't make her go first. I think about that every day. I jumped over and turned back just as the knife came out. There wasn't anything I could do. I couldn't look away. He threw her body overboard. And then the sharks came. And I saw what they... I saw. The next day, I killed him. He didn't even fight back. He knew he had gone too far... even by his own standards. He'd left the knife out on the bench, and I did to him what he did to the sailor. He was such an evil man, but worse still, he... He brought the evil out in me. And I have to live with that. I was alone in a lifeboat... drifting across the Pacific Ocean. And I survived. PI: After that, they had no more questions. The investigators didn't seem to like the story, exactly. But they thanked me, they wished me well, and they left. So the stories... both the zebra and the sailor... broke their leg. And the hyena killed the zebra and the orangutan. So... the hyena is the cook."
+      ],
+      "scene_length_chars": 2276,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004173399414867163,
+        0.0018859639531001449,
+        0.46275845170021057,
+        0.05021010339260101,
+        0.001189140253700316,
+        0.02592046558856964,
+        0.01646839827299118,
+        0.008355893194675446,
+        0.0014605881879106164,
+        0.1145215630531311,
+        0.0032413338776677847,
+        0.013415887951850891,
+        0.002330010524019599,
+        0.0008253506384789944,
+        0.052358973771333694,
+        0.00962515827268362,
+        0.058524686843156815,
+        0.0037710245233029127,
+        0.0012817755341529846,
+        0.0014721439220011234,
+        0.007897005416452885,
+        0.004956607241183519,
+        0.009229439310729504,
+        0.020903587341308594,
+        0.024240093305706978,
+        0.1889137178659439,
+        0.007482299115508795,
+        0.041784148663282394
+      ],
+      "goemotions_topk": [
+        "anger",
+        "sadness",
+        "disappointment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": null,
+      "raw_text": "The sailor is the zebra. Your mother is the orangutan. And you are... the tiger. Can I ask you something? Of course. I've told you two stories about what happened out on the ocean. Neither explains what caused the sinking of the ship... and no one can prove which story is true and which is not. In both stories, the ship sinks... my family dies and I suffer. True. So, which story do you prefer? The one with the tiger. That's the better story. Thank you. And so it goes with God. Mamaji was right. It's an amazing story. Will you really let me write it? Of course. Isn't that why Mamaji sent you here, after all? (CAR APPROACHING) My wife is here. Do you want to stay for dinner? She's an incredible cook. I didn't know you had a wife. And a cat and two children. So, your story does have a happy ending. Well, that's up to you. The story is yours now. (CHUCKLES) (DOOR OPENING) Hmm. \"Mr. Patel's is an astounding story of courage and endurance...\" \"unparalleled in the history of shipwrecks.\" \"Very few castaways can claim to have survived so long at sea...\" \"and none in the company...\" \"of an adult Bengal tiger.\" BOY: Hi, Dad. PI: We have a guest. Let me introduce you. Hi. Hi. Nice to meet you. Adita. Ravi.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "The sailor is the zebra. Your mother is the orangutan. And you are... the tiger. Can I ask you something? Of course. I've told you two stories about what happened out on the ocean. Neither explains what caused the sinking of the ship... and no one can prove which story is true and which is not. In both stories, the ship sinks... my family dies and I suffer. True. So, which story do you prefer? The one with the tiger. That's the better story. Thank you. And so it goes with God. Mamaji was right. It's an amazing story. Will you really let me write it? Of course. Isn't that why Mamaji sent you here, after all?  My wife is here. Do you want to stay for dinner? She's an incredible cook. I didn't know you had a wife. And a cat and two children. So, your story does have a happy ending. Well, that's up to you. The story is yours now.   Hmm. \"Mr. Patel's is an astounding story of courage and endurance...\" \"unparalleled in the history of shipwrecks.\" \"Very few castaways can claim to have survived so long at sea...\" \"and none in the company...\" \"of an adult Bengal tiger.\" BOY: Hi, Dad. PI: We have a guest. Let me introduce you. Hi. Hi. Nice to meet you. Adita. Ravi."
+      ],
+      "scene_length_chars": 1214,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.8599772453308105,
+        0.01442158967256546,
+        0.007895254530012608,
+        0.0014751250855624676,
+        0.007062881253659725,
+        0.004762031603604555,
+        0.01327886339277029,
+        0.300549179315567,
+        0.0017802453367039561,
+        0.0030252428259700537,
+        0.00227602431550622,
+        0.0041707707569003105,
+        0.0012437388068065047,
+        0.06130340322852135,
+        0.0033528858330100775,
+        0.46783778071403503,
+        0.02235976979136467,
+        0.039494529366493225,
+        0.016394397243857384,
+        0.0004885660018771887,
+        0.0007640740368515253,
+        0.03220751881599426,
+        0.00994949322193861,
+        0.0037713521160185337,
+        0.010609984397888184,
+        0.12598153948783875,
+        0.010143197141587734,
+        0.05861660838127136
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "gratitude"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 16,
+    "lines_per_scene_fallback": 20
+  }
+}

@@ -1,0 +1,733 @@
+{
+  "source_file": "The Wicker Man _1973_ - full transcript.txt",
+  "title": "The Wicker Man",
+  "year": "1973",
+  "meta_description": null,
+  "num_scenes": 14,
+  "avg_scene_chars": 2344,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Will you send a dinghy, please? Did you hear me? I'd like a dinghy, if you please. Hello, sir! Have you lost your bearings? No, sir, I don't think so. - This is Summerisle, is it not? - It is, sir! Well, I'm right then. Now, would you send a dinghy, please? I'm afraid it can't be done, sir! This is private property! You can't land here without written permission! I, as you can see, am a police officer. A complaint has been registered by a resident of this island about a missing child. Now, that makes it a police matter, private property or not. Now, will you send a dinghy, please? Corn rigs and barley rigs And corn rigs are bonnie I'll not forget that happy night Among the rigs with Annie Good day to you, sir. I'm the harbour master. Sergeant Howie, West Highland police. A missing child is always trouble. Aye, aye, aye, for everybody. Perhaps you would be good enough to explain matters to his lordship. He's most particular who lands here. All in good time. We, too, have our own particularities. You know her? Her name is Rowan Morrison. No, no, never seen her before. I don't know the face either. Do you know her, Kenny? She doesn't belong to this island. No, I never saw her before. No, she doesn't belong here at all. Johnnie? No, can't say I know her. Now, now, what are you saying? You're saying that she is not from the island. Aye, that's right. She's not from here. Oh, you get Morrisons on Lewis and a few on Mull. I would try there. Thanks. \"None of us have seen May Morrison's daughter Rowan since last year. She's only 12, and she's been missing from her home for many months. \" The mother's name is May Morrison. Oh, May! She quite slipped my memory. Of course we've got May. She keeps the post office in the high street. - May Morrison? You're quite sure? - Quite sure. Well, thank you for your help. That's not May's daughter, though! No, she's not May's. Then who is she? The sky was blue the wind was still The moon was shining clearly I set her down with right good will Among the rigs of barley I kenned her heart with all my own I loved her most sincerely I kissed her o'er and o'er again Among the rigs of barley - Good afternoon! - I like your rabbits. Those are hares, not silly old rabbits. Lovely march hares. Can I help you?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Will you send a dinghy, please? Did you hear me? I'd like a dinghy, if you please. Hello, sir! Have you lost your bearings? No, sir, I don't think so. - This is Summerisle, is it not? - It is, sir! Well, I'm right then. Now, would you send a dinghy, please? I'm afraid it can't be done, sir! This is private property! You can't land here without written permission! I, as you can see, am a police officer. A complaint has been registered by a resident of this island about a missing child. Now, that makes it a police matter, private property or not. Now, will you send a dinghy, please? Corn rigs and barley rigs And corn rigs are bonnie I'll not forget that happy night Among the rigs with Annie Good day to you, sir. I'm the harbour master. Sergeant Howie, West Highland police. A missing child is always trouble. Aye, aye, aye, for everybody. Perhaps you would be good enough to explain matters to his lordship. He's most particular who lands here. All in good time. We, too, have our own particularities. You know her? Her name is Rowan Morrison. No, no, never seen her before. I don't know the face either. Do you know her, Kenny? She doesn't belong to this island. No, I never saw her before. No, she doesn't belong here at all. Johnnie? No, can't say I know her. Now, now, what are you saying? You're saying that she is not from the island. Aye, that's right. She's not from here. Oh, you get Morrisons on Lewis and a few on Mull. I would try there. Thanks. \"None of us have seen May Morrison's daughter Rowan since last year. She's only 12, and she's been missing from her home for many months. \" The mother's name is May Morrison. Oh, May! She quite slipped my memory. Of course we've got May. She keeps the post office in the high street. - May Morrison? You're quite sure? - Quite sure. Well, thank you for your help. That's not May's daughter, though! No, she's not May's. Then who is she? The sky was blue the wind was still The moon was shining clearly I set her down with right good will Among the rigs of barley I kenned her heart with all my own I loved her most sincerely I kissed her o'er and o'er again Among the rigs of barley - Good afternoon! - I like your rabbits. Those are hares, not silly old rabbits. Lovely march hares. Can I help you?"
+      ],
+      "scene_length_chars": 2265,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.006656439509242773,
+        0.0012377145467326045,
+        0.0017484413692727685,
+        0.0005004273843951523,
+        0.004451707936823368,
+        0.0030710541177541018,
+        0.014111812226474285,
+        0.24775898456573486,
+        0.0035142938140779734,
+        0.0006315695936791599,
+        0.004186511505395174,
+        0.00123606959823519,
+        0.0006220554932951927,
+        0.007026467006653547,
+        0.31869953870773315,
+        0.14592845737934113,
+        0.0024049945641309023,
+        0.003949328791350126,
+        0.3340259790420532,
+        0.0035397589672356844,
+        0.0014727870002388954,
+        0.0008358473423868418,
+        0.005925746634602547,
+        0.0008178891148418188,
+        0.0010303822346031666,
+        0.0022715190425515175,
+        0.001660513342358172,
+        0.2409140020608902
+      ],
+      "goemotions_topk": [
+        "love",
+        "fear",
+        "curiosity"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "- Mrs. Morrison- mrs. May Morrison? - Yes. - Sergeant Howie, West Highland police. - Oh, my! Did you come over in that aeroplane that I saw flying round? - Aye, that's right. - What, just to see me? Well, no, not exactly. I'm making inquiries about your daughter. - We understand that she's missing. - Missing? My daughter? - Aye. You do have a daughter. - Yes. - And that's her? - Oh, never. I tell you no. I think you'd better come with me. This is our Myrtle. She was nine last thursday. She's not a bit like the girl in your photograph. She must be at least 13 or 14, surely. Myrtle, say hello. This is Sergeant- oh! - Howie. - Oh. - Hello, Myrtle. How do you do? Look, mummy, I'm drawing a hare. - Ah. Excuse me, Sergeant. Hello. - Here you are. You can fill in the ears in gray. Oh, sorry. Thank you, Myrtle. Myrtle, do you - do you know Rowan? Of course I do. - You do? - 'Course I do, silly. - Uh, do you know where she is now? - In the fields. She runs and plays there all day. Does she? Do you think she'll be coming back for tea? Tea? Hares don't have tea, silly. - Hares? - She's a hare. Rowan's a hare. She has a lovely time. - Well, tell me- - Well, now, Sergeant. You will stay and have a cup of tea, won't you? - Oh, well, yes, yes, please. - Good. - That's very kind of you. - Um, not at all. It must be thirsty work, asking all those questions, eh? - Ah, aye. - Hello. - Good evening. Good evening. - Good evening. - Good evening. Hello again. - Are you the landlord here? - Aye. I'm Alder Macgreagor. And you must be the policeman from the mainland. Aye, that's right. Sergeant Howie, West Highland constabulary. I'm quite obviously not going to get back to the mainland tonight so I wondered if you had a room and a bite of supper I could have. - Could you manage that? - Aye, I think that can be arranged. My daughter Willow will show you to your room. Willow! Father? This is Sergeant Howie, a policeman from the mainland, who will be spending the night with us. - This is my daughter, Willow. - Good evening. Show the Sergeant to his room, would you? Much has been said of the strumpets of yore Of wenches and bawdy house queens by the score But I sing of a baggage that we all adore The landlord's daughter You'll never love another Although she's not the kind of girl To take home to your mother Her ale, it is lively and strong to the taste It is brewed with discretion never with haste You can have all you like if you swear not to waste The landlord's daughter And when her name is mentioned The parts of every gentleman do stand up At attention Oh, nothing can delight so - As does the part that lies between - Her left toe And her right toe - I'd like my supper now, please.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Mrs. Morrison- mrs. May Morrison? - Yes. - Sergeant Howie, West Highland police. - Oh, my! Did you come over in that aeroplane that I saw flying round? - Aye, that's right. - What, just to see me? Well, no, not exactly. I'm making inquiries about your daughter. - We understand that she's missing. - Missing? My daughter? - Aye. You do have a daughter. - Yes. - And that's her? - Oh, never. I tell you no. I think you'd better come with me. This is our Myrtle. She was nine last thursday. She's not a bit like the girl in your photograph. She must be at least 13 or 14, surely. Myrtle, say hello. This is Sergeant- oh! - Howie. - Oh. - Hello, Myrtle. How do you do? Look, mummy, I'm drawing a hare. - Ah. Excuse me, Sergeant. Hello. - Here you are. You can fill in the ears in gray. Oh, sorry. Thank you, Myrtle. Myrtle, do you - do you know Rowan? Of course I do. - You do? - 'Course I do, silly. - Uh, do you know where she is now? - In the fields. She runs and plays there all day. Does she? Do you think she'll be coming back for tea? Tea? Hares don't have tea, silly. - Hares? - She's a hare. Rowan's a hare. She has a lovely time. - Well, tell me- - Well, now, Sergeant. You will stay and have a cup of tea, won't you? - Oh, well, yes, yes, please. - Good. - That's very kind of you. - Um, not at all. It must be thirsty work, asking all those questions, eh? - Ah, aye. - Hello. - Good evening. Good evening. - Good evening. - Good evening. Hello again. - Are you the landlord here? - Aye. I'm Alder Macgreagor. And you must be the policeman from the mainland. Aye, that's right. Sergeant Howie, West Highland constabulary. I'm quite obviously not going to get back to the mainland tonight so I wondered if you had a room and a bite of supper I could have. - Could you manage that? - Aye, I think that can be arranged. My daughter Willow will show you to your room. Willow! Father? This is Sergeant Howie, a policeman from the mainland, who will be spending the night with us. - This is my daughter, Willow. - Good evening. Show the Sergeant to his room, would you? Much has been said of the strumpets of yore Of wenches and bawdy house queens by the score But I sing of a baggage that we all adore The landlord's daughter You'll never love another Although she's not the kind of girl To take home to your mother Her ale, it is lively and strong to the taste It is brewed with discretion never with haste You can have all you like if you swear not to waste The landlord's daughter And when her name is mentioned The parts of every gentleman do stand up At attention Oh, nothing can delight so - As does the part that lies between - Her left toe And her right toe - I'd like my supper now, please."
+      ],
+      "scene_length_chars": 2704,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0046690115705132484,
+        0.003744843415915966,
+        0.0006111832917667925,
+        0.0005534437950700521,
+        0.004066362511366606,
+        0.00375356781296432,
+        0.018185140565037727,
+        0.7976198196411133,
+        0.03772622346878052,
+        0.0005685886135324836,
+        0.0015538603765890002,
+        0.0005914582870900631,
+        0.001491301110945642,
+        0.010625711642205715,
+        0.0008499135728925467,
+        0.12112873792648315,
+        0.0013507558032870293,
+        0.0016107958508655429,
+        0.015228129923343658,
+        0.0003633109445217997,
+        0.004841962363570929,
+        0.0005668339435942471,
+        0.006370107177644968,
+        0.0017205625772476196,
+        0.0017078925156965852,
+        0.0013783721951767802,
+        0.009137523360550404,
+        0.5114147663116455
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "- It won't be long, Sergeant. Oh, you don't want to let them worry you. Why don't you have a wee drink? No, thank you, not just now. I think you all ought to know that I am here on official business. I am here to investigate the disappearance of a young girl, as doubtless, the harbour master has already told you by now. There's the girl. Her name is Rowan Morrison. Would you pass that among your customers, please? Now, if any of you can give me any idea as to her whereabouts, I'd be most grateful if you'd let me know. No, I'm afraid nobody's seen her, Sergeant. Thank you. These Harvest Festival photographs? Aye. We have one taken at the end of every summer. - What happened to last year's? - Mm, it got broke. Your supper's ready, Sergeant. Willow, show the Sergeant to the dining room. Thank you. It's disgusting. - Thank you. - What's the matter, aren't you hungry? Aye, it's just that most of the food I've had- the farmhouse soup, the potatoes, broad beans - all come out of a can. Broad beans, in their natural state, aren't usually turquoise, are they? - Hmm. Some things in their natural state have the most vivid colors. I just wanted to know why, that's all. Now, I wonder what you'll be wanting for afters? - Hmm, I'll have an apple. - No apples. No apples? On Summerisle? I expect they've all been exported. You can have peaches and cream, if you like. Aye, from a can, I suppose. All right. Cheer up. Food isn't everything in life, you know. Up, up, up, up! Up, up, up, up, up, up! - Where? You'll find it at the top of the stair on your right. In the woods there grew a tree And a fine, fine tree was he And on that tree there was a limb And on that limb there was a branch And on that branch there was a nest And in that nest there was an egg And in that egg there was a bird And from that bird a feather came And of that feather was A bed And on that bed there was a girl And on that girl there was a man And from that man there was a seed And from that seed there was a boy And from that boy there was a man And for that man there was a grave And from that grave there grew A tree And on that bed there was a girl And on that girl there was a man And from that man there was a seed, and from that seed there was a boy And from that boy there was a man And for that man there was a grave And from that grave there grew A tree And on that tree there was a limb and on that limb There was a branch and on that branch there was a nest And in that nest there was an egg And in that egg there was a bird, and from that bird, a feather came And of that feather was A bed Very well, girls.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- It won't be long, Sergeant. Oh, you don't want to let them worry you. Why don't you have a wee drink? No, thank you, not just now. I think you all ought to know that I am here on official business. I am here to investigate the disappearance of a young girl, as doubtless, the harbour master has already told you by now. There's the girl. Her name is Rowan Morrison. Would you pass that among your customers, please? Now, if any of you can give me any idea as to her whereabouts, I'd be most grateful if you'd let me know. No, I'm afraid nobody's seen her, Sergeant. Thank you. These Harvest Festival photographs? Aye. We have one taken at the end of every summer. - What happened to last year's? - Mm, it got broke. Your supper's ready, Sergeant. Willow, show the Sergeant to the dining room. Thank you. It's disgusting. - Thank you. - What's the matter, aren't you hungry? Aye, it's just that most of the food I've had- the farmhouse soup, the potatoes, broad beans - all come out of a can. Broad beans, in their natural state, aren't usually turquoise, are they? - Hmm. Some things in their natural state have the most vivid colors. I just wanted to know why, that's all. Now, I wonder what you'll be wanting for afters? - Hmm, I'll have an apple. - No apples. No apples? On Summerisle? I expect they've all been exported. You can have peaches and cream, if you like. Aye, from a can, I suppose. All right. Cheer up. Food isn't everything in life, you know. Up, up, up, up! Up, up, up, up, up, up! - Where? You'll find it at the top of the stair on your right. In the woods there grew a tree And a fine, fine tree was he And on that tree there was a limb And on that limb there was a branch And on that branch there was a nest And in that nest there was an egg And in that egg there was a bird And from that bird a feather came And of that feather was A bed And on that bed there was a girl And on that girl there was a man And from that man there was a seed And from that seed there was a boy And from that boy there was a man And for that man there was a grave And from that grave there grew A tree And on that bed there was a girl And on that girl there was a man And from that man there was a seed, and from that seed there was a boy And from that boy there was a man And for that man there was a grave And from that grave there grew A tree And on that tree there was a limb and on that limb There was a branch and on that branch there was a nest And in that nest there was an egg And in that egg there was a bird, and from that bird, a feather came And of that feather was A bed Very well, girls."
+      ],
+      "scene_length_chars": 2605,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004971788730472326,
+        0.0027554191183298826,
+        0.0026173610240221024,
+        0.0023995384108275175,
+        0.005017653573304415,
+        0.003004850121214986,
+        0.0071950554847717285,
+        0.5040531158447266,
+        0.0036285240203142166,
+        0.0006456184783019125,
+        0.0017340214690193534,
+        0.04548494890332222,
+        0.003196039004251361,
+        0.009008672088384628,
+        0.005992123391479254,
+        0.3324609398841858,
+        0.0027196528390049934,
+        0.001025840756483376,
+        0.0012990246759727597,
+        0.0005424860864877701,
+        0.002820327179506421,
+        0.0012941720196977258,
+        0.003976286854594946,
+        0.003551386995241046,
+        0.002904040738940239,
+        0.0027718485798686743,
+        0.18241596221923828,
+        0.34776583313941956
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "That's enough. Now it's time to pay attention to me. Now, uh, Daisy, will you tell us what it is, please, that the maypole represents? Really, Daisy. - You've been told often enough. - Miss Rose, I know! - All right, then, anybody. - Phallic symbol. The phallic symbol. That is correct. It is the image of the penis, which is venerated in religions such as ours, as simbolising the generative force in nature. Oh, can I help you? C- could-could I have a word with you, please, miss? Certainly. Girls, open your desks and take out your exercise books. Miss, you can be quite sure that I shall report this to the proper authorities. Everywhere I go on this island, it seems to me I find degeneracy. and there is brawling in bars, there is indecency in public places, and there is corruption of the young, and now I see it all stems from here- it stems from the filth taught here in this very schoolroom. I was unaware that the police had any authority in matters of education. Aye, aye, well, we'll see about that. Girls, could I have your attention, please? Now, I am a police officer. Well, as you can see. I have come here from the mainland... to investigate the disappearance of a young girl. I have a photograph here- excuse me- which I would like you to pass around amongst yourselves. Meanwhile, I'll write her name over there on the blackboard. Rowan Morrison. That's her name. Now, do any of you recognize either the name or the photograph? - No. - There's your answer, Sergeant. If she existed, we would know. - Whose desk is that? - No one's. Thank you. The little old beetle goes round and round, always the same way, you see, till he ends up right up tight to the nail, poor old thing. \"Poor old thing\"? Then why in God's name do you do it, girl? I'd like to see the school register, please. I'm afraid you'll have to have Lord Summerisle's authority. This is a police matter. I'm afraid you'll have to have a search warrant or permission from Lord Summerisle himself. I'm afraid you'll just have to bear with me, won't you? You're liars. You are despicable little liars. Rowan Morrison is a schoolmate of yours, isn't she? And that is her desk, isn't it? - Well, isn't it? - I think you ought to know- And you are the biggest liar of all.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "That's enough. Now it's time to pay attention to me. Now, uh, Daisy, will you tell us what it is, please, that the maypole represents? Really, Daisy. - You've been told often enough. - Miss Rose, I know! - All right, then, anybody. - Phallic symbol. The phallic symbol. That is correct. It is the image of the penis, which is venerated in religions such as ours, as simbolising the generative force in nature. Oh, can I help you? C- could-could I have a word with you, please, miss? Certainly. Girls, open your desks and take out your exercise books. Miss, you can be quite sure that I shall report this to the proper authorities. Everywhere I go on this island, it seems to me I find degeneracy. and there is brawling in bars, there is indecency in public places, and there is corruption of the young, and now I see it all stems from here- it stems from the filth taught here in this very schoolroom. I was unaware that the police had any authority in matters of education. Aye, aye, well, we'll see about that. Girls, could I have your attention, please? Now, I am a police officer. Well, as you can see. I have come here from the mainland... to investigate the disappearance of a young girl. I have a photograph here- excuse me- which I would like you to pass around amongst yourselves. Meanwhile, I'll write her name over there on the blackboard. Rowan Morrison. That's her name. Now, do any of you recognize either the name or the photograph? - No. - There's your answer, Sergeant. If she existed, we would know. - Whose desk is that? - No one's. Thank you. The little old beetle goes round and round, always the same way, you see, till he ends up right up tight to the nail, poor old thing. \"Poor old thing\"? Then why in God's name do you do it, girl? I'd like to see the school register, please. I'm afraid you'll have to have Lord Summerisle's authority. This is a police matter. I'm afraid you'll have to have a search warrant or permission from Lord Summerisle himself. I'm afraid you'll just have to bear with me, won't you? You're liars. You are despicable little liars. Rowan Morrison is a schoolmate of yours, isn't she? And that is her desk, isn't it? - Well, isn't it? - I think you ought to know- And you are the biggest liar of all."
+      ],
+      "scene_length_chars": 2250,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009729520417749882,
+        0.0026470485609024763,
+        0.09337583184242249,
+        0.003608775557950139,
+        0.06377910822629929,
+        0.0016091516008600593,
+        0.04329659417271614,
+        0.2645203471183777,
+        0.0025380400475114584,
+        0.0014054480707272887,
+        0.0026615196838974953,
+        0.004717863630503416,
+        0.0023663784377276897,
+        0.0031166456174105406,
+        0.5285870432853699,
+        0.004551700782030821,
+        0.00448363134637475,
+        0.0014606717741116881,
+        0.003334582783281803,
+        0.00477130152285099,
+        0.001520704128779471,
+        0.0014425868866965175,
+        0.16375000774860382,
+        0.0004771864914800972,
+        0.0016116173937916756,
+        0.005900231655687094,
+        0.0032612336799502373,
+        0.17168672382831573
+      ],
+      "goemotions_topk": [
+        "fear",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "I warn you, one more lie out of you, and I will charge you with obstruction, and, believe me, Miss Rose, that is a promise. Now, for the last time, where is Rowan Morrison? I would like to speak to you outside, Sergeant. Girls, get on with your reading. It's the Rites and Rituals of May Day, chapter five. I won't be long. Well? You don't understand, Sergeant. Nobody was lying. I told you plainly. If Rowan Morrison existed, we would know of her. You mean, she doesn't exist? She's dead? You would say so. Oh, come on, come on. She's either dead, or she's not dead. Here, we do not use the word- We believe... that when the human life is over, the soul returns to trees, to air, to fire, to water, to animals, so that Rowan Morrison has simply returned... to the life forces in another form. Do you mean to say you teach the children this stuff? Yes. I told you, it is what we believe. They never learn anything of christianity? Only as a comparative religion. The children find it far easier to picture... reincarnation than resurrection. Those rotting bodies are a great stumbling block for the childish imagination. Why, of course. And may I ask, where is the rotting body of Rowan Morrison? Right where you'd expect it to be - in the earth. You mean, in the churchyard? - In a manner of speaking. - No. In plain speaking. The building attached to the ground in which the body lies... is no longer used for christian worship, so whether it is still a churchyard is debatable. But forgive me. I must get back to my girls. Good morning to you. \"Here lieth Beech Buchanan, protected by the ejaculation of serpents. \" - Morning. - Morning. I see you plant trees on most of the graves here. - Aye, that's right. - What tree is that? That's a rowan. - And who lies there? - Rowan Morrison. - How long has she been dead? - Oh, six or seven months. They're just a wee bit late with the headstone. What on earth's that? It looks like a piece of skin. - Why, so it is. - Well, what is it? The poor wee lassie's navel string, of course. Where else should it be but hung on her own little tree? Where does your minister live? Minister? Minister. Oh, what a silly girl you are to make all this fuss. It's just a little frog. It'll do that poor sore throat good. Now, anyone would think you didn't want to get better.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I warn you, one more lie out of you, and I will charge you with obstruction, and, believe me, Miss Rose, that is a promise. Now, for the last time, where is Rowan Morrison? I would like to speak to you outside, Sergeant. Girls, get on with your reading. It's the Rites and Rituals of May Day, chapter five. I won't be long. Well? You don't understand, Sergeant. Nobody was lying. I told you plainly. If Rowan Morrison existed, we would know of her. You mean, she doesn't exist? She's dead? You would say so. Oh, come on, come on. She's either dead, or she's not dead. Here, we do not use the word- We believe... that when the human life is over, the soul returns to trees, to air, to fire, to water, to animals, so that Rowan Morrison has simply returned... to the life forces in another form. Do you mean to say you teach the children this stuff? Yes. I told you, it is what we believe. They never learn anything of christianity? Only as a comparative religion. The children find it far easier to picture... reincarnation than resurrection. Those rotting bodies are a great stumbling block for the childish imagination. Why, of course. And may I ask, where is the rotting body of Rowan Morrison? Right where you'd expect it to be - in the earth. You mean, in the churchyard? - In a manner of speaking. - No. In plain speaking. The building attached to the ground in which the body lies... is no longer used for christian worship, so whether it is still a churchyard is debatable. But forgive me. I must get back to my girls. Good morning to you. \"Here lieth Beech Buchanan, protected by the ejaculation of serpents. \" - Morning. - Morning. I see you plant trees on most of the graves here. - Aye, that's right. - What tree is that? That's a rowan. - And who lies there? - Rowan Morrison. - How long has she been dead? - Oh, six or seven months. They're just a wee bit late with the headstone. What on earth's that? It looks like a piece of skin. - Why, so it is. - Well, what is it? The poor wee lassie's navel string, of course. Where else should it be but hung on her own little tree? Where does your minister live? Minister? Minister. Oh, what a silly girl you are to make all this fuss. It's just a little frog. It'll do that poor sore throat good. Now, anyone would think you didn't want to get better."
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0020080418325960636,
+        0.14973041415214539,
+        0.002136668423190713,
+        0.11670441180467606,
+        0.0021664455998688936,
+        0.0024893267545849085,
+        0.017856890335679054,
+        0.7678402066230774,
+        0.00552355544641614,
+        0.0038882128428667784,
+        0.0009015423129312694,
+        0.0007696077809669077,
+        0.0018952004611492157,
+        0.002196613932028413,
+        0.000669398286845535,
+        0.0007614223286509514,
+        0.0010691130300983787,
+        0.0019300979329273105,
+        0.00037314684595912695,
+        0.0008237414876930416,
+        0.026151573285460472,
+        0.00018563734192866832,
+        0.0038474404718726873,
+        0.0003667126875370741,
+        0.0012711999006569386,
+        0.0029488010331988335,
+        0.023509470745921135,
+        0.3622009754180908
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "amusement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "Now, in he goes. And out he comes. There. Now, that didn't hurt much, did it? - It tasted horrid. - Never mind, darling. It's all over now. Here's your sweet for being a brave girl. Come on. Which one would you like? There. He's got your horrid old sore throat now, hasn't he, poor creature? Can't you hear him croaking? Can I do anything for you, Sergeant? I doubt it, seeing you're all raving mad. - I'd like to see your index of deaths, please. - Do you have authority? - No, I meant from his lordship. - I don't need it. I'm afraid you have to get permission from Lord Summerisle. Miss, if you don't cooperate with me here and now, you may well find yourself inside a police cell on the mainland tonight. Have I made myself quite clear? Please. Thank you. \"M.\" \"m,\" \"m,\" \"m,\" \"m. \" \"Benjamin and Rachel Morrison. \" - Rachel and Benjamin- names from the Bible. - Yes. They were very old. But, there's no record of Rowan Morrison's death, which means, of course, there is no death certificate. - Did you know her? - Yes, of course. - Is that her? - Yes, that's her. How did she die? - I don't know. - I don't know anything about her. Nothing. Thank you. Are you mr. Lennox, the photographer? Oh, I'm firstly a chemist, secondly a photographer. I understand that you take the harvest festival photographs every year- the ones I saw in The Green Man. Yes, it's rather humdrum work, I'm afraid. Do you know what happened to last year's photograph? Isn't it with the others? No, no, it's not. No, apparently it's been broken or damaged in some way. - Oh, what a pity. - Would you have a copy of it? Oh, no, I don't keep copies. Mr. Lennox, you were among the people to whom I showed the photograph in the Green Man. Is that the girl? - It's difficult to say. - Oh, come on, man! It was only eight months ago. Surely you remember if it was that girl or not. Thank you. Corn rigs and barley rigs And corn rigs are bonnie I'll not forget that happy night Among the rigs with Annie Take the flame inside you burn and burn below Fire seed and fire feed and make the baby grow Take the flame inside you Burn and burn belay Fire seed and fire feed and make the baby stay Take the flame inside you burn and burn belong Fire seed and fire feed and make the baby strong Take the flame inside you burn and burn belie Fire seed and fire feed and make the baby cry Take the flame inside you burn and burn begin Fire seed and fire feed and make the baby king - His lordship is expecting you, sir.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Now, in he goes. And out he comes. There. Now, that didn't hurt much, did it? - It tasted horrid. - Never mind, darling. It's all over now. Here's your sweet for being a brave girl. Come on. Which one would you like? There. He's got your horrid old sore throat now, hasn't he, poor creature? Can't you hear him croaking? Can I do anything for you, Sergeant? I doubt it, seeing you're all raving mad. - I'd like to see your index of deaths, please. - Do you have authority? - No, I meant from his lordship. - I don't need it. I'm afraid you have to get permission from Lord Summerisle. Miss, if you don't cooperate with me here and now, you may well find yourself inside a police cell on the mainland tonight. Have I made myself quite clear? Please. Thank you. \"M.\" \"m,\" \"m,\" \"m,\" \"m. \" \"Benjamin and Rachel Morrison. \" - Rachel and Benjamin- names from the Bible. - Yes. They were very old. But, there's no record of Rowan Morrison's death, which means, of course, there is no death certificate. - Did you know her? - Yes, of course. - Is that her? - Yes, that's her. How did she die? - I don't know. - I don't know anything about her. Nothing. Thank you. Are you mr. Lennox, the photographer? Oh, I'm firstly a chemist, secondly a photographer. I understand that you take the harvest festival photographs every year- the ones I saw in The Green Man. Yes, it's rather humdrum work, I'm afraid. Do you know what happened to last year's photograph? Isn't it with the others? No, no, it's not. No, apparently it's been broken or damaged in some way. - Oh, what a pity. - Would you have a copy of it? Oh, no, I don't keep copies. Mr. Lennox, you were among the people to whom I showed the photograph in the Green Man. Is that the girl? - It's difficult to say. - Oh, come on, man! It was only eight months ago. Surely you remember if it was that girl or not. Thank you. Corn rigs and barley rigs And corn rigs are bonnie I'll not forget that happy night Among the rigs with Annie Take the flame inside you burn and burn below Fire seed and fire feed and make the baby grow Take the flame inside you Burn and burn belay Fire seed and fire feed and make the baby stay Take the flame inside you burn and burn belong Fire seed and fire feed and make the baby strong Take the flame inside you burn and burn belie Fire seed and fire feed and make the baby cry Take the flame inside you burn and burn begin Fire seed and fire feed and make the baby king - His lordship is expecting you, sir."
+      ],
+      "scene_length_chars": 2480,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.10317667573690414,
+        0.001550505869090557,
+        0.0047934274189174175,
+        0.001375539810396731,
+        0.002987566404044628,
+        0.023434007540345192,
+        0.06111009418964386,
+        0.6103451251983643,
+        0.004039360675960779,
+        0.0005390691221691668,
+        0.005442498251795769,
+        0.002919374965131283,
+        0.00273200124502182,
+        0.01449687872081995,
+        0.348120778799057,
+        0.7127575874328613,
+        0.005303520243614912,
+        0.002431470202282071,
+        0.006274621933698654,
+        0.004377962090075016,
+        0.0008073991048149765,
+        0.0029610861092805862,
+        0.005303249228745699,
+        0.002435945672914386,
+        0.0021999741438776255,
+        0.0013936172472313046,
+        0.009408102370798588,
+        0.19302082061767578
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "fear"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "- Expecting me? That's what his lordship told me, sir. Would you please come this way? In there, sir. Good afternoon, Sergeant Howie. I trust the sight of the young people refreshes you. No, sir, it does not refresh me. Oh, I'm sorry. One should always be open to the regenerative influences. - I understand you're looking for a missing girl. - I've found her. - Splendid. - In her grave. Your lordship is a justice of the peace. I need your permission to exhume her body, have it transported to the mainland for a pathologist's report. You suspect... foul play? I suspect murder and conspiracy to murder. In that case, you must go ahead. Your lordship seems strangely unconcerned. I'm confident your suspicions are wrong, Sergeant. We don't commit murder up here. We're a deeply religious people. Religious! With ruined churches, no ministers, no priests... and children dancing naked. They do love their divinity lessons. But they-they are-are naked. Naturally. It's much too dangerous to jump through the fire with your clothes on. What-what religion can-can-can they possibly be learning... j - jumping over bonfires? Parthenogenesis. What? Literally, as Miss Rose would doubtless say in her assiduous way, reproduction without sexual union. Oh, what is all this? I mean, you-you-you've got fake-fake-fake biology, fake religion. Sir, have these children never heard of Jesus? Himself the son of a virgin, impregnated, I believe, by a ghost. Do sit down, Sergeant. Shocks are so much better absorbed with the knees bent. Please. Now, those children out there, they're jumping through the flames in the hope that the god of fire will make them fruitful. Really, you can hardly blame them. After all, what girl would not prefer the child of a god to that of some acne-scarred artisan? - And you, you encourage them in this? - Actively. It's most important that each new generation born on Summerisle be made aware that here the old gods aren't dead. But what of the true god... to whose glory churches and monasteries have been built on these islands for generations past? Now sir, what of him? He's dead. He can't complain. He had his chance, and in the modern parlance, he blew it. - What? - It's very simple. Let me show you. In the last century, the islanders were starving.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Expecting me? That's what his lordship told me, sir. Would you please come this way? In there, sir. Good afternoon, Sergeant Howie. I trust the sight of the young people refreshes you. No, sir, it does not refresh me. Oh, I'm sorry. One should always be open to the regenerative influences. - I understand you're looking for a missing girl. - I've found her. - Splendid. - In her grave. Your lordship is a justice of the peace. I need your permission to exhume her body, have it transported to the mainland for a pathologist's report. You suspect... foul play? I suspect murder and conspiracy to murder. In that case, you must go ahead. Your lordship seems strangely unconcerned. I'm confident your suspicions are wrong, Sergeant. We don't commit murder up here. We're a deeply religious people. Religious! With ruined churches, no ministers, no priests... and children dancing naked. They do love their divinity lessons. But they-they are-are naked. Naturally. It's much too dangerous to jump through the fire with your clothes on. What-what religion can-can-can they possibly be learning... j - jumping over bonfires? Parthenogenesis. What? Literally, as Miss Rose would doubtless say in her assiduous way, reproduction without sexual union. Oh, what is all this? I mean, you-you-you've got fake-fake-fake biology, fake religion. Sir, have these children never heard of Jesus? Himself the son of a virgin, impregnated, I believe, by a ghost. Do sit down, Sergeant. Shocks are so much better absorbed with the knees bent. Please. Now, those children out there, they're jumping through the flames in the hope that the god of fire will make them fruitful. Really, you can hardly blame them. After all, what girl would not prefer the child of a god to that of some acne-scarred artisan? - And you, you encourage them in this? - Actively. It's most important that each new generation born on Summerisle be made aware that here the old gods aren't dead. But what of the true god... to whose glory churches and monasteries have been built on these islands for generations past? Now sir, what of him? He's dead. He can't complain. He had his chance, and in the modern parlance, he blew it. - What? - It's very simple. Let me show you. In the last century, the islanders were starving."
+      ],
+      "scene_length_chars": 2280,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0019517488544806838,
+        0.0013874480500817299,
+        0.012046866118907928,
+        0.006308337207883596,
+        0.013056985102593899,
+        0.005329185631126165,
+        0.0137109300121665,
+        0.35466304421424866,
+        0.008436127565801144,
+        0.001561029814183712,
+        0.0017931292532011867,
+        0.0009013948147185147,
+        0.0025351999793201685,
+        0.004133566748350859,
+        0.008451739326119423,
+        0.0004519453796092421,
+        0.0021781749092042446,
+        0.00036955098039470613,
+        0.0025546150282025337,
+        0.0008651962853036821,
+        0.028893334791064262,
+        0.0022425067145377398,
+        0.007039070129394531,
+        0.0004571180325001478,
+        0.003743036650121212,
+        0.0015461017610505223,
+        0.00955582782626152,
+        0.5785253047943115
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Like our neighbors today, they were scratching a bare subsistence from sheep and sea. Then in 1868, my grandfather bought this barren island and began to change things. A distinguished victorian scientist, agronomist, free thinker. How formidably benevolent he seems. Essentially the face of a man incredulous of all human good. You are very cynical, my lord. What attracted my grandfather to the island, apart from the profuse source of wiry labor that it promised, was the unique combination of volcanic soil and the warm gulf stream that surrounded it. You see, his experiments had led him to believe that it was possible to induce here the successful growth of certain new strains of fruit that he had developed. So, with typical mid-victorian zeal, he set to work. The best way of accomplishing this, so it seemed to him, was to rouse the people from their apathy... by giving them back their joyous old gods, and as a result of this worship, the barren island would burgeon and bring forth fruit in great abundance. What he did, of course, was to develop new cultivars of hardy fruits suited to local conditions. But, of course, to begin with, they worked for him because he fed them and clothed them, but then later when the trees starting fruiting, it became a very different matter, and the ministers fled the island, never to return. What my grandfather had started out of expediency, My father continued out of... Love. He brought me up the same way - to reverence the music and the drama and rituals of the old gods. To love nature and to fear it, and to rely on it and to appease it where necessary. - He brought me up - - He brought you up to be a pagan! A heathen, conceivably, but not, I hope, an unenlightened one. Lord Summerisle, I am interested in one thing: the law. But I must remind you, sir, that despite everything you've said, you are the subject of a christian country. Now, sir, if I may have your permission to exhume the body of Rowan Morrison. I was under the impression I'd already given it to you. Ah, there's your transport. It's been a great pleasure meeting a christian copper. A maiden did this tinker meet And to him boldly say: \"Oh, sure My kettle hath much need If you will pass my way.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Like our neighbors today, they were scratching a bare subsistence from sheep and sea. Then in 1868, my grandfather bought this barren island and began to change things. A distinguished victorian scientist, agronomist, free thinker. How formidably benevolent he seems. Essentially the face of a man incredulous of all human good. You are very cynical, my lord. What attracted my grandfather to the island, apart from the profuse source of wiry labor that it promised, was the unique combination of volcanic soil and the warm gulf stream that surrounded it. You see, his experiments had led him to believe that it was possible to induce here the successful growth of certain new strains of fruit that he had developed. So, with typical mid-victorian zeal, he set to work. The best way of accomplishing this, so it seemed to him, was to rouse the people from their apathy... by giving them back their joyous old gods, and as a result of this worship, the barren island would burgeon and bring forth fruit in great abundance. What he did, of course, was to develop new cultivars of hardy fruits suited to local conditions. But, of course, to begin with, they worked for him because he fed them and clothed them, but then later when the trees starting fruiting, it became a very different matter, and the ministers fled the island, never to return. What my grandfather had started out of expediency, My father continued out of... Love. He brought me up the same way - to reverence the music and the drama and rituals of the old gods. To love nature and to fear it, and to rely on it and to appease it where necessary. - He brought me up - - He brought you up to be a pagan! A heathen, conceivably, but not, I hope, an unenlightened one. Lord Summerisle, I am interested in one thing: the law. But I must remind you, sir, that despite everything you've said, you are the subject of a christian country. Now, sir, if I may have your permission to exhume the body of Rowan Morrison. I was under the impression I'd already given it to you. Ah, there's your transport. It's been a great pleasure meeting a christian copper. A maiden did this tinker meet And to him boldly say: \"Oh, sure My kettle hath much need If you will pass my way."
+      ],
+      "scene_length_chars": 2226,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.17952926456928253,
+        0.0005072665517218411,
+        0.0019188470905646682,
+        0.0017458508955314755,
+        0.0024802004918456078,
+        0.0015697110211476684,
+        0.002451313426718116,
+        0.0023145440500229597,
+        0.028652673587203026,
+        0.004573769401758909,
+        0.0024264848325401545,
+        0.0002951818751171231,
+        0.0004529587458819151,
+        0.015932422131299973,
+        0.002087634988129139,
+        0.0020180465653538704,
+        0.0006143517675809562,
+        0.0012278443900868297,
+        0.310059517621994,
+        0.0006123586208559573,
+        0.007366060744971037,
+        0.0068718306720256805,
+        0.010850117541849613,
+        0.0002976190880872309,
+        0.0007599404198117554,
+        0.000602704705670476,
+        0.0011649316875264049,
+        0.8210737109184265
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "love",
+        "admiration"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "\" She took the tinker by the hand And led him to her door. Says she \"My kettle I will show, And you can clout it sure. For patching and plugging is his delight I found that in Rowan Morrison's grave. - Little Rowan loved the march hares. - Hmm. It's sacrilege. Only if the ground is consecrated to the christian belief. Personally, I think it makes a very lovely transmutation. I'm sure Rowan is most happy with it. Do you not think so, Lord Summerisle? Miss, I hope you don't think that I can be made a fool of indefinitely. Where is Rowan Morrison? Why, here she is - what remains of her physically. Her soul, of course, may even now - Lord Summerisle, where is Rowan Morrison? Sergeant Howie, I think that... you are supposed to be the detective here. A child is reported missing on your island. At first I'm told there is no such child. I- I then - I then find that there is, in fact, but that she has been killed. I subsequently discover that there is no death certificate. and now I find that there is a grave. There's no body. Very perplexing for you. What do you think could have happened? I think Rowan Morrison was murdered... under circumstances of pagan barbarity, which I can scarcely bring myself to believe... as taking place in the 20th century. Now, it is my intention tomorrow to return to the mainland... and report my suspicions to the Chief Constable of the West Highland Constabulary. And I will demand a full inquiry takes place into the affairs of this heathen island. You must, of course, do as you see fit, Sergeant. Perhaps it's just as well that you won't be here tomorrow, to be offended by the sight of our May Day celebrations here. Broome, would you kindly show the Sergeant out? - This way, sir. - Good-bye. Fair maid, says he, your kettle's cracked the cause is plainly told There hath so many nails been drove mine own could not take hold... There's hardly any produce. Well, that's it - the crops failed. And it's Rowan! Rowan and the crops failed! Sacrifice. Perhaps it's just as well that you won't be here... to be offended by the sight of our May Day celebrations tomorrow. We carry death out of the village! We carry death out of the village! \"May Day festivals. \"Primitive man lived and died by his harvest.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "\" She took the tinker by the hand And led him to her door. Says she \"My kettle I will show, And you can clout it sure. For patching and plugging is his delight I found that in Rowan Morrison's grave. - Little Rowan loved the march hares. - Hmm. It's sacrilege. Only if the ground is consecrated to the christian belief. Personally, I think it makes a very lovely transmutation. I'm sure Rowan is most happy with it. Do you not think so, Lord Summerisle? Miss, I hope you don't think that I can be made a fool of indefinitely. Where is Rowan Morrison? Why, here she is - what remains of her physically. Her soul, of course, may even now - Lord Summerisle, where is Rowan Morrison? Sergeant Howie, I think that... you are supposed to be the detective here. A child is reported missing on your island. At first I'm told there is no such child. I- I then - I then find that there is, in fact, but that she has been killed. I subsequently discover that there is no death certificate. and now I find that there is a grave. There's no body. Very perplexing for you. What do you think could have happened? I think Rowan Morrison was murdered... under circumstances of pagan barbarity, which I can scarcely bring myself to believe... as taking place in the 20th century. Now, it is my intention tomorrow to return to the mainland... and report my suspicions to the Chief Constable of the West Highland Constabulary. And I will demand a full inquiry takes place into the affairs of this heathen island. You must, of course, do as you see fit, Sergeant. Perhaps it's just as well that you won't be here tomorrow, to be offended by the sight of our May Day celebrations here. Broome, would you kindly show the Sergeant out? - This way, sir. - Good-bye. Fair maid, says he, your kettle's cracked the cause is plainly told There hath so many nails been drove mine own could not take hold... There's hardly any produce. Well, that's it - the crops failed. And it's Rowan! Rowan and the crops failed! Sacrifice. Perhaps it's just as well that you won't be here... to be offended by the sight of our May Day celebrations tomorrow. We carry death out of the village! We carry death out of the village! \"May Day festivals. \"Primitive man lived and died by his harvest."
+      ],
+      "scene_length_chars": 2249,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.12510256469249725,
+        0.0024906278122216463,
+        0.0036945585161447525,
+        0.0026483021210879087,
+        0.008177523501217365,
+        0.005246870685368776,
+        0.0027623819187283516,
+        0.005245849955826998,
+        0.03160521015524864,
+        0.010843738913536072,
+        0.0019594880286604166,
+        0.001771202776581049,
+        0.0009447730262763798,
+        0.010816390626132488,
+        0.0011396791087463498,
+        0.00012441635772120208,
+        0.012286807410418987,
+        0.02485652081668377,
+        0.2124813050031662,
+        0.0006604962982237339,
+        0.10958337038755417,
+        0.003819483332335949,
+        0.057979922741651535,
+        0.0010063265217468143,
+        0.0023890964221209288,
+        0.18812841176986694,
+        0.005161605309695005,
+        0.8303837180137634
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "love",
+        "sadness"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "\"The purpose of his spring ceremonies was to ensure a plentiful autumn. \"Relics of these fertility dramas are to be found all over Europe. \"In Great Britain, for example, one can still see... \"harmless versions of them danced in obscure villages on May Day. \"Their cast includes many alarming characters: \"A man-animal, or hobbyhorse, \"who canters at the head of the procession charging at the girls; \"A man-woman, the sinister teaser, \"played by the community leader or priest; \"And a man-fool, Punch, \"most complex of all the symbolic figures - \"the privileged simpleton and king for a day. \"Six swordsmen follow these figures... \"and at the climax of the ceremony lock their swords together... \"In a clear symbol of the Sun. \"In pagan times, however, these dances were not simply picturesque jigs. \"They were frenzied rites ending in a sacrifice \"by which the dancers hoped desperately to win over the goddess of the fields. \"In good times, they offered produce to the gods and slaughtered animals, \"but in bad years, when the harvest had been poor, \"the sacrifice was a human being. Rowan's not dead! \"Sometimes the victim would be drowned in the sea... \"or burnt to death in a huge sacrificial bonfire. Sometimes the six swordsmen ritually beheaded the virgin. \" Dear God in Heaven, even these people can't be that mad. \"The chief priest then skinned the child, \"and wearing the still-warmed skin like a mantle, \"led the rejoicing crowds through the streets. \"The priest thus represented the goddess reborn and guaranteed another successful harvest next year. \" Good morning, Sergeant! I need to get to my plane. Oh, well, on May Day, I'd better take you out myself. That's it. Here, right. I shall be back shortly with some more police officers. Have a good flight then! Hey, you come back here! I said, come back here! What's the matter? Won't she go? No. Has anyone been here? Not to my knowledge, Sergeant. If any of the children had been interfering with it, I'm sure I would have seen- I warn you: you're obstructing a police officer. I am not obstructing you, Sergeant. You could maybe get old Sam there to row you to the mainland. You'd be back in a week. Well, I'll just have to find Rowan Morrison myself. - Everything under control, Oak?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "\"The purpose of his spring ceremonies was to ensure a plentiful autumn. \"Relics of these fertility dramas are to be found all over Europe. \"In Great Britain, for example, one can still see... \"harmless versions of them danced in obscure villages on May Day. \"Their cast includes many alarming characters: \"A man-animal, or hobbyhorse, \"who canters at the head of the procession charging at the girls; \"A man-woman, the sinister teaser, \"played by the community leader or priest; \"And a man-fool, Punch, \"most complex of all the symbolic figures - \"the privileged simpleton and king for a day. \"Six swordsmen follow these figures... \"and at the climax of the ceremony lock their swords together... \"In a clear symbol of the Sun. \"In pagan times, however, these dances were not simply picturesque jigs. \"They were frenzied rites ending in a sacrifice \"by which the dancers hoped desperately to win over the goddess of the fields. \"In good times, they offered produce to the gods and slaughtered animals, \"but in bad years, when the harvest had been poor, \"the sacrifice was a human being. Rowan's not dead! \"Sometimes the victim would be drowned in the sea... \"or burnt to death in a huge sacrificial bonfire. Sometimes the six swordsmen ritually beheaded the virgin. \" Dear God in Heaven, even these people can't be that mad. \"The chief priest then skinned the child, \"and wearing the still-warmed skin like a mantle, \"led the rejoicing crowds through the streets. \"The priest thus represented the goddess reborn and guaranteed another successful harvest next year. \" Good morning, Sergeant! I need to get to my plane. Oh, well, on May Day, I'd better take you out myself. That's it. Here, right. I shall be back shortly with some more police officers. Have a good flight then! Hey, you come back here! I said, come back here! What's the matter? Won't she go? No. Has anyone been here? Not to my knowledge, Sergeant. If any of the children had been interfering with it, I'm sure I would have seen- I warn you: you're obstructing a police officer. I am not obstructing you, Sergeant. You could maybe get old Sam there to row you to the mainland. You'd be back in a week. Well, I'll just have to find Rowan Morrison myself. - Everything under control, Oak?"
+      ],
+      "scene_length_chars": 2253,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004117168486118317,
+        0.0009039424476213753,
+        0.0013606456341221929,
+        0.0005612902459688485,
+        0.000779914204031229,
+        0.0011750496923923492,
+        0.0038170625921338797,
+        0.3279677927494049,
+        0.0016849120147526264,
+        0.0007114720647223294,
+        0.0005642065079882741,
+        0.0008081971318461001,
+        0.0007376880384981632,
+        0.002959495410323143,
+        0.006290055345743895,
+        0.00048576408880762756,
+        0.0006537982844747603,
+        0.0002498257381375879,
+        0.0004093640891369432,
+        0.0003143062349408865,
+        0.006950479466468096,
+        0.0003416445979382843,
+        0.000994875910691917,
+        0.0001749668299453333,
+        0.0006468372885137796,
+        0.0006061816238798201,
+        0.0009481909801252186,
+        0.7375687956809998
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "- Aye, my lord. Mr. Macgreagor, I trust we aren't going to have to let out your costume again this year. I think I'll manage, my lord, but it does seem to shrink a little each year. I know. My friends, enough now. We shall all reassemble outside the town hall at 3:00 sharp... and then process through the village and the countryside, down to the beach below the stones, by the route which has become sacred to our rite. This year at the procession's end, as has already been proclaimed, a holy sacrifice will be offered up jointly to Nuada, our most sacred god of the Sun, and to Avellenau, the beloved goddess of our orchards, in order that we may furnish them with renewed power... to quicken the growth of our crops. - Hail the Queen of the May! - Hail the Queen of the May! Hail the Queen of the May! Why, Sergeant, I thought you'd gone back. Mrs. Morrison, I don't know if you know it or not, But Rowan is not dead. - They've got her hidden somewhere. - They? Now, if you know where she is, I beg you to tell me now before it's too late. - Sergeant, I've already told you - - In the name of God, woman, what kind of mother are you, that can stand by and see your own child slaughtered? Sergeant, if I were you, I would go back to the mainland. Stop interfering in things that are no concern of yours. I am going to search every house in this place during the next few hours. and if anybody, including you, stands in my way, they'll be arrested as accomplices to murder. You'll simply never understand the true nature of sacrifice. Heathens! Bloody heathens! Yes? - Take those masks off. - No. Take them off! - What do you think you're doing? - Searching every house... for a missing child. Baa baa black sheep, Have you any wool Yes, sir, yes, sir, Three bags full I - I'm sorry. - What's that? - The life of the fields. John Barleycorn. What's in here? - What's that? - That's my costume - the salmon of knowledge. Hello. You're back early. Where are the other coppers? There aren't any. The plane wouldn't start. Give me a glass of whiskey, please. So he spent his time instead turning the whole village upside down. - Just give me a glass of whiskey. - No wonder he's worn out. Did you find the girl? No, well, I can't say I'm very surprised.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Aye, my lord. Mr. Macgreagor, I trust we aren't going to have to let out your costume again this year. I think I'll manage, my lord, but it does seem to shrink a little each year. I know. My friends, enough now. We shall all reassemble outside the town hall at 3:00 sharp... and then process through the village and the countryside, down to the beach below the stones, by the route which has become sacred to our rite. This year at the procession's end, as has already been proclaimed, a holy sacrifice will be offered up jointly to Nuada, our most sacred god of the Sun, and to Avellenau, the beloved goddess of our orchards, in order that we may furnish them with renewed power... to quicken the growth of our crops. - Hail the Queen of the May! - Hail the Queen of the May! Hail the Queen of the May! Why, Sergeant, I thought you'd gone back. Mrs. Morrison, I don't know if you know it or not, But Rowan is not dead. - They've got her hidden somewhere. - They? Now, if you know where she is, I beg you to tell me now before it's too late. - Sergeant, I've already told you - - In the name of God, woman, what kind of mother are you, that can stand by and see your own child slaughtered? Sergeant, if I were you, I would go back to the mainland. Stop interfering in things that are no concern of yours. I am going to search every house in this place during the next few hours. and if anybody, including you, stands in my way, they'll be arrested as accomplices to murder. You'll simply never understand the true nature of sacrifice. Heathens! Bloody heathens! Yes? - Take those masks off. - No. Take them off! - What do you think you're doing? - Searching every house... for a missing child. Baa baa black sheep, Have you any wool Yes, sir, yes, sir, Three bags full I - I'm sorry. - What's that? - The life of the fields. John Barleycorn. What's in here? - What's that? - That's my costume - the salmon of knowledge. Hello. You're back early. Where are the other coppers? There aren't any. The plane wouldn't start. Give me a glass of whiskey, please. So he spent his time instead turning the whole village upside down. - Just give me a glass of whiskey. - No wonder he's worn out. Did you find the girl? No, well, I can't say I'm very surprised."
+      ],
+      "scene_length_chars": 2251,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0011268554953858256,
+        0.0026047301944345236,
+        0.013042300008237362,
+        0.0021611859556287527,
+        0.004316259175539017,
+        0.027722636237740517,
+        0.12703090906143188,
+        0.5019879341125488,
+        0.006712683942168951,
+        0.0024386292789131403,
+        0.0012908964417874813,
+        0.001002191100269556,
+        0.0010304657043889165,
+        0.0027585874777287245,
+        0.0017974117072299123,
+        0.00057606102200225,
+        0.004447317216545343,
+        0.0005333850276656449,
+        0.0007909387350082397,
+        0.0007089795544743538,
+        0.011497183702886105,
+        0.0006326072034426033,
+        0.057327717542648315,
+        0.0007652142085134983,
+        0.010578282177448273,
+        0.03165634348988533,
+        0.30841779708862305,
+        0.31754979491233826
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "surprise"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "I'm going to rest in my bed for half an hour. I do not wish to be disturbed. I'd stay there until tonight, if I was you. We don't much relish strangers around today. He's asleep. I don't like to use it on him, really. The laird said we're to take no chances, didn't he? I know, but with the Hand of Glory there's no telling when you wake. He might sleep for days. - All the better. - Shh! - We don't want him butting in. Go on, light it up. That will make you sleep, my pretty Sergeant. I'm away to change. We can't do without Punch. You best get on ahead. They've given you girls five minutes start, haven't they? Good-bye. What's the matter with you, Macgreagor? Do you call that dancing? Cut some capers, man. Use your bladder. Play the fool. That's what you're here for. I suppose you've been getting drunk at your own bar. That's more like it! Good, good! Here comes the job, that you chop off your head! Chop, chop, chop, chop. Chop, chop, chop, chop. Everyone must go through, Macgreagor. It's a game of chance, remember. It's Holly. Well done. Now, my friends, to the beach. O god of the sea, I offer you this ale as a libation, that you may bestow upon us in the year to come the rich and diverse fruits of your kingdom. Hail, god of the seas! Accept our offering! And now, for our more dreadful sacrifice... yo those who command the fruit of the Earth. It's Rowan. What's the matter, Mr. Macgreagor? Now, don't be frightened. I'm a police officer. - I've got to try and get you away. - Hurry, mister, please. - I don't like it here. They're coming. Do you know what they're gonna do? - They're going to - - Come on, come on. Hurry, hurry! We can escape through the cave. I know the way. Quickly. That's the way out up there. Come on. It's through a big tunnel. We seem to have lost our torch-bearing friends. I'm sorry. It was worse than I remembered it. - Did I do it right? - You did it beautifully. Dear little Rowan. Rowan, darling. Come on, now. Welcome, fool. You have come of your own free will to the appointed place. The game is over. Game? What game? The game of the hunted leading the hunter. You came here to find Rowan Morrison, but it is we who have found you and brought you here and controlled your every thought and action since you arrived. Principally, we persuaded you to think that Rowan Morrison was being held as a sacrifice because our crops failed last year.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm going to rest in my bed for half an hour. I do not wish to be disturbed. I'd stay there until tonight, if I was you. We don't much relish strangers around today. He's asleep. I don't like to use it on him, really. The laird said we're to take no chances, didn't he? I know, but with the Hand of Glory there's no telling when you wake. He might sleep for days. - All the better. - Shh! - We don't want him butting in. Go on, light it up. That will make you sleep, my pretty Sergeant. I'm away to change. We can't do without Punch. You best get on ahead. They've given you girls five minutes start, haven't they? Good-bye. What's the matter with you, Macgreagor? Do you call that dancing? Cut some capers, man. Use your bladder. Play the fool. That's what you're here for. I suppose you've been getting drunk at your own bar. That's more like it! Good, good! Here comes the job, that you chop off your head! Chop, chop, chop, chop. Chop, chop, chop, chop. Everyone must go through, Macgreagor. It's a game of chance, remember. It's Holly. Well done. Now, my friends, to the beach. O god of the sea, I offer you this ale as a libation, that you may bestow upon us in the year to come the rich and diverse fruits of your kingdom. Hail, god of the seas! Accept our offering! And now, for our more dreadful sacrifice... yo those who command the fruit of the Earth. It's Rowan. What's the matter, Mr. Macgreagor? Now, don't be frightened. I'm a police officer. - I've got to try and get you away. - Hurry, mister, please. - I don't like it here. They're coming. Do you know what they're gonna do? - They're going to - - Come on, come on. Hurry, hurry! We can escape through the cave. I know the way. Quickly. That's the way out up there. Come on. It's through a big tunnel. We seem to have lost our torch-bearing friends. I'm sorry. It was worse than I remembered it. - Did I do it right? - You did it beautifully. Dear little Rowan. Rowan, darling. Come on, now. Welcome, fool. You have come of your own free will to the appointed place. The game is over. Game? What game? The game of the hunted leading the hunter. You came here to find Rowan Morrison, but it is we who have found you and brought you here and controlled your every thought and action since you arrived. Principally, we persuaded you to think that Rowan Morrison was being held as a sacrifice because our crops failed last year."
+      ],
+      "scene_length_chars": 2393,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3788549602031708,
+        0.06740192323923111,
+        0.015498436987400055,
+        0.017539100721478462,
+        0.02426905371248722,
+        0.11800567060709,
+        0.010376024059951305,
+        0.5470005869865417,
+        0.050312548875808716,
+        0.018463006243109703,
+        0.004641675855964422,
+        0.001099691609852016,
+        0.0006706920103169978,
+        0.021985076367855072,
+        0.00624501146376133,
+        0.009553339332342148,
+        0.003973023500293493,
+        0.004304617643356323,
+        0.0014064604183658957,
+        0.0015961062163114548,
+        0.08779659122228622,
+        0.006728520151227713,
+        0.007464177906513214,
+        0.005398698151111603,
+        0.027235960587859154,
+        0.00772751122713089,
+        0.008572806604206562,
+        0.10706192255020142
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "I know your crops failed. I saw the harvest photograph. Oh, yes. They failed, all right, disastrously so... for the first time since my grandfather came here. The blossom came but the fruit withered and died on the bough. That must not happen again this year. It is our most earnest belief that the best way of preventing this is to offer to our god of the Sun and to the goddess of our orchards the most acceptable sacrifice that lies in our power. Animals are fine, but their acceptability is limited. A little child is even better, but not nearly as effective as the right kind of adult. What do you mean, \"right kind of adult\"? You, Sergeant, are the right kind of adult, as our painstaking researches have revealed. You, uniquely, were the one we needed. A man who would come here of his own free will. A man who has come here with the power of a king by representing the law. A man who would come here as a virgin. A man who has come here as a fool. Get out of my way. You are the fool, Mr. Howie - Punch, one of the great fool-victims of history, for you have accepted the role of king for a day, and who but a fool would do that? But you will be revered and anointed as a king. You will undergo death and rebirth - resurrection, if you like. The rebirth, sadly, will not be yours, but that of our crops. I am a christian, and as a christian, I hope for resurrection. And even if you kill me now, it is I who will live again, not your damned apples. Sleep Close and fast No matter what you do, you can't change the fact that I believe in the life eternal, as promised to us by our lord, Jesus Christ. I believe in the life eternal as promised to us by our lord, Jesus Christ. That is good. For believing what you do, we confer upon you a rare gift these days - a martyr's death. You will not only have life eternal, but you will sit with the saints among the elect. Come. It is time to keep your appointment with The Wicker Man. Now, wait! Now, all of you, just wait and listen to me. And you can wrap it up any way you like. You are about to commit murder. Can you not see? There is no Sun god. There is no goddess of the fields. Your crops failed because your strains failed. Fruit is not meant to be grown on these islands. It's against nature.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I know your crops failed. I saw the harvest photograph. Oh, yes. They failed, all right, disastrously so... for the first time since my grandfather came here. The blossom came but the fruit withered and died on the bough. That must not happen again this year. It is our most earnest belief that the best way of preventing this is to offer to our god of the Sun and to the goddess of our orchards the most acceptable sacrifice that lies in our power. Animals are fine, but their acceptability is limited. A little child is even better, but not nearly as effective as the right kind of adult. What do you mean, \"right kind of adult\"? You, Sergeant, are the right kind of adult, as our painstaking researches have revealed. You, uniquely, were the one we needed. A man who would come here of his own free will. A man who has come here with the power of a king by representing the law. A man who would come here as a virgin. A man who has come here as a fool. Get out of my way. You are the fool, Mr. Howie - Punch, one of the great fool-victims of history, for you have accepted the role of king for a day, and who but a fool would do that? But you will be revered and anointed as a king. You will undergo death and rebirth - resurrection, if you like. The rebirth, sadly, will not be yours, but that of our crops. I am a christian, and as a christian, I hope for resurrection. And even if you kill me now, it is I who will live again, not your damned apples. Sleep Close and fast No matter what you do, you can't change the fact that I believe in the life eternal, as promised to us by our lord, Jesus Christ. I believe in the life eternal as promised to us by our lord, Jesus Christ. That is good. For believing what you do, we confer upon you a rare gift these days - a martyr's death. You will not only have life eternal, but you will sit with the saints among the elect. Come. It is time to keep your appointment with The Wicker Man. Now, wait! Now, all of you, just wait and listen to me. And you can wrap it up any way you like. You are about to commit murder. Can you not see? There is no Sun god. There is no goddess of the fields. Your crops failed because your strains failed. Fruit is not meant to be grown on these islands. It's against nature."
+      ],
+      "scene_length_chars": 2254,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.1833241730928421,
+        0.0033133102115243673,
+        0.08038990199565887,
+        0.2195744514465332,
+        0.032861243933439255,
+        0.009037859737873077,
+        0.005221106577664614,
+        0.020921548828482628,
+        0.03730234131217003,
+        0.0054991827346384525,
+        0.29669681191444397,
+        0.0009585114312358201,
+        0.000727842329069972,
+        0.0033946677576750517,
+        0.0012513342080637813,
+        0.003562712809070945,
+        0.000853759003803134,
+        0.0014308566460385919,
+        0.002008106093853712,
+        0.00047811729018576443,
+        0.3506897985935211,
+        0.00277740228921175,
+        0.00421283021569252,
+        0.0007803260232321918,
+        0.0018248240230605006,
+        0.0009975810535252094,
+        0.002330438233911991,
+        0.27272143959999084
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "disapproval",
+        "neutral"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "Don't you see that killing me is not going to bring back your apples? Summerisle, you know it won't. Go on, man. Tell them. Tell them it won't. I know it will. Well, don't you understand that if your crops fail this year, next year you're going to have to have another blood sacrifice? And next year, no one less than the king of Summerisle himself will do. If the crops fail, Summerisle, next year your people will kill you on May Day. They will not fail. The sacrifice of the willing king, like virgin fool, will be accepted. But don't you see I'll be missed? - They'll come looking for me. - There will be no traces. Bring him up, Oak. - Go on. - No! Think! Just think what you're doing! Think what you're doing! Think! In the name of God, think what you're doing! Oh, God! Oh, Jesus Christ! Oh, my God! Christ! No, no, dear God! No, Christ! No, no! Mighty god of the Sun, bountiful goddess of our orchards, accept our sacrifice and make our blossoms fruit. Mighty god of the Sun, bountiful goddess of our orchards... - Hear ye the words of the lord! ...accept our sacrifice and make our blossoms fruit. Awake, ye heathens, and hold! It is the Lord who hath laid waste your orchards! It is he who hath made them bare! - Reverence the sacrifice. because the truth is withered away from the sons of men. Desire shall fail and ye shall all die accursed! Summer is a-comin' in Loudly sing cuckoo Grows the seed and blows the mead And springs the wood anew Sing cuckoo Ewe bleats harshly after lamb Cows after calves make moo The lord's my shepherd I'll not want He takes me down to lie in pastures - Oh, God. Grows the seed and blows the mead And springs the wood anew - Sing cuckoo - Oh, God. I humbly entreat you for the soul of this, thy servant, Neil Howie... who will today depart from this world. Do not deliver me into the enemy's hands... or put me out of mind forever. Let me not undergo the real pains of hell, dear God, because I die unshriven - Cuckoo, cuckoo - and establish me in that bliss which knows no ending, - Cuckoo - through Christ, our lord. Grows the seed and blows the mead Failure! Failure! Failure! Sing cuckoo Ewe bleats harshly after lamb Cows after calves make moo Bullock stamps and deer champs Now shrilly sing cuckoo Cuckoo, cuckoo Wild bird are you Be never still, cuckoo",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Don't you see that killing me is not going to bring back your apples? Summerisle, you know it won't. Go on, man. Tell them. Tell them it won't. I know it will. Well, don't you understand that if your crops fail this year, next year you're going to have to have another blood sacrifice? And next year, no one less than the king of Summerisle himself will do. If the crops fail, Summerisle, next year your people will kill you on May Day. They will not fail. The sacrifice of the willing king, like virgin fool, will be accepted. But don't you see I'll be missed? - They'll come looking for me. - There will be no traces. Bring him up, Oak. - Go on. - No! Think! Just think what you're doing! Think what you're doing! Think! In the name of God, think what you're doing! Oh, God! Oh, Jesus Christ! Oh, my God! Christ! No, no, dear God! No, Christ! No, no! Mighty god of the Sun, bountiful goddess of our orchards, accept our sacrifice and make our blossoms fruit. Mighty god of the Sun, bountiful goddess of our orchards... - Hear ye the words of the lord! ...accept our sacrifice and make our blossoms fruit. Awake, ye heathens, and hold! It is the Lord who hath laid waste your orchards! It is he who hath made them bare! - Reverence the sacrifice. because the truth is withered away from the sons of men. Desire shall fail and ye shall all die accursed! Summer is a-comin' in Loudly sing cuckoo Grows the seed and blows the mead And springs the wood anew Sing cuckoo Ewe bleats harshly after lamb Cows after calves make moo The lord's my shepherd I'll not want He takes me down to lie in pastures - Oh, God. Grows the seed and blows the mead And springs the wood anew - Sing cuckoo - Oh, God. I humbly entreat you for the soul of this, thy servant, Neil Howie... who will today depart from this world. Do not deliver me into the enemy's hands... or put me out of mind forever. Let me not undergo the real pains of hell, dear God, because I die unshriven - Cuckoo, cuckoo - and establish me in that bliss which knows no ending, - Cuckoo - through Christ, our lord. Grows the seed and blows the mead Failure! Failure! Failure! Sing cuckoo Ewe bleats harshly after lamb Cows after calves make moo Bullock stamps and deer champs Now shrilly sing cuckoo Cuckoo, cuckoo Wild bird are you Be never still, cuckoo"
+      ],
+      "scene_length_chars": 2304,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002782748080790043,
+        0.0008942901040427387,
+        0.06370960175991058,
+        0.014275220222771168,
+        0.0011999979615211487,
+        0.2546243369579315,
+        0.008194233290851116,
+        0.0025129648856818676,
+        0.004264382179826498,
+        0.019564924761652946,
+        0.017068365588784218,
+        0.0011294385185465217,
+        0.0035254182294011116,
+        0.008018078282475471,
+        0.04137515649199486,
+        0.00312710739672184,
+        0.007693087682127953,
+        0.016221044585108757,
+        0.0012019126443192363,
+        0.0010379943996667862,
+        0.007349830586463213,
+        0.010245329700410366,
+        0.004628637805581093,
+        0.002413647947832942,
+        0.003468235721811652,
+        0.024009769782423973,
+        0.269396036863327,
+        0.5175296664237976
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "surprise",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 14,
+    "lines_per_scene_fallback": 20
+  }
+}

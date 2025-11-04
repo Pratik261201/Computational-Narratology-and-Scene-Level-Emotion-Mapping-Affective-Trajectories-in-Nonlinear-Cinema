@@ -1,0 +1,731 @@
+{
+  "source_file": "Irreversible _2002_ - full transcript.txt",
+  "title": "Irreversible",
+  "year": "2002",
+  "meta_description": null,
+  "num_scenes": 14,
+  "avg_scene_chars": 2284,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "You know what? Time destroys everything. That's a thought. What happened to you? Guess I can tell you. I was in the joint because I slept with my daughter. Ah, the western syndrome! I can't stop thinking about it. She was all I had. Nothing's left. I never had a thing. She was so cute! Take it easy. I guess we're all Mephisto. It's no big deal. We fuck up and they say it's bad news. It's tragic. Can't forget the pleasure, the joy. There's no... no bad deeds, just deeds. Means we gotta start all over. Gotta fight. Gotta live. Go on fighting. Go on living. Right! Got something to drink? Not a drop. I don't have a dime. Me neither. What's that? That noise outside? That's nothing! Only the fruitcakes downstairs. Always stirring up shit in the Rectum! The Rectum! - Police business. - What business? - Police, sir. - What crime? - Blood crime? - Blood? - Somebody on the rag or what? - Right. - Can I wait here? - Why? I just want my money. I don't care what happened. - Come back tomorrow. - Morad! I knew those two fags wouldn't pay up. Stand back, please. Take a look at that skin dick fuckass on the stretcher! Got your arm broke, sweetie? I hope you got your ass reamed too! Like Alex. Hope it bled, hope it hurt! Pay. Daddy's boy! Blood flowed out that shit tunnel? - Shit hole! Faggot! - Fuckass! Some fags threw rocks at us 'cuz of those two fucks! Now we're the laughing-stock of the hood! I want my pay, you dig? Let's take our money and get the fuck outta here, Morad. Fuckass cops! It's fag city here! They're everywhere! Clear the way! And take this piece of shit away! Cuff him. He'll go down for ten. Gonna get your ass fucked in prison, you paedophile fuck! You gotta pay! Philosopher my ass! Hope you get sodomized to death! Historian of my faeces, shithead! I want my cash. Greek sucker! Squealing pig! No wonder! All philosophers are faggots. - Gonna get poled in there! - To the station! Ain't no rubbers in prison. You're gonna catch AIDS, pussy! - Where you going? - I'm looking for the Tenia. - So? Pay up. - I'll pay, I'll pay! - You know a guy called the Tenia? - No, don't know him. We'll find him. Stop! Stop now. You're not a man, you're an animal. Even animals don't seek revenge. It's my right! Drop it. It's my problem. - They'll kill you, Marcus! - It's my problem! Stinks of shit in here!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You know what? Time destroys everything. That's a thought. What happened to you? Guess I can tell you. I was in the joint because I slept with my daughter. Ah, the western syndrome! I can't stop thinking about it. She was all I had. Nothing's left. I never had a thing. She was so cute! Take it easy. I guess we're all Mephisto. It's no big deal. We fuck up and they say it's bad news. It's tragic. Can't forget the pleasure, the joy. There's no... no bad deeds, just deeds. Means we gotta start all over. Gotta fight. Gotta live. Go on fighting. Go on living. Right! Got something to drink? Not a drop. I don't have a dime. Me neither. What's that? That noise outside? That's nothing! Only the fruitcakes downstairs. Always stirring up shit in the Rectum! The Rectum! - Police business. - What business? - Police, sir. - What crime? - Blood crime? - Blood? - Somebody on the rag or what? - Right. - Can I wait here? - Why? I just want my money. I don't care what happened. - Come back tomorrow. - Morad! I knew those two fags wouldn't pay up. Stand back, please. Take a look at that skin dick fuckass on the stretcher! Got your arm broke, sweetie? I hope you got your ass reamed too! Like Alex. Hope it bled, hope it hurt! Pay. Daddy's boy! Blood flowed out that shit tunnel? - Shit hole! Faggot! - Fuckass! Some fags threw rocks at us 'cuz of those two fucks! Now we're the laughing-stock of the hood! I want my pay, you dig? Let's take our money and get the fuck outta here, Morad. Fuckass cops! It's fag city here! They're everywhere! Clear the way! And take this piece of shit away! Cuff him. He'll go down for ten. Gonna get your ass fucked in prison, you paedophile fuck! You gotta pay! Philosopher my ass! Hope you get sodomized to death! Historian of my faeces, shithead! I want my cash. Greek sucker! Squealing pig! No wonder! All philosophers are faggots. - Gonna get poled in there! - To the station! Ain't no rubbers in prison. You're gonna catch AIDS, pussy! - Where you going? - I'm looking for the Tenia. - So? Pay up. - I'll pay, I'll pay! - You know a guy called the Tenia? - No, don't know him. We'll find him. Stop! Stop now. You're not a man, you're an animal. Even animals don't seek revenge. It's my right! Drop it. It's my problem. - They'll kill you, Marcus! - It's my problem! Stinks of shit in here!"
+      ],
+      "scene_length_chars": 2326,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.07905188202857971,
+        0.019849300384521484,
+        0.7776506543159485,
+        0.17992782592773438,
+        0.00161040760576725,
+        0.026369398459792137,
+        0.029264124110341072,
+        0.16764962673187256,
+        0.0389719121158123,
+        0.009800384752452374,
+        0.012949236668646336,
+        0.02783108316361904,
+        0.005469811614602804,
+        0.0025425965432077646,
+        0.020982274785637856,
+        0.003393879858776927,
+        0.004103554412722588,
+        0.004660398233681917,
+        0.007152634207159281,
+        0.0024062017910182476,
+        0.2865018844604492,
+        0.001324193086475134,
+        0.004980545490980148,
+        0.0004462891083676368,
+        0.0028366027399897575,
+        0.0035433557350188494,
+        0.00947487447410822,
+        0.06621360033750534
+      ],
+      "goemotions_topk": [
+        "anger",
+        "optimism",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Marcus, stop! They'll kill you! - You know the Tenia? - Get lost! The Tenia! Marcus, come back! I'm not gonna save you! Don't go! Marcus, stop! Marcus! Know a guy called the Tenia? Pierre! You know a guy called the Tenia? The Tenia, you know him? The Tenia? Pierre! Pierre! Pierre, let's go! Marcus, let's get outta here! There's a downstairs, come on! Just downstairs! Come help me! You know the Tenia? Why you smiling? You, you know the Tenia? You don't? Let go of me! - You know the Tenia? - Suck me? I don't wanna suck you! You know the Tenia? You know a guy called the Tenia? - You suck my big cock? - Fuck! Hey you, come back. Fucky fucky? You know the Tenia? Like the tapeworm. - The Tenia! - Maybe upstairs. The Tenia. Are you the Tenia? Let go! You know the Tenia? - You know the Tenia? - No, don't know him. - You work here? - Don't know him. - You know him? - Look around, he can't be far. You know the Tenia? Tenia? Shit! - You know the Tenia? - Yeah, fuck off! - Hey, the Tenia? - The tapeworm's in my guts, man. You know the Tenia? You! You know the Tenia? - He's my man! - You know him? - Yeah! - Where is he? I guess he's packing fudge! - Where is he? - He's packing fudge! - Forget the Tenia! - Don't touch me! Fist me, man! Fist me! - Hands off! - Fist me! Shut up and take me to him! Fist me, man, come on! - Show me! - Fist me! Chill, fag. I'm no queer! Show him to me! Where is he? Take me to him! The Tenia'll shove both arms up your ass! - You'll be squealing! - I'll bash your face! Sure you wanna see the Tenia? Fist me instead! Fist me, it's safer! I said take me to him! It'd be a lot cooler if you fist me, man! Filthy queer, you want my fist in your face? I like you. You remind me of somebody. Let's go. Easy now, or I'll hurt you! Where is he? - Buy me a drink first! - Give him a drink! Take a drink. Where is he? - A soda? - Where is he? The Tenia? In my anus! Got that? The worm's up my ass! Listen! You see this bottle? I'll bash your face with it! Is that what you want, huh? I'll bash you sphincter face? - Where is he? - Don't worry, I know him! - Stop! - I know him! - You take me to him. - Fucking trooper! Take me to him now! A good trooper's gotta be fucked to death! Show your stuff, superhero! This what you want? Take me to him. Take me to him. Take me to him! Take me to him! Take me to him!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Marcus, stop! They'll kill you! - You know the Tenia? - Get lost! The Tenia! Marcus, come back! I'm not gonna save you! Don't go! Marcus, stop! Marcus! Know a guy called the Tenia? Pierre! You know a guy called the Tenia? The Tenia, you know him? The Tenia? Pierre! Pierre! Pierre, let's go! Marcus, let's get outta here! There's a downstairs, come on! Just downstairs! Come help me! You know the Tenia? Why you smiling? You, you know the Tenia? You don't? Let go of me! - You know the Tenia? - Suck me? I don't wanna suck you! You know the Tenia? You know a guy called the Tenia? - You suck my big cock? - Fuck! Hey you, come back. Fucky fucky? You know the Tenia? Like the tapeworm. - The Tenia! - Maybe upstairs. The Tenia. Are you the Tenia? Let go! You know the Tenia? - You know the Tenia? - No, don't know him. - You work here? - Don't know him. - You know him? - Look around, he can't be far. You know the Tenia? Tenia? Shit! - You know the Tenia? - Yeah, fuck off! - Hey, the Tenia? - The tapeworm's in my guts, man. You know the Tenia? You! You know the Tenia? - He's my man! - You know him? - Yeah! - Where is he? I guess he's packing fudge! - Where is he? - He's packing fudge! - Forget the Tenia! - Don't touch me! Fist me, man! Fist me! - Hands off! - Fist me! Shut up and take me to him! Fist me, man, come on! - Show me! - Fist me! Chill, fag. I'm no queer! Show him to me! Where is he? Take me to him! The Tenia'll shove both arms up your ass! - You'll be squealing! - I'll bash your face! Sure you wanna see the Tenia? Fist me instead! Fist me, it's safer! I said take me to him! It'd be a lot cooler if you fist me, man! Filthy queer, you want my fist in your face? I like you. You remind me of somebody. Let's go. Easy now, or I'll hurt you! Where is he? - Buy me a drink first! - Give him a drink! Take a drink. Where is he? - A soda? - Where is he? The Tenia? In my anus! Got that? The worm's up my ass! Listen! You see this bottle? I'll bash your face with it! Is that what you want, huh? I'll bash you sphincter face? - Where is he? - Don't worry, I know him! - Stop! - I know him! - You take me to him. - Fucking trooper! Take me to him now! A good trooper's gotta be fucked to death! Show your stuff, superhero! This what you want? Take me to him. Take me to him. Take me to him! Take me to him! Take me to him!"
+      ],
+      "scene_length_chars": 2337,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002279899315908551,
+        0.0036648057866841555,
+        0.8693447113037109,
+        0.020194152370095253,
+        0.0008162960293702781,
+        0.017446815967559814,
+        0.010027104057371616,
+        0.34880438446998596,
+        0.009529922157526016,
+        0.0016850667307153344,
+        0.0007524227839894593,
+        0.01785261742770672,
+        0.0005491161136887968,
+        0.003882428864017129,
+        0.00775286927819252,
+        0.0011017388897016644,
+        0.002239266410470009,
+        0.0010384827619418502,
+        0.0022468247916549444,
+        0.00043245265260338783,
+        0.0051828352734446526,
+        0.0004653145151678473,
+        0.0008785179234109819,
+        0.00012251926818862557,
+        0.000506104901432991,
+        0.0013133197790011764,
+        0.02324548549950123,
+        0.11814931780099869
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Where is he? Forward! Forward! Where is he? - Move your ass! Now! - The Tenia's heavy shit, man! You sure you wanna meet the Tenia? - Where is he? - Hit me again and I'll tell you! - Where is he? - There he is! What the fuck! Are you the Tenia? Are you? I'm asking you a question! Who's the Tenia? I'm asking you! Get that away from me. You know the Tenia? - Who is he? - Easy, man. - Who is he? - Why you want him? That's my business! You the Tenia? - Pain in the ass! - Is it you? I'm talking to you, man! No, don't! Stop! - I'm gonna fuck your ass! - Yeah, fuck his ass! Let him go! Hey! I'm talking to you! - Stop. - Kill him! - Faggot! - Stop. Fucking faggot! Fucking faggot! Faggot! Stop! Faggot! Faggot! Stop! - Stop! - Go on! Awesome! Outta sight, man! Dirty Chink fuck! Stop the madness, please! We're getting closer. - Stop it! - Wait here. Yeah sure, I'll wait! Hey! Where's the Rectum? The Rectum! The fag joint. Near here. You in need? A hooker's bar or what? You want it up your ass? I'll show you the rectum! - You don't know the Rectum? - The only club... - You're no fag? - I'm no fag. Where is it? Cocksuckers! Pierre! Pain in the ass! Pierre! What now? What next? Who you gonna insult? Who you gonna hit! - Come with me! - Like hell I will! You know a club for... the Rectum? The Rectum, a gay club, you know it? - That way... - That way? It's right over there! Where you going? Come on! - Let's go see Alex at the hospital. - We're close, man! You coming? You coming? You're coming! You're coming! - You're coming with me! - Stop it, goddamnit! Don't play the sissy! Come with me! - You're fucking sick! - We're going to the Rectum! Hurry up! Drive! - Who's after you? - Fuck that, drive! The hookers are after you? - Tell him where to go, idiot! - Go to the Rectum. - What's the Rectum? - Right! The Rectum! Everyone knows that! Where's the Rectum? Stop screaming at him! - It's a fag club! - Stop screaming! Half that energy would have saved Alex! Think about that, idiot! Put that in your primal brain! You're worse than a lab rat! You done? The Rectum's a fag club. What is the Rectum, please? A club for fags! Fags! You understand? - Are you fag? - No, I'm no fag! - I said a fag club! - Pipe down, damn! - Aren't there any clubs around? - A lot of clubs. So get us to the faggot club! - You're the faggot! - Hey, I'm no faggot!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Where is he? Forward! Forward! Where is he? - Move your ass! Now! - The Tenia's heavy shit, man! You sure you wanna meet the Tenia? - Where is he? - Hit me again and I'll tell you! - Where is he? - There he is! What the fuck! Are you the Tenia? Are you? I'm asking you a question! Who's the Tenia? I'm asking you! Get that away from me. You know the Tenia? - Who is he? - Easy, man. - Who is he? - Why you want him? That's my business! You the Tenia? - Pain in the ass! - Is it you? I'm talking to you, man! No, don't! Stop! - I'm gonna fuck your ass! - Yeah, fuck his ass! Let him go! Hey! I'm talking to you! - Stop. - Kill him! - Faggot! - Stop. Fucking faggot! Fucking faggot! Faggot! Stop! Faggot! Faggot! Stop! - Stop! - Go on! Awesome! Outta sight, man! Dirty Chink fuck! Stop the madness, please! We're getting closer. - Stop it! - Wait here. Yeah sure, I'll wait! Hey! Where's the Rectum? The Rectum! The fag joint. Near here. You in need? A hooker's bar or what? You want it up your ass? I'll show you the rectum! - You don't know the Rectum? - The only club... - You're no fag? - I'm no fag. Where is it? Cocksuckers! Pierre! Pain in the ass! Pierre! What now? What next? Who you gonna insult? Who you gonna hit! - Come with me! - Like hell I will! You know a club for... the Rectum? The Rectum, a gay club, you know it? - That way... - That way? It's right over there! Where you going? Come on! - Let's go see Alex at the hospital. - We're close, man! You coming? You coming? You're coming! You're coming! - You're coming with me! - Stop it, goddamnit! Don't play the sissy! Come with me! - You're fucking sick! - We're going to the Rectum! Hurry up! Drive! - Who's after you? - Fuck that, drive! The hookers are after you? - Tell him where to go, idiot! - Go to the Rectum. - What's the Rectum? - Right! The Rectum! Everyone knows that! Where's the Rectum? Stop screaming at him! - It's a fag club! - Stop screaming! Half that energy would have saved Alex! Think about that, idiot! Put that in your primal brain! You're worse than a lab rat! You done? The Rectum's a fag club. What is the Rectum, please? A club for fags! Fags! You understand? - Are you fag? - No, I'm no fag! - I said a fag club! - Pipe down, damn! - Aren't there any clubs around? - A lot of clubs. So get us to the faggot club! - You're the faggot! - Hey, I'm no faggot!"
+      ],
+      "scene_length_chars": 2353,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.030828461050987244,
+        0.005057127680629492,
+        0.5375751852989197,
+        0.028452962636947632,
+        0.0009247676352970302,
+        0.0032394805457443,
+        0.015560832805931568,
+        0.2868739068508148,
+        0.004717263393104076,
+        0.0053869616240262985,
+        0.08476851880550385,
+        0.01546300109475851,
+        0.0036242802161723375,
+        0.02041679248213768,
+        0.005979619920253754,
+        0.001036357949487865,
+        0.0027782106772065163,
+        0.003433617763221264,
+        0.002215043408796191,
+        0.0005765766836702824,
+        0.002613307908177376,
+        0.0020866533741354942,
+        0.0020866510458290577,
+        0.0009333498310297728,
+        0.0009353616624139249,
+        0.001840328797698021,
+        0.11020888388156891,
+        0.21440763771533966
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Leave me alone! Take us to the Rectum! Got it? - What's the Rectum? - You're making me sick! - I don't come in the Rectum! - You gotta phone? How about your slant-eyed asshole friends? You insult me. I smash your face! - Hurry or I'll fuck your ass! - He's going mad, forgive him! Calm down, sir. Forgive him. - He's sick. - I'll smash your face! Calm down. Go to a club with men. Rummage through your shitass genetic code! Fucking Peking duck! Take me to the Rectum! Get down now! Shut up! Get down! You want me out? Throw me out, you Chink fuck! Get down, please! You go too far! - Alex would be so ashamed! - Get down, now! Calm down, we're getting out. What? You throwing us out? - Get down! - What's that tear gas? What's that tear gas, filthy yellow fuck? - Get down! - Bowl of rice shit! - Don't touch me! - Stop it, Marcus! - Get down, please! - How much do I owe you? How much do I owe you? Stop it, Marcus! Stop! Be careful! - My taxi! - Fuck off! Thieves! That's my taxi! You're sick! Fucking sick! Get fucked, filthy Chink nancy! - You're totally sick! - Off to the Rectum! Cut this revenge bullshit! Stop it. We'll pay you. Stay here, Marcus. - Just whores! - What'd you expect? How can you say it's not my business? Stop it! What? You gonna hit me? You'll get your money. Stay back. You'll get it. You know one of these girls? Goddamnit! What do you want to do? - And what if he's here? - You don't know what happened! You don't want to find out? Nobody knows who he is! It won't make Alex any better. - We want our money. - You'll get it. Who do you know here? What's your anger all about? Fucking B-movie revenge crap! Don't be an idiot! - Fuck off! - You wanna hit me, is that it? - What're you doing? - Go to the hospital! You know those two? Ask them. - What's his name? - Guillermo Nunez. - You know the guy? - Preguntale a Donna. - What? - A Donna. What'd she say? Donna, she's the whore I told you about. Don't worry. We're better than the police. Drunks with guns! You talk to them, they shoot you. - Right. - What do you know, brownnose teach? I know about human stupidity. Which one? Huh? That hooker there. - Donna! - Get off my back! - Look at me, Marcus. - You know Guillermo Nunez? - No. - You don't know him? - No. - You know who does? - Nobody does. - Si. Conozco a la persona. - Who is it?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Leave me alone! Take us to the Rectum! Got it? - What's the Rectum? - You're making me sick! - I don't come in the Rectum! - You gotta phone? How about your slant-eyed asshole friends? You insult me. I smash your face! - Hurry or I'll fuck your ass! - He's going mad, forgive him! Calm down, sir. Forgive him. - He's sick. - I'll smash your face! Calm down. Go to a club with men. Rummage through your shitass genetic code! Fucking Peking duck! Take me to the Rectum! Get down now! Shut up! Get down! You want me out? Throw me out, you Chink fuck! Get down, please! You go too far! - Alex would be so ashamed! - Get down, now! Calm down, we're getting out. What? You throwing us out? - Get down! - What's that tear gas? What's that tear gas, filthy yellow fuck? - Get down! - Bowl of rice shit! - Don't touch me! - Stop it, Marcus! - Get down, please! - How much do I owe you? How much do I owe you? Stop it, Marcus! Stop! Be careful! - My taxi! - Fuck off! Thieves! That's my taxi! You're sick! Fucking sick! Get fucked, filthy Chink nancy! - You're totally sick! - Off to the Rectum! Cut this revenge bullshit! Stop it. We'll pay you. Stay here, Marcus. - Just whores! - What'd you expect? How can you say it's not my business? Stop it! What? You gonna hit me? You'll get your money. Stay back. You'll get it. You know one of these girls? Goddamnit! What do you want to do? - And what if he's here? - You don't know what happened! You don't want to find out? Nobody knows who he is! It won't make Alex any better. - We want our money. - You'll get it. Who do you know here? What's your anger all about? Fucking B-movie revenge crap! Don't be an idiot! - Fuck off! - You wanna hit me, is that it? - What're you doing? - Go to the hospital! You know those two? Ask them. - What's his name? - Guillermo Nunez. - You know the guy? - Preguntale a Donna. - What? - A Donna. What'd she say? Donna, she's the whore I told you about. Don't worry. We're better than the police. Drunks with guns! You talk to them, they shoot you. - Right. - What do you know, brownnose teach? I know about human stupidity. Which one? Huh? That hooker there. - Donna! - Get off my back! - Look at me, Marcus. - You know Guillermo Nunez? - No. - You don't know him? - No. - You know who does? - Nobody does. - Si. Conozco a la persona. - Who is it?"
+      ],
+      "scene_length_chars": 2321,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0031846973579376936,
+        0.002078494057059288,
+        0.8941952586174011,
+        0.08338124305009842,
+        0.001359043177217245,
+        0.014807808212935925,
+        0.003726017428562045,
+        0.19592726230621338,
+        0.007938757538795471,
+        0.006849715951830149,
+        0.004143899772316217,
+        0.01038674172013998,
+        0.005919890943914652,
+        0.002949943533167243,
+        0.003396708518266678,
+        0.002874079393222928,
+        0.006012892350554466,
+        0.004074332769960165,
+        0.003683872288092971,
+        0.0006654132157564163,
+        0.005826891865581274,
+        0.001794971525669098,
+        0.002488488797098398,
+        0.0003457777202129364,
+        0.005903126206248999,
+        0.005453971680253744,
+        0.0064217448234558105,
+        0.014517541043460369
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "- Es ella. Se llama Concha. What'd she say? The blonde there? Thanks, Donna. Are you Concha? You know Guillermo Nunez? Come on, take it easy. Don't hurt her! We're not gonna hurt her! Who does he think we are? - Back off, you, back off! - Conozco a Guillermo. Mi amigo quiere saber donde esta Guillermo Nunez. - Para que? - Para que?! What's wrong with you? I want an answer! Someone got raped! A rape, you got that, rape! You sick or what? Touch her and I won't pay! Es un loco, completamente loco. Cool it, Marcus, stop! Marcus, stop! - Let go of him! - Lay off! Get him off me! Stop, Marcus, please! What's wrong with you? You know Guillermo Nunez? Espera, espera. Calmate, calmate, calmate! - Tell me! - Soy yo! Yo. - I don't know Jo, who's Jo? - It's me, I'm Guillermo! Mira, mira! See, I'm Guillermo! You found a she-male, great! Let her go! That means she was there! Fucking fag! That means you saw it! Pick that thing up! Take this! Take this! Now tell me what you saw! - Slit her! - Tell me! Tell me! Es seguramente el Tenia! Es seguramente el Tenia! I know the Tenia. He's a shitfuck pimp. Where is he? I'll bash your tranny whore fucking face! Tell us or die, freak whore! Where? En el club de homos, en el club de gays. - What's it called? - El Rectum. Tenia in the rectum? You kidding? I know the place. It's a felching fuck club! Todas! Pierre! The taxi! - Cabron! - Taxi! Cabron! Cabron! Abre la puerta! Abrela! Abrela! Abre! Hijo de puta! Have you been drinking? - No. - No drugs either? No drugs? But your so-called colleague, he told us you take drugs all the time. - Whatever. - Is it true or not? You can check if you like. - Did the victim take drugs? - I don't know. You don't know? But you lived together. You lived together, right? You don't want to answer? You're not being much help. Did you leave before or after the victim? - Pull yourself together. - After, after. After. How long after? - Fifteen minutes. - There's an answer! Fifteen minutes. And Mr Marcus? When did he leave? He caught up with me in the hallway. He caught up with you? Did he leave at any time during the party? - I don't know. - You don't know? Did you notice anything odd during the party? Was anybody hanging around the victim? Did the victim talk to certain people or get into an argument? No? - With you maybe?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Es ella. Se llama Concha. What'd she say? The blonde there? Thanks, Donna. Are you Concha? You know Guillermo Nunez? Come on, take it easy. Don't hurt her! We're not gonna hurt her! Who does he think we are? - Back off, you, back off! - Conozco a Guillermo. Mi amigo quiere saber donde esta Guillermo Nunez. - Para que? - Para que?! What's wrong with you? I want an answer! Someone got raped! A rape, you got that, rape! You sick or what? Touch her and I won't pay! Es un loco, completamente loco. Cool it, Marcus, stop! Marcus, stop! - Let go of him! - Lay off! Get him off me! Stop, Marcus, please! What's wrong with you? You know Guillermo Nunez? Espera, espera. Calmate, calmate, calmate! - Tell me! - Soy yo! Yo. - I don't know Jo, who's Jo? - It's me, I'm Guillermo! Mira, mira! See, I'm Guillermo! You found a she-male, great! Let her go! That means she was there! Fucking fag! That means you saw it! Pick that thing up! Take this! Take this! Now tell me what you saw! - Slit her! - Tell me! Tell me! Es seguramente el Tenia! Es seguramente el Tenia! I know the Tenia. He's a shitfuck pimp. Where is he? I'll bash your tranny whore fucking face! Tell us or die, freak whore! Where? En el club de homos, en el club de gays. - What's it called? - El Rectum. Tenia in the rectum? You kidding? I know the place. It's a felching fuck club! Todas! Pierre! The taxi! - Cabron! - Taxi! Cabron! Cabron! Abre la puerta! Abrela! Abrela! Abre! Hijo de puta! Have you been drinking? - No. - No drugs either? No drugs? But your so-called colleague, he told us you take drugs all the time. - Whatever. - Is it true or not? You can check if you like. - Did the victim take drugs? - I don't know. You don't know? But you lived together. You lived together, right? You don't want to answer? You're not being much help. Did you leave before or after the victim? - Pull yourself together. - After, after. After. How long after? - Fifteen minutes. - There's an answer! Fifteen minutes. And Mr Marcus? When did he leave? He caught up with me in the hallway. He caught up with you? Did he leave at any time during the party? - I don't know. - You don't know? Did you notice anything odd during the party? Was anybody hanging around the victim? Did the victim talk to certain people or get into an argument? No? - With you maybe?"
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.002999324584379792,
+        0.005138430278748274,
+        0.3198341131210327,
+        0.026581330224871635,
+        0.001991421217098832,
+        0.02163614332675934,
+        0.028155582025647163,
+        0.8153517842292786,
+        0.017524775117635727,
+        0.0013354505645111203,
+        0.0011924157151952386,
+        0.002204278251156211,
+        0.0007388957892544568,
+        0.01628667674958706,
+        0.0023890326265245676,
+        0.2804504334926605,
+        0.0034301753621548414,
+        0.002893330529332161,
+        0.007647534366697073,
+        0.0007715313695371151,
+        0.004349492024630308,
+        0.000638709869235754,
+        0.0015400989213958383,
+        0.0009883096208795905,
+        0.0024592913687229156,
+        0.007846638560295105,
+        0.0059769549407064915,
+        0.02833147905766964
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "- No. With Mr Marcus? And did you and Mr Marcus get into an argument? You didn't quarrel with Mr Marcus? Listen, I need a number where I can reach you. I'm listening. 01- 44-76... Okay... Is that your home number? That's your home number? Okay. Give him his ID. Take your ID back. If I need you, I'll contact you. You can go now. Go on, you can go now. Off you go! Evening. You all right? You know the person who was attacked a little while ago? You don't look good. It's tough. You think it'll never happen to you. And when it does, you freak out. So you're counting on the police? What do you think the police will do? You know they won't do shit. They're gonna catch him, put him in prison, give him food, clothe him, wash him. They'll give him a doctor. Your friend didn't get a doctor. - Who are you? - Who am I? Until proof to the contrary, I can be your best friend. I can help you find him if you want. You look like good people, well-dressed. Looks like you can afford it. With a little money we can help you get revenge. The assailant drew blood. Blood calls for revenge. Vengeance is a human right. Laid, come here. You'll get the picture. Tell them. This is our turf. Our home, man. We can find anybody we want before those cocksuckers! Listen to my buddy. Not too long ago... somebody we know got assaulted and raped. We found the assailant. We made him understand he'd never do it again. You want revenge or not? Or you wanna see him in prison? - You know him? - Sure, I do. They found a purse with an ID inside. The name was Guillermo Nunez. You in or not? You pay us, we find him. You afraid? What's wrong? You're shaking all over. This is a man's business. No pussies allowed. All right? You in or not? You seem... wake up! - Let's go. Let's go. - You in? Let's get away from the cops. Go home then. You don't know how lucky you are. You'll end up losing Alex. OK, go home. You broke my balls and fucked up the whole party. - What's going on? - A whore got raped! - A whore got raped? - We wanna catch a cab. - Yeah, a cab. - No, sir, not here. - You're kidding? - Sorry, not here. Alex! Alex! Stop! What happened? Calm down, sir! - What happened? - She was attacked. She's in a coma. Calm down. Calm down and let us do our job. Please, let her go. - We can't work like this! - Get him away from her.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- No. With Mr Marcus? And did you and Mr Marcus get into an argument? You didn't quarrel with Mr Marcus? Listen, I need a number where I can reach you. I'm listening. 01- 44-76... Okay... Is that your home number? That's your home number? Okay. Give him his ID. Take your ID back. If I need you, I'll contact you. You can go now. Go on, you can go now. Off you go! Evening. You all right? You know the person who was attacked a little while ago? You don't look good. It's tough. You think it'll never happen to you. And when it does, you freak out. So you're counting on the police? What do you think the police will do? You know they won't do shit. They're gonna catch him, put him in prison, give him food, clothe him, wash him. They'll give him a doctor. Your friend didn't get a doctor. - Who are you? - Who am I? Until proof to the contrary, I can be your best friend. I can help you find him if you want. You look like good people, well-dressed. Looks like you can afford it. With a little money we can help you get revenge. The assailant drew blood. Blood calls for revenge. Vengeance is a human right. Laid, come here. You'll get the picture. Tell them. This is our turf. Our home, man. We can find anybody we want before those cocksuckers! Listen to my buddy. Not too long ago... somebody we know got assaulted and raped. We found the assailant. We made him understand he'd never do it again. You want revenge or not? Or you wanna see him in prison? - You know him? - Sure, I do. They found a purse with an ID inside. The name was Guillermo Nunez. You in or not? You pay us, we find him. You afraid? What's wrong? You're shaking all over. This is a man's business. No pussies allowed. All right? You in or not? You seem... wake up! - Let's go. Let's go. - You in? Let's get away from the cops. Go home then. You don't know how lucky you are. You'll end up losing Alex. OK, go home. You broke my balls and fucked up the whole party. - What's going on? - A whore got raped! - A whore got raped? - We wanna catch a cab. - Yeah, a cab. - No, sir, not here. - You're kidding? - Sorry, not here. Alex! Alex! Stop! What happened? Calm down, sir! - What happened? - She was attacked. She's in a coma. Calm down. Calm down and let us do our job. Please, let her go. - We can't work like this! - Get him away from her."
+      ],
+      "scene_length_chars": 2317,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.006378438323736191,
+        0.020692607387900352,
+        0.23239849507808685,
+        0.017695048823952675,
+        0.008115517906844616,
+        0.6705672144889832,
+        0.00789248663932085,
+        0.5007576942443848,
+        0.010833202861249447,
+        0.0058394912630319595,
+        0.017639126628637314,
+        0.0040946234948933125,
+        0.0036095811519771814,
+        0.0036053352523595095,
+        0.12920355796813965,
+        0.0008206294733099639,
+        0.06015367805957794,
+        0.05031292140483856,
+        0.007693291176110506,
+        0.0050531248562037945,
+        0.006560482084751129,
+        0.0014999002451077104,
+        0.006526503711938858,
+        0.0046314336359500885,
+        0.0103746447712183,
+        0.06392452865839005,
+        0.011203587055206299,
+        0.19457882642745972
+      ],
+      "goemotions_topk": [
+        "caring",
+        "curiosity",
+        "anger"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Who are you, mister? Who are you? You know the girl? You know that man? - Who are you? Who are you? - She's my girl. Can't be true! She's my girl! Taxi! Take the underpass. It's safer. There. Yo ya no quiero...! Ayuda! You're dead, bitch! Wait a second, you! What you doing? Wait a second! Wait. Wait! - Let me go! - I said wait! Aiuto! Shut your mouth! Did I touch you? Shut your mouth, slut! Is this what you want? You gonna shut your mouth now? Fucking high-class bitch! You wanna nice big smile, huh? Stinking cunt! This turn you on? Tell me. This turn you on? You turned on? Look at you! You know you're hot for a cunt! - Please. - Shut up! - Let me go. - Shut up! - Lift your skirt! - Let me go. Lift your skirt! Shut up! Let me go, please. Please. Get on your knees! On your knees! I'm gonna take care of you. On your knees! Lay down! Lay down! - Aiuto! - Lay down! Shut your mouth! Damn! You must have one tight ass! I'll take care of you, slut! Who buys your classy dresses? Your man dress you like that? Only a fag would let you go out like that! Little whore! Shut your trap or I'll strangle you! Got it? Shut up or I'll strangle you! Spread your legs! Spread your legs, bitch! Shut up! Don't move. Don't move! I'm gonna fuck your ass. I'm gonna blast your shit hole! I'm gonna fuck your ass like never before! Fucking little whore! Don't move. Don't move. You like being fucked in the ass? Your old man fuck your ass? You like that? Wait. Don't move, cunt! Don't move, don't move. Don't move, don't move, don't move. Don't move, shit! Don't move, don't move, don't move, I said. Fucking shit! What a fucking tight ass you got! I'm gonna blast your fucking ass! You shit on me and you're dead, got it? Fucking high-class swine! Shit, you got a tight ass! A real little faggot's ass! I don't normally like this. Fucking rich bitch! But this ain't bad! Huh? You gonna shut up, little whore? Take this in your ass, cunt! You never been reamed like this before, huh? You bleeding or you wet? Opens up real good, your ass! You bleeding? Fucking shit! That's so good! So fucking good! Tell daddy it's good! Say, \"Daddy it's good!\" Call me daddy! Call me daddy! Call me daddy, you fucking cunt! Shut your trap! Shit! Holy shit! Jesus Christ! Shit! Awesome! Where you going, sweet hole? Where? Where you going like that?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Who are you, mister? Who are you? You know the girl? You know that man? - Who are you? Who are you? - She's my girl. Can't be true! She's my girl! Taxi! Take the underpass. It's safer. There. Yo ya no quiero...! Ayuda! You're dead, bitch! Wait a second, you! What you doing? Wait a second! Wait. Wait! - Let me go! - I said wait! Aiuto! Shut your mouth! Did I touch you? Shut your mouth, slut! Is this what you want? You gonna shut your mouth now? Fucking high-class bitch! You wanna nice big smile, huh? Stinking cunt! This turn you on? Tell me. This turn you on? You turned on? Look at you! You know you're hot for a cunt! - Please. - Shut up! - Let me go. - Shut up! - Lift your skirt! - Let me go. Lift your skirt! Shut up! Let me go, please. Please. Get on your knees! On your knees! I'm gonna take care of you. On your knees! Lay down! Lay down! - Aiuto! - Lay down! Shut your mouth! Damn! You must have one tight ass! I'll take care of you, slut! Who buys your classy dresses? Your man dress you like that? Only a fag would let you go out like that! Little whore! Shut your trap or I'll strangle you! Got it? Shut up or I'll strangle you! Spread your legs! Spread your legs, bitch! Shut up! Don't move. Don't move! I'm gonna fuck your ass. I'm gonna blast your shit hole! I'm gonna fuck your ass like never before! Fucking little whore! Don't move. Don't move. You like being fucked in the ass? Your old man fuck your ass? You like that? Wait. Don't move, cunt! Don't move, don't move. Don't move, don't move, don't move. Don't move, shit! Don't move, don't move, don't move, I said. Fucking shit! What a fucking tight ass you got! I'm gonna blast your fucking ass! You shit on me and you're dead, got it? Fucking high-class swine! Shit, you got a tight ass! A real little faggot's ass! I don't normally like this. Fucking rich bitch! But this ain't bad! Huh? You gonna shut up, little whore? Take this in your ass, cunt! You never been reamed like this before, huh? You bleeding or you wet? Opens up real good, your ass! You bleeding? Fucking shit! That's so good! So fucking good! Tell daddy it's good! Say, \"Daddy it's good!\" Call me daddy! Call me daddy! Call me daddy, you fucking cunt! Shut your trap! Shit! Holy shit! Jesus Christ! Shit! Awesome! Where you going, sweet hole? Where? Where you going like that?"
+      ],
+      "scene_length_chars": 2323,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.05756912752985954,
+        0.005457963328808546,
+        0.9916439056396484,
+        0.0631348118185997,
+        0.002708757296204567,
+        0.030649205669760704,
+        0.005042326170951128,
+        0.07707985490560532,
+        0.017803380265831947,
+        0.004900713916867971,
+        0.006599087733775377,
+        0.026692338287830353,
+        0.0022603983525186777,
+        0.0075586833991110325,
+        0.007233485579490662,
+        0.005255349446088076,
+        0.005372536834329367,
+        0.005537277553230524,
+        0.012993146665394306,
+        0.0012095352867618203,
+        0.0019865338690578938,
+        0.002338865539059043,
+        0.0032901570666581392,
+        0.0003432197554502636,
+        0.002199554583057761,
+        0.002418908290565014,
+        0.020804814994335175,
+        0.010021007619798183
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "You think I'm through with you? Fucking rich bitch! Look at me. Look at me when I talk to you! Look at me, cunt! Fucking sow, look at me! Little fucking whore! Filthy whore! Piece of shit! Dead meat! The world's your due, right? 'Cuz you're beautiful? Fucking sow! Take this! I'm gonna fix your face! I'm gonna fix it good! I'm not through with you. But I will be! Cunt! That enough? You want some more? Want some more? Little whore! Fucking dog! Take that in your face! Now I'm through with you! Dead meat! - What do you mean? - Just stay out of my sex life. Even if I do, you bring me into it. You never talk about your sexuality! What's to say? What do you care? So... so what about Johnson there? Very subtle! You jack off? You go to hookers? You been alone for three years now. What's it to you? I like being alone. What's up, Marcus? You must been sent by God 'cuz my friend Pierre has a problem. What problem? Pierre's problem is that we gotta find a way to bring him out of his shell. I can bring him out of his shell. - Oh yeah, how? - Come see. You're two and we're two. Oh yeah, to the john! That's where shit happens. Alex is all alone. What're you doing? You talk about my sexuality... Look what you're doing with yours. You afraid to come inside? I know the score! Having a ball, sniffing away! Been there, done that. 15, 30 years ago. It's pathetic! Stop... Stop, Marcus, stop. Why not? She's nice. - It's not fair to Alex. - Get off my case! Don't do that! You'll regret it in the morning. Come on, let it go. Come on. Wait. My freebie! Pass the straw. Don't take that. Cut the crap. Fuck off, Pierre. It's just a line. Stop it, stop it. Don't do that. You're a pain in the ass, I swear! Good? Yeah, but I have to find Pierre, my rat-loving friend. - He can't be alone. - You'll be back? Yeah, thanks girls. That was real cool. Pierre! Ladies, let me introduce you to Pierre! - He needs love! - Alex is dancing alone. Stop messing around! Stop it. Come on, girls, make him happy! Make him feel good, or bad- whatever! And you talk about my sexuality? What're you doing? Pierre! Pierre! I've been there, Marcus, come on! I can't stand you like this! Come, come, come! Marcus, come on! If not for me, for her! What the hell are you doing? Stop fooling around! Let it go! Let it go! Alex is dancing alone.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You think I'm through with you? Fucking rich bitch! Look at me. Look at me when I talk to you! Look at me, cunt! Fucking sow, look at me! Little fucking whore! Filthy whore! Piece of shit! Dead meat! The world's your due, right? 'Cuz you're beautiful? Fucking sow! Take this! I'm gonna fix your face! I'm gonna fix it good! I'm not through with you. But I will be! Cunt! That enough? You want some more? Want some more? Little whore! Fucking dog! Take that in your face! Now I'm through with you! Dead meat! - What do you mean? - Just stay out of my sex life. Even if I do, you bring me into it. You never talk about your sexuality! What's to say? What do you care? So... so what about Johnson there? Very subtle! You jack off? You go to hookers? You been alone for three years now. What's it to you? I like being alone. What's up, Marcus? You must been sent by God 'cuz my friend Pierre has a problem. What problem? Pierre's problem is that we gotta find a way to bring him out of his shell. I can bring him out of his shell. - Oh yeah, how? - Come see. You're two and we're two. Oh yeah, to the john! That's where shit happens. Alex is all alone. What're you doing? You talk about my sexuality... Look what you're doing with yours. You afraid to come inside? I know the score! Having a ball, sniffing away! Been there, done that. 15, 30 years ago. It's pathetic! Stop... Stop, Marcus, stop. Why not? She's nice. - It's not fair to Alex. - Get off my case! Don't do that! You'll regret it in the morning. Come on, let it go. Come on. Wait. My freebie! Pass the straw. Don't take that. Cut the crap. Fuck off, Pierre. It's just a line. Stop it, stop it. Don't do that. You're a pain in the ass, I swear! Good? Yeah, but I have to find Pierre, my rat-loving friend. - He can't be alone. - You'll be back? Yeah, thanks girls. That was real cool. Pierre! Ladies, let me introduce you to Pierre! - He needs love! - Alex is dancing alone. Stop messing around! Stop it. Come on, girls, make him happy! Make him feel good, or bad- whatever! And you talk about my sexuality? What're you doing? Pierre! Pierre! I've been there, Marcus, come on! I can't stand you like this! Come, come, come! Marcus, come on! If not for me, for her! What the hell are you doing? Stop fooling around! Let it go! Let it go! Alex is dancing alone."
+      ],
+      "scene_length_chars": 2318,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.24898286163806915,
+        0.0030770443845540285,
+        0.6324318647384644,
+        0.05222354456782341,
+        0.004485927987843752,
+        0.053059518337249756,
+        0.009373047389090061,
+        0.3250633180141449,
+        0.013518488965928555,
+        0.003946672193706036,
+        0.007215397898107767,
+        0.00568932993337512,
+        0.0013839114690199494,
+        0.023709943518042564,
+        0.01883457414805889,
+        0.307679146528244,
+        0.006343764718621969,
+        0.03589427471160889,
+        0.019933877512812614,
+        0.0008356762118637562,
+        0.0032774850260466337,
+        0.0045023453421890736,
+        0.0015333375195041299,
+        0.004260186571627855,
+        0.0056435465812683105,
+        0.007531429175287485,
+        0.0075849853456020355,
+        0.013709436170756817
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "gratitude"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "Come on - Marcus! - Yeah, I'm here! Come on, come on. Marcus, this is disgusting. Come on! - This is life, buddy! - You shouldn't have brought her. Damnit, man. Why bring her and act like that? What'd you take, huh? Drink some water! Drink some water. Come, come on. - Grow up! - What's with you? Why bring her if you're going to act like a fool? - But she can have fun with us! - Go to her! - Have fun, man. - You call this having fun? You're acting like a preacher! Preacher, my ass! More like babysitting a fucked up teen! Drink some water. Drink some water. Drink some water. Drink some water. Here, drink. Fill it from the tap! None left! Can't wait, gotta pee. Too many people in the john. - Stop, Marcus, stop! - It's Okay, I turned the tap on! Don't do that! You're not an ape. Come on, let's go! Stop, Pierre! I'm squirting all over! - You're a pain, man! - I can't stand you like this! What if she sees you? You're worse than an ape! You're a drag! - So that's it, sonofabitch! - What? You're into watching! Don't act like that, Marcus! - Look how gorgeous she is! - Look how gorgeous they are! A brunette and a blonde. A brunette and a blonde. Now it's time to fuck them all on the sand and in the sun. Found some friends? Hi. - What's your name? - Joanna. And you? - Vincent. - Hi, Vincent. It's really Marcus. And you? Aurele. Let me introduce Alex. - This is Alex. - I know, I got it. Marcus, Marcus. Come on, say my name. Marcus, Marcus. Go on! Your fag friend is breaking my balls! - Don't be mean! - He's a fucking curse! I set him up with babes and he don't give a shit! He don't sniff coke. He don't drink. A real ballbreaker! You got yourself a real number! No, I'd rather watch you. It brings back too many memories. I'd rather watch. You never liked to dance before. Ah, the primate is back. Stop it! Do something. What's he on? You stop it! You never danced before. You're dancing away your pain because the guy's a real jerk! What're you doing with him? You never danced that way before! - Let loose! - I'm doing just fine! - Dance with me! - You scare me. It's not you! - I scare you? - The chimp's back. - I scare you? - He's funny, huh? You think he's funny? Look, I can be funny too. Come on, dance with me! I'm watching you. Form and content. Remember, we used to talk about that.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Come on - Marcus! - Yeah, I'm here! Come on, come on. Marcus, this is disgusting. Come on! - This is life, buddy! - You shouldn't have brought her. Damnit, man. Why bring her and act like that? What'd you take, huh? Drink some water! Drink some water. Come, come on. - Grow up! - What's with you? Why bring her if you're going to act like a fool? - But she can have fun with us! - Go to her! - Have fun, man. - You call this having fun? You're acting like a preacher! Preacher, my ass! More like babysitting a fucked up teen! Drink some water. Drink some water. Drink some water. Drink some water. Here, drink. Fill it from the tap! None left! Can't wait, gotta pee. Too many people in the john. - Stop, Marcus, stop! - It's Okay, I turned the tap on! Don't do that! You're not an ape. Come on, let's go! Stop, Pierre! I'm squirting all over! - You're a pain, man! - I can't stand you like this! What if she sees you? You're worse than an ape! You're a drag! - So that's it, sonofabitch! - What? You're into watching! Don't act like that, Marcus! - Look how gorgeous she is! - Look how gorgeous they are! A brunette and a blonde. A brunette and a blonde. Now it's time to fuck them all on the sand and in the sun. Found some friends? Hi. - What's your name? - Joanna. And you? - Vincent. - Hi, Vincent. It's really Marcus. And you? Aurele. Let me introduce Alex. - This is Alex. - I know, I got it. Marcus, Marcus. Come on, say my name. Marcus, Marcus. Go on! Your fag friend is breaking my balls! - Don't be mean! - He's a fucking curse! I set him up with babes and he don't give a shit! He don't sniff coke. He don't drink. A real ballbreaker! You got yourself a real number! No, I'd rather watch you. It brings back too many memories. I'd rather watch. You never liked to dance before. Ah, the primate is back. Stop it! Do something. What's he on? You stop it! You never danced before. You're dancing away your pain because the guy's a real jerk! What're you doing with him? You never danced that way before! - Let loose! - I'm doing just fine! - Dance with me! - You scare me. It's not you! - I scare you? - The chimp's back. - I scare you? - He's funny, huh? You think he's funny? Look, I can be funny too. Come on, dance with me! I'm watching you. Form and content. Remember, we used to talk about that."
+      ],
+      "scene_length_chars": 2309,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3483318090438843,
+        0.3481813967227936,
+        0.2117605209350586,
+        0.32905086874961853,
+        0.012667891569435596,
+        0.05963796004652977,
+        0.025432147085666656,
+        0.36262133717536926,
+        0.014020167291164398,
+        0.005042172968387604,
+        0.01432278286665678,
+        0.3011179566383362,
+        0.010378795675933361,
+        0.011582091450691223,
+        0.15886469185352325,
+        0.0022394570987671614,
+        0.004238366615027189,
+        0.01924787648022175,
+        0.008036010898649693,
+        0.011573742143809795,
+        0.032925136387348175,
+        0.0033929040655493736,
+        0.007768562529236078,
+        0.0015149950049817562,
+        0.0010117460042238235,
+        0.002877717139199376,
+        0.012040647678077221,
+        0.03217988833785057
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "amusement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "Easy. You're playing with fire. That must be Marcus having fun. Come on, follow me. Alex! How nice to see you! Me too! Let me say hi to my friends. How are you? Oh, sorry! How are you? You? - So? - It's getting bigger? It won't stop growing. I'm so happy! That's so good! Oh, stop it! It's so nice to see you! I'm exhausted! I've been dancing all night long! - I danced a lot too. - How's life? I'm really happy. Today's a special day. I'll tell you all about it. I'm here with my man. Pierre? No. I'm here with Marcus. - I think he's drunk. - He looks kinda... loaded! Let's go out for dinner sometime. - I'd love to! - I'll tell you everything! - Tell me! Tell me! - What? Don't know yet. - How's it going? - All right. - Promise? Let's talk. - Sure, soon. I'm gonna get a drink. Bye! Stop it! Baci, baci, baci. What are you on? Nothing! Absolutely nothing. I'm clean as spring water. My name is Jean-Francois. - Look at your eyes. - What about my eyes? - Your jaw's flapping. - So what? Your breasts flap too! Stop! I just wanted to hang out. But I couldn't find you. How come you gotta take shit to get off? It's a blast! You know, you're not fifteen any more. You can be so nice... so gentle. - Or such an ass! - Stop it! I wanna go home! I wanna go home and rest. I don't wanna stay here with you. You look like a ghost. - Stop it! - Stop, Alex. - I'll take you home. - Don't touch me! Alex! Alex! Alex. Come on. Alex! I said I'll take you home! I'll take you home! Alex! Fuck! Shut the door. - I'm going. - Where to? - I'm tired. - Tired? What? You were just dancing. What's going on? He's totally fucked up. Watch him. He doesn't need me. You need me. Don't worry, nothing'll happen. - I'll call you tomorrow. - Tomorrow? I came here to see you. I haven't seen you in months. I need an excuse just to look in your eyes and watch you dance. - Don't hurt yourself. - It doesn't hurt. I like seeing you. It's an aesthetic pleasure. A bit of nostalgia, that's all. Don't go, don't go! I'll call you tomorrow. - What for? - You're so cute. No, I'm not. Don't go alone. It's not safe. I'm reading an amazing book. - How many months? - Several. I can't finish it. What I'm telling you is special. She turns a page and... slam! - What is it? - It says... The book says that... It says the future is already written. It's all there.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Easy. You're playing with fire. That must be Marcus having fun. Come on, follow me. Alex! How nice to see you! Me too! Let me say hi to my friends. How are you? Oh, sorry! How are you? You? - So? - It's getting bigger? It won't stop growing. I'm so happy! That's so good! Oh, stop it! It's so nice to see you! I'm exhausted! I've been dancing all night long! - I danced a lot too. - How's life? I'm really happy. Today's a special day. I'll tell you all about it. I'm here with my man. Pierre? No. I'm here with Marcus. - I think he's drunk. - He looks kinda... loaded! Let's go out for dinner sometime. - I'd love to! - I'll tell you everything! - Tell me! Tell me! - What? Don't know yet. - How's it going? - All right. - Promise? Let's talk. - Sure, soon. I'm gonna get a drink. Bye! Stop it! Baci, baci, baci. What are you on? Nothing! Absolutely nothing. I'm clean as spring water. My name is Jean-Francois. - Look at your eyes. - What about my eyes? - Your jaw's flapping. - So what? Your breasts flap too! Stop! I just wanted to hang out. But I couldn't find you. How come you gotta take shit to get off? It's a blast! You know, you're not fifteen any more. You can be so nice... so gentle. - Or such an ass! - Stop it! I wanna go home! I wanna go home and rest. I don't wanna stay here with you. You look like a ghost. - Stop it! - Stop, Alex. - I'll take you home. - Don't touch me! Alex! Alex! Alex. Come on. Alex! I said I'll take you home! I'll take you home! Alex! Fuck! Shut the door. - I'm going. - Where to? - I'm tired. - Tired? What? You were just dancing. What's going on? He's totally fucked up. Watch him. He doesn't need me. You need me. Don't worry, nothing'll happen. - I'll call you tomorrow. - Tomorrow? I came here to see you. I haven't seen you in months. I need an excuse just to look in your eyes and watch you dance. - Don't hurt yourself. - It doesn't hurt. I like seeing you. It's an aesthetic pleasure. A bit of nostalgia, that's all. Don't go, don't go! I'll call you tomorrow. - What for? - You're so cute. No, I'm not. Don't go alone. It's not safe. I'm reading an amazing book. - How many months? - Several. I can't finish it. What I'm telling you is special. She turns a page and... slam! - What is it? - It says... The book says that... It says the future is already written. It's all there."
+      ],
+      "scene_length_chars": 2331,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.4976729452610016,
+        0.07305695861577988,
+        0.10213658958673477,
+        0.19587086141109467,
+        0.012300544418394566,
+        0.2227514386177063,
+        0.026581019163131714,
+        0.22838421165943146,
+        0.1828768104314804,
+        0.052280981093645096,
+        0.008179946802556515,
+        0.005134164355695248,
+        0.004903879482299089,
+        0.17729972302913666,
+        0.003139351261779666,
+        0.002465784316882491,
+        0.021566884592175484,
+        0.3452966511249542,
+        0.10606426000595093,
+        0.007558196783065796,
+        0.3241966962814331,
+        0.015533995814621449,
+        0.011081871576607227,
+        0.015143913216888905,
+        0.0055573470890522,
+        0.04008757695555687,
+        0.012032548896968365,
+        0.04076247289776802
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "joy",
+        "optimism"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "And the proof lies in premonitory dreams. Wow! It's putting us to sleep already! - Even dreams are bad news! - Well, what should be written... I often dream I'm sleeping. It's my only dream. - Fuck! - At least you relax. - This our stop? - No, not here. Next stop. It's nice you sleep once in a while. What? Two hours a night? The number of times I collapsed, drenched in sweat, on your body... Was it good? Tell me. I want to know! You can't do it either! What a catastrophe! What's it take to make you come? Stop! Why do you say stuff like that? It's your fault. What do you expect? - Don't tell me you make her come! - We'll tell you, don't worry. - No, seriously... - What? He makes you come? Alex, you don't have to answer this social reject! Look at his primate head! Come on, tell me everything! You and your little secrets! Yes, we make each other come! You see how you are! You want to explain everything. No, I don't. Tell me if you come or not! - I couldn't! - Everything's fine! That's why you're behind and I'm in front. No kidding, Alex. Nobody's around. Did he do something interesting or not? Come on! You can't talk about things like that. You can't talk about it. How about doing it! - Line up and see what happens! - It's complicated! Seriously, did you get somewhere or not? You complained, sweetheart, but I've got better since. Pierre... - Did he get somewhere? - You can't talk about sex. - Why not? - We can talk about anything. - But you've got a fixation. - We can talk about it without you. You wanna explain everything but you can't. That's sex. You have to do it, not talk about it. OK, but you can give me a result or an observation. Did you feel pleasure or well-being? Yes or no? - With you? - Of course not! Stop! Why do you say that? My cardiologist told me to stop or die. He said it was either you or me: your orgasm or my heart. - No, seriously. - Stop! Look, a subway train! Blue and colourful! Did you get somewhere or not? Pierre, Pierre. Yes, yes, we'll tell you about it. What a liar! Liars have long noses, you have big ears! - And my nose? - What nose? But look at your ears in the wind! Look at that! What a whirl! Ladies and gentlemen, enter a couple that has orgasms! One time! One time she screamed because she fell and hit her head on the bedside table.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And the proof lies in premonitory dreams. Wow! It's putting us to sleep already! - Even dreams are bad news! - Well, what should be written... I often dream I'm sleeping. It's my only dream. - Fuck! - At least you relax. - This our stop? - No, not here. Next stop. It's nice you sleep once in a while. What? Two hours a night? The number of times I collapsed, drenched in sweat, on your body... Was it good? Tell me. I want to know! You can't do it either! What a catastrophe! What's it take to make you come? Stop! Why do you say stuff like that? It's your fault. What do you expect? - Don't tell me you make her come! - We'll tell you, don't worry. - No, seriously... - What? He makes you come? Alex, you don't have to answer this social reject! Look at his primate head! Come on, tell me everything! You and your little secrets! Yes, we make each other come! You see how you are! You want to explain everything. No, I don't. Tell me if you come or not! - I couldn't! - Everything's fine! That's why you're behind and I'm in front. No kidding, Alex. Nobody's around. Did he do something interesting or not? Come on! You can't talk about things like that. You can't talk about it. How about doing it! - Line up and see what happens! - It's complicated! Seriously, did you get somewhere or not? You complained, sweetheart, but I've got better since. Pierre... - Did he get somewhere? - You can't talk about sex. - Why not? - We can talk about anything. - But you've got a fixation. - We can talk about it without you. You wanna explain everything but you can't. That's sex. You have to do it, not talk about it. OK, but you can give me a result or an observation. Did you feel pleasure or well-being? Yes or no? - With you? - Of course not! Stop! Why do you say that? My cardiologist told me to stop or die. He said it was either you or me: your orgasm or my heart. - No, seriously. - Stop! Look, a subway train! Blue and colourful! Did you get somewhere or not? Pierre, Pierre. Yes, yes, we'll tell you about it. What a liar! Liars have long noses, you have big ears! - And my nose? - What nose? But look at your ears in the wind! Look at that! What a whirl! Ladies and gentlemen, enter a couple that has orgasms! One time! One time she screamed because she fell and hit her head on the bedside table."
+      ],
+      "scene_length_chars": 2302,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012648958712816238,
+        0.023795679211616516,
+        0.26279905438423157,
+        0.038078423589468,
+        0.0007354636327363551,
+        0.010629269294440746,
+        0.013919639401137829,
+        0.5031411647796631,
+        0.00814767275005579,
+        0.002139157382771373,
+        0.0034537792671471834,
+        0.0013030581176280975,
+        0.0016314489766955376,
+        0.013330136425793171,
+        0.02310459315776825,
+        0.0007131742895580828,
+        0.0012137539451941848,
+        0.0010987026616930962,
+        0.0013183370465412736,
+        0.0017967798048630357,
+        0.0020552233327180147,
+        0.000652411428745836,
+        0.007933537475764751,
+        0.00016198183584492654,
+        0.0005880158860236406,
+        0.0015633086441084743,
+        0.060808081179857254,
+        0.05256354436278343
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "surprise"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "Stop! Why act like that? The closest we got to orgasm was a bruise! I thought it was the real thing! She was crying! Blood was everywhere! - It all made sense! - You know what they say? It's not the women who can't come but the men who can't fuck. - That says it all! - Why hurt yourself? It doesn't hurt. She tells me the truth. I live with it. I couldn't give her a good fuck. I'm too cerebral. You're right. Whereas he and his banana diet and testosterone: instant ecstasy! - You're a joke. - No, really... You fuck on a banana diet? Bravo. I can't believe it! The smug middle-class couple who won't share secrets! - I thought you were free! - You have to be gentle. I'm gonna write this down in case she and I cross paths. - Here. - Thanks, a surprise! A pill I've saved and never used. Nasgunk or whatever they call it. Go on! - So, be gentle... - Too late! If you haven't done it yet, at your age you never will. Take care of your rats. You can do that. To make a rat come, you take a pen... Don't excite me or I'll use some kid! Don't joke like that in public. It's unsafe. Alex, what's the trick? Does he make noises? Is he hairy? Does he smell? Does he yell and scream? Come on, I don't believe it! You always say I'm too cerebral. It's a simple, basic question. Oh, little kissy kissy! Why don't you sing while you're at it! What's that all about? - Do I embarrass you? - No. Forgive me, ma'am, sir... - Pardon me, ma'am. - Listen... Ma'am keeps her come to herself! - What about Sylvie? - Sylvie's like all the others... after a few hours of effort- - I don't care about her. - You know what your problem is? For you, it's a task. - A what? - A task. - Do what? - Do it. You do it but you're not there. - What're you saying? - It's true. Frankly, I'm not interested in the depths of your private life. - Forgive us, Father! - He's the one who started. OK. At the party lock yourselves in the john and talk about it. I can't believe it! I simply don't understand what you do that I couldn't do. - Anything special? - Too old, drop it! - I'm two years older than you. - You wish! Touchy about dates, isn't he? Your problem is you focus on your partner's pleasure. - You have to let yourself go. - An altruist! You have to let loose and think only of yourself. - That's selfish.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Stop! Why act like that? The closest we got to orgasm was a bruise! I thought it was the real thing! She was crying! Blood was everywhere! - It all made sense! - You know what they say? It's not the women who can't come but the men who can't fuck. - That says it all! - Why hurt yourself? It doesn't hurt. She tells me the truth. I live with it. I couldn't give her a good fuck. I'm too cerebral. You're right. Whereas he and his banana diet and testosterone: instant ecstasy! - You're a joke. - No, really... You fuck on a banana diet? Bravo. I can't believe it! The smug middle-class couple who won't share secrets! - I thought you were free! - You have to be gentle. I'm gonna write this down in case she and I cross paths. - Here. - Thanks, a surprise! A pill I've saved and never used. Nasgunk or whatever they call it. Go on! - So, be gentle... - Too late! If you haven't done it yet, at your age you never will. Take care of your rats. You can do that. To make a rat come, you take a pen... Don't excite me or I'll use some kid! Don't joke like that in public. It's unsafe. Alex, what's the trick? Does he make noises? Is he hairy? Does he smell? Does he yell and scream? Come on, I don't believe it! You always say I'm too cerebral. It's a simple, basic question. Oh, little kissy kissy! Why don't you sing while you're at it! What's that all about? - Do I embarrass you? - No. Forgive me, ma'am, sir... - Pardon me, ma'am. - Listen... Ma'am keeps her come to herself! - What about Sylvie? - Sylvie's like all the others... after a few hours of effort- - I don't care about her. - You know what your problem is? For you, it's a task. - A what? - A task. - Do what? - Do it. You do it but you're not there. - What're you saying? - It's true. Frankly, I'm not interested in the depths of your private life. - Forgive us, Father! - He's the one who started. OK. At the party lock yourselves in the john and talk about it. I can't believe it! I simply don't understand what you do that I couldn't do. - Anything special? - Too old, drop it! - I'm two years older than you. - You wish! Touchy about dates, isn't he? Your problem is you focus on your partner's pleasure. - You have to let yourself go. - An altruist! You have to let loose and think only of yourself. - That's selfish."
+      ],
+      "scene_length_chars": 2286,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0027273150626569986,
+        0.0013596044154837728,
+        0.019284779205918312,
+        0.14498387277126312,
+        0.003386460244655609,
+        0.05051388218998909,
+        0.0072057596407830715,
+        0.38105225563049316,
+        0.0023212668020278215,
+        0.007291289046406746,
+        0.012905645184218884,
+        0.0009071728563867509,
+        0.040386710315942764,
+        0.005029346793889999,
+        0.0024640897754579782,
+        0.10058072954416275,
+        0.0031698280945420265,
+        0.0006304264534264803,
+        0.00048527485341764987,
+        0.0019645006395876408,
+        0.0036836592480540276,
+        0.004824366420507431,
+        0.012114133685827255,
+        0.012029874138534069,
+        0.002366662258282304,
+        0.0019243907881900668,
+        0.19460515677928925,
+        0.0811796635389328
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "surprise",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "- No, it's much better. - Otherwise you freeze. - Right on! You think about the other's desire and you freeze. You freeze because you aren't concentrating on yourself. You know? Sometimes a woman's pleasure is the pleasure that the man feels. And if I feel that the guy isn't coming, - isn't also feeling pleasure... - Wait, let her talk. If I sense that the man isn't also feeling pleasure... - You won't come if he doesn't come? - I can't come. It's a shame you realize it so late, after so many years of celibacy. - I couldn't come because... - Remember all my efforts to hold back for hours and hours? Hours and hours, like an animal, drenched in sweat! If I fucked like a rabbit you'd have come while I was in the shower or sleeping? - You saying that? - Let me explain... No! What I needed... You can't explain it all, you understand? Sure, it's not rational. Paranoiacs need everything explained. Some things can't be explained. It's like talk, talk, talk. Sometimes... you fuck. And after, everything's all right, I don't know why. - The body talks. - Even when I fuck I talk. Remember what I'd say when we fucked! Remember all the things that used to excite you. All the stories I told. You liked a lot of what I said. I never reached ecstasy. But once or twice you did? Be honest. Tell me, he won't listen. - More than that. - Really! More than that! You hear that? - Lucky guy! More than that! - You're so lofty, lofty, lofty... But at the end of the day, when it comes to sex, you're down to earth. And then you say he's an animal. His basic need is sex. He's got no language, so you can't tell. He says, \"Me want fuck. Me want eat. Me, Marcus.\" And me try to diversify that. Me have hard time because me use language. - Hey Language! Let's go. - Already? Go ahead, I'll jack off a bit. You're silly! Hey there, Alexandra. It's Pierre. my car broke down so we'll be taking the subway. See you in half an hour. I had a dream. It was weird. I can't feel my arm. I was in a tunnel. A tunnel. All red. And then... the tunnel broke in two. I think it's... because of my period. I'm late, you know? Very late? No, a few days. So we'll see. We slept a long time. Gotta get up and buy some liquor before it closes. I have to be nice to Pierre. After all, I stole his girl. - What?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- No, it's much better. - Otherwise you freeze. - Right on! You think about the other's desire and you freeze. You freeze because you aren't concentrating on yourself. You know? Sometimes a woman's pleasure is the pleasure that the man feels. And if I feel that the guy isn't coming, - isn't also feeling pleasure... - Wait, let her talk. If I sense that the man isn't also feeling pleasure... - You won't come if he doesn't come? - I can't come. It's a shame you realize it so late, after so many years of celibacy. - I couldn't come because... - Remember all my efforts to hold back for hours and hours? Hours and hours, like an animal, drenched in sweat! If I fucked like a rabbit you'd have come while I was in the shower or sleeping? - You saying that? - Let me explain... No! What I needed... You can't explain it all, you understand? Sure, it's not rational. Paranoiacs need everything explained. Some things can't be explained. It's like talk, talk, talk. Sometimes... you fuck. And after, everything's all right, I don't know why. - The body talks. - Even when I fuck I talk. Remember what I'd say when we fucked! Remember all the things that used to excite you. All the stories I told. You liked a lot of what I said. I never reached ecstasy. But once or twice you did? Be honest. Tell me, he won't listen. - More than that. - Really! More than that! You hear that? - Lucky guy! More than that! - You're so lofty, lofty, lofty... But at the end of the day, when it comes to sex, you're down to earth. And then you say he's an animal. His basic need is sex. He's got no language, so you can't tell. He says, \"Me want fuck. Me want eat. Me, Marcus.\" And me try to diversify that. Me have hard time because me use language. - Hey Language! Let's go. - Already? Go ahead, I'll jack off a bit. You're silly! Hey there, Alexandra. It's Pierre. my car broke down so we'll be taking the subway. See you in half an hour. I had a dream. It was weird. I can't feel my arm. I was in a tunnel. A tunnel. All red. And then... the tunnel broke in two. I think it's... because of my period. I'm late, you know? Very late? No, a few days. So we'll see. We slept a long time. Gotta get up and buy some liquor before it closes. I have to be nice to Pierre. After all, I stole his girl. - What?"
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0005757611943408847,
+        0.003362832823768258,
+        0.027937905862927437,
+        0.27076056599617004,
+        0.007003658916801214,
+        0.0015205489471554756,
+        0.007117857690900564,
+        0.05982454493641853,
+        0.005196763668209314,
+        0.0025158419739454985,
+        0.007348962593823671,
+        0.009427787736058235,
+        0.07070188969373703,
+        0.0012464801548048854,
+        0.0030517233535647392,
+        0.0010365219786763191,
+        0.0006124958163127303,
+        0.00046204004320316017,
+        0.001103329355828464,
+        0.004537574481219053,
+        0.03502240777015686,
+        0.0005707915406674147,
+        0.1744459718465805,
+        0.0008467820007354021,
+        0.0005315865855664015,
+        0.0006599471089430153,
+        0.002073142910376191,
+        0.4416389465332031
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "annoyance",
+        "realization"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "- And I also have to... No. You didn't steal anything from anybody, my love. I'm not an object, you know? You didn't steal a thing from anybody. It was all me. I made all the decisions. It's always the woman who decides. It is. Yeah, well, you do decide. Besides... What this time? Making me spend an evening with your ex? You impose an evening with your ex, even if he's a buddy. He really likes you. Well, you're gonna have to pay! - No, I'm not paying. - You decide, you pay. No, stop it! I'm not awake! Stop it! You're gonna pay for this! If you hurt me, I swear you'll pay. Now, the revenge of the elephants! The revenge that eats up infants! Stop! You know I don't like that! I'll get my revenge too. With a kiss. - You kneed me! - I did not! Did I hurt you? Don't exaggerate! Fuck! You crushed my balls! Liar! Did I hurt you? - You're sickening! - You're zickenino! I'm gonna make some coffee. Ma guarda questo culo! Stop it! Stop, stop, stop. - Dove vai? - Make some coffee. Coffee? Know what? You gotta go buy a bottle! Okay. Look at my eye. It hurts. I swear there's something there. Put some music on? You make my head spin You are my merry-go-round I'm always at a party When I'm in your arms... - You know what? - What? I wanna fuck your ass. I thought you were a romantic! Oh, really? Aren't we great the two of us! When the two of us are together Oh, how life is such a wonder! When the two of us are one We could fly to outer space When my heart is next to yours I love you. Me too. We love each other forever And even if there were no ever We'd love each other all the same What if I'm pregnant? That'd be fun! Oh yes, please! Shower. Gotta get some booze! - You got any cash? - You stop it! - Stop what? - You never have any money! You're impossible! Right, but do you? I'll take it from your purse. Be right back. Time destroys everything.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- And I also have to... No. You didn't steal anything from anybody, my love. I'm not an object, you know? You didn't steal a thing from anybody. It was all me. I made all the decisions. It's always the woman who decides. It is. Yeah, well, you do decide. Besides... What this time? Making me spend an evening with your ex? You impose an evening with your ex, even if he's a buddy. He really likes you. Well, you're gonna have to pay! - No, I'm not paying. - You decide, you pay. No, stop it! I'm not awake! Stop it! You're gonna pay for this! If you hurt me, I swear you'll pay. Now, the revenge of the elephants! The revenge that eats up infants! Stop! You know I don't like that! I'll get my revenge too. With a kiss. - You kneed me! - I did not! Did I hurt you? Don't exaggerate! Fuck! You crushed my balls! Liar! Did I hurt you? - You're sickening! - You're zickenino! I'm gonna make some coffee. Ma guarda questo culo! Stop it! Stop, stop, stop. - Dove vai? - Make some coffee. Coffee? Know what? You gotta go buy a bottle! Okay. Look at my eye. It hurts. I swear there's something there. Put some music on? You make my head spin You are my merry-go-round I'm always at a party When I'm in your arms... - You know what? - What? I wanna fuck your ass. I thought you were a romantic! Oh, really? Aren't we great the two of us! When the two of us are together Oh, how life is such a wonder! When the two of us are one We could fly to outer space When my heart is next to yours I love you. Me too. We love each other forever And even if there were no ever We'd love each other all the same What if I'm pregnant? That'd be fun! Oh yes, please! Shower. Gotta get some booze! - You got any cash? - You stop it! - Stop what? - You never have any money! You're impossible! Right, but do you? I'll take it from your purse. Be right back. Time destroys everything."
+      ],
+      "scene_length_chars": 1858,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.003061576746404171,
+        0.020843714475631714,
+        0.32393449544906616,
+        0.0829228088259697,
+        0.0024067284539341927,
+        0.05879192054271698,
+        0.013679505325853825,
+        0.38674116134643555,
+        0.032405998557806015,
+        0.004920953884720802,
+        0.004022164270281792,
+        0.001432708348147571,
+        0.001538132200948894,
+        0.08488307148218155,
+        0.002117865951731801,
+        0.0006837826804257929,
+        0.002554737264290452,
+        0.23618055880069733,
+        0.3334282636642456,
+        0.0014089434407651424,
+        0.012785551138222218,
+        0.0010732458904385567,
+        0.0031210307497531176,
+        0.0007290947251021862,
+        0.0007927143597044051,
+        0.004602845758199692,
+        0.018859991803765297,
+        0.29111531376838684
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "love",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 14,
+    "lines_per_scene_fallback": 20
+  }
+}

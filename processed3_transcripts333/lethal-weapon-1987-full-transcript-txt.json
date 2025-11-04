@@ -1,0 +1,63 @@
+{
+  "source_file": "Lethal Weapon _1987_ - full transcript.txt",
+  "title": "Lethal Weapon",
+  "year": "1987",
+  "meta_description": null,
+  "num_scenes": 1,
+  "avg_scene_chars": 0,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "[ENGLISH - US - SDH]",
+      "raw_text": "",
+      "characters": [],
+      "dialogues": [],
+      "actions": [],
+      "scene_length_chars": 0,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "surprise",
+        "amusement"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    }
+  ],
+  "split_summary": {
+    "initial_method": "headings_or_brackets",
+    "final_num_scenes": 1,
+    "lines_per_scene_fallback": 20
+  }
+}

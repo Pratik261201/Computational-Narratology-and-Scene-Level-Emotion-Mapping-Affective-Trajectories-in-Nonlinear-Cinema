@@ -1,0 +1,842 @@
+{
+  "source_file": "The Village _1975_ - full transcript.txt",
+  "title": "The Village",
+  "year": "1975",
+  "meta_description": null,
+  "num_scenes": 16,
+  "avg_scene_chars": 2257,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Miss Kono first visited us in mid-March, after a snowfall rare for Spring. Our village, Matsuo, is in Iwate Prefecture. One hour by train from Morioka, then 20 minutes by bus. Wait a moment. Miss Kono is with the Toitsu Troupe. She visits different districts where the troupe might perform. Hideko Kono, of the Toitsu Theatrical Troupe. The Superintendent told her where I lived. She decided to walk all the way. This was most surprising; it would take a man one hour to cover the distance. In Miss Kono's case, she probably plodded along, singing merrily along that hilly road. THE VILLAGE Screenplay by Yoji Yamada & Yoshitaka Asama Chieko Baisho Akira Terao Directed by Yoji Yamada Takashi's back. Are you the group's leader? The village office phoned about me. She's been waiting for you for one hour. I called the doctor. Difficult delivery. Birth expected tonight. A birth? Then you're going to be busy. If it’s a female... The first child could well be a boy. We'd sell a male for ¥3,000. ¥3,000! It's our cow. She's giving birth. I thought it was your wife! I'm not married yet. I'm Hideko Kono, of the Toitsu Troupe. I'm Takashi. From Tokyo? This milk is fresh from this morning. It looks good. Do you know Kichijoji? It's near our headquarters. About 15 minutes by train. Is there someone? My niece lives there. Married a man named Murakami. The house is in Midori-cho. Tokyo's too big a city. There'll be a birth there soon. They have a cow, too? Why, no, this is a human baby. Can't keep a cow in Tokyo! By then, it was time for the last bus. Miss Kono summed up her request and left hurriedly. I'll phone in April. She wanted to bring a show here, and asked for our youth group's cooperation. The idea was both sudden and startling. Our house seldom has visitors during wintertime. A charming person had come, laughed, and left. Kayoko. Why, Susumu! What are you doing here? I returned on vacation. Why? I wanted to see you. Brought your mail. Same old job? Did you get fired? This is a vacation. Tokyo has spruced you up. Why don't you come to our board meeting tonight? Who's the President? Takashi. Takashi? How did he become the President? No one else wanted to be. Those gone out to work returned. A meeting was held. A cook? In Kabuki-cho. Whereabouts? Near Koma?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Miss Kono first visited us in mid-March, after a snowfall rare for Spring. Our village, Matsuo, is in Iwate Prefecture. One hour by train from Morioka, then 20 minutes by bus. Wait a moment. Miss Kono is with the Toitsu Troupe. She visits different districts where the troupe might perform. Hideko Kono, of the Toitsu Theatrical Troupe. The Superintendent told her where I lived. She decided to walk all the way. This was most surprising; it would take a man one hour to cover the distance. In Miss Kono's case, she probably plodded along, singing merrily along that hilly road. THE VILLAGE Screenplay by Yoji Yamada & Yoshitaka Asama Chieko Baisho Akira Terao Directed by Yoji Yamada Takashi's back. Are you the group's leader? The village office phoned about me. She's been waiting for you for one hour. I called the doctor. Difficult delivery. Birth expected tonight. A birth? Then you're going to be busy. If it’s a female... The first child could well be a boy. We'd sell a male for ¥3,000. ¥3,000! It's our cow. She's giving birth. I thought it was your wife! I'm not married yet. I'm Hideko Kono, of the Toitsu Troupe. I'm Takashi. From Tokyo? This milk is fresh from this morning. It looks good. Do you know Kichijoji? It's near our headquarters. About 15 minutes by train. Is there someone? My niece lives there. Married a man named Murakami. The house is in Midori-cho. Tokyo's too big a city. There'll be a birth there soon. They have a cow, too? Why, no, this is a human baby. Can't keep a cow in Tokyo! By then, it was time for the last bus. Miss Kono summed up her request and left hurriedly. I'll phone in April. She wanted to bring a show here, and asked for our youth group's cooperation. The idea was both sudden and startling. Our house seldom has visitors during wintertime. A charming person had come, laughed, and left. Kayoko. Why, Susumu! What are you doing here? I returned on vacation. Why? I wanted to see you. Brought your mail. Same old job? Did you get fired? This is a vacation. Tokyo has spruced you up. Why don't you come to our board meeting tonight? Who's the President? Takashi. Takashi? How did he become the President? No one else wanted to be. Those gone out to work returned. A meeting was held. A cook? In Kabuki-cho. Whereabouts? Near Koma?"
+      ],
+      "scene_length_chars": 2282,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.01800883747637272,
+        0.009147877804934978,
+        0.001917380839586258,
+        0.0009260040824301541,
+        0.006462465971708298,
+        0.002167444908991456,
+        0.039936766028404236,
+        0.6224830150604248,
+        0.0032279295846819878,
+        0.0023708350490778685,
+        0.001162200584076345,
+        0.00042251264676451683,
+        0.00041667441837489605,
+        0.006006636191159487,
+        0.0005367915146052837,
+        0.000699065625667572,
+        0.0010056877508759499,
+        0.004796115681529045,
+        0.0015623749932274222,
+        0.00038706767372787,
+        0.002985519589856267,
+        0.0005766153335571289,
+        0.06097348406910896,
+        0.0004709010536316782,
+        0.0005165645270608366,
+        0.002223983407020569,
+        0.32882294058799744,
+        0.22752083837985992
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "surprise",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Know the place? That was when I was in love with Kayoko. Let's proceed. The final item. I'd better leave. Stay until the end. Then we'll drink. Let me introduce the guest. From the Toichi Troupe... Toitsu. Hideko Kono, of Toitsu. I'm glad to meet you. The purpose of her visit is to have a play staged here. She wants us to sponsor a musical called ‘Native Village’. Right? What kind of a play? Didn't I just tell you? ‘Native Village’. A musical that both the young and old can enjoy. Who are the stars? It's not mentioned here. Who are the leading actors? Our troupe isn't that famous. It doesn't appear on TV. We have no famous stars. No Sophia Loren! Any opinions? How about you, Kikuchi? I've nothing to say. I think it's a good idea to have a play performed here. What must we do? Takashi said for our Youth Association to 'sponsor it'. What does that mean? Miss Kono explained it to me. Supporting the performance in our village... means accepting responsibility. Responsibility? In case there's a deficit... Deficit? But why? It costs money to put on a play. Must we pay for it? If we sponsor it, our Youth Association will sell tickets. I understand. This group will pay money to buy the performance. A deal? How much? Miss Kono says the troupe's performance fee is ¥ 450,000. That isn't all, is it, Aiko? Lodging expenses for the troupe's 25 members to stay overnight, then posters, circulars, tickets, and so on... ¥ 200,000. Total: ¥ 650,000. For one show? ¥ 650,000 for one night. Can our group assume the responsibility? Any opinions? I don't see how we could ever do it. I thought it would be around ¥ 20,000. May I say a few words? Chuji just said that he thought... it would cost about ¥ 20,000. We'd like to do it for that, if it's possible. But just think for a moment... 25 people will arrive with a truck. Sets, props, lighting, and sound equipment, to entertain the audience with song and dance for three hours. What we earn as living expenses... comes to less than ¥ 200,000. Nor is that every day. Only about eight performances in one year: that's what our troupe is living on. The show is expensive. Meanwhile, utilities charges are going up. We'd like to do it for less, but this is the bare minimum. We're not doing this for the money. We love the theater.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Know the place? That was when I was in love with Kayoko. Let's proceed. The final item. I'd better leave. Stay until the end. Then we'll drink. Let me introduce the guest. From the Toichi Troupe... Toitsu. Hideko Kono, of Toitsu. I'm glad to meet you. The purpose of her visit is to have a play staged here. She wants us to sponsor a musical called ‘Native Village’. Right? What kind of a play? Didn't I just tell you? ‘Native Village’. A musical that both the young and old can enjoy. Who are the stars? It's not mentioned here. Who are the leading actors? Our troupe isn't that famous. It doesn't appear on TV. We have no famous stars. No Sophia Loren! Any opinions? How about you, Kikuchi? I've nothing to say. I think it's a good idea to have a play performed here. What must we do? Takashi said for our Youth Association to 'sponsor it'. What does that mean? Miss Kono explained it to me. Supporting the performance in our village... means accepting responsibility. Responsibility? In case there's a deficit... Deficit? But why? It costs money to put on a play. Must we pay for it? If we sponsor it, our Youth Association will sell tickets. I understand. This group will pay money to buy the performance. A deal? How much? Miss Kono says the troupe's performance fee is ¥ 450,000. That isn't all, is it, Aiko? Lodging expenses for the troupe's 25 members to stay overnight, then posters, circulars, tickets, and so on... ¥ 200,000. Total: ¥ 650,000. For one show? ¥ 650,000 for one night. Can our group assume the responsibility? Any opinions? I don't see how we could ever do it. I thought it would be around ¥ 20,000. May I say a few words? Chuji just said that he thought... it would cost about ¥ 20,000. We'd like to do it for that, if it's possible. But just think for a moment... 25 people will arrive with a truck. Sets, props, lighting, and sound equipment, to entertain the audience with song and dance for three hours. What we earn as living expenses... comes to less than ¥ 200,000. Nor is that every day. Only about eight performances in one year: that's what our troupe is living on. The show is expensive. Meanwhile, utilities charges are going up. We'd like to do it for less, but this is the bare minimum. We're not doing this for the money. We love the theater."
+      ],
+      "scene_length_chars": 2283,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005160706117749214,
+        0.0027290477883070707,
+        0.0008426147978752851,
+        0.0005909838946536183,
+        0.02808513678610325,
+        0.005103225354105234,
+        0.094480961561203,
+        0.6529521346092224,
+        0.009916317649185658,
+        0.0026491833850741386,
+        0.08582758903503418,
+        0.000401181256165728,
+        0.0005663333577103913,
+        0.008534594438970089,
+        0.00048286980018019676,
+        0.0010693126823753119,
+        0.0010479065822437406,
+        0.10207447409629822,
+        0.2114066332578659,
+        0.0007815207354724407,
+        0.03408399596810341,
+        0.0006436837138608098,
+        0.03320987895131111,
+        0.0009576648008078337,
+        0.0008607593481428921,
+        0.0020043880213052034,
+        0.0014134891098365188,
+        0.11085961014032364
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "love",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "We want people to see our performance. A large number of people... gather to laugh and cry together. They talk about it for a long time afterward. That's the kind of experience we want to create. This is last year's ticket, from Nagano. ¥ 800. Even at ¥ 1,000, you would need to sell 650 tickets... in order to raise ¥ 650,000. That won't be easy. It will be difficult, but don't give up too easily. That can be done at any time. Please consider the idea carefully. Any opinions? Something, Chuji? Why not do it? Come to my place. Welcome, Susumu. The last train has left. The train for Morioka? Is there an inn here? Well, there is, but... Kayoko! Can you put up Miss Kono for the night? I was wondering what she'd do. Sure, she can stay. I'd be troubling you too much. Her house is big. Dirty, too! Yes, but... Going to Chuji's place, Kayoko? Let's all go. Shall we? In my car. Nice drive-in. I modelled it after a place in Ueno where I once worked. I thought it had a Tokyo atmosphere! Handsome bartender... Are you staying in Morioka, at an inn? Rented a house for our office. Visit us sometime. You living alone? There are five of us. We visit different youth groups. Been doing it long? About 10 years. 10 years! Revealing my age! Our youth group lacks strength. It's shameful, but we've never done anything worthwhile. With such a leader... Why, you! Tetsuya... farmer? Public servant? Postal worker. Chuji, tell her about him. That story. What? You see, he wrote a love letter to a certain girl... What happened? Mailed it, then had to deliver it himself. It was part of my work. The girl wrote a letter of rejection, which he then delivered to his own house. Let's be friendly! I'll prepare some food. Dance, everybody. Will you dance with me? Great, Tetsuya! What about Tokyo? Takashi, when are you going to start work on that field? That field's no good. Carrots look promising. Last year's garlic was a big loss. The same thing with cabbage two years ago. So what? It's hopeless. Sit there. Do you intend to be a farmer or not? Which is it? I told you on New Year's: I'm not forcing it on you. If you're unwilling, I'll quit my factory job. The important thing is for you to make up your mind. Do you or don't you want to be a farmer? Despite what you say, you're forcing me into it.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We want people to see our performance. A large number of people... gather to laugh and cry together. They talk about it for a long time afterward. That's the kind of experience we want to create. This is last year's ticket, from Nagano. ¥ 800. Even at ¥ 1,000, you would need to sell 650 tickets... in order to raise ¥ 650,000. That won't be easy. It will be difficult, but don't give up too easily. That can be done at any time. Please consider the idea carefully. Any opinions? Something, Chuji? Why not do it? Come to my place. Welcome, Susumu. The last train has left. The train for Morioka? Is there an inn here? Well, there is, but... Kayoko! Can you put up Miss Kono for the night? I was wondering what she'd do. Sure, she can stay. I'd be troubling you too much. Her house is big. Dirty, too! Yes, but... Going to Chuji's place, Kayoko? Let's all go. Shall we? In my car. Nice drive-in. I modelled it after a place in Ueno where I once worked. I thought it had a Tokyo atmosphere! Handsome bartender... Are you staying in Morioka, at an inn? Rented a house for our office. Visit us sometime. You living alone? There are five of us. We visit different youth groups. Been doing it long? About 10 years. 10 years! Revealing my age! Our youth group lacks strength. It's shameful, but we've never done anything worthwhile. With such a leader... Why, you! Tetsuya... farmer? Public servant? Postal worker. Chuji, tell her about him. That story. What? You see, he wrote a love letter to a certain girl... What happened? Mailed it, then had to deliver it himself. It was part of my work. The girl wrote a letter of rejection, which he then delivered to his own house. Let's be friendly! I'll prepare some food. Dance, everybody. Will you dance with me? Great, Tetsuya! What about Tokyo? Takashi, when are you going to start work on that field? That field's no good. Carrots look promising. Last year's garlic was a big loss. The same thing with cabbage two years ago. So what? It's hopeless. Sit there. Do you intend to be a farmer or not? Which is it? I told you on New Year's: I'm not forcing it on you. If you're unwilling, I'll quit my factory job. The important thing is for you to make up your mind. Do you or don't you want to be a farmer? Despite what you say, you're forcing me into it."
+      ],
+      "scene_length_chars": 2295,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.13710840046405792,
+        0.011556764133274555,
+        0.005167136434465647,
+        0.0141376294195652,
+        0.00671067601069808,
+        0.011577114462852478,
+        0.025137200951576233,
+        0.9299991130828857,
+        0.05451682582497597,
+        0.0839134231209755,
+        0.025540299713611603,
+        0.0013548411661759019,
+        0.02400805614888668,
+        0.008385037072002888,
+        0.002360612852498889,
+        0.0007649714243598282,
+        0.002105320803821087,
+        0.0014690941898152232,
+        0.00344145018607378,
+        0.004967878106981516,
+        0.09979164600372314,
+        0.000464331271359697,
+        0.008229605853557587,
+        0.0003752823977265507,
+        0.0043221707455813885,
+        0.007503143046051264,
+        0.006472488399595022,
+        0.01703816093504429
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Is that so? Then quit! I'll give you money. Leave tomorrow for Sendai! Or Tokyo! You shouldn't say that. Mother, you pamper him. He's tired from the meeting. President of the youth group, eh? Can't farm decently. What a president! It's not my desire. Then quit! I will! After our father’s death, my brother worked hard to send me to school. I'm fully aware of that. Three years have passed since Brother's wife died. He hasn't remarried. It's hard for a widower with two children... to find a bride who'll live on a farm. It's a painful situation for Brother. I can understand how he feels. You worked for a while in Tokyo? - When was it? - After high school. For about two years. Where? A small, but nice boutique. I wanted to stay there, but Father kept telling me to return. He was worried? Our family has only girls. He wants me to marry an adopted son. I've made the bed. Thank you. The bath's ready. Nightgown. I have my own nightgown with me. I always carry it, because I never know where I might stay. Towel? Towel, too. Do you have parents? Yes, in Ibaraki. Why? When you began working, what did they say? They didn’t just say, “go ahead”. I'll have my bath. I do this quite often. Goodbye! Oh, I forgot that. Regards! Haven't installed a pipeline yet? No money. I guess you'd need 40 cows. I'm going back to Tokyo. You're not staying very long. I had a quarrel. I told my old man to sell the farm and start a drive-in. When I said I'd be the cook there, he punched me. That still here? We went after graduation to a Hokkaido ranch for training. We talked about starting a Danish-type farm together. Just a dream. I guess I'll go. How long to Tokyo? Eight hours by the new road. Faster than a train. If you come to Tokyo, look me up at my Chinese restaurant. Drive carefully. Listen, are you fond of Kayoko? Not especially. I see. Then it's all right. Goodbye. Many board meetings were held about the show. Kayoko's depressed look had me worried. I didn't care too much about the show... It will promote culture. How can we tell if it's a good show? Miss Kono explained it in detail. A village like this is the locale. A musical with young people, who are in love... Land prices rising as factories come in... To sell or not to sell... An enjoyable play. Easy to understand. Not interesting at all.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Is that so? Then quit! I'll give you money. Leave tomorrow for Sendai! Or Tokyo! You shouldn't say that. Mother, you pamper him. He's tired from the meeting. President of the youth group, eh? Can't farm decently. What a president! It's not my desire. Then quit! I will! After our father’s death, my brother worked hard to send me to school. I'm fully aware of that. Three years have passed since Brother's wife died. He hasn't remarried. It's hard for a widower with two children... to find a bride who'll live on a farm. It's a painful situation for Brother. I can understand how he feels. You worked for a while in Tokyo? - When was it? - After high school. For about two years. Where? A small, but nice boutique. I wanted to stay there, but Father kept telling me to return. He was worried? Our family has only girls. He wants me to marry an adopted son. I've made the bed. Thank you. The bath's ready. Nightgown. I have my own nightgown with me. I always carry it, because I never know where I might stay. Towel? Towel, too. Do you have parents? Yes, in Ibaraki. Why? When you began working, what did they say? They didn’t just say, “go ahead”. I'll have my bath. I do this quite often. Goodbye! Oh, I forgot that. Regards! Haven't installed a pipeline yet? No money. I guess you'd need 40 cows. I'm going back to Tokyo. You're not staying very long. I had a quarrel. I told my old man to sell the farm and start a drive-in. When I said I'd be the cook there, he punched me. That still here? We went after graduation to a Hokkaido ranch for training. We talked about starting a Danish-type farm together. Just a dream. I guess I'll go. How long to Tokyo? Eight hours by the new road. Faster than a train. If you come to Tokyo, look me up at my Chinese restaurant. Drive carefully. Listen, are you fond of Kayoko? Not especially. I see. Then it's all right. Goodbye. Many board meetings were held about the show. Kayoko's depressed look had me worried. I didn't care too much about the show... It will promote culture. How can we tell if it's a good show? Miss Kono explained it in detail. A village like this is the locale. A musical with young people, who are in love... Land prices rising as factories come in... To sell or not to sell... An enjoyable play. Easy to understand. Not interesting at all."
+      ],
+      "scene_length_chars": 2307,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.08664961904287338,
+        0.0027327530551701784,
+        0.00844878051429987,
+        0.002370427129790187,
+        0.047929536551237106,
+        0.02580292336642742,
+        0.037770163267850876,
+        0.37716376781463623,
+        0.013115365989506245,
+        0.08495848625898361,
+        0.010171112604439259,
+        0.004021842032670975,
+        0.002723391866311431,
+        0.004447792656719685,
+        0.057635288685560226,
+        0.33145371079444885,
+        0.025066614151000977,
+        0.11989790946245193,
+        0.07016244530677795,
+        0.03728709742426872,
+        0.08376061916351318,
+        0.01188481692224741,
+        0.15988849103450775,
+        0.00844869390130043,
+        0.007797782775014639,
+        0.2909119427204132,
+        0.005494000390172005,
+        0.05118419602513313
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "sadness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "I heard you telling Miss Kono... that it was interesting, and you'd like to see it. That was flattery. July is a busy month. Any opinions? Kikuchi, when will your garlic be shipped out? The end of July. It's the time for spraying chemicals on rice plants... Cucumbers to harvest... It's a bad time. Only firemen are idle. And mailmen. I'll be busy, too. Doing what? Washing fire engines? Kayoko, you seem depressed. Because Susumu went away? Why do you say such a thing? I have a headache. I think I'll go home. Good night. We ought to reach a conclusion. How about it, Kikuchi? It wouldn't be right to do that when Miss Kono isn't here. She's been so enthusiastic about it. That's right. Then what? What about you? Your opinion, Takashi? Give me a little more time. It's late now and so... we'll decided at the next board meeting. That's all for today. We very much want to sponsor it. You spoke at our first board meeting. Ever since then, I've been wanting to do it. Do you mean that? I'm glad. But when it comes to the way of going about it, they all get cold feet. Those men! What is it? You sound so severe. What does Takashi think about it? He seems rather listless these days. Kayoko insists on going to Tokyo. Takashi is fond of Kayoko. Is that what you mean? What about Kayoko? She has no intention of marrying a farmer. Quite a problem... Are you in love? Is it someone I know? It's hopeless, because he likes someone else. Someone else? Surely you don't mean... It can't be helped. You mustn't say that. Goodbye. We'll be waiting for you. I'll do my best. We asked Miss Kono to come... during the rainy season in June. Kayoko was absent. I couldn't help worrying about it. Miss Kono phoned from the station. She'll be here soon. Well? We've reached a conclusion. So we'll have our President inform Miss Kono. In what way? Just that the Matsuo Youth Association can't co-operate. That's too blunt. Miss Kono is coming all the way here in this rain... Consider her feelings. That's right. Say it in a nicer way. For example? “First of all, we sincerely have the desire... “to have the performance in this village.\" “For that reason, we've held many meetings at night... “to discuss the matter thoroughly.\" “There are three difficult problems: “First, the end of July is a busy period.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I heard you telling Miss Kono... that it was interesting, and you'd like to see it. That was flattery. July is a busy month. Any opinions? Kikuchi, when will your garlic be shipped out? The end of July. It's the time for spraying chemicals on rice plants... Cucumbers to harvest... It's a bad time. Only firemen are idle. And mailmen. I'll be busy, too. Doing what? Washing fire engines? Kayoko, you seem depressed. Because Susumu went away? Why do you say such a thing? I have a headache. I think I'll go home. Good night. We ought to reach a conclusion. How about it, Kikuchi? It wouldn't be right to do that when Miss Kono isn't here. She's been so enthusiastic about it. That's right. Then what? What about you? Your opinion, Takashi? Give me a little more time. It's late now and so... we'll decided at the next board meeting. That's all for today. We very much want to sponsor it. You spoke at our first board meeting. Ever since then, I've been wanting to do it. Do you mean that? I'm glad. But when it comes to the way of going about it, they all get cold feet. Those men! What is it? You sound so severe. What does Takashi think about it? He seems rather listless these days. Kayoko insists on going to Tokyo. Takashi is fond of Kayoko. Is that what you mean? What about Kayoko? She has no intention of marrying a farmer. Quite a problem... Are you in love? Is it someone I know? It's hopeless, because he likes someone else. Someone else? Surely you don't mean... It can't be helped. You mustn't say that. Goodbye. We'll be waiting for you. I'll do my best. We asked Miss Kono to come... during the rainy season in June. Kayoko was absent. I couldn't help worrying about it. Miss Kono phoned from the station. She'll be here soon. Well? We've reached a conclusion. So we'll have our President inform Miss Kono. In what way? Just that the Matsuo Youth Association can't co-operate. That's too blunt. Miss Kono is coming all the way here in this rain... Consider her feelings. That's right. Say it in a nicer way. For example? “First of all, we sincerely have the desire... “to have the performance in this village.\" “For that reason, we've held many meetings at night... “to discuss the matter thoroughly.\" “There are three difficult problems: “First, the end of July is a busy period."
+      ],
+      "scene_length_chars": 2294,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0060230824165046215,
+        0.002841538516804576,
+        0.0016436263686046004,
+        0.004260536748915911,
+        0.04226253554224968,
+        0.029645046219229698,
+        0.00688438443467021,
+        0.9021894335746765,
+        0.27877721190452576,
+        0.016084760427474976,
+        0.005621818825602531,
+        0.0008662992040626705,
+        0.0003314492350909859,
+        0.02474815398454666,
+        0.01737865060567856,
+        0.0004002666100859642,
+        0.003779783146455884,
+        0.0015702067175880075,
+        0.0008725711959414184,
+        0.013657670468091965,
+        0.037993256002664566,
+        0.0005866408464498818,
+        0.004295687191188335,
+        0.0004287018964532763,
+        0.0024030725471675396,
+        0.04245161637663841,
+        0.000723429664503783,
+        0.15192998945713043
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "desire",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "“Second, what if a deficit occurs? “Third, how can we tell if it's a good play?\" “Therefore, although we really feel sorry for Miss Kono, “our Youth Association is unable to cooperate.” That's the polite way to say it. Understand? Of course. Do it well. We all have the feeling of wanting to do it, but... I'm sorry to be late. The train was delayed. Soaking wet! We could have... And so? We've talked it over. Everyone sincerely wishes... to have the performance staged here in some way. Really? I'm very glad. If you all feel that way, only the method remains. After many nights of discussions, three problems have come up. What are they? July is a busy time. Then how to take responsibility for any deficit. And no one has seen the play. I understand. The three points are logical. We... we intend to discuss the three points from now. What is it? Nothing. Any opinions about the first point? Busy? People are busy all the time. Except in winter, when they go elsewhere to work. If you keep on saying busy, then you can't do anything. We were back at the beginning. The meeting went on, but no conclusion could be reached. Late at night, I drove Miss Kono to Kayoko's house. Miss Kono wants to stay tonight. I'm imposing on you. Have some tea. Kayoko was absent. Is she ill? Not here? She's here... She quarrelled with her father last night and... she's staying here tonight. Sorry I was absent. How did it go? Come to my room. Miss Kono, what do you think? My daughter insists on going to Tokyo to work. Do you think she'll be happy? There you go, crying again. Tears won't alter my decision. You've wanted to go to Tokyo from before? I don't want to get married and live in this village all my life. What! Takashi is carrying on his father's work in this village. Yes, but I'd like to go away too, if I could. See! That's the dream of all the young people. Miss Kono quarrelled with her parents too and left. Right? It was when I was about your age. I said about the same things you are saying. I quarrelled with my parents too, although I don't think my way of life was mistaken. I've regretted many things... Some words which I wish I had never said, and did I have to go that far? They bother me. Then what is there for me to do? Can't I be free? Be patient! I'll go to Kayoko's room.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "“Second, what if a deficit occurs? “Third, how can we tell if it's a good play?\" “Therefore, although we really feel sorry for Miss Kono, “our Youth Association is unable to cooperate.” That's the polite way to say it. Understand? Of course. Do it well. We all have the feeling of wanting to do it, but... I'm sorry to be late. The train was delayed. Soaking wet! We could have... And so? We've talked it over. Everyone sincerely wishes... to have the performance staged here in some way. Really? I'm very glad. If you all feel that way, only the method remains. After many nights of discussions, three problems have come up. What are they? July is a busy time. Then how to take responsibility for any deficit. And no one has seen the play. I understand. The three points are logical. We... we intend to discuss the three points from now. What is it? Nothing. Any opinions about the first point? Busy? People are busy all the time. Except in winter, when they go elsewhere to work. If you keep on saying busy, then you can't do anything. We were back at the beginning. The meeting went on, but no conclusion could be reached. Late at night, I drove Miss Kono to Kayoko's house. Miss Kono wants to stay tonight. I'm imposing on you. Have some tea. Kayoko was absent. Is she ill? Not here? She's here... She quarrelled with her father last night and... she's staying here tonight. Sorry I was absent. How did it go? Come to my room. Miss Kono, what do you think? My daughter insists on going to Tokyo to work. Do you think she'll be happy? There you go, crying again. Tears won't alter my decision. You've wanted to go to Tokyo from before? I don't want to get married and live in this village all my life. What! Takashi is carrying on his father's work in this village. Yes, but I'd like to go away too, if I could. See! That's the dream of all the young people. Miss Kono quarrelled with her parents too and left. Right? It was when I was about your age. I said about the same things you are saying. I quarrelled with my parents too, although I don't think my way of life was mistaken. I've regretted many things... Some words which I wish I had never said, and did I have to go that far? They bother me. Then what is there for me to do? Can't I be free? Be patient! I'll go to Kayoko's room."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0011703226482495666,
+        0.004498721100389957,
+        0.002263968577608466,
+        0.0057273018173873425,
+        0.011621230281889439,
+        0.01571826823055744,
+        0.008714196272194386,
+        0.8639134764671326,
+        0.0964910164475441,
+        0.05012163519859314,
+        0.004161008168011904,
+        0.001107296789996326,
+        0.0023514507338404655,
+        0.0013894177973270416,
+        0.0019124159589409828,
+        0.000662685080897063,
+        0.02088615484535694,
+        0.0023056091740727425,
+        0.0020414849277585745,
+        0.004165960010141134,
+        0.00947971548885107,
+        0.0004094374889973551,
+        0.014420690946280956,
+        0.0008747350075282156,
+        0.018816836178302765,
+        0.34873172640800476,
+        0.000929555855691433,
+        0.0438295416533947
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "sadness",
+        "desire"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Maybe I said too much. Three days later, Kayoko left for Tokyo. Thanks for everything. Best regards to Miss Kono. Be happy. Kayoko, I love you very much. How many times did I try to say it? That night, I drank heavily in Morioka. All I remember is that I phoned Miss Kono... heard her voice... Were you awake? Come down. When I woke up, I didn't know where I was! Sit down. Coffee will open your eyes. Recall anything? I fell down somewhere. Recall what you said? Not at all. So I said something? They're all doing the same work? Yes, why? Why do they laugh so much? So this is your office. Expected a building? Not exactly. TOITSU TROUPE - MORIOKA OFFICE Can I ask a question? Are you married? I was married once, but I'm divorced now. I shouldn't... It's all right. I felt then for the first time... that I wanted their performance in my village. The general meeting day. From early in the morning, Miss Kono and I called on every board member, persuading those who were reluctant. The board members were won over. What about the general members? On going around all day, I realized one thing: how spacious our village is. The meeting began at 8. Only natural, but the general feeling was... that a ¥ 650,000 performance was reckless. The board meetings' arguments were repeated. It continued until midnight. Quiet! Be recognized by the Chairman first. Isn't there some simpler way... to promote regional culture? There's no need to pay so much for a boring performance. What makes you think it's boring? A performance is bound to be. Have you ever seen one? No, I haven't, but... Then how can you tell? Chuji, have you seen this Toitsu show? Nope. ‘Performance’ sounds too formal... just think of it as being a show. Chairman! I'd like to ask the board something. This is a big project. Isn't it reckless that... no one has seen the show? We're trusting Miss Kono. Even if it is uninteresting, staging a show here would have significance. Drive to Morioka and see one. We could do that, but what about the old folks who can't go? Have you ever had your patients in your car? Sure. - How often? - Once. The main problem is selling the 650 tickets, isn't it? How many heard the singing? 300, maybe. 300 tickets, ¥ 300,000. Good business. As I've told you, our purpose is not to make money.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Maybe I said too much. Three days later, Kayoko left for Tokyo. Thanks for everything. Best regards to Miss Kono. Be happy. Kayoko, I love you very much. How many times did I try to say it? That night, I drank heavily in Morioka. All I remember is that I phoned Miss Kono... heard her voice... Were you awake? Come down. When I woke up, I didn't know where I was! Sit down. Coffee will open your eyes. Recall anything? I fell down somewhere. Recall what you said? Not at all. So I said something? They're all doing the same work? Yes, why? Why do they laugh so much? So this is your office. Expected a building? Not exactly. TOITSU TROUPE - MORIOKA OFFICE Can I ask a question? Are you married? I was married once, but I'm divorced now. I shouldn't... It's all right. I felt then for the first time... that I wanted their performance in my village. The general meeting day. From early in the morning, Miss Kono and I called on every board member, persuading those who were reluctant. The board members were won over. What about the general members? On going around all day, I realized one thing: how spacious our village is. The meeting began at 8. Only natural, but the general feeling was... that a ¥ 650,000 performance was reckless. The board meetings' arguments were repeated. It continued until midnight. Quiet! Be recognized by the Chairman first. Isn't there some simpler way... to promote regional culture? There's no need to pay so much for a boring performance. What makes you think it's boring? A performance is bound to be. Have you ever seen one? No, I haven't, but... Then how can you tell? Chuji, have you seen this Toitsu show? Nope. ‘Performance’ sounds too formal... just think of it as being a show. Chairman! I'd like to ask the board something. This is a big project. Isn't it reckless that... no one has seen the show? We're trusting Miss Kono. Even if it is uninteresting, staging a show here would have significance. Drive to Morioka and see one. We could do that, but what about the old folks who can't go? Have you ever had your patients in your car? Sure. - How often? - Once. The main problem is selling the 650 tickets, isn't it? How many heard the singing? 300, maybe. 300 tickets, ¥ 300,000. Good business. As I've told you, our purpose is not to make money."
+      ],
+      "scene_length_chars": 2290,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3226254880428314,
+        0.0031848130747675896,
+        0.0009641361539252102,
+        0.002208171645179391,
+        0.01407900732010603,
+        0.005056494381278753,
+        0.036591630429029465,
+        0.5938692092895508,
+        0.016967827454209328,
+        0.002504444681107998,
+        0.00284071103669703,
+        0.00045437668450176716,
+        0.0007895410526543856,
+        0.003247409826144576,
+        0.0010643480345606804,
+        0.33263301849365234,
+        0.0014037033542990685,
+        0.0034896600991487503,
+        0.15184549987316132,
+        0.0013540323125198483,
+        0.007299146149307489,
+        0.0007898136973381042,
+        0.1886506825685501,
+        0.0015167155070230365,
+        0.0015544862253591418,
+        0.004110627342015505,
+        0.0024488524068146944,
+        0.1894523650407791
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "But don't you live on that income? We do. Then it's a business. Why do we have to feed them when we're busy? Hideki! Aren't you ashamed to say such a thing? Miss Kono is doing her very best... to have you see an interesting, enjoyable show. Isn't it proper to pay money for it? ¥ 650,000? Ask her to reduce the price. It's their business. Can you? Please understand. We're not selling merchandise. It's not mere buying/selling. This will be your show. You're the ones to decide whether to do it. I'm confident that you can. I know ¥ 650,000 is a big sum for you, but this is the absolute minimum of what we'll need. It's raining. It's raining heavily. Where's Takashi? As the meeting. He'll be late. Can't be helped. I'll check the greenhouse. Go to sleep. Chairman! Do something. This meeting will never end! It's 2 a.m. We ought to reach a decision. There are many problems remaining, but... everyone's had his say. The final decision depends on our personal feelings. What about a deficit? That's a practical problem. Stop it. We don't want to rehash that. Now, then, is it all right to vote? Wait! Before voting, let's hear from our president. Well, Takashi? The same as everybody else: I'd like to do it, but I lack confidence. Miss Kono has done this work... with tens, hundreds of youth groups. If other Associations have done it, why can't we do the same thing? Have any of them suffered a deficit? Some of them have. We might have a deficit too. Why say that? Let's gamble this once. I'm thinking of the Association's finances. You've always been stingy. Be positive! Let's vote! Then we'll vote. Just one thing... If it’s successful, that'll be fine. Even if it fails, I think it's better than not trying. How shall I say it? Not trying is in itself an admission of defeat. Rather than not to try... out of fearing failure, it's better to try... and fail, like farming. I'll now call a vote. Any objections? The Toitsu... - Chairman! - What now? I must ask one thing: what will our President do if there’s a deficit? That's your question? Will you answer it? I'll sell my cow and make good. Good for you! Spoken like a man. I'll sell all my cucumbers, too. We'll pitch in. Let's all do it! We'll vote. Any objections? None. Our youth group's sponsorship of this show... Those opposed?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "But don't you live on that income? We do. Then it's a business. Why do we have to feed them when we're busy? Hideki! Aren't you ashamed to say such a thing? Miss Kono is doing her very best... to have you see an interesting, enjoyable show. Isn't it proper to pay money for it? ¥ 650,000? Ask her to reduce the price. It's their business. Can you? Please understand. We're not selling merchandise. It's not mere buying/selling. This will be your show. You're the ones to decide whether to do it. I'm confident that you can. I know ¥ 650,000 is a big sum for you, but this is the absolute minimum of what we'll need. It's raining. It's raining heavily. Where's Takashi? As the meeting. He'll be late. Can't be helped. I'll check the greenhouse. Go to sleep. Chairman! Do something. This meeting will never end! It's 2 a.m. We ought to reach a decision. There are many problems remaining, but... everyone's had his say. The final decision depends on our personal feelings. What about a deficit? That's a practical problem. Stop it. We don't want to rehash that. Now, then, is it all right to vote? Wait! Before voting, let's hear from our president. Well, Takashi? The same as everybody else: I'd like to do it, but I lack confidence. Miss Kono has done this work... with tens, hundreds of youth groups. If other Associations have done it, why can't we do the same thing? Have any of them suffered a deficit? Some of them have. We might have a deficit too. Why say that? Let's gamble this once. I'm thinking of the Association's finances. You've always been stingy. Be positive! Let's vote! Then we'll vote. Just one thing... If it’s successful, that'll be fine. Even if it fails, I think it's better than not trying. How shall I say it? Not trying is in itself an admission of defeat. Rather than not to try... out of fearing failure, it's better to try... and fail, like farming. I'll now call a vote. Any objections? The Toitsu... - Chairman! - What now? I must ask one thing: what will our President do if there’s a deficit? That's your question? Will you answer it? I'll sell my cow and make good. Good for you! Spoken like a man. I'll sell all my cucumbers, too. We'll pitch in. Let's all do it! We'll vote. Any objections? None. Our youth group's sponsorship of this show... Those opposed?"
+      ],
+      "scene_length_chars": 2294,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.016269246116280556,
+        0.0058953831903636456,
+        0.005228646565228701,
+        0.022839030250906944,
+        0.02906928025186062,
+        0.059952154755592346,
+        0.23884446918964386,
+        0.7185666561126709,
+        0.07351269572973251,
+        0.010505163110792637,
+        0.06322722882032394,
+        0.0009127361699938774,
+        0.002276607323437929,
+        0.003628326812759042,
+        0.0017415027832612395,
+        0.004955550190061331,
+        0.0013253140496090055,
+        0.002150951884686947,
+        0.001437041792087257,
+        0.004362825769931078,
+        0.5498983263969421,
+        0.00044572478509508073,
+        0.03506150469183922,
+        0.0007526873960159719,
+        0.0014111943310126662,
+        0.0017424001125618815,
+        0.002302787499502301,
+        0.03950744867324829
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "optimism",
+        "confusion"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "Those in favour? Clap your hands. Unanimous approval has been given to the plan! The next day, Superintendent Koyanagi hurried over. It's reckless beyond words! The project's too big... for the Youth Association. Reconsider. It was decided at a general meeting. Even then... can't you cancel it? The village will pay the cancellation fee. Brother heard it too. It's fine if all goes well. If it fails, you as President will be blamed. Not only you. It will also mean... Your mother and me being criticized also. You realize that? You won't be troubled. Just don't come crying to me afterward. The other members of the board... were also reproved by their parents or their superiors. The feeling was: No retreat! On August 2, there will be a performance... of the musical ‘Native Village’. It's easy to understand, and enjoyable for young and old. Advance tickets are now on sale at every one of the Play guides. It just had to be successful. Everyone was trying hard. Half a month passed quickly. 50 tickets left at eight Play guides: 400 in all. Not one of them has been sold? How many sold so far? 85 at the village office and elsewhere. That's all. No more than 85... Only 10 days before the show. I told you! I opposed this plan. That's not manly. It was decided... to sell the tickets individually. The 1,700 households were divided into blocs. The Youth Association is planning to put on a show. What kind of show? A musical. It has music and dancing; a show that everyone can enjoy. How much? ¥ 800. A musical with songs and dancing. Even an uneducated person can understand and enjoy it. Too busy. Can't go. Buy two or three tickets, just to be sociable. High-pressure sale? What do you mean by that? It's to promote culture that we're making... house-to-house calls at night. This isn't a money-making proposition. You wouldn't understand. After the daily work, we visited every house. One call often took much time. Sometimes after one or two hours: no sale. We're publicizing it every day by wired radio, so I'm sure you know all about it, but... Counting the money, making plans, took us until 1 or 2 a.m. I had to be up at 5 a.m. to milk the cows. Only two or three hours of sleep. This continued for a whole week. Three days to go! I was worried and so I came.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Those in favour? Clap your hands. Unanimous approval has been given to the plan! The next day, Superintendent Koyanagi hurried over. It's reckless beyond words! The project's too big... for the Youth Association. Reconsider. It was decided at a general meeting. Even then... can't you cancel it? The village will pay the cancellation fee. Brother heard it too. It's fine if all goes well. If it fails, you as President will be blamed. Not only you. It will also mean... Your mother and me being criticized also. You realize that? You won't be troubled. Just don't come crying to me afterward. The other members of the board... were also reproved by their parents or their superiors. The feeling was: No retreat! On August 2, there will be a performance... of the musical ‘Native Village’. It's easy to understand, and enjoyable for young and old. Advance tickets are now on sale at every one of the Play guides. It just had to be successful. Everyone was trying hard. Half a month passed quickly. 50 tickets left at eight Play guides: 400 in all. Not one of them has been sold? How many sold so far? 85 at the village office and elsewhere. That's all. No more than 85... Only 10 days before the show. I told you! I opposed this plan. That's not manly. It was decided... to sell the tickets individually. The 1,700 households were divided into blocs. The Youth Association is planning to put on a show. What kind of show? A musical. It has music and dancing; a show that everyone can enjoy. How much? ¥ 800. A musical with songs and dancing. Even an uneducated person can understand and enjoy it. Too busy. Can't go. Buy two or three tickets, just to be sociable. High-pressure sale? What do you mean by that? It's to promote culture that we're making... house-to-house calls at night. This isn't a money-making proposition. You wouldn't understand. After the daily work, we visited every house. One call often took much time. Sometimes after one or two hours: no sale. We're publicizing it every day by wired radio, so I'm sure you know all about it, but... Counting the money, making plans, took us until 1 or 2 a.m. I had to be up at 5 a.m. to milk the cows. Only two or three hours of sleep. This continued for a whole week. Three days to go! I was worried and so I came."
+      ],
+      "scene_length_chars": 2274,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008429121226072311,
+        0.0023129519540816545,
+        0.0007786464993841946,
+        0.001641936250962317,
+        0.21052663028240204,
+        0.013638545759022236,
+        0.06441383063793182,
+        0.4567875862121582,
+        0.004849092569202185,
+        0.02436937391757965,
+        0.009322190657258034,
+        0.0010174151975661516,
+        0.0011357893235981464,
+        0.004214870277792215,
+        0.0437503457069397,
+        0.0005300983902998269,
+        0.0034507212694734335,
+        0.009043635800480843,
+        0.0017446134006604552,
+        0.23172922432422638,
+        0.04983190819621086,
+        0.002960403449833393,
+        0.3059396743774414,
+        0.0088505232706666,
+        0.0026896949857473373,
+        0.006166952196508646,
+        0.0018630867125466466,
+        0.06340795010328293
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "realization",
+        "nervousness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "Tickets selling? Not so good? Miss Kono, I'm sorry, but won't you cancel the show? Don't be discouraged... still three more days. We'll all try harder. It's a lie. Look! Just look at this: 850 sold. Why, you rascal! You tried to fool me! It was funny to see her as joyful as a child. The final three days were like a madhouse. The police and... others have all been notified. Invitations? The necessary ones have been sent out. Smoking places? Ashtrays? Borrowing three buckets. Where were you? A calf was born. Which sex? Male. Good for ¥ 3,000? Forget anything? No sleep that night. The day of the show dawned. They've arrived! Matsuo villagers, the Toitsu Troupe is here. The musical ‘Native Village’ will be presented... at the high school gym, from 6:30 p.m. Be sure to come and see it with all your friends. And the actors? Not here yet? Takata, the Producer. Supervisor Koyanagi... The fire chief is strict. He's coming? Of course. A ‘No Smoking’ sign? This will do. \"Good evening, everybody. \"We thank you all for coming... \"to see our Youth Association's show. \"The farming villages of Japan have become greatly mechanized, \"but has the standard of living been raised? \"Culturally...\" Hurry and eat. It's time to make a report on the situation. Miss Kono. Members of the troupe. Today is Saturday, August 2. This is Matsuo Village. As you saw from the bus, this is a spacious village. It has a population of 7,500. To the west is the Matsuo sulphur mine. It has closed down now, but at one time it had 10,000 workers. The young man who met us in the jeep, that's Chuji. He worked at the mine too, after graduation. The performance is at 6:30 tonight. This is our final request to everyone. We'll do it! Why be afraid of ¥ 600,000 or so? When Chuji said that, striking a heroic pose, they kept silent. But after that, objections were raised. For example... Can we trust an unknown troupe? Or sell 800 tickets? How can we get people to come? Many board meetings were held. The group's President, Takashi, is a poor talker. He generally kept silent and listened to others arguing. But when it finally came to a vote, and his responsibility in case of a deficit was questioned, he freed his folded arms and said firmly... that in such a case, he would sell his cow and make good.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Tickets selling? Not so good? Miss Kono, I'm sorry, but won't you cancel the show? Don't be discouraged... still three more days. We'll all try harder. It's a lie. Look! Just look at this: 850 sold. Why, you rascal! You tried to fool me! It was funny to see her as joyful as a child. The final three days were like a madhouse. The police and... others have all been notified. Invitations? The necessary ones have been sent out. Smoking places? Ashtrays? Borrowing three buckets. Where were you? A calf was born. Which sex? Male. Good for ¥ 3,000? Forget anything? No sleep that night. The day of the show dawned. They've arrived! Matsuo villagers, the Toitsu Troupe is here. The musical ‘Native Village’ will be presented... at the high school gym, from 6:30 p.m. Be sure to come and see it with all your friends. And the actors? Not here yet? Takata, the Producer. Supervisor Koyanagi... The fire chief is strict. He's coming? Of course. A ‘No Smoking’ sign? This will do. \"Good evening, everybody. \"We thank you all for coming... \"to see our Youth Association's show. \"The farming villages of Japan have become greatly mechanized, \"but has the standard of living been raised? \"Culturally...\" Hurry and eat. It's time to make a report on the situation. Miss Kono. Members of the troupe. Today is Saturday, August 2. This is Matsuo Village. As you saw from the bus, this is a spacious village. It has a population of 7,500. To the west is the Matsuo sulphur mine. It has closed down now, but at one time it had 10,000 workers. The young man who met us in the jeep, that's Chuji. He worked at the mine too, after graduation. The performance is at 6:30 tonight. This is our final request to everyone. We'll do it! Why be afraid of ¥ 600,000 or so? When Chuji said that, striking a heroic pose, they kept silent. But after that, objections were raised. For example... Can we trust an unknown troupe? Or sell 800 tickets? How can we get people to come? Many board meetings were held. The group's President, Takashi, is a poor talker. He generally kept silent and listened to others arguing. But when it finally came to a vote, and his responsibility in case of a deficit was questioned, he freed his folded arms and said firmly... that in such a case, he would sell his cow and make good."
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.22884351015090942,
+        0.30512601137161255,
+        0.0016586841084063053,
+        0.00639736233279109,
+        0.03438400849699974,
+        0.0038244707975536585,
+        0.01649251952767372,
+        0.4237857758998871,
+        0.007361647207289934,
+        0.0030117304995656013,
+        0.004992056172341108,
+        0.0009036380797624588,
+        0.0011142926523461938,
+        0.026129722595214844,
+        0.04866895452141762,
+        0.3215939700603485,
+        0.001619640621356666,
+        0.11300143599510193,
+        0.0009865533793345094,
+        0.002236688742414117,
+        0.015971945598721504,
+        0.006903692614287138,
+        0.004870099481195211,
+        0.0023209864739328623,
+        0.0014922907575964928,
+        0.0025309377815574408,
+        0.003366119461134076,
+        0.3450835645198822
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Be sure not to blunder in front of the people. Hiroshi and I will come at 6. Drive carefully. Shigeru's eyes are bloodshot. He's only slept for two or three hours. Young men keeping cows have to get up at 5 a.m. Marvellous to be young! But that sounds as if I weren't young. Actually, although I'm joking, I may not have been able to face you... Two days ago, when I was in the office... Luckily I was there. Takashi phoned, asking me to cancel the show. He would not give a reason, saying it was too shameful. Only two days left before the show, so I took a taxi and hurried here. What's happened? Chuji, what is it? You tell her, Takashi. It would be terrible to halt the show now. What is the reason? There must be a reason. I want to know. Won't you tell me? They finally told me. The Principal had been away. The Vice-Principal had forgotten to tell him. The Principal refused permission, saying the gymnasium could not be used if admission fees are taken. I asked again and again for permission. He refused, insisting that there was no such precedent. Throw a rock at him! Isn't it wrong? It's our school. Let's do it in the open air! I decided to go with them, and beg the Principal to reconsider his decision. I didn't have any special plan in mind... The Principal sympathizes with your position. You could have prevented this... by consulting us... prior to the decision. I made a full report to you the next day. But after the decision. I knew nothing until then. I beg of you... please give us permission. I'm sorry. The gymnasium is an educational facility. It can't be used for money-making. This is different. You’re charging admission, aren't you? It’s too bad, but you'd better forget about it. May I ask a question? You say 'money-making' because admission is charged? Supposing it's free... The gymnasium is usable if there’s no charge? That stands to reason. Then we'll perform free! But that means that you'll get nothing... for performing in this village. It can't be helped. That sounds absurd, giving a performance without charge. We're not doing this just to make money. Performing for people who will enjoy our show... gives our lives meaning. A free performance will be a big blow financially, but this show must be given... for the sake of those expecting it, and for the young people who have worked so hard.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Be sure not to blunder in front of the people. Hiroshi and I will come at 6. Drive carefully. Shigeru's eyes are bloodshot. He's only slept for two or three hours. Young men keeping cows have to get up at 5 a.m. Marvellous to be young! But that sounds as if I weren't young. Actually, although I'm joking, I may not have been able to face you... Two days ago, when I was in the office... Luckily I was there. Takashi phoned, asking me to cancel the show. He would not give a reason, saying it was too shameful. Only two days left before the show, so I took a taxi and hurried here. What's happened? Chuji, what is it? You tell her, Takashi. It would be terrible to halt the show now. What is the reason? There must be a reason. I want to know. Won't you tell me? They finally told me. The Principal had been away. The Vice-Principal had forgotten to tell him. The Principal refused permission, saying the gymnasium could not be used if admission fees are taken. I asked again and again for permission. He refused, insisting that there was no such precedent. Throw a rock at him! Isn't it wrong? It's our school. Let's do it in the open air! I decided to go with them, and beg the Principal to reconsider his decision. I didn't have any special plan in mind... The Principal sympathizes with your position. You could have prevented this... by consulting us... prior to the decision. I made a full report to you the next day. But after the decision. I knew nothing until then. I beg of you... please give us permission. I'm sorry. The gymnasium is an educational facility. It can't be used for money-making. This is different. You’re charging admission, aren't you? It’s too bad, but you'd better forget about it. May I ask a question? You say 'money-making' because admission is charged? Supposing it's free... The gymnasium is usable if there’s no charge? That stands to reason. Then we'll perform free! But that means that you'll get nothing... for performing in this village. It can't be helped. That sounds absurd, giving a performance without charge. We're not doing this just to make money. Performing for people who will enjoy our show... gives our lives meaning. A free performance will be a big blow financially, but this show must be given... for the sake of those expecting it, and for the young people who have worked so hard."
+      ],
+      "scene_length_chars": 2337,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0017720129108056426,
+        0.0058915563859045506,
+        0.008482721634209156,
+        0.008765351958572865,
+        0.004983691498637199,
+        0.02972269058227539,
+        0.030294150114059448,
+        0.356658011674881,
+        0.17481853067874908,
+        0.01557987928390503,
+        0.02775588072836399,
+        0.007728555705398321,
+        0.05710785463452339,
+        0.002520574489608407,
+        0.20263706147670746,
+        0.008487478829920292,
+        0.012913588434457779,
+        0.004186956211924553,
+        0.002385546453297138,
+        0.04472043737769127,
+        0.028342584148049355,
+        0.0010281235445290804,
+        0.024461911991238594,
+        0.0035877984482795,
+        0.2940041124820709,
+        0.018244290724396706,
+        0.005966495722532272,
+        0.06905809044837952
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "remorse",
+        "fear"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "We can't let you do that. You'll be in an awkward position. It's all right. If I explain everything frankly, they'll understand. Don't worry. I was excited when I said that. After going outside... I began to wonder how I was going to report this to you. I was feeling more and more gloomy. Had I made a mistake? Should I have acted differently? Everything began to look pitch-dark. Just then... The Principal says... he'll give you... special permission! What?! Special permission! Kaneko Kudo. She can out-drink everyone in the group. Still single. Etsuko Onodera, the belle of this village. Now the members of the troupe. Takata first... I'm the Producer, Takata. Miss Kono has told us of your efforts. We intend to give a show that will meet your expectations. I've a question... When will the actors come? I'm an actor, too. Most of us are actors. I'm sorry that we're not better-looking! They'll look better with make-up. Or worse! TEMPORARY NURSERY Two hours early. I'll wait inside. - You're from? - Yuzawa. Guide her! This way, please. My vehicle... You came in a car? There's a parking lot. Where is it? Practising your speech? I'm getting worried... Will those who bought tickets come? I'm sure they will. I feel more and more jittery. They tell me to take it easy... Shouldn't we go around with the loudspeaker? Three times already, since this morning. The last time, the owner of a gasoline station... shouted at me: “Shut up!” And the wired radio? Isn't it about time to send out the bus? It’s a bit early, but shall we start out? All right, let's go. Be careful. This is the Youth Association. The bus is on its way to transport you to the show. Check with the schedule of stops. Hurry, Grandma. The bus is here. 45 minutes more. Get ready. Takashi! What are you doing here? I'm worried and I’ve nowhere else to go. Anyone arrived yet? Take a look. We've done it! Make a good speech. Let's do a good job. In that youth group scene... A packed house. A bell will signal the start. When the opening announcement ends... I'll give you the cue... for your speech. Tonight, the Matsuo Youth Association... is sponsoring... a performance by the Toitsu Theatrical Troupe. The president of the Youth Association, Takashi Saito, will first deliver greetings. Good evening... everybody...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We can't let you do that. You'll be in an awkward position. It's all right. If I explain everything frankly, they'll understand. Don't worry. I was excited when I said that. After going outside... I began to wonder how I was going to report this to you. I was feeling more and more gloomy. Had I made a mistake? Should I have acted differently? Everything began to look pitch-dark. Just then... The Principal says... he'll give you... special permission! What?! Special permission! Kaneko Kudo. She can out-drink everyone in the group. Still single. Etsuko Onodera, the belle of this village. Now the members of the troupe. Takata first... I'm the Producer, Takata. Miss Kono has told us of your efforts. We intend to give a show that will meet your expectations. I've a question... When will the actors come? I'm an actor, too. Most of us are actors. I'm sorry that we're not better-looking! They'll look better with make-up. Or worse! TEMPORARY NURSERY Two hours early. I'll wait inside. - You're from? - Yuzawa. Guide her! This way, please. My vehicle... You came in a car? There's a parking lot. Where is it? Practising your speech? I'm getting worried... Will those who bought tickets come? I'm sure they will. I feel more and more jittery. They tell me to take it easy... Shouldn't we go around with the loudspeaker? Three times already, since this morning. The last time, the owner of a gasoline station... shouted at me: “Shut up!” And the wired radio? Isn't it about time to send out the bus? It’s a bit early, but shall we start out? All right, let's go. Be careful. This is the Youth Association. The bus is on its way to transport you to the show. Check with the schedule of stops. Hurry, Grandma. The bus is here. 45 minutes more. Get ready. Takashi! What are you doing here? I'm worried and I’ve nowhere else to go. Anyone arrived yet? Take a look. We've done it! Make a good speech. Let's do a good job. In that youth group scene... A packed house. A bell will signal the start. When the opening announcement ends... I'll give you the cue... for your speech. Tonight, the Matsuo Youth Association... is sponsoring... a performance by the Toitsu Theatrical Troupe. The president of the Youth Association, Takashi Saito, will first deliver greetings. Good evening... everybody..."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0609072782099247,
+        0.0025519728660583496,
+        0.00370774045586586,
+        0.0025257524102926254,
+        0.041378382593393326,
+        0.04506513848900795,
+        0.009126695804297924,
+        0.5072600245475769,
+        0.04377390071749687,
+        0.009842495433986187,
+        0.0016954283928498626,
+        0.0013537867926061153,
+        0.027796940878033638,
+        0.11316046118736267,
+        0.31536176800727844,
+        0.009896363131701946,
+        0.010103191249072552,
+        0.003308285726234317,
+        0.0013567578280344605,
+        0.26025646924972534,
+        0.3133276104927063,
+        0.0043299454264342785,
+        0.05353398621082306,
+        0.0039504817686975,
+        0.15367789566516876,
+        0.01319790631532669,
+        0.0037966750096529722,
+        0.08949524164199829
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "fear",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "We thank you all... for coming here tonight... To see... our Youth Association's show. Our village is very spacious. Nowadays, people can easily go to Morioka for shopping, they can go to Tokyo or Osaka to work, or travel in Hokkaido, but they know little about the village where they were born. While living in the same village... many people have never gone outside their own district. This is the first time for the people... of the entire village to gather together like this. I feel deeply moved. We thank all those who made this show possible. Many cooperated, including village officials, the Education Commission and... the Principal of Matsuo Junior High School. The members of the fire department, too. We thank them all. The Toitsu Troupe's Matsuo Show will now begin. ‘Native Village’ in three acts. Written by Katsuhiko Ishizuka. Music by Kyoko Okada. ♪ Native Village, native village, ♪ ♪ Our dear native village. ♪ ♪ Swallows in the Zelkova treetops, ♪ ♪ Sunny spots and pools of water in the yard. ♪ ♪ Why aren't the birds of passage returning? ♪ What does it mean to you? Mountains... with flowers everywhere. Rivers... with pussy willows growing. Wind... blowing through yellow barley fields. ♪ Power lines and fields of barley. ♪ The morning wind blowing from the southeast. Rice-planting hasn't ended yet! Imotaro! Festival? Old folks? Nostalgia! That's right. Remember, this may be the last festival. Many have gone to work on that project. Young people don't go to shrines nowadays. Speak that way to the teacher? We turn our backs toward him. Such impertinence! It's terrible. Poor teacher! When I was young, we had discipline in the home. But now! How is it now? Topsy-turvy! ♪ That's how everything is. ♪ ♪ The father rides on a bicycle, ♪ ♪ His sons drive cars. ♪ ♪ It's the generation gap, Father. ♪ ♪ Born to be unlucky. ♪ ♪ That's you, Father. ♪ ♪ How is it now? Topsy-turvy! ♪ ♪ That's how everything is. ♪ ♪ The father has to do his best to please his children. ♪ ♪ This won't do. ♪ ♪ The father is the head of the household! ♪ ♪ So it was a long time ago, Father. ♪ ♪ To be respected is a burden if strength is lacking, Father. ♪ They're all happy. Which scene now? The girl Mugiko and that fellow just back from Tokyo... Yoshitaka. They're going somewhere.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We thank you all... for coming here tonight... To see... our Youth Association's show. Our village is very spacious. Nowadays, people can easily go to Morioka for shopping, they can go to Tokyo or Osaka to work, or travel in Hokkaido, but they know little about the village where they were born. While living in the same village... many people have never gone outside their own district. This is the first time for the people... of the entire village to gather together like this. I feel deeply moved. We thank all those who made this show possible. Many cooperated, including village officials, the Education Commission and... the Principal of Matsuo Junior High School. The members of the fire department, too. We thank them all. The Toitsu Troupe's Matsuo Show will now begin. ‘Native Village’ in three acts. Written by Katsuhiko Ishizuka. Music by Kyoko Okada. ♪ Native Village, native village, ♪ ♪ Our dear native village. ♪ ♪ Swallows in the Zelkova treetops, ♪ ♪ Sunny spots and pools of water in the yard. ♪ ♪ Why aren't the birds of passage returning? ♪ What does it mean to you? Mountains... with flowers everywhere. Rivers... with pussy willows growing. Wind... blowing through yellow barley fields. ♪ Power lines and fields of barley. ♪ The morning wind blowing from the southeast. Rice-planting hasn't ended yet! Imotaro! Festival? Old folks? Nostalgia! That's right. Remember, this may be the last festival. Many have gone to work on that project. Young people don't go to shrines nowadays. Speak that way to the teacher? We turn our backs toward him. Such impertinence! It's terrible. Poor teacher! When I was young, we had discipline in the home. But now! How is it now? Topsy-turvy! ♪ That's how everything is. ♪ ♪ The father rides on a bicycle, ♪ ♪ His sons drive cars. ♪ ♪ It's the generation gap, Father. ♪ ♪ Born to be unlucky. ♪ ♪ That's you, Father. ♪ ♪ How is it now? Topsy-turvy! ♪ ♪ That's how everything is. ♪ ♪ The father has to do his best to please his children. ♪ ♪ This won't do. ♪ ♪ The father is the head of the household! ♪ ♪ So it was a long time ago, Father. ♪ ♪ To be respected is a burden if strength is lacking, Father. ♪ They're all happy. Which scene now? The girl Mugiko and that fellow just back from Tokyo... Yoshitaka. They're going somewhere."
+      ],
+      "scene_length_chars": 2289,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.00276417494751513,
+        0.004034426528960466,
+        0.005872210953384638,
+        0.00486622704192996,
+        0.06916221231222153,
+        0.025468507781624794,
+        0.06888951361179352,
+        0.6658472418785095,
+        0.03906203433871269,
+        0.010462962090969086,
+        0.01730555295944214,
+        0.03323211148381233,
+        0.004652532748878002,
+        0.024600083008408546,
+        0.010097996331751347,
+        0.33313241600990295,
+        0.017657512798905373,
+        0.17117412388324738,
+        0.04900163784623146,
+        0.0059025827795267105,
+        0.019449107348918915,
+        0.003252621041610837,
+        0.2633531391620636,
+        0.0054330830462276936,
+        0.002702466445043683,
+        0.03958848863840103,
+        0.004442162811756134,
+        0.018605591729283333
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "realization"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "Sweethearts? Yoshitaka really loves Mugiko's sister. It's unrequited love for Mugiko, but Hideki loves her. The pig keeper? He's a good actor. I want to see it! Mugiko! Why have you fallen for Yoshitaka? A clever talker. Wears Tokyo clothes... But a man's worth lies elsewhere. It's his heart! His affection! It can't be helped... I don't have money... My house is like a pigpen... The truck I drive is small and smelly... I toil in the mud... How can I expect to be loved by a girl? It's asking too much. There must be one or two out there just like me. Right here! Since Mother's death, I only talk to pigs, hardly ever to people. Pigs don't cheat me. Raising pigs isn't easy... Feed prices are up. What's going to happen to farmers? When the sun is setting, the mountain is silent, presenting different views. You intend to keep on farming? ♪ They are being denuded, ♪ ♪ Torn up without mercy. ♪ ♪ The Paddies and vegetable fields that were once so green... ♪ ♪ It pierces my body through and through. ♪ ♪ The engine of the bulldozer - the sound it makes. ♪ ♪ Oh, mountain soaring, ♪ ♪ Soaring so high... ♪ ♪ In the dazzling light of the sun. ♪ ♪ You must be weeping, ♪ ♪ To see the changes taking place. ♪ ♪ The mountain is grand, ♪ ♪ The mountain is gentle, ♪ ♪ The mountain remains the same; ♪ ♪ It is always constant. ♪ ♪ The mountain is our native home to which we always turn. ♪ Sunset mountain and Ineko have changed. There's nothing to keep me here. I'll go back to Tokyo. Ineko, be happy! When you marry... Who told you that I was getting married? To a prefectural assemblyman, I was told. What are you saying? That's utter nonsense. It's not true? Of course not. Don't be foolish. I'm so glad to hear that. Splendid mountain! Summer or winter, it's always grand! ♪ In the concrete jungle of the big city, ♪ ♪ Where people appear so small, ♪ ♪ What I wanted was the wind, ♪ ♪ That I could breathe to my heart's content. ♪ ♪ The wind blowing from beyond the leaden skies, ♪ ♪ The wind blowing from the sunset mountain that I love, ♪ ♪ The wind blowing from the sunset mountain... ♪ ♪ For that is where you live. ♪ ♪ Back in the village where the people seem lonely, ♪ ♪ What I want is the wind, ♪ ♪ That I can breathe to my heart's content. ♪ Farming is all that Father and I are good for.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sweethearts? Yoshitaka really loves Mugiko's sister. It's unrequited love for Mugiko, but Hideki loves her. The pig keeper? He's a good actor. I want to see it! Mugiko! Why have you fallen for Yoshitaka? A clever talker. Wears Tokyo clothes... But a man's worth lies elsewhere. It's his heart! His affection! It can't be helped... I don't have money... My house is like a pigpen... The truck I drive is small and smelly... I toil in the mud... How can I expect to be loved by a girl? It's asking too much. There must be one or two out there just like me. Right here! Since Mother's death, I only talk to pigs, hardly ever to people. Pigs don't cheat me. Raising pigs isn't easy... Feed prices are up. What's going to happen to farmers? When the sun is setting, the mountain is silent, presenting different views. You intend to keep on farming? ♪ They are being denuded, ♪ ♪ Torn up without mercy. ♪ ♪ The Paddies and vegetable fields that were once so green... ♪ ♪ It pierces my body through and through. ♪ ♪ The engine of the bulldozer - the sound it makes. ♪ ♪ Oh, mountain soaring, ♪ ♪ Soaring so high... ♪ ♪ In the dazzling light of the sun. ♪ ♪ You must be weeping, ♪ ♪ To see the changes taking place. ♪ ♪ The mountain is grand, ♪ ♪ The mountain is gentle, ♪ ♪ The mountain remains the same; ♪ ♪ It is always constant. ♪ ♪ The mountain is our native home to which we always turn. ♪ Sunset mountain and Ineko have changed. There's nothing to keep me here. I'll go back to Tokyo. Ineko, be happy! When you marry... Who told you that I was getting married? To a prefectural assemblyman, I was told. What are you saying? That's utter nonsense. It's not true? Of course not. Don't be foolish. I'm so glad to hear that. Splendid mountain! Summer or winter, it's always grand! ♪ In the concrete jungle of the big city, ♪ ♪ Where people appear so small, ♪ ♪ What I wanted was the wind, ♪ ♪ That I could breathe to my heart's content. ♪ ♪ The wind blowing from beyond the leaden skies, ♪ ♪ The wind blowing from the sunset mountain that I love, ♪ ♪ The wind blowing from the sunset mountain... ♪ ♪ For that is where you live. ♪ ♪ Back in the village where the people seem lonely, ♪ ♪ What I want is the wind, ♪ ♪ That I can breathe to my heart's content. ♪ Farming is all that Father and I are good for."
+      ],
+      "scene_length_chars": 2300,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.2872620224952698,
+        0.005634731147438288,
+        0.032226547598838806,
+        0.010304470546543598,
+        0.3125036358833313,
+        0.19096817076206207,
+        0.0755234807729721,
+        0.5343283414840698,
+        0.10018032789230347,
+        0.042748723179101944,
+        0.12331962585449219,
+        0.005045095458626747,
+        0.0042310976423323154,
+        0.06649995595216751,
+        0.005064066033810377,
+        0.0030986058991402388,
+        0.0405363030731678,
+        0.17218466103076935,
+        0.9126952290534973,
+        0.01525037083774805,
+        0.42055678367614746,
+        0.03740305453538895,
+        0.4885585308074951,
+        0.049600306898355484,
+        0.01205363031476736,
+        0.10517740249633789,
+        0.0207221657037735,
+        0.01763785071671009
+      ],
+      "goemotions_topk": [
+        "love",
+        "curiosity",
+        "realization"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": [
+        "curiosity",
+        "love",
+        "optimism",
+        "realization"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": null,
+      "raw_text": "If we sell the land - but you've already sold it. A farmer without land! Why do they try to make us stop farming? Father, why did you sell? Farming - what does it get you? Work until your back is bent, then a poor harvest. During times of good harvest, prices decline. That's right: good harvest and be poor. And yet... The soil absorbs fertilizer and the sun, rain and wind. The soil is alive. Cultivator engine. Its vibration enters... and pulsates with the heart. ♪ The waves that form behind the cultivator. ♪ ♪ New furrows made as far as the eye can see. ♪ ♪ In spring, all the seeds awaken and turn into buds. ♪ ♪ Together with the May wind... ♪ ♪ Together with the June rain... ♪ ♪ Together with the scorching summer sun... ♪ ♪ Together with the farmers' sweat... ♪ ♪ All that is transformed into heavy ears of rice. ♪ ♪ Blessed ears of rice that extend on and on. ♪ We've let our fields and cows go... what are we to do now? ♪ At the breakfast table, ♪ ♪ Spinach with soy sauce. ♪ Such tough spinach! It's fit only for cattle. ♪ At the luncheon table, ♪ ♪ Only eggplants and string beans. ♪ Eggplants lack phosphate. Pick string beans earlier. ♪ No meat in the rice curry. ♪ ♪ Nothing but potatoes. ♪ The potatoes from the field out back of the shrine taste very good. ♪ After an evening shower, ♪ ♪ we rush out of the house to look. ♪ Look at what? You don't have any land left. You don't fool me. I'll take care of Imotaro and Nanako. A love match. We don't need help. They think nothing of living together. ♪ Both in summer... ♪ ♪ And in winter... ♪ ♪ Oh, mountain in the sunset... ♪ ♪ There it is, almost in our backyard. ♪ Yoshitaka, play the flute. What are we to do now? We won't be hearing this music much longer. The villagers are scattering. Thank you very much! Your warm laughter and applause have encouraged us. We have done our very best; great efforts have been made... by Matsuo Youth Association members to achieve this success. We are deeply grateful. We intend to study harder and prepare an enjoyable play, so that we can come again to this fine village. Keep in good health! Thank you once again! Chuji, can't you see her yet? What happened? I left the money behind at the hall. Such carelessness! Sad moment... I always hate this. A Matsuo souvenir.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "If we sell the land - but you've already sold it. A farmer without land! Why do they try to make us stop farming? Father, why did you sell? Farming - what does it get you? Work until your back is bent, then a poor harvest. During times of good harvest, prices decline. That's right: good harvest and be poor. And yet... The soil absorbs fertilizer and the sun, rain and wind. The soil is alive. Cultivator engine. Its vibration enters... and pulsates with the heart. ♪ The waves that form behind the cultivator. ♪ ♪ New furrows made as far as the eye can see. ♪ ♪ In spring, all the seeds awaken and turn into buds. ♪ ♪ Together with the May wind... ♪ ♪ Together with the June rain... ♪ ♪ Together with the scorching summer sun... ♪ ♪ Together with the farmers' sweat... ♪ ♪ All that is transformed into heavy ears of rice. ♪ ♪ Blessed ears of rice that extend on and on. ♪ We've let our fields and cows go... what are we to do now? ♪ At the breakfast table, ♪ ♪ Spinach with soy sauce. ♪ Such tough spinach! It's fit only for cattle. ♪ At the luncheon table, ♪ ♪ Only eggplants and string beans. ♪ Eggplants lack phosphate. Pick string beans earlier. ♪ No meat in the rice curry. ♪ ♪ Nothing but potatoes. ♪ The potatoes from the field out back of the shrine taste very good. ♪ After an evening shower, ♪ ♪ we rush out of the house to look. ♪ Look at what? You don't have any land left. You don't fool me. I'll take care of Imotaro and Nanako. A love match. We don't need help. They think nothing of living together. ♪ Both in summer... ♪ ♪ And in winter... ♪ ♪ Oh, mountain in the sunset... ♪ ♪ There it is, almost in our backyard. ♪ Yoshitaka, play the flute. What are we to do now? We won't be hearing this music much longer. The villagers are scattering. Thank you very much! Your warm laughter and applause have encouraged us. We have done our very best; great efforts have been made... by Matsuo Youth Association members to achieve this success. We are deeply grateful. We intend to study harder and prepare an enjoyable play, so that we can come again to this fine village. Keep in good health! Thank you once again! Chuji, can't you see her yet? What happened? I left the money behind at the hall. Such carelessness! Sad moment... I always hate this. A Matsuo souvenir."
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.36438286304473877,
+        0.2706908881664276,
+        0.18417634069919586,
+        0.04950632527470589,
+        0.5073161125183105,
+        0.05627785250544548,
+        0.2229449599981308,
+        0.49936747550964355,
+        0.034263547509908676,
+        0.016910945996642113,
+        0.09319078177213669,
+        0.017993664368987083,
+        0.006552554201334715,
+        0.020736370235681534,
+        0.0033496718388050795,
+        0.34888043999671936,
+        0.028734497725963593,
+        0.04981914535164833,
+        0.18136639893054962,
+        0.0038824535440653563,
+        0.2797156274318695,
+        0.01944894716143608,
+        0.4357081651687622,
+        0.013153612613677979,
+        0.051229510456323624,
+        0.20677103102207184,
+        0.022975245490670204,
+        0.00420919805765152
+      ],
+      "goemotions_topk": [
+        "approval",
+        "curiosity",
+        "realization"
+      ],
+      "goemotions_label": "approval",
+      "goemotions_labels": [
+        "admiration",
+        "approval",
+        "curiosity",
+        "realization"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": null,
+      "raw_text": "We were in the black, so we discussed what to give you as a present. Your bag - it looks somewhat worn out, and so... If you like this, please use it. Looks countrified. Not at all... The person using it is so nice. When I first came to this station, it was mid-March. I was amazed to see so much snow... and so few people. I walked in the snow, and met Takashi; he seemed so remote. I doubted whether a show could be given here. I've been engaged in this work a long time... One never knows until it is actually tried out. Your strength, your potentialities are really marvellous. I've learned another lesson. Thank you! Say something, Takashi. Well, I didn't have to sell my cow! When I first met you, it sounded like an impossible dream. “We can never do it.” That's what I thought. Even now, I can't understand how we were ever able to do it. But I feel, in all sincerity, that it was good that we did. Many things happened. So many things... You'd better get on. Thanks, everyone! Come again. Let's go hiking. The tape! Keep healthy! Do your best! A letter from Matsuo. Send it to Hokkaido. “Miss Kono: How are you? “Two months have passed already. \"It's Autumn in Matsuo. “Thank you for your letter. “We're all happy to know that you're thinking of us. “It's harvest time now, “the busiest period of the year. “My brother, mother and I are working hard every day. “During the past few days, Aiko has been coming to help. “We often talk about how we prepared for the show. “We were so frantic. It seems strange now. “We hope that we can be that enthusiastic again. “Maybe that's what happiness in life consists of. “Aiko keeps on telling me that.\" I'll see you again next month. THE END Subtitles revised by lordretsudo",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We were in the black, so we discussed what to give you as a present. Your bag - it looks somewhat worn out, and so... If you like this, please use it. Looks countrified. Not at all... The person using it is so nice. When I first came to this station, it was mid-March. I was amazed to see so much snow... and so few people. I walked in the snow, and met Takashi; he seemed so remote. I doubted whether a show could be given here. I've been engaged in this work a long time... One never knows until it is actually tried out. Your strength, your potentialities are really marvellous. I've learned another lesson. Thank you! Say something, Takashi. Well, I didn't have to sell my cow! When I first met you, it sounded like an impossible dream. “We can never do it.” That's what I thought. Even now, I can't understand how we were ever able to do it. But I feel, in all sincerity, that it was good that we did. Many things happened. So many things... You'd better get on. Thanks, everyone! Come again. Let's go hiking. The tape! Keep healthy! Do your best! A letter from Matsuo. Send it to Hokkaido. “Miss Kono: How are you? “Two months have passed already. \"It's Autumn in Matsuo. “Thank you for your letter. “We're all happy to know that you're thinking of us. “It's harvest time now, “the busiest period of the year. “My brother, mother and I are working hard every day. “During the past few days, Aiko has been coming to help. “We often talk about how we prepared for the show. “We were so frantic. It seems strange now. “We hope that we can be that enthusiastic again. “Maybe that's what happiness in life consists of. “Aiko keeps on telling me that.\" I'll see you again next month. THE END Subtitles revised by lordretsudo"
+      ],
+      "scene_length_chars": 1724,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.41783076524734497,
+        0.009557628072798252,
+        0.007166991010308266,
+        0.011416641995310783,
+        0.011498730629682541,
+        0.007882683537900448,
+        0.02920772135257721,
+        0.03946400806307793,
+        0.1603250801563263,
+        0.008073887787759304,
+        0.005317701492458582,
+        0.003126689698547125,
+        0.0055221375077962875,
+        0.4484209716320038,
+        0.00680563086643815,
+        0.9986599683761597,
+        0.006272424478083849,
+        0.31477808952331543,
+        0.016015592962503433,
+        0.010325947776436806,
+        0.47962686419487,
+        0.05172937735915184,
+        0.116469606757164,
+        0.1091427206993103,
+        0.004972061607986689,
+        0.004192181397229433,
+        0.27144548296928406,
+        0.0035050322767347097
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "optimism",
+        "excitement"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "admiration",
+        "excitement",
+        "gratitude",
+        "optimism"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 16,
+    "lines_per_scene_fallback": 20
+  }
+}

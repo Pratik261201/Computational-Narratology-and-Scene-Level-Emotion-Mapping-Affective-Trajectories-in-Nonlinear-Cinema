@@ -1,0 +1,369 @@
+{
+  "source_file": "Enemy _2013_ - full transcript.txt",
+  "title": "Enemy",
+  "year": "2013",
+  "meta_description": null,
+  "num_scenes": 7,
+  "avg_scene_chars": 2069,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Hello, darling. It's your mother. Thank you for showing me your new apartment. Um... I'm worried about you. I mean, how can you live like that? Anyway, would you call me back? Let's get together again. I love you. Control. It's all about control. Every dictatorship has one obsession. And that's it. So, in ancient Rome, they gave the people bread and circuses. They kept the populace busy with entertainment. But other dictatorships use other strategies to control ideas. The knowledge. How do they do that? Lower education. They limit culture. Censor information. They censor any means of individual expression. And it's important to remember this, that this is a pattern that repeats itself throughout history. Okay. See you next week. - Hi. - Hi. How are you? I'm good. See, every dictatorship, there's only one obsession and that's control, they want to have control over the people. In ancient Rome, they gave bread and circuses, they kept the populace busy with entertainment. In other dictatorships, they have other strategies. To limit information, to limit ideas and knowledge. How do they do that? They lower education, limit culture. They censor any means of self-expression. But it's important to remember this, this is a pattern that repeats itself throughout history. You don't go to the movies, do you? Movies? Yeah, are you a movie guy? In your free time, I mean? I don't know, I don't go out that much, I don't really like movies. Oh. You don't have to go out to enjoy a good flick at home. That's true. I usually just rent them. Most people don't these days, but it's what I do. Is there a reason why you're asking me this? No. 'Cause you brought it up and I thought, you know, maybe you had a recommendation, or you saw a movie that you liked and you want to tell me about it. Oh, sure, I mean, there's always something. - I could go for something cheerful. - Hmm. Where There's a Will There's a Way. It's true. No, it's a movie, I saw it a little while ago, but, um... I remember, I liked it. Hmm. Where There's a Will There's a Way. Yeah, that's it. Local film, if you... I'll keep it in mind. I think I'm drunk. You wanna go to bed? Hmm? You wanna go to bed? No, I'm gonna finish grading these papers and then I'll come join you, okay? Mr. Henderson, my husband will be back.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hello, darling. It's your mother. Thank you for showing me your new apartment. Um... I'm worried about you. I mean, how can you live like that? Anyway, would you call me back? Let's get together again. I love you. Control. It's all about control. Every dictatorship has one obsession. And that's it. So, in ancient Rome, they gave the people bread and circuses. They kept the populace busy with entertainment. But other dictatorships use other strategies to control ideas. The knowledge. How do they do that? Lower education. They limit culture. Censor information. They censor any means of individual expression. And it's important to remember this, that this is a pattern that repeats itself throughout history. Okay. See you next week. - Hi. - Hi. How are you? I'm good. See, every dictatorship, there's only one obsession and that's control, they want to have control over the people. In ancient Rome, they gave bread and circuses, they kept the populace busy with entertainment. In other dictatorships, they have other strategies. To limit information, to limit ideas and knowledge. How do they do that? They lower education, limit culture. They censor any means of self-expression. But it's important to remember this, this is a pattern that repeats itself throughout history. You don't go to the movies, do you? Movies? Yeah, are you a movie guy? In your free time, I mean? I don't know, I don't go out that much, I don't really like movies. Oh. You don't have to go out to enjoy a good flick at home. That's true. I usually just rent them. Most people don't these days, but it's what I do. Is there a reason why you're asking me this? No. 'Cause you brought it up and I thought, you know, maybe you had a recommendation, or you saw a movie that you liked and you want to tell me about it. Oh, sure, I mean, there's always something. - I could go for something cheerful. - Hmm. Where There's a Will There's a Way. It's true. No, it's a movie, I saw it a little while ago, but, um... I remember, I liked it. Hmm. Where There's a Will There's a Way. Yeah, that's it. Local film, if you... I'll keep it in mind. I think I'm drunk. You wanna go to bed? Hmm? You wanna go to bed? No, I'm gonna finish grading these papers and then I'll come join you, okay? Mr. Henderson, my husband will be back."
+      ],
+      "scene_length_chars": 2298,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.01686459593474865,
+        0.0009648674167692661,
+        0.0008610398508608341,
+        0.0009403670555911958,
+        0.2912262976169586,
+        0.004500215407460928,
+        0.031602341681718826,
+        0.3070749044418335,
+        0.004103366751223803,
+        0.0011906464351341128,
+        0.005711557809263468,
+        0.0006079043378122151,
+        0.0004123432736378163,
+        0.002594362711533904,
+        0.0018106995848938823,
+        0.31638315320014954,
+        0.00048827240243554115,
+        0.0016130352159962058,
+        0.2878168523311615,
+        0.002089570974931121,
+        0.010186158120632172,
+        0.0007571273017674685,
+        0.010108213871717453,
+        0.0007471083081327379,
+        0.0014622247545048594,
+        0.0013943625381216407,
+        0.0005781485233455896,
+        0.3426358997821808
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Your husband just won a heck lot of money from me. By the look in his eye he didn't have an intention to... Ow! Stop! Stop! Okay, okay, okay. What's wrong? I'll call you tomorrow. Sorry I'm late. Uh... All right. Last class we talked about dictatorship, so today we'll start with Hegel. It was Hegel who said that all the greatest world events happen twice. And then, Karl Marx added, the first time it was a tragedy, and the second time it was a farce. It's strange to think... A lot of the world's thinkers are worried that this century will be a repetition of the last one. And there's an interesting observation, a creative act of memory to remember something, to remember somebody... I'm looking for Call me L8R or Passenger Without a Ticket. Shit. Anthony? Anthony! Hey, long time no see! I couldn't tell it was you with that beard. Is that for a movie? Yeah. Man, you haven't been around here for ages. Yeah, I don't know how long it's been. Six months, I'd say. Six months or more. Yeah, so how's everything? Great. Are you meeting someone here? 'Cause there's no one around. - No? - No, you know no one comes in on Saturdays. Oh... I was supposed to pick up the thing... For the movie. Um... And I forgot it was Saturday... 'Cause my head is, like... You actors are something else. Hold on, let me see if there's anything for you. Great. Yeah, here it is, look. Oh, that looks like it's it. That's definitely it. That's definitely it. - There you go. All right? - Okay. - Hey, don't be a stranger. - I won't be. Good luck with that movie. Great, I will... Yes. Anthony Claire. 3650 Rathburn Road. Hello? - Good afternoon, I'm calling... - Hey. Um, I'm calling to speak to... Where are you calling from? I'm sorry, I think there's been a misunderstanding. I'm calling to speak to Daniel Saint Claire, the... Anthony? Anthony, you called home. I'm sorry, I don't understand. What are you doing? My name's not Anthony. You're not Anthony? No, I'm calling to speak to Daniel Saint Claire, the actor. Um... If I'm not mistaken, that's Anthony Claire's name that he uses for the movies. For his work. Right. Right, well, Daniel isn't here right now, maybe I could get him to call you back. Okay, I'm sorry to bother you. What? What? I... I... Who is this? Hello? Who is this? He doesn't know me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Your husband just won a heck lot of money from me. By the look in his eye he didn't have an intention to... Ow! Stop! Stop! Okay, okay, okay. What's wrong? I'll call you tomorrow. Sorry I'm late. Uh... All right. Last class we talked about dictatorship, so today we'll start with Hegel. It was Hegel who said that all the greatest world events happen twice. And then, Karl Marx added, the first time it was a tragedy, and the second time it was a farce. It's strange to think... A lot of the world's thinkers are worried that this century will be a repetition of the last one. And there's an interesting observation, a creative act of memory to remember something, to remember somebody... I'm looking for Call me L8R or Passenger Without a Ticket. Shit. Anthony? Anthony! Hey, long time no see! I couldn't tell it was you with that beard. Is that for a movie? Yeah. Man, you haven't been around here for ages. Yeah, I don't know how long it's been. Six months, I'd say. Six months or more. Yeah, so how's everything? Great. Are you meeting someone here? 'Cause there's no one around. - No? - No, you know no one comes in on Saturdays. Oh... I was supposed to pick up the thing... For the movie. Um... And I forgot it was Saturday... 'Cause my head is, like... You actors are something else. Hold on, let me see if there's anything for you. Great. Yeah, here it is, look. Oh, that looks like it's it. That's definitely it. That's definitely it. - There you go. All right? - Okay. - Hey, don't be a stranger. - I won't be. Good luck with that movie. Great, I will... Yes. Anthony Claire. 3650 Rathburn Road. Hello? - Good afternoon, I'm calling... - Hey. Um, I'm calling to speak to... Where are you calling from? I'm sorry, I think there's been a misunderstanding. I'm calling to speak to Daniel Saint Claire, the... Anthony? Anthony, you called home. I'm sorry, I don't understand. What are you doing? My name's not Anthony. You're not Anthony? No, I'm calling to speak to Daniel Saint Claire, the actor. Um... If I'm not mistaken, that's Anthony Claire's name that he uses for the movies. For his work. Right. Right, well, Daniel isn't here right now, maybe I could get him to call you back. Okay, I'm sorry to bother you. What? What? I... I... Who is this? Hello? Who is this? He doesn't know me."
+      ],
+      "scene_length_chars": 2298,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.32044410705566406,
+        0.002951531670987606,
+        0.002402650658041239,
+        0.007788585964590311,
+        0.004072174895554781,
+        0.01865220069885254,
+        0.06631118804216385,
+        0.31117263436317444,
+        0.0029664207249879837,
+        0.03267892077565193,
+        0.00254063936881721,
+        0.0014723934000357985,
+        0.024180687963962555,
+        0.005725835915654898,
+        0.034443292766809464,
+        0.053826093673706055,
+        0.011718575842678547,
+        0.0015669154236093163,
+        0.0007755479891784489,
+        0.051710743457078934,
+        0.1026080846786499,
+        0.004242317285388708,
+        0.07991651445627213,
+        0.00589631637558341,
+        0.31824803352355957,
+        0.03297465667128563,
+        0.10711810737848282,
+        0.028644872829318047
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "remorse",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "No. - Okay. I'm gonna... - Anthony? I'll call back later. Hello? Hello, this is Anthony... This is Anthony Claire, isn't it? Who's calling? Um... I called before. I was talking... I talked to your wife. Crazy. You're the one. And you call here again, I will call the police... I... No, no. Just hear me out. Can you say something again? Can you talk again? Who is this? That's crazy. That's amazing. Our... Your voice is just like mine. Do you hear my voice? Your voice is just like mine. Shit. - Listen... - Sorry, please, please, please. Just listen to me for a second. Just listen, okay? Just hear me out. I know this sounds crazy. I'm sorry. I got excited before. When I get excited, I just act a little strange. So just hear me out for a second. I've seen three of your movies. And you're great in them. You're great in them. We look exactly alike. And I called your wife earlier today. And she said that... She thought that I was you. And I'm just... I'm confused. And I know this call must be just as confusing for you as it is for me. And I just... My name is Adam Bell. I'm a history teacher. And I just think that we should meet. Hey, hey, hey, okay. Okay. Listen to me. Never call here again. Who was that? It was that same guy. What did he want? I don't know. He sounded crazy. Like, he sounded like a stalker or something. A stalker? Yeah, he said that he was a fan of mine. That he wanted to, uh, meet up or something. - What? - Mmm-hmm. - No. - Yeah. You're messing with me. Right? - Anthony? - Uh... Do you want to get something to eat? Who was on the phone? Helen, the same guy who called before. The same guy. That's who was on the phone. I told you that. Why would I tell you any differently? Are you lying to me? I... You're lying to me. You're acting crazy. I'm not crazy. Who was on the phone? I told you it was a man who was on the phone. Are you seeing her? Helen, I don't want to get into this. Are you seeing her again? We need to get something to eat. Let's go get something to eat and then... I don't want to get anything... it was a man! It was a man. What do you think it was, a jealous husband? Yeah. I don't want to get into this again. Okay? I don't want to get into this. I'm going for a walk. Yes. Yeah, it's me, man. That's so strange. I had a feeling that you were gonna call.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No. - Okay. I'm gonna... - Anthony? I'll call back later. Hello? Hello, this is Anthony... This is Anthony Claire, isn't it? Who's calling? Um... I called before. I was talking... I talked to your wife. Crazy. You're the one. And you call here again, I will call the police... I... No, no. Just hear me out. Can you say something again? Can you talk again? Who is this? That's crazy. That's amazing. Our... Your voice is just like mine. Do you hear my voice? Your voice is just like mine. Shit. - Listen... - Sorry, please, please, please. Just listen to me for a second. Just listen, okay? Just hear me out. I know this sounds crazy. I'm sorry. I got excited before. When I get excited, I just act a little strange. So just hear me out for a second. I've seen three of your movies. And you're great in them. You're great in them. We look exactly alike. And I called your wife earlier today. And she said that... She thought that I was you. And I'm just... I'm confused. And I know this call must be just as confusing for you as it is for me. And I just... My name is Adam Bell. I'm a history teacher. And I just think that we should meet. Hey, hey, hey, okay. Okay. Listen to me. Never call here again. Who was that? It was that same guy. What did he want? I don't know. He sounded crazy. Like, he sounded like a stalker or something. A stalker? Yeah, he said that he was a fan of mine. That he wanted to, uh, meet up or something. - What? - Mmm-hmm. - No. - Yeah. You're messing with me. Right? - Anthony? - Uh... Do you want to get something to eat? Who was on the phone? Helen, the same guy who called before. The same guy. That's who was on the phone. I told you that. Why would I tell you any differently? Are you lying to me? I... You're lying to me. You're acting crazy. I'm not crazy. Who was on the phone? I told you it was a man who was on the phone. Are you seeing her? Helen, I don't want to get into this. Are you seeing her again? We need to get something to eat. Let's go get something to eat and then... I don't want to get anything... it was a man! It was a man. What do you think it was, a jealous husband? Yeah. I don't want to get into this again. Okay? I don't want to get into this. I'm going for a walk. Yes. Yeah, it's me, man. That's so strange. I had a feeling that you were gonna call."
+      ],
+      "scene_length_chars": 2313,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.31662747263908386,
+        0.002246676944196224,
+        0.03459905460476875,
+        0.300986647605896,
+        0.010083763860166073,
+        0.014895795844495296,
+        0.1219015121459961,
+        0.49977055191993713,
+        0.029537098482251167,
+        0.023936539888381958,
+        0.007870839908719063,
+        0.003830217057839036,
+        0.006151298526674509,
+        0.3082781136035919,
+        0.021091444417834282,
+        0.005245527718216181,
+        0.012905568815767765,
+        0.004928434733301401,
+        0.003661171765998006,
+        0.010738684795796871,
+        0.052651118487119675,
+        0.08437156677246094,
+        0.08111623674631119,
+        0.0038522854447364807,
+        0.05819324776530266,
+        0.00873208325356245,
+        0.08546953648328781,
+        0.09078551083803177
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "excitement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "You had a feeling, what's that mean? It's a, you know, just a figure of speech. It's not... Right. All right. Well, look, I've been thinking about it. I want to meet. Okay. I know a place called the Breezeway Inn. It's about an hour outside the city. Do you know where that is? No. All right. Well, then I'll call you on Sunday with directions. 1:00, okay? Okay. All right. Uh-huh. - Well, see you soon. - Yeah. Yeah, I'll see you soon. Hello. Hi. Is everything all right? How many months are you? Uh... Six. That's nice. I should be going. I have a class, I have to teach in it. Ah... Never know how your day is gonna turn out. Have a nice day. What's up, honey? Hello? Hello? Hi. It is a scorcher out there. The last 10 minutes of my run, this 22-year-old kid or something like that, he was... He was following me the whole time. Never gonna beat this kid. And he dropped. Do you think that I should cut my beard off 'cause it's fucking hot? Wait, why did you call me earlier? Did you call me for a reason? Honey, where are the blueberries? Where are the blueberries? I told you, like, two days ago. The organic blueberries. Not the conventional blueberries. I can't use 'em in the shake. What's wrong? I wasn't... Only I was saying 'cause I read it in a magazine that blueberries, the organic ones are better than conventional ones... Are you gonna tell me what's wrong? I... I went to... I went to see that guy. Who? What're you talking about? The guy on the phone. I went to his work. Why did you do that? That's dangerous, honey. I wanted to know. Are you okay? He had the same voice. He looks exactly like you. What do you mean, \"Exactly like me\"? What's happening? I don't... Really don't know what you're talking about. I think you know. I think you know. Hello? I told you. - Show me your hands, man. - Why? Come on, show me your hands. Maybe we're brothers. We're not... We're not brothers. We're not brothers. How do you know? Do you have a... Do you have a scar on your chest? This one? You do, don't you? I, uh... - When's your birthday? - This was a bad idea. I think I made a mistake here. Um... I have a... I have this. I went to... The company that represents you, they gave that to me... To you. I'm sorry. I'm sorry. Don't worry, honey. That guy won't be calling here again. Fuck. There must be some difference.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You had a feeling, what's that mean? It's a, you know, just a figure of speech. It's not... Right. All right. Well, look, I've been thinking about it. I want to meet. Okay. I know a place called the Breezeway Inn. It's about an hour outside the city. Do you know where that is? No. All right. Well, then I'll call you on Sunday with directions. 1:00, okay? Okay. All right. Uh-huh. - Well, see you soon. - Yeah. Yeah, I'll see you soon. Hello. Hi. Is everything all right? How many months are you? Uh... Six. That's nice. I should be going. I have a class, I have to teach in it. Ah... Never know how your day is gonna turn out. Have a nice day. What's up, honey? Hello? Hello? Hi. It is a scorcher out there. The last 10 minutes of my run, this 22-year-old kid or something like that, he was... He was following me the whole time. Never gonna beat this kid. And he dropped. Do you think that I should cut my beard off 'cause it's fucking hot? Wait, why did you call me earlier? Did you call me for a reason? Honey, where are the blueberries? Where are the blueberries? I told you, like, two days ago. The organic blueberries. Not the conventional blueberries. I can't use 'em in the shake. What's wrong? I wasn't... Only I was saying 'cause I read it in a magazine that blueberries, the organic ones are better than conventional ones... Are you gonna tell me what's wrong? I... I went to... I went to see that guy. Who? What're you talking about? The guy on the phone. I went to his work. Why did you do that? That's dangerous, honey. I wanted to know. Are you okay? He had the same voice. He looks exactly like you. What do you mean, \"Exactly like me\"? What's happening? I don't... Really don't know what you're talking about. I think you know. I think you know. Hello? I told you. - Show me your hands, man. - Why? Come on, show me your hands. Maybe we're brothers. We're not... We're not brothers. We're not brothers. How do you know? Do you have a... Do you have a scar on your chest? This one? You do, don't you? I, uh... - When's your birthday? - This was a bad idea. I think I made a mistake here. Um... I have a... I have this. I went to... The company that represents you, they gave that to me... To you. I'm sorry. I'm sorry. Don't worry, honey. That guy won't be calling here again. Fuck. There must be some difference."
+      ],
+      "scene_length_chars": 2331,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009463566355407238,
+        0.0017328214598819613,
+        0.025392621755599976,
+        0.0701824352145195,
+        0.015504948794841766,
+        0.02614952065050602,
+        0.052524104714393616,
+        0.7534882426261902,
+        0.004550665616989136,
+        0.01621493138372898,
+        0.007120043039321899,
+        0.005444015841931105,
+        0.01345093920826912,
+        0.005781903397291899,
+        0.02074098400771618,
+        0.006308024283498526,
+        0.019283747300505638,
+        0.0009396251407451928,
+        0.0016387695213779807,
+        0.005007039289921522,
+        0.040467146784067154,
+        0.0003861169971060008,
+        0.009883222170174122,
+        0.0018031513318419456,
+        0.26357850432395935,
+        0.09784547239542007,
+        0.0054305135272443295,
+        0.016980377957224846
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "remorse",
+        "sadness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "There isn't. It cannot be exactly the same. We are. Did you take your clothes off in front of him? No. Okay, then. You didn't eat. The last thing you need is to be meeting strange men in hotel rooms. You have enough trouble sticking with one woman, don't you? Here. I don't like blueberries. Of course you do, and they're good for you. I am going to pretend I never heard a word of what you just told me. I just wanted your advice. You don't want advice. I don't want to hear any more about this. You are my only son. I am your only mother. You have a respectable job, you have a nice apartment, and since we're being frank here, I think you should quit that fantasy of being a third-rate movie actor. Eat those. You want some coffee? I have a question for you. Did you fuck my wife? Did you fuck my wife? Did you sleep with my wife? You fucked my wife! Did you fuck my wife? That's good. That is fuckin' good. This is what's gonna happen. You're giving me your clothes and your car. I'm gonna take your girlfriend on a little romantic getaway. Tomorrow, I bring her home. And I'm gonna come back here, bring back all your things, and I'm gonna disappear from your life forever. And then I'll be gone. What are you doing here? What the fuck is this place, man? You live here? I have some questions for you. Please go or I'll call the police. Go ahead, call the police. What are you gonna tell 'em? What are you gonna tell 'em, man? Why'd you come looking for me? I don't know. I don't know. I just... I needed to know. You need to know. Yeah. Okay. But when you called my house, you talked to my wife. Why'd you do that? She happened to pick up the phone. Okay. Yeah, but... Can I ask you something, just man to man? Um... Did you sleep with my wife? I don't know what you're talking about. Did you fuck my wife? This is crazy. Just answer the question, man. Just answer my fuckin' question and then I will leave. You're fuckin' crazy. All right. I'm fuckin' crazy? I'm fuckin' crazy? I'm fuckin' crazy? I'm fuckin' crazy? You brought my wife into this, man. So I'm gonna bring your girlfriend into the picture as well. You want me out of your life? This is what's gonna happen first. You're gonna give me your clothes and your car. I'm gonna take your girlfriend on a little romantic getaway.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "There isn't. It cannot be exactly the same. We are. Did you take your clothes off in front of him? No. Okay, then. You didn't eat. The last thing you need is to be meeting strange men in hotel rooms. You have enough trouble sticking with one woman, don't you? Here. I don't like blueberries. Of course you do, and they're good for you. I am going to pretend I never heard a word of what you just told me. I just wanted your advice. You don't want advice. I don't want to hear any more about this. You are my only son. I am your only mother. You have a respectable job, you have a nice apartment, and since we're being frank here, I think you should quit that fantasy of being a third-rate movie actor. Eat those. You want some coffee? I have a question for you. Did you fuck my wife? Did you fuck my wife? Did you sleep with my wife? You fucked my wife! Did you fuck my wife? That's good. That is fuckin' good. This is what's gonna happen. You're giving me your clothes and your car. I'm gonna take your girlfriend on a little romantic getaway. Tomorrow, I bring her home. And I'm gonna come back here, bring back all your things, and I'm gonna disappear from your life forever. And then I'll be gone. What are you doing here? What the fuck is this place, man? You live here? I have some questions for you. Please go or I'll call the police. Go ahead, call the police. What are you gonna tell 'em? What are you gonna tell 'em, man? Why'd you come looking for me? I don't know. I don't know. I just... I needed to know. You need to know. Yeah. Okay. But when you called my house, you talked to my wife. Why'd you do that? She happened to pick up the phone. Okay. Yeah, but... Can I ask you something, just man to man? Um... Did you sleep with my wife? I don't know what you're talking about. Did you fuck my wife? This is crazy. Just answer the question, man. Just answer my fuckin' question and then I will leave. You're fuckin' crazy. All right. I'm fuckin' crazy? I'm fuckin' crazy? I'm fuckin' crazy? I'm fuckin' crazy? You brought my wife into this, man. So I'm gonna bring your girlfriend into the picture as well. You want me out of your life? This is what's gonna happen first. You're gonna give me your clothes and your car. I'm gonna take your girlfriend on a little romantic getaway."
+      ],
+      "scene_length_chars": 2293,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.01317762304097414,
+        0.004321596119552851,
+        0.9785502552986145,
+        0.141648069024086,
+        0.001957348780706525,
+        0.032276395708322525,
+        0.014969619922339916,
+        0.3195696175098419,
+        0.0185126680880785,
+        0.008038765750825405,
+        0.014174879528582096,
+        0.12520085275173187,
+        0.0036591303069144487,
+        0.0042643011547625065,
+        0.007547324988991022,
+        0.0036870220210403204,
+        0.003828116925433278,
+        0.007010749075561762,
+        0.03587016090750694,
+        0.001508735935203731,
+        0.011801383458077908,
+        0.0009829587070271373,
+        0.0025786887854337692,
+        0.00024216825840994716,
+        0.001993686193600297,
+        0.0025104444939643145,
+        0.005095910280942917,
+        0.017003463581204414
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "I'm gonna bring her back home tomorrow, and I'm gonna come back here, and I'm gonna bring back all your stuff and I'm going to disappear from your life forever. Then we will be even. Mr. Claire. Good afternoon. Everything good? Yeah, I just... Uh, forgot my keys. Is Mrs. Claire not home? Do you want me to open the door for you? That'd be perfect. Yeah. I can't stop thinking about the other night. Can't get it out of my head. I know I shouldn't talk about this, but I'd love to go back. Uh-huh. I heard they changed the lock and sent out new keys. But... I don't think I'm on the list. I need to go back. I'll see what I can do. I don't... I don't know if that's going to be possible. Call me if you hear anything. After you. Okay. Here you go, Mr. Claire. Thank you. Hello? - Anthony? - Hi. The light's on, you freaked me out. Sorry. What're you doing home? I thought you were at your mom's. Oh, I canceled it, I... Should've called. I stayed longer at the pool, 'cause I thought you weren't gonna be home. Uh... Do you need anything? I'm fine. I'm gonna go to bed. Okay. Are you sure you don't need anything? 'Cause you... When you came in and you said that you went to the pool, I just thought maybe that you've been there for a long time, and you had to walk home or whatever and you must be... ls everything okay? You're six months pregnant, so I didn't know. No, I'm fine. Why don't you come to bed? I... Aren't you gonna take your clothes off? Yeah. Did you have a good day at school? What? Forget it. What? What? What? Whoa, whoa, whoa, whoa! Mary. Mary. Mary. What's wrong? The ring. The mark on your finger. What are you talking about? I've always had this. No. No! Who are you? Don't touch me. Don't touch me. What are you talking about? What are you talking about? - Don't touch me! - What are you talking about? The ring. The mark on your finger. What's wrong? What's wrong? I just couldn't sleep. Yeah, I couldn't sleep either. I'm sorry. Why are you doing this to me? What? What am I doing to you? I want you to stay. - Stop the car. - Stop the car? Stop the car? - Stop the fucking car. - I'll stop the fucking car. You want me to stop the car? Get out. I'm sick of this shit. I can't even talk to you. Fuck you. You're behaving like a child. You're not a man. - I'm not a man? - Enough.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm gonna bring her back home tomorrow, and I'm gonna come back here, and I'm gonna bring back all your stuff and I'm going to disappear from your life forever. Then we will be even. Mr. Claire. Good afternoon. Everything good? Yeah, I just... Uh, forgot my keys. Is Mrs. Claire not home? Do you want me to open the door for you? That'd be perfect. Yeah. I can't stop thinking about the other night. Can't get it out of my head. I know I shouldn't talk about this, but I'd love to go back. Uh-huh. I heard they changed the lock and sent out new keys. But... I don't think I'm on the list. I need to go back. I'll see what I can do. I don't... I don't know if that's going to be possible. Call me if you hear anything. After you. Okay. Here you go, Mr. Claire. Thank you. Hello? - Anthony? - Hi. The light's on, you freaked me out. Sorry. What're you doing home? I thought you were at your mom's. Oh, I canceled it, I... Should've called. I stayed longer at the pool, 'cause I thought you weren't gonna be home. Uh... Do you need anything? I'm fine. I'm gonna go to bed. Okay. Are you sure you don't need anything? 'Cause you... When you came in and you said that you went to the pool, I just thought maybe that you've been there for a long time, and you had to walk home or whatever and you must be... ls everything okay? You're six months pregnant, so I didn't know. No, I'm fine. Why don't you come to bed? I... Aren't you gonna take your clothes off? Yeah. Did you have a good day at school? What? Forget it. What? What? What? Whoa, whoa, whoa, whoa! Mary. Mary. Mary. What's wrong? The ring. The mark on your finger. What are you talking about? I've always had this. No. No! Who are you? Don't touch me. Don't touch me. What are you talking about? What are you talking about? - Don't touch me! - What are you talking about? The ring. The mark on your finger. What's wrong? What's wrong? I just couldn't sleep. Yeah, I couldn't sleep either. I'm sorry. Why are you doing this to me? What? What am I doing to you? I want you to stay. - Stop the car. - Stop the car? Stop the car? - Stop the fucking car. - I'll stop the fucking car. You want me to stop the car? Get out. I'm sick of this shit. I can't even talk to you. Fuck you. You're behaving like a child. You're not a man. - I'm not a man? - Enough."
+      ],
+      "scene_length_chars": 2306,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.08153535425662994,
+        0.007854143157601357,
+        0.33700188994407654,
+        0.010619111359119415,
+        0.005720553919672966,
+        0.10819946974515915,
+        0.16719794273376465,
+        0.6616964936256409,
+        0.03063993714749813,
+        0.005574963986873627,
+        0.010840874165296555,
+        0.008197824470698833,
+        0.0031577192712575197,
+        0.02364788018167019,
+        0.1599508374929428,
+        0.3160036504268646,
+        0.007501882966607809,
+        0.0027256531175225973,
+        0.009748578071594238,
+        0.012089391238987446,
+        0.057250384241342545,
+        0.0030901238787919283,
+        0.014179627411067486,
+        0.003517385572195053,
+        0.005509685724973679,
+        0.006407147739082575,
+        0.27394038438796997,
+        0.004343036096543074
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "You don't need to get me started. I'm not a man? I'm not a fucking man? Get out! Get out! - Get out! Get the fuck out! - Let go! Sunshine, a high of 24 today, clear tonight with a low of 13. Here's James with a look at traffic. The westbound Lake Shore is closed between Bathurst and Strachan, as crews clean up debris from a collision that happened early this morning. Police have not released any details at this time, but we do know there was only one vehicle. I forgot to tell you that your mother called. You should probably call her back. Okay. Helen, did you plan on doing something tonight? 'Cause I think I have to go out. Helen? Helen?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You don't need to get me started. I'm not a man? I'm not a fucking man? Get out! Get out! - Get out! Get the fuck out! - Let go! Sunshine, a high of 24 today, clear tonight with a low of 13. Here's James with a look at traffic. The westbound Lake Shore is closed between Bathurst and Strachan, as crews clean up debris from a collision that happened early this morning. Police have not released any details at this time, but we do know there was only one vehicle. I forgot to tell you that your mother called. You should probably call her back. Okay. Helen, did you plan on doing something tonight? 'Cause I think I have to go out. Helen? Helen?"
+      ],
+      "scene_length_chars": 645,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.0007359240553341806,
+        0.00043707285658456385,
+        0.0472189337015152,
+        0.011648694984614849,
+        0.0010864839423447847,
+        0.006154047790914774,
+        0.001892692525871098,
+        0.038046497851610184,
+        0.0021092421375215054,
+        0.0005852511967532337,
+        0.000436205678852275,
+        0.0005772158037871122,
+        0.00017778768960852176,
+        0.0002662201295606792,
+        0.00032711931271478534,
+        8.374395838472992e-05,
+        0.0003466937050689012,
+        0.00014068803284317255,
+        0.0002533128426875919,
+        9.272719034925103e-05,
+        0.0015149717219173908,
+        0.00024745857808738947,
+        0.0014114468358457088,
+        8.925413567340001e-05,
+        0.0001973541220650077,
+        0.00028443089104257524,
+        0.00043772978824563324,
+        0.9908453822135925
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 7,
+    "lines_per_scene_fallback": 20
+  }
+}

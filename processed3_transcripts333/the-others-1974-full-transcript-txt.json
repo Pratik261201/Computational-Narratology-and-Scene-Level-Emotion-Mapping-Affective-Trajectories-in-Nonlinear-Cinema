@@ -1,0 +1,532 @@
+{
+  "source_file": "The Others _1974_ - full transcript.txt",
+  "title": "The Others",
+  "year": "1974",
+  "meta_description": null,
+  "num_scenes": 10,
+  "avg_scene_chars": 2102,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Cut! Hey, old man! I came to Touraine, almost every year, to stay in my grandfather's village. - He had arrived at... - Stop! Built by medieval Freemasons to ensure the transmission of symbols and the hermetic doctrine, our great cathedrals exerted a remarkable influence on many more modest examples of civil or religious architecture. In the western jamb of the portico we see a small sculpted angel holding a stone circle in his hands. Flamel had had a black marble circle inserted there with a fine gold fillet in the shape of a cross. Kill him! Kill him! Kill him! - Go! - Cut! The hermetic topics of the stylobate are developed on two overlapping rows to the right and left of the portico. The lower row consists of twelve medallions and the upper row of twelve figures. Do you see? It represents characters sitting on plinths adorned with vertical flutings that are sometimes concave, sometimes angular, and are located between the columns on trilobular arches. I thought you had gone to the countryside. I passed by the bookstore the other day and the employee told me you had gone to the countryside to get some rest. Yes. I'm trying to get some rest. Cut. LIBRARY OF THE AMERICAS THE OTHERS THE OTHERS a film written THE OTHERS directed by Here's your Ovid. But you don't have to buy it. Tournier's translation is still the best. - But the other one is more recent. - And more expensive. These days people spend too much on books. Stick to Tournier! I... Okay, I'll think about it. Excuse me, I'll be back. He won't be coming back. Mathieu, your father intends to go bankrupt. Don't you want a good translation of Ovid? I'll give you a discount. Who's gonna help me dress up? I need a costume for tonight. Are you allowed to dance with me? This guy's got her. Not him, not you. Which guy? And then I die. If we cast shadows, we must also have a dark side. Change, madam, from darkness. Come on, Mathieu. Darkness is mine. See you later, then. Vidal wants to play another game. I don't agree. He'd lose. Who knows in a game of chance? In poker, the cards matter less than the player. Less than luck? No. It's the player that matters. Whenever you want, I'll show you. Vidal got himself a partner. That's two of them wanting to beat me now. Allah is great.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Cut! Hey, old man! I came to Touraine, almost every year, to stay in my grandfather's village. - He had arrived at... - Stop! Built by medieval Freemasons to ensure the transmission of symbols and the hermetic doctrine, our great cathedrals exerted a remarkable influence on many more modest examples of civil or religious architecture. In the western jamb of the portico we see a small sculpted angel holding a stone circle in his hands. Flamel had had a black marble circle inserted there with a fine gold fillet in the shape of a cross. Kill him! Kill him! Kill him! - Go! - Cut! The hermetic topics of the stylobate are developed on two overlapping rows to the right and left of the portico. The lower row consists of twelve medallions and the upper row of twelve figures. Do you see? It represents characters sitting on plinths adorned with vertical flutings that are sometimes concave, sometimes angular, and are located between the columns on trilobular arches. I thought you had gone to the countryside. I passed by the bookstore the other day and the employee told me you had gone to the countryside to get some rest. Yes. I'm trying to get some rest. Cut. LIBRARY OF THE AMERICAS THE OTHERS THE OTHERS a film written THE OTHERS directed by Here's your Ovid. But you don't have to buy it. Tournier's translation is still the best. - But the other one is more recent. - And more expensive. These days people spend too much on books. Stick to Tournier! I... Okay, I'll think about it. Excuse me, I'll be back. He won't be coming back. Mathieu, your father intends to go bankrupt. Don't you want a good translation of Ovid? I'll give you a discount. Who's gonna help me dress up? I need a costume for tonight. Are you allowed to dance with me? This guy's got her. Not him, not you. Which guy? And then I die. If we cast shadows, we must also have a dark side. Change, madam, from darkness. Come on, Mathieu. Darkness is mine. See you later, then. Vidal wants to play another game. I don't agree. He'd lose. Who knows in a game of chance? In poker, the cards matter less than the player. Less than luck? No. It's the player that matters. Whenever you want, I'll show you. Vidal got himself a partner. That's two of them wanting to beat me now. Allah is great."
+      ],
+      "scene_length_chars": 2264,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.4546581506729126,
+        0.0013541866792365909,
+        0.04456919804215431,
+        0.0014001590898260474,
+        0.05511492118239403,
+        0.005136275663971901,
+        0.04912850633263588,
+        0.4213980734348297,
+        0.03548957034945488,
+        0.010515901260077953,
+        0.009953818283975124,
+        0.000549820892047137,
+        0.0003666216507554054,
+        0.00552196754142642,
+        0.002685014856979251,
+        0.0005164298927411437,
+        0.0013945727841928601,
+        0.0006988619570620358,
+        0.0029420116916298866,
+        0.000734963221475482,
+        0.03124062903225422,
+        0.0031470393296331167,
+        0.016292069107294083,
+        0.0002846833085641265,
+        0.0013765034964308143,
+        0.0024533045943826437,
+        0.010532875545322895,
+        0.22388017177581787
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "- Can you accompany me? - Sure. - Are you coming? - Yes. What are you doing here, Mr. Spinoza? - Mathieu hasn't returned. - Good for him! It's almost ten o'clock. You know what? I had a dream about you tonight. You were at a costume ball. You wanted to reach for a big mirror at the back of the room. You were in danger. You had to get through a crowd. But those people were also pushing towards the mirror. You can't tell me I didn't work tonight. I managed to lose 2,300 francs playing poker against an imbecile. And I held the better cards. I see. It's a triumph. I feel the same way. Let's celebrate. Drop the money! To pay for it? Your jokes seem to be what everybody else takes seriously. It's a certain kind of humor. Come on. Let go. Furthermore, it's quite an idea to play poker when you're half a turkey. I always plucked you. It's about time for you to get out of that suit. I like it. I'm not taking it off anymore. That's it, everything's ready. The actors, the settings... an excellent crew. I even selected the extras one by one. Right now we're finishing the costumes and the three sets. My God, it's amazing: Those guys are from another world. They don't understand a word of your script and yet they give me everything I ask for. They spent a lot of money, you know? - By the way, if you want an advance... - No, I don't need money. It's great, your script, Mathieu. And I'm gonna turn it into a great movie. One can't write great things, Durtain. One can't make great movies either. You're not the same person with those rags. But expect your character to have... Bye, André. Mr. Spinoza... Agnès, did you notice anything on the past day? I mean... if there was something in his voice or his face. When you came up to talk to me, you know? Did you notice anything? I didn't notice anything. - Mr. Spinoza, you should... - You know what's wrong with me, Agnès? It's as if Mathieu had never been my son. As if I wasn't really Roger Spinoza. Last night he must have come to my house. - But I didn't see him. - Then how do you know? In the morning I found this piece of paper. It's his handwriting. I don't even remember the face I had. Mathieu had written a script, you know? And Durtain was about to film it. I had a role. The leading role. None of that matters now.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Can you accompany me? - Sure. - Are you coming? - Yes. What are you doing here, Mr. Spinoza? - Mathieu hasn't returned. - Good for him! It's almost ten o'clock. You know what? I had a dream about you tonight. You were at a costume ball. You wanted to reach for a big mirror at the back of the room. You were in danger. You had to get through a crowd. But those people were also pushing towards the mirror. You can't tell me I didn't work tonight. I managed to lose 2,300 francs playing poker against an imbecile. And I held the better cards. I see. It's a triumph. I feel the same way. Let's celebrate. Drop the money! To pay for it? Your jokes seem to be what everybody else takes seriously. It's a certain kind of humor. Come on. Let go. Furthermore, it's quite an idea to play poker when you're half a turkey. I always plucked you. It's about time for you to get out of that suit. I like it. I'm not taking it off anymore. That's it, everything's ready. The actors, the settings... an excellent crew. I even selected the extras one by one. Right now we're finishing the costumes and the three sets. My God, it's amazing: Those guys are from another world. They don't understand a word of your script and yet they give me everything I ask for. They spent a lot of money, you know? - By the way, if you want an advance... - No, I don't need money. It's great, your script, Mathieu. And I'm gonna turn it into a great movie. One can't write great things, Durtain. One can't make great movies either. You're not the same person with those rags. But expect your character to have... Bye, André. Mr. Spinoza... Agnès, did you notice anything on the past day? I mean... if there was something in his voice or his face. When you came up to talk to me, you know? Did you notice anything? I didn't notice anything. - Mr. Spinoza, you should... - You know what's wrong with me, Agnès? It's as if Mathieu had never been my son. As if I wasn't really Roger Spinoza. Last night he must have come to my house. - But I didn't see him. - Then how do you know? In the morning I found this piece of paper. It's his handwriting. I don't even remember the face I had. Mathieu had written a script, you know? And Durtain was about to film it. I had a role. The leading role. None of that matters now."
+      ],
+      "scene_length_chars": 2283,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3651481866836548,
+        0.002252583857625723,
+        0.001260302378796041,
+        0.0015511121600866318,
+        0.03738662973046303,
+        0.0029292022809386253,
+        0.05672867223620415,
+        0.569460928440094,
+        0.021990401670336723,
+        0.0050765834748744965,
+        0.0012990705436095595,
+        0.0008061379194259644,
+        0.001440051943063736,
+        0.07493151724338531,
+        0.0009064750629477203,
+        0.0006690001464448869,
+        0.0021130405366420746,
+        0.03463610261678696,
+        0.002146313665434718,
+        0.0007740000728517771,
+        0.004087460692971945,
+        0.003140306333079934,
+        0.21075618267059326,
+        0.0011572216171771288,
+        0.0019290046766400337,
+        0.005285562481731176,
+        0.002504598582163453,
+        0.03936215117573738
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "realization"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "He didn't always make idle talk. Let's admit that he left us speechless. They told me he was kind of weird. Suicide always turns someone into his killer. It's a form of revenge. I'm Mathieu Spinoza's father. Follow me, please. My visit may surprise you, but since my son died I've been trying to see his friends. You know, ma'am, now I think... they knew him better than I did. I don't think I have it. Very few people are looking for it. If you want I can try to find it for you. Don't be like that, Mr. Spinoza. I'm not well. I feel like I'm sick. I don't know how many times we've met. Not so much on the whole. He enjoyed being aggressive and yet we felt he was very close. He was a friend. I saw him the day before at the club. I know. - There was a costume ball. - Yes, I know. We danced. He looked very lively. - Then we talked about poker. - Mathieu didn't play very well. He believed in luck, above all. To show him he was wrong, Moreau invited him to play. It's weird. Back then none of that mattered. Lucien Moreau, Mr. Spinoza. Please, have a seat. I apologize, I have to go. Come and sit down, Lucien. What was that guy doing here? Come on, Agnès. Sit down, please. Come on! What can I do, Agnès? I feel worse and worse. What if I left for a few days? I could go to the countryside. Well then, you're the boss now. Maybe your sister can come help you? Of course, Mr. Spinoza. You can leave without worrying. How are you doing, Mr. Spinoza? So you know Moreau? We've been introduced. He's my producers' lawyer. A vulture, that guy. Mr. Spinoza, don't you want us to go to my house? It's next door. We'll be able to talk more quietly. Do you know what it's about? No, Mathieu never told me about the film. There were things he didn't tell me. A man dies. And from that moment on, terrible things happen to his wife, to his friends, to all those who were with him the last few days. As if death were a magical force, you know? As if everyone else was infected by death. It's marvelous. And it seems to be going well? Yes! They even started paying us. I had offered Mathieu an advance. You, Durtain? You offered him money? When? On the last day. Why? No. No reason. It's all set. We even bought the negative. Actually... The only problem left to solve has to do with Béatrice.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "He didn't always make idle talk. Let's admit that he left us speechless. They told me he was kind of weird. Suicide always turns someone into his killer. It's a form of revenge. I'm Mathieu Spinoza's father. Follow me, please. My visit may surprise you, but since my son died I've been trying to see his friends. You know, ma'am, now I think... they knew him better than I did. I don't think I have it. Very few people are looking for it. If you want I can try to find it for you. Don't be like that, Mr. Spinoza. I'm not well. I feel like I'm sick. I don't know how many times we've met. Not so much on the whole. He enjoyed being aggressive and yet we felt he was very close. He was a friend. I saw him the day before at the club. I know. - There was a costume ball. - Yes, I know. We danced. He looked very lively. - Then we talked about poker. - Mathieu didn't play very well. He believed in luck, above all. To show him he was wrong, Moreau invited him to play. It's weird. Back then none of that mattered. Lucien Moreau, Mr. Spinoza. Please, have a seat. I apologize, I have to go. Come and sit down, Lucien. What was that guy doing here? Come on, Agnès. Sit down, please. Come on! What can I do, Agnès? I feel worse and worse. What if I left for a few days? I could go to the countryside. Well then, you're the boss now. Maybe your sister can come help you? Of course, Mr. Spinoza. You can leave without worrying. How are you doing, Mr. Spinoza? So you know Moreau? We've been introduced. He's my producers' lawyer. A vulture, that guy. Mr. Spinoza, don't you want us to go to my house? It's next door. We'll be able to talk more quietly. Do you know what it's about? No, Mathieu never told me about the film. There were things he didn't tell me. A man dies. And from that moment on, terrible things happen to his wife, to his friends, to all those who were with him the last few days. As if death were a magical force, you know? As if everyone else was infected by death. It's marvelous. And it seems to be going well? Yes! They even started paying us. I had offered Mathieu an advance. You, Durtain? You offered him money? When? On the last day. Why? No. No reason. It's all set. We even bought the negative. Actually... The only problem left to solve has to do with Béatrice."
+      ],
+      "scene_length_chars": 2285,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.003473136806860566,
+        0.0027136290445923805,
+        0.02855953387916088,
+        0.013636569492518902,
+        0.0028099631890654564,
+        0.0038965214043855667,
+        0.03410962596535683,
+        0.6100384593009949,
+        0.001703246496617794,
+        0.01266454253345728,
+        0.003978360909968615,
+        0.00893216673284769,
+        0.051880378276109695,
+        0.0036965825129300356,
+        0.17761681973934174,
+        0.0024159334134310484,
+        0.016270752996206284,
+        0.007476195693016052,
+        0.002260674024000764,
+        0.0030335199553519487,
+        0.0069770836271345615,
+        0.0059272609651088715,
+        0.07330308109521866,
+        0.015310109592974186,
+        0.0430850125849247,
+        0.034300513565540314,
+        0.09501498192548752,
+        0.016262901946902275
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "fear",
+        "surprise"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Béatrice Alain. She was supposed to play a leading role and now she doesn't want to. It doesn't go well with her. I thought you had gone to the countryside. I passed by the bookstore the other day and the employee told me you had gone to the countryside to get some rest. Yes. I'm trying to get some rest. You know that my pact with you matters more to me than you do. And now... - But what are you're imagining? - I'm not. You're seeing each other all the time. I told you I ran into him by chance. Valérie, I can't stand you lying to me. Excuse me. I've been wanting to see you. - What's wrong with you, Valérie? - Lucien. Moreau. Do you remember him? He's angry. Do you like to ride horses? I haven't done it in 20 years. Lucien and I rode horses in the forest of Vincenne. Tomorrow I'll have to go alone. I guess, gentlemen, you're still at the stage where presentations are necessary. I'm the professor Alexis Artaxerxès. Magician, charlatan, psychic... As you like. After I enchanted California, I'm here to make my debut in the capital of Julian the Apostate. And my informants assure me that the best place for that is the honorable circle to which they confer such wide prestige. Well then. When do we sign the contract? Guess, since you're a sorcerer! I don't guess. I read the thoughts directly. Do you read very often? What am I thinking about then? A person thinks he's thinking of one thing and thinks of another. You're thinking of a dead man. That's too easy. You read the papers. Let's find something more difficult. For example... I can guess the cards a player has in his hands. We can do the test. Do you play poker? One card. The same. Three thousand. Three thousand to see... With two pairs of aces. Three sevens. - High card. - Without me. Without me. It's worth a thousand. Plus two thousand. That's it for me. You'll have to wait until tomorrow. I owe you 27500 francs. No. You owe me exactly 2300. Except that you don't owe me anything since these cards are unreal. My cards are very real. As real or unreal as the game we just played. Tomorrow I'll pay you the 27500 francs. Tell me where to bring them. To the Hotel Michelet. That's where I live. But maybe it won't be so easy to find me there. That's where I live. But maybe it won't be so easy to find me there.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Béatrice Alain. She was supposed to play a leading role and now she doesn't want to. It doesn't go well with her. I thought you had gone to the countryside. I passed by the bookstore the other day and the employee told me you had gone to the countryside to get some rest. Yes. I'm trying to get some rest. You know that my pact with you matters more to me than you do. And now... - But what are you're imagining? - I'm not. You're seeing each other all the time. I told you I ran into him by chance. Valérie, I can't stand you lying to me. Excuse me. I've been wanting to see you. - What's wrong with you, Valérie? - Lucien. Moreau. Do you remember him? He's angry. Do you like to ride horses? I haven't done it in 20 years. Lucien and I rode horses in the forest of Vincenne. Tomorrow I'll have to go alone. I guess, gentlemen, you're still at the stage where presentations are necessary. I'm the professor Alexis Artaxerxès. Magician, charlatan, psychic... As you like. After I enchanted California, I'm here to make my debut in the capital of Julian the Apostate. And my informants assure me that the best place for that is the honorable circle to which they confer such wide prestige. Well then. When do we sign the contract? Guess, since you're a sorcerer! I don't guess. I read the thoughts directly. Do you read very often? What am I thinking about then? A person thinks he's thinking of one thing and thinks of another. You're thinking of a dead man. That's too easy. You read the papers. Let's find something more difficult. For example... I can guess the cards a player has in his hands. We can do the test. Do you play poker? One card. The same. Three thousand. Three thousand to see... With two pairs of aces. Three sevens. - High card. - Without me. Without me. It's worth a thousand. Plus two thousand. That's it for me. You'll have to wait until tomorrow. I owe you 27500 francs. No. You owe me exactly 2300. Except that you don't owe me anything since these cards are unreal. My cards are very real. As real or unreal as the game we just played. Tomorrow I'll pay you the 27500 francs. Tell me where to bring them. To the Hotel Michelet. That's where I live. But maybe it won't be so easy to find me there. That's where I live. But maybe it won't be so easy to find me there."
+      ],
+      "scene_length_chars": 2291,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0008358288905583322,
+        0.0015814955113455653,
+        0.0025604788679629564,
+        0.001792936702258885,
+        0.003336775116622448,
+        0.018575778231024742,
+        0.013383922167122364,
+        0.35720667243003845,
+        0.015922995284199715,
+        0.004526667762547731,
+        0.0006292262696661055,
+        0.0002781343355309218,
+        0.0008903378620743752,
+        0.002271543489769101,
+        0.001127607305534184,
+        0.0012395030353218317,
+        0.001302942750044167,
+        0.0009030153159983456,
+        0.0029042717069387436,
+        0.002380971098318696,
+        0.08053404837846756,
+        0.00030230404809117317,
+        0.012387060560286045,
+        0.00027876938111148775,
+        0.0012668919516727328,
+        0.008703119121491909,
+        0.0008341661305166781,
+        0.7709317207336426
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "To the Hotel Michelet. That's where I live. Don't apologize. You're half drunk. What a lucky encounter! I need to talk to you urgently about something you already know. Hey! You there... The man with the ear. Please don't take advantage. A shrimp cocktail. Without vinegar! Well then... A glass of red wine. Would you hand me the salt shaker? You, that bowl! Now that flower vase. And now that lamp, on your left. Go on! Without fainting. It's time to go to sleep, pal! No touching! You're leaving right now. They don't even respect newborns anymore. You are all witnesses to an assault! Leave him be, Mr. Boileau! He's a friend. - Yeah, he's a good guy. - Of course he is. - Leave him be. Then take him away. Don't worry, I'll take care of him. And what he broke? Let's have a drink. Where does it come from that we're friends? You've never even seen me. What does it matter, if I see you now? You seem to be in a good mood. No. Actually, I'm very sad. - What do you think you're doing? - Test material for my film. I'm making a film. What exactly are you playing at? I'm looking for the face I had before the world was made. That's what I thought. I don't care that someone's dead as long as it's not me. I want a coffee with cream and egg breads every morning. What do I care about a stubborn, lusty old man? Lusty! Because every particular thing wants to persevere in its being. Who said that? That's something. At least I feel pain. Alone. I'm going alone. I'm very upset. I still don't have all the money for that man... Artaxerxès. Wait until tomorrow, for God's sake! - Let's try to make a... - No. I want to pay tonight. How much do you need? Leave it. I'll manage. If I came to see you, it's because I feel much better. Things have been cleared up. I met the person who played with Mathieu the day before. I blamed him for a while. Not anymore. And you? How are you doing? At last! I thought you weren't coming back. I need to borrow 8000 francs. You're giving me this because you can't give me anything else. It's you, Spinoza. When you don't come to see us anymore, we'll miss you. Let's assume, Béatrice Alain, that we know each other to exhaustion. How do you know my name? I also know you're sad, and you have reason to be sad. I know everything. I know that a movie had to be filmed and that you were the protagonist.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "To the Hotel Michelet. That's where I live. Don't apologize. You're half drunk. What a lucky encounter! I need to talk to you urgently about something you already know. Hey! You there... The man with the ear. Please don't take advantage. A shrimp cocktail. Without vinegar! Well then... A glass of red wine. Would you hand me the salt shaker? You, that bowl! Now that flower vase. And now that lamp, on your left. Go on! Without fainting. It's time to go to sleep, pal! No touching! You're leaving right now. They don't even respect newborns anymore. You are all witnesses to an assault! Leave him be, Mr. Boileau! He's a friend. - Yeah, he's a good guy. - Of course he is. - Leave him be. Then take him away. Don't worry, I'll take care of him. And what he broke? Let's have a drink. Where does it come from that we're friends? You've never even seen me. What does it matter, if I see you now? You seem to be in a good mood. No. Actually, I'm very sad. - What do you think you're doing? - Test material for my film. I'm making a film. What exactly are you playing at? I'm looking for the face I had before the world was made. That's what I thought. I don't care that someone's dead as long as it's not me. I want a coffee with cream and egg breads every morning. What do I care about a stubborn, lusty old man? Lusty! Because every particular thing wants to persevere in its being. Who said that? That's something. At least I feel pain. Alone. I'm going alone. I'm very upset. I still don't have all the money for that man... Artaxerxès. Wait until tomorrow, for God's sake! - Let's try to make a... - No. I want to pay tonight. How much do you need? Leave it. I'll manage. If I came to see you, it's because I feel much better. Things have been cleared up. I met the person who played with Mathieu the day before. I blamed him for a while. Not anymore. And you? How are you doing? At last! I thought you weren't coming back. I need to borrow 8000 francs. You're giving me this because you can't give me anything else. It's you, Spinoza. When you don't come to see us anymore, we'll miss you. Let's assume, Béatrice Alain, that we know each other to exhaustion. How do you know my name? I also know you're sad, and you have reason to be sad. I know everything. I know that a movie had to be filmed and that you were the protagonist."
+      ],
+      "scene_length_chars": 2333,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0028802596498280764,
+        0.0010717398254200816,
+        0.002018128288909793,
+        0.0034444171469658613,
+        0.0020428833086043596,
+        0.2416006326675415,
+        0.001710370765067637,
+        0.37900611758232117,
+        0.00768854608759284,
+        0.17868132889270782,
+        0.0013151863822713494,
+        0.0008964738808572292,
+        0.0007867549429647624,
+        0.0009229276329278946,
+        0.000766488432418555,
+        0.00036775742773897946,
+        0.018605617806315422,
+        0.0012359555112197995,
+        0.0014228308573365211,
+        0.001846406958065927,
+        0.0041062780655920506,
+        0.0004173887427896261,
+        0.008575049228966236,
+        0.0007771149394102395,
+        0.006161103490740061,
+        0.631767749786377,
+        0.0012363340938463807,
+        0.050268981605768204
+      ],
+      "goemotions_topk": [
+        "sadness",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "sadness",
+      "goemotions_labels": [
+        "curiosity",
+        "sadness"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "You were on the screen and now you want to disappear. Is Durtain sending you? No. Mathieu Spinoza, rather. Béatrice Alain! Béatrice Alain! Mathieu still wants you to be the woman he imagined. Professor Artaxerxès? Ah, yes! He's waiting for you in the winter garden. You're looking for Artaxerxès. You have something to give him, don't you? He felt obliged to leave for Villeneuve. We're supposed to wait for him at Saint Lazare station. We're late. The stupid fat man must have had enough. He had to go to the magic circle. He's not here. Let's go! Go on! Wait for me here. I'll ask if they've seen him. Now I know where he is. Come on. How are you, doctor? I've been looking for you for several days. - We have to meet to... - I'm sick of your business. Sorry, but we have to draw up the contract. Dr. Moreau is very busy, Durtain. - Do we know each other? - Leave us alone. Okay? - I'm sick of it. - Come on, Moreau. Artaxerxès is waiting for us. I lied to you. Nobody told me Artaxerxès was going to be here. We're almost there. I'm sure you've understood. Give me the money. Don't bother, I'm just passing through. I wanted to leave you this book. I didn't know if you already have it. It's to say goodbye. I'm going away for a few days. See? I was leaving you a little message. To say goodbye. You probably think I shouldn't come visit you. And you're right. Why should I think that? The last time I was here... When did you come here? No, I didn't go inside... I saw Mr. Moreau leave, and I understood that you... First I assumed that... Anyway, I just came by today to bring you this book. And to say goodbye. Come in, Mr. Spinoza. Sit down. I'd like to go to Saint-Julien for a few days. Do you know Saint-Julien? It's an isolated little village. Some houses. On the Atlantic coast, in Landes. There's the sea, the pines and the sand... And the wind that blows the sand, and it's like nothing had an end. When I was a child I once went to Saint-Julien. I was walking alone in the dunes, trying to get lost. I thought I was born in the sand and was going to die there. I was feeling good. I thought living was like that back then. And that it was easy. Now I have to go back. Do you recognize that music, Mr. Spinoza? Of course, it's a tango. You know, Valérie... at my age...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You were on the screen and now you want to disappear. Is Durtain sending you? No. Mathieu Spinoza, rather. Béatrice Alain! Béatrice Alain! Mathieu still wants you to be the woman he imagined. Professor Artaxerxès? Ah, yes! He's waiting for you in the winter garden. You're looking for Artaxerxès. You have something to give him, don't you? He felt obliged to leave for Villeneuve. We're supposed to wait for him at Saint Lazare station. We're late. The stupid fat man must have had enough. He had to go to the magic circle. He's not here. Let's go! Go on! Wait for me here. I'll ask if they've seen him. Now I know where he is. Come on. How are you, doctor? I've been looking for you for several days. - We have to meet to... - I'm sick of your business. Sorry, but we have to draw up the contract. Dr. Moreau is very busy, Durtain. - Do we know each other? - Leave us alone. Okay? - I'm sick of it. - Come on, Moreau. Artaxerxès is waiting for us. I lied to you. Nobody told me Artaxerxès was going to be here. We're almost there. I'm sure you've understood. Give me the money. Don't bother, I'm just passing through. I wanted to leave you this book. I didn't know if you already have it. It's to say goodbye. I'm going away for a few days. See? I was leaving you a little message. To say goodbye. You probably think I shouldn't come visit you. And you're right. Why should I think that? The last time I was here... When did you come here? No, I didn't go inside... I saw Mr. Moreau leave, and I understood that you... First I assumed that... Anyway, I just came by today to bring you this book. And to say goodbye. Come in, Mr. Spinoza. Sit down. I'd like to go to Saint-Julien for a few days. Do you know Saint-Julien? It's an isolated little village. Some houses. On the Atlantic coast, in Landes. There's the sea, the pines and the sand... And the wind that blows the sand, and it's like nothing had an end. When I was a child I once went to Saint-Julien. I was walking alone in the dunes, trying to get lost. I thought I was born in the sand and was going to die there. I was feeling good. I thought living was like that back then. And that it was easy. Now I have to go back. Do you recognize that music, Mr. Spinoza? Of course, it's a tango. You know, Valérie... at my age..."
+      ],
+      "scene_length_chars": 2283,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012165146879851818,
+        0.00128364993724972,
+        0.007349876686930656,
+        0.01233309879899025,
+        0.0058879549615085125,
+        0.2026463747024536,
+        0.0041746958158910275,
+        0.3633009195327759,
+        0.0076309689320623875,
+        0.06662634015083313,
+        0.0008232237887568772,
+        0.0009584006038494408,
+        0.003235935466364026,
+        0.0010241103591397405,
+        0.001471061841584742,
+        0.0014998615952208638,
+        0.005602578166872263,
+        0.0032007878180593252,
+        0.0009547476656734943,
+        0.0029624588787555695,
+        0.004320507403463125,
+        0.0012954816920682788,
+        0.31523397564888,
+        0.0030287199188023806,
+        0.007787862326949835,
+        0.03634397312998772,
+        0.002525614108890295,
+        0.36984241008758545
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "realization"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "we learned to believe that we don't feel like saying what we feel like saying. And we also think it's great. The translucent hands of the Jew grind the lenses in the twilight. And the dying afternoon is fear and cold, and all afternoons are the same. The hands and the hyacinth-blue air that whitens at the Ghetto edges do not quite exist for this silent man who conjures up a clear labyrinth, undisturbed by fame, that reflection of dreams in the dream of another mirror, nor by maidens' timid love. Free of metaphor and myth, he grinds a stubborn crystal lens: the infinite map of the One who is all His stars. Yes. The One who is all His stars. Do you know that poem, Mr. Spinoza? Yes, of course. It's from a fellow librarian. Do you know Spinoza, Valérie? Yes, of course. Baruch de Spinoza was a small Jew grinding lenses in a suburb of The Hague. Hello. Valérie, I'm leaving. I have to go, Valérie. I have to be alone for a few days. I have to try to understand what's wrong with me. Don't ask me anything, please. Maybe you'll feel like waiting for me. Leave it, Luciana! Go away! Antonio! Here it is, Valeria. I finally found it. For you. It can't be. One moment, Antonio! Where are you going? Tell me what I owe you! - Nothing, Valeria. It's for you. - Please, Antonio! Excuse me, ma'am, can you help me? There's an injured woman in the woods. Come, please. Let's go. Come on. There's no one here. I'm leaving. Are you in a hurry? Don't ever lay a hand on me again. Didn't I tell you there was an injured woman in the woods? Monday we were supposed to start filming, you understand? Seven days from now! And today these guys come and tell me like it's nothing: \"Listen Durtain, you have to add two characters, delete the planetarium sequence and change the ending.\" I couldn't believe it! I talked to them all morning, but there's no point. They have nothing to say but that the money is theirs. Mathieu was right, you can't make movies with such idiots. Now they can take their sets and costumes and put them where the sun doesn't shine. I'm quitting everything. I get the script back and I take it with me. They won't see me again. Yes. His name's in the book. But I've never seen him. You can't not have seen him. An illusionist. A magician. But yes, Artaxerxès.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "we learned to believe that we don't feel like saying what we feel like saying. And we also think it's great. The translucent hands of the Jew grind the lenses in the twilight. And the dying afternoon is fear and cold, and all afternoons are the same. The hands and the hyacinth-blue air that whitens at the Ghetto edges do not quite exist for this silent man who conjures up a clear labyrinth, undisturbed by fame, that reflection of dreams in the dream of another mirror, nor by maidens' timid love. Free of metaphor and myth, he grinds a stubborn crystal lens: the infinite map of the One who is all His stars. Yes. The One who is all His stars. Do you know that poem, Mr. Spinoza? Yes, of course. It's from a fellow librarian. Do you know Spinoza, Valérie? Yes, of course. Baruch de Spinoza was a small Jew grinding lenses in a suburb of The Hague. Hello. Valérie, I'm leaving. I have to go, Valérie. I have to be alone for a few days. I have to try to understand what's wrong with me. Don't ask me anything, please. Maybe you'll feel like waiting for me. Leave it, Luciana! Go away! Antonio! Here it is, Valeria. I finally found it. For you. It can't be. One moment, Antonio! Where are you going? Tell me what I owe you! - Nothing, Valeria. It's for you. - Please, Antonio! Excuse me, ma'am, can you help me? There's an injured woman in the woods. Come, please. Let's go. Come on. There's no one here. I'm leaving. Are you in a hurry? Don't ever lay a hand on me again. Didn't I tell you there was an injured woman in the woods? Monday we were supposed to start filming, you understand? Seven days from now! And today these guys come and tell me like it's nothing: \"Listen Durtain, you have to add two characters, delete the planetarium sequence and change the ending.\" I couldn't believe it! I talked to them all morning, but there's no point. They have nothing to say but that the money is theirs. Mathieu was right, you can't make movies with such idiots. Now they can take their sets and costumes and put them where the sun doesn't shine. I'm quitting everything. I get the script back and I take it with me. They won't see me again. Yes. His name's in the book. But I've never seen him. You can't not have seen him. An illusionist. A magician. But yes, Artaxerxès."
+      ],
+      "scene_length_chars": 2273,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.003547810250893235,
+        0.0012505603954195976,
+        0.010588557459414005,
+        0.03522365912795067,
+        0.17947958409786224,
+        0.03459319844841957,
+        0.00596311641857028,
+        0.3588393032550812,
+        0.004946790169924498,
+        0.007985727861523628,
+        0.00496506504714489,
+        0.0005563435261137784,
+        0.0008163060992956161,
+        0.005396090913563967,
+        0.005968819838017225,
+        0.0011052829213440418,
+        0.004667394328862429,
+        0.000539805565495044,
+        0.0013963374076411128,
+        0.002843322232365608,
+        0.0024284084793180227,
+        0.0013827496441081166,
+        0.03635503724217415,
+        0.0012703873217105865,
+        0.002715777838602662,
+        0.0881873145699501,
+        0.026080869138240814,
+        0.42924395203590393
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "That's the one who shares Mr. Spinoza's room. - Spinoza? - Yes, Spinoza. A 50-year-old man, gray hair. He looks kind of sad. He left the hotel this morning. I think he was going on a trip. I can't find the key. Artaxerxès must be upstairs. He must have left. There he is. That's Artaxerxès. No way. That picture was always there. I came to Touraine, almost every year, to stay in my grandfather's village. He had arrived in Buenos Aires in 1896. My father was born there. Me too. After the accident... I was left alone. I was nine years old. They put me on an airplane. In Paris an old lady was waiting for me. My grandfather's sister. I like the house. She wanted me to keep it. I was going to tell you. A man I've never seen before stopped me near the observatory. He asked me to help someone injured in the woods. I followed him and all of a sudden he started hitting me with a branch. It's unbelievable, but that's what happened. I didn't tell anyone. I want to forget it. I want to tell you something and I don't dare. Monday I have to be at the observatory. Can't you stay one more day? It's not so serious, Valérie. I don't feel like going back. I'm coming with you. - Listen to me... - Stop babbling. Say what you want to tell me at once. Lucien, Valérie went to Landes with Spinoza. She told me so herself. I don't understand anymore. That boy kills himself, a charlatan beats me at poker, a madman steals a lot of money from me and burns it in front of me, and now I find out it was all the bookseller's setup. And Valérie, the only one that matters to me, is going with him. Not so long ago things were always happening in a way that I could foresee. Now I'm starting to think I never understood anything. But it can't be. It can't be! I need to talk to Valérie. - Are you staying here tonight? - Yes, sir. A journalist will be coming, to write an article. I told him he wasn't going to see anything extraordinary, but he insisted. Take it. Look at the pictures. Thank you. You can go, Jacques. See you tomorrow, Valérie. Does it interest you? Have you seen a man? Short. - A bit... - Yeah, I ran into him. Everything should be like that. Everything should be like a gift. Suddenly we have to offer ourselves to someone. And then everything that happens is a gift.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "That's the one who shares Mr. Spinoza's room. - Spinoza? - Yes, Spinoza. A 50-year-old man, gray hair. He looks kind of sad. He left the hotel this morning. I think he was going on a trip. I can't find the key. Artaxerxès must be upstairs. He must have left. There he is. That's Artaxerxès. No way. That picture was always there. I came to Touraine, almost every year, to stay in my grandfather's village. He had arrived in Buenos Aires in 1896. My father was born there. Me too. After the accident... I was left alone. I was nine years old. They put me on an airplane. In Paris an old lady was waiting for me. My grandfather's sister. I like the house. She wanted me to keep it. I was going to tell you. A man I've never seen before stopped me near the observatory. He asked me to help someone injured in the woods. I followed him and all of a sudden he started hitting me with a branch. It's unbelievable, but that's what happened. I didn't tell anyone. I want to forget it. I want to tell you something and I don't dare. Monday I have to be at the observatory. Can't you stay one more day? It's not so serious, Valérie. I don't feel like going back. I'm coming with you. - Listen to me... - Stop babbling. Say what you want to tell me at once. Lucien, Valérie went to Landes with Spinoza. She told me so herself. I don't understand anymore. That boy kills himself, a charlatan beats me at poker, a madman steals a lot of money from me and burns it in front of me, and now I find out it was all the bookseller's setup. And Valérie, the only one that matters to me, is going with him. Not so long ago things were always happening in a way that I could foresee. Now I'm starting to think I never understood anything. But it can't be. It can't be! I need to talk to Valérie. - Are you staying here tonight? - Yes, sir. A journalist will be coming, to write an article. I told him he wasn't going to see anything extraordinary, but he insisted. Take it. Look at the pictures. Thank you. You can go, Jacques. See you tomorrow, Valérie. Does it interest you? Have you seen a man? Short. - A bit... - Yeah, I ran into him. Everything should be like that. Everything should be like a gift. Suddenly we have to offer ourselves to someone. And then everything that happens is a gift."
+      ],
+      "scene_length_chars": 2275,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0018983891932293773,
+        0.002298573264852166,
+        0.012659333646297455,
+        0.31941211223602295,
+        0.01353569608181715,
+        0.00913095474243164,
+        0.020851900801062584,
+        0.08268982172012329,
+        0.012355051934719086,
+        0.0327802337706089,
+        0.0977763757109642,
+        0.000632762850727886,
+        0.0014504105783998966,
+        0.002220605732873082,
+        0.010744568891823292,
+        0.2423679232597351,
+        0.014779724180698395,
+        0.00066341896308586,
+        0.0017529843607917428,
+        0.009981134906411171,
+        0.010401713661849499,
+        0.0011393292807042599,
+        0.05159455165266991,
+        0.0022754811216145754,
+        0.0009108302183449268,
+        0.24364842474460602,
+        0.10024812817573547,
+        0.1321256160736084
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "sadness",
+        "gratitude"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "Yes, it's true. Everything should be like that. From now on we'll only have gifts. We're gonna take out that crazy museum where you're wasting your life, that senile bookseller, that sinister guy who hit you in the woods. and that fat idiot Artaxerxès you don't know and who ignores you. How do you know all that? Don't worry about it anymore. Never again. I'll pick you up at noon! I'm staying here. Mr. Moreau! Mr. Moreau, Miss Valérie isn't here. What time did she leave? She didn't leave. The thing is, she didn't come back, Mr. Moreau. She called in the evening. Whatever you tell me will remain between us. Durtain has been missing since yesterday at noon, and the police wants to interrogate Spinoza. He's a friend and I want to help him. Can you tell me where he was last night? With me. I don't understand what happened tonight. I'd rather we didn't see each other anymore. I must seem a little strange to you, but I love a man. Spinoza's not here, is he? The old man is never here! He should stay home and drink his tea. He could be dead by now, the old fool. Sir, please! Come to the observatory. Come right away. The Meudon Observatory. Yes, I'll wait. Spinoza. Roger Spinoza. Why are they taking you away? I told them it wasn't you because you had spent the night with me. They know it's not true. They know that all night Valérie was with a man. They know I killed her this morning. I don't care what happens now. You shouldn't be surprised to see me here. I know you didn't kill Valérie. How do you know? Because I'm the one who killed her. And having killed her, it's too unbearable for me to bear with another man accusing himself of her death. I was expecting you, Moreau. Here I am. Now you're free. But what actually happened? Tell me. I looked for you and you were nowhere to be found. Men appeared who no one had ever seen and then disappeared. I've been all those men. I was the one who discovered himself in the mirrors. I've been the magician Artaxerxès. I was the madman who killed Valérie. I've been Valérie's other lover and the deceived lover was also me. After my son's death I went from being one man to becoming another and then another. It wasn't my choice: all that was happening to me and I was being dragged along. Suddenly I was someone else.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yes, it's true. Everything should be like that. From now on we'll only have gifts. We're gonna take out that crazy museum where you're wasting your life, that senile bookseller, that sinister guy who hit you in the woods. and that fat idiot Artaxerxès you don't know and who ignores you. How do you know all that? Don't worry about it anymore. Never again. I'll pick you up at noon! I'm staying here. Mr. Moreau! Mr. Moreau, Miss Valérie isn't here. What time did she leave? She didn't leave. The thing is, she didn't come back, Mr. Moreau. She called in the evening. Whatever you tell me will remain between us. Durtain has been missing since yesterday at noon, and the police wants to interrogate Spinoza. He's a friend and I want to help him. Can you tell me where he was last night? With me. I don't understand what happened tonight. I'd rather we didn't see each other anymore. I must seem a little strange to you, but I love a man. Spinoza's not here, is he? The old man is never here! He should stay home and drink his tea. He could be dead by now, the old fool. Sir, please! Come to the observatory. Come right away. The Meudon Observatory. Yes, I'll wait. Spinoza. Roger Spinoza. Why are they taking you away? I told them it wasn't you because you had spent the night with me. They know it's not true. They know that all night Valérie was with a man. They know I killed her this morning. I don't care what happens now. You shouldn't be surprised to see me here. I know you didn't kill Valérie. How do you know? Because I'm the one who killed her. And having killed her, it's too unbearable for me to bear with another man accusing himself of her death. I was expecting you, Moreau. Here I am. Now you're free. But what actually happened? Tell me. I looked for you and you were nowhere to be found. Men appeared who no one had ever seen and then disappeared. I've been all those men. I was the one who discovered himself in the mirrors. I've been the magician Artaxerxès. I was the madman who killed Valérie. I've been Valérie's other lover and the deceived lover was also me. After my son's death I went from being one man to becoming another and then another. It wasn't my choice: all that was happening to me and I was being dragged along. Suddenly I was someone else."
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0006256006308831275,
+        0.0004435778537299484,
+        0.06370039284229279,
+        0.010356410406529903,
+        0.003344109980389476,
+        0.042890071868896484,
+        0.009916224516928196,
+        0.42760467529296875,
+        0.009367906488478184,
+        0.032134901732206345,
+        0.0024018341209739447,
+        0.0016448866808786988,
+        0.009294564835727215,
+        0.0008281345362775028,
+        0.006671711802482605,
+        0.0003373870567884296,
+        0.0025984866078943014,
+        0.0003621191717684269,
+        0.1302058845758438,
+        0.005248468369245529,
+        0.0018712691962718964,
+        0.00038798482273705304,
+        0.1715657114982605,
+        0.0003237455675844103,
+        0.001912066712975502,
+        0.009724031202495098,
+        0.002372492803260684,
+        0.3603385388851166
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "realization"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "And you should know all that. You were a witness. I don't know what those who I have been wanted. I don't know if other men are waiting for me. I don't know if I myself, here, Spinoza, am one of the others. Now Valérie is dead. Here or there... I don't care where I'll be to remember her. No. Now you have to go. I know that everything you've told me is true. It's strange. Valérie's death, and you, those are the only real things that have happened to me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And you should know all that. You were a witness. I don't know what those who I have been wanted. I don't know if other men are waiting for me. I don't know if I myself, here, Spinoza, am one of the others. Now Valérie is dead. Here or there... I don't care where I'll be to remember her. No. Now you have to go. I know that everything you've told me is true. It's strange. Valérie's death, and you, those are the only real things that have happened to me."
+      ],
+      "scene_length_chars": 456,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.0014841315569356084,
+        0.000558024737983942,
+        0.0011099026305601,
+        0.0022400931920856237,
+        0.35776636004447937,
+        0.005769519601017237,
+        0.07654140889644623,
+        0.037763308733701706,
+        0.001218966324813664,
+        0.008585914969444275,
+        0.0008610966615378857,
+        0.0005364326061680913,
+        0.0003325018915347755,
+        0.0011990835191681981,
+        0.0023020412772893906,
+        0.00015416332462336868,
+        0.007061053067445755,
+        0.00023542500275652856,
+        0.000555479375179857,
+        0.003598600160330534,
+        0.004684533923864365,
+        0.002673880895599723,
+        0.6974043846130371,
+        0.0030565056949853897,
+        0.0022605741396546364,
+        0.08345785737037659,
+        0.017807241529226303,
+        0.18432845175266266
+      ],
+      "goemotions_topk": [
+        "realization",
+        "approval",
+        "neutral"
+      ],
+      "goemotions_label": "realization",
+      "goemotions_labels": [
+        "approval",
+        "realization"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 10,
+    "lines_per_scene_fallback": 20
+  }
+}

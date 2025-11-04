@@ -1,0 +1,1249 @@
+{
+  "source_file": "Prisoners _2013_ - full transcript.txt",
+  "title": "Prisoners",
+  "year": "2013",
+  "meta_description": null,
+  "num_scenes": 24,
+  "avg_scene_chars": 2230,
+  "characters": [
+    "KELLER",
+    "NANCY"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "KELLER: Our Father, who art in heaven, hallowed be thy name. Thy kingdom come... ...thy will be done, on earth as it is in heaven. Give us this day our daily bread... ...and forgive us our trespasses... ...as we forgive those who trespass against us. Lead us not into temptation... ...but deliver us from evil. For the kingdom, the power and the glory are yours... ...now and forever. Amen. (BIRD SQUAWKING) (THUNDER RUMBLES) WEATHERMAN: Looking at mostly cloudy skies and with lows in the upper 20s... ...there will be some refreeze on some of the roads... ...so slick spots are possible tonight in isolated... You know the most important thing your granddad ever taught me? Hmm? Be ready. Hurricane, flood, whatever it ends up being. No more food gets delivered to the grocery store, gas stations dry up. People just turn on each other, and, uh... All of a sudden, all that stands between you and being dead is you. I'm proud of you, son. It was a nice shot. (GENE MacLELLAN'S \"PUT YOUR HAND IN THE HAND\" PLAYING OVER THE RADIO) Put your hand in the hand of the man Who stilled the water Put your hand in the hand of the man Who calmed the sea Take a look at yourself And you can look at others differently (DOG BARKING) Every time I look into the holy book I wanna tremble GRACE: Hey, come on, hon. (ANNA HUMMING) GRACE: Wait. I forgot something. Hold on a second, Anna! KELLER: Ralph, you have the venison? RALPH: Yup. GRACE: I forgot the pie. (ANNA CONTINUES HUMMING) Are we taking the truck? We're going up the street, you dope. Come on. GRACE: Hey, wait for your mother, please. Give me a ride. KELLER: Oh, you're getting heavy. RALPH: Danny's dad said he'd sell me their old car. I got half of what I need saved from the summer. - I thought maybe... - Forget it. I can barely get enough carpentry work to keep up with the mortgage. Why don't you rent out Grandpa's old apartment house? (GRACE CHUCKLES) Like I keep telling your mother, it's an old building. It'll cost a fortune to fix it up. KELLER: Oh. (RALPH COUGHS) (DOORBELL RINGING) KELLER: Hey. GRACE: Okay, okay. NANCY: They're here! (CLASSICAL MUSIC PLAYING FROM SPEAKER) GRACE: - Hello. - Happy Thanksgiving. KELLER: Anna, wait until we're invited. For God's sake, Keller. Get the hell in here.",
+      "characters": [
+        "KELLER"
+      ],
+      "dialogues": [
+        {
+          "speaker": "KELLER",
+          "text": "Our Father, who art in heaven, hallowed be thy name. Thy kingdom come... ...thy will be done, on earth as it is in heaven. Give us this day our daily bread... ...and forgive us our trespasses... ...as we forgive those who trespass against us. Lead us not into temptation... ...but deliver us from evil. For the kingdom, the power and the glory are yours... ...now and forever. Amen.   WEATHERMAN: Looking at mostly cloudy skies and with lows in the upper 20s... ...there will be some refreeze on some of the roads... ...so slick spots are possible tonight in isolated... You know the most important thing your granddad ever taught me? Hmm? Be ready. Hurricane, flood, whatever it ends up being. No more food gets delivered to the grocery store, gas stations dry up. People just turn on each other, and, uh... All of a sudden, all that stands between you and being dead is you. I'm proud of you, son. It was a nice shot.  Put your hand in the hand of the man Who stilled the water Put your hand in the hand of the man Who calmed the sea Take a look at yourself And you can look at others differently  Every time I look into the holy book I wanna tremble GRACE: Hey, come on, hon.  GRACE: Wait. I forgot something. Hold on a second, Anna! KELLER: Ralph, you have the venison? RALPH: Yup. GRACE: I forgot the pie.  Are we taking the truck? We're going up the street, you dope. Come on. GRACE: Hey, wait for your mother, please. Give me a ride. KELLER: Oh, you're getting heavy. RALPH: Danny's dad said he'd sell me their old car. I got half of what I need saved from the summer. - I thought maybe... - Forget it. I can barely get enough carpentry work to keep up with the mortgage. Why don't you rent out Grandpa's old apartment house?  Like I keep telling your mother, it's an old building. It'll cost a fortune to fix it up. KELLER: Oh.   KELLER: Hey. GRACE: Okay, okay. NANCY: They're here!  GRACE: - Hello. - Happy Thanksgiving. KELLER: Anna, wait until we're invited. For God's sake, Keller. Get the hell in here."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2262,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0865568295121193,
+        0.011241118423640728,
+        0.023714041337370872,
+        0.14464902877807617,
+        0.007384998723864555,
+        0.014788996428251266,
+        0.004071446601301432,
+        0.0013334801187738776,
+        0.014459297992289066,
+        0.022329188883304596,
+        0.006819697562605143,
+        0.002816100837662816,
+        0.006821518763899803,
+        0.05793902277946472,
+        0.0058946493081748486,
+        0.06635488569736481,
+        0.011512894183397293,
+        0.008594431914389133,
+        0.006744943093508482,
+        0.0011600741418078542,
+        0.052905455231666565,
+        0.3189564645290375,
+        0.31636232137680054,
+        0.023434244096279144,
+        0.005663570016622543,
+        0.002876059850677848,
+        0.010247387923300266,
+        0.11269187182188034
+      ],
+      "goemotions_topk": [
+        "pride",
+        "realization",
+        "annoyance"
+      ],
+      "goemotions_label": "pride",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "(FRANKLIN YELLS THEN GIRLS SCREAMS) (FRANKLIN LAUGHS) RALPH: - Happy Thanksgiving. - Happy Turkey Day. - Keller, got the deer you shot? - This one's Ralph's. - You killed it, you take it into the kitchen. - Thank you. FRANKLIN: I loved that last meal you gave us. KELLER: There he is. - Thank you. Happy T-Day. KELLER: - How are you? NANCY: All right. KELLER: Good to see you. NANCY: Joy, three times. Joy, get those dolls off the table. KELLER: Anna! Anna! ELIZA: Hi. How are you? KELLER: Happy Thanksgiving. - Hi, Eliza. - Anna, come here. We wait until we're invited, you understand? NANCY: You're in charge of this. Us veterinarians make lousy butchers. No problem. ANNA: Can I go outside with Joy? Uh, convince your brother to go with you and you can. And wear a hat, please. You're just getting over a cold. Joy, you wear a hat too. ELIZA: Did you feel bad for that deer when you shot it? RALPH: Do you feel bad for cows when you go to McDonald's? That's what my dad says. Deer, if they have too many babies... ...the babies starve anyway. You gotta keep the population down. Right. - Your dad say that too? JOY: - Pull harder. Hey! Get away from that thing! Let me see that. - Come on, let's go. - No. RALPH: I said, let's go! ELIZA: Stop. Stop. You can't just hit somebody's stuff like that. - No! Let's go! Come on, come on. - Let me...! Wait. You hear that? Somebody's in there. I don't feel like getting yelled at. Let's go. Don't climb up, okay? (\"PUT YOUR HAND IN THE HAND\" CONTINUES PLAYING OVER THE RADIO) (RALPH & ANNA INDISTINCTLY CHATTERING) And it causes me shame to know We're not the people we should be FRANKLIN: The school board's telling me there's no money for new band uniforms. Kids are wearing the same uniforms they had when we went there. They were old then. I mean, marching right out of 1979. Why isn't he speaking to me? He doesn't speak. - Cutie pie. - Mm-hm. - Oh, my gosh! - Whoa. - He's fast too. - Mm. He's so quick. Is that a slide? FRANKLIN: Thank y'all. Thank y'all. Got a surprise. NANCY: Oh. And I am taking requests. - Yes! Yes. - No. (ALL LAUGHING) Okay. You gotta listen out for it because this is not easy. Mommy, can I take Joy to our house? - Why? - My red whistle. She's gonna help me look for it. Sweetheart, I think that red whistle is long gone.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "RALPH: - Happy Thanksgiving. - Happy Turkey Day. - Keller, got the deer you shot? - This one's Ralph's. - You killed it, you take it into the kitchen. - Thank you. FRANKLIN: I loved that last meal you gave us. KELLER: There he is. - Thank you. Happy T-Day. KELLER: - How are you? NANCY: All right. KELLER: Good to see you. NANCY: Joy, three times. Joy, get those dolls off the table. KELLER: Anna! Anna! ELIZA: Hi. How are you? KELLER: Happy Thanksgiving. - Hi, Eliza. - Anna, come here. We wait until we're invited, you understand? NANCY: You're in charge of this. Us veterinarians make lousy butchers. No problem. ANNA: Can I go outside with Joy? Uh, convince your brother to go with you and you can. And wear a hat, please. You're just getting over a cold. Joy, you wear a hat too. ELIZA: Did you feel bad for that deer when you shot it? RALPH: Do you feel bad for cows when you go to McDonald's? That's what my dad says. Deer, if they have too many babies... ...the babies starve anyway. You gotta keep the population down. Right. - Your dad say that too? JOY: - Pull harder. Hey! Get away from that thing! Let me see that. - Come on, let's go. - No. RALPH: I said, let's go! ELIZA: Stop. Stop. You can't just hit somebody's stuff like that. - No! Let's go! Come on, come on. - Let me...! Wait. You hear that? Somebody's in there. I don't feel like getting yelled at. Let's go. Don't climb up, okay?   And it causes me shame to know We're not the people we should be FRANKLIN: The school board's telling me there's no money for new band uniforms. Kids are wearing the same uniforms they had when we went there. They were old then. I mean, marching right out of 1979. Why isn't he speaking to me? He doesn't speak. - Cutie pie. - Mm-hm. - Oh, my gosh! - Whoa. - He's fast too. - Mm. He's so quick. Is that a slide? FRANKLIN: Thank y'all. Thank y'all. Got a surprise. NANCY: Oh. And I am taking requests. - Yes! Yes. - No.  Okay. You gotta listen out for it because this is not easy. Mommy, can I take Joy to our house? - Why? - My red whistle. She's gonna help me look for it. Sweetheart, I think that red whistle is long gone."
+      ],
+      "scene_length_chars": 2298,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3443089723587036,
+        0.0033463870640844107,
+        0.03935365006327629,
+        0.10195555537939072,
+        0.004248459357768297,
+        0.21873536705970764,
+        0.015493198297917843,
+        0.08531519025564194,
+        0.008453168906271458,
+        0.024758733808994293,
+        0.008767309598624706,
+        0.003581820521503687,
+        0.012433093041181564,
+        0.16291071474552155,
+        0.020629175007343292,
+        0.4594455659389496,
+        0.005862727295607328,
+        0.20530766248703003,
+        0.2072930634021759,
+        0.008867970667779446,
+        0.015360889956355095,
+        0.01783967949450016,
+        0.016757620498538017,
+        0.018334651365876198,
+        0.003028933657333255,
+        0.0075805759988725185,
+        0.2518322765827179,
+        0.008881626650691032
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "surprise"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "NANCY: What whistle? The emergency whistle Daddy gave me. I lost it... ...a hundred and 33 days ago. Well, if you want to find a whistle, you have to whistle for it. So we'll do \"Jingle Bells\" to find it. (FRANKLIN WHISTLING \"JINGLE BELLS\") BOTH: (SINGING) Jingle Bells, Batman smells Robin laid an egg The Batmobile lost its wheel And Joker got away KELLER: Okay. GRACE: Yay! Okay! Okay. You can go. All right. Just make sure Eliza and Ralph go with you, please. - No looking in the basement. - I won't. Your eardrums are starting to grow. Don't want to damage them yet. - But I am taking requests from you, Keller. - From me? FRANKLIN: - Your day, your request. - Oh. Uh, the piano. FRANKLIN: - No. So all set? - No, no, no. Wait, listen. He used to love... He used to dress like Springsteen. KELLER: I still love Springsteen. GRACE: \"Jersey Girl.\" Well, I ain't white, and I like him too much, and I'm too drunk to cover The Boss. - Thank you. FRANKLIN: - Honey? GRACE: - What else? - Nothing comes to mind. Nothing. GRACE: Oh, I know. KELLER: What? He actually loves \"The Star-Spangled Banner.\" I know. Sings it in the shower. - I do not. - Yes, you do! FRANKLIN: I got you. (PLAYING \"THE STAR-SPANGLED BANNER\") (CHATTERING ON TV) Where are your sisters? I can't find them. You, uh, go to the house with them? No. What are you talking about? - Earlier? - No. What? They were supposed to come down earlier and get you. They didn't come? No. We haven't seen them since we ate. It's all right. They're probably at our house. (DOG BARKING) KELLER: Anna? Joy? Anna? Girls? Girls? - Who put these in here? - Get out of here. - They weren't outside. It's starting to rain. - Did you check by Maria's swing? Yeah. They're getting whupped when they get here. Sorry, Grace. I whup kids. What? So they weren't there either? - They must be at home. KELLER: - Are they here? - They weren't there? - No, they're not at the house. They're not there. ELIZA: I checked the entire house. They're not here. The RV. Dad, there was this RV and they were playing on it. There was... We thought there was someone inside. FRANKLIN: - Wait, nobody... - Where? Where was it? Show me. - You wait here. NANCY: - Let me go! - I'm gonna search the house again. FRANKLIN: - Relax. Relax. KELLER: Go that way. I'll meet you on the other side.",
+      "characters": [
+        "NANCY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "NANCY",
+          "text": "What whistle? The emergency whistle Daddy gave me. I lost it... ...a hundred and 33 days ago. Well, if you want to find a whistle, you have to whistle for it. So we'll do \"Jingle Bells\" to find it.  BOTH:  Jingle Bells, Batman smells Robin laid an egg The Batmobile lost its wheel And Joker got away KELLER: Okay. GRACE: Yay! Okay! Okay. You can go. All right. Just make sure Eliza and Ralph go with you, please. - No looking in the basement. - I won't. Your eardrums are starting to grow. Don't want to damage them yet. - But I am taking requests from you, Keller. - From me? FRANKLIN: - Your day, your request. - Oh. Uh, the piano. FRANKLIN: - No. So all set? - No, no, no. Wait, listen. He used to love... He used to dress like Springsteen. KELLER: I still love Springsteen. GRACE: \"Jersey Girl.\" Well, I ain't white, and I like him too much, and I'm too drunk to cover The Boss. - Thank you. FRANKLIN: - Honey? GRACE: - What else? - Nothing comes to mind. Nothing. GRACE: Oh, I know. KELLER: What? He actually loves \"The Star-Spangled Banner.\" I know. Sings it in the shower. - I do not. - Yes, you do! FRANKLIN: I got you.   Where are your sisters? I can't find them. You, uh, go to the house with them? No. What are you talking about? - Earlier? - No. What? They were supposed to come down earlier and get you. They didn't come? No. We haven't seen them since we ate. It's all right. They're probably at our house.  KELLER: Anna? Joy? Anna? Girls? Girls? - Who put these in here? - Get out of here. - They weren't outside. It's starting to rain. - Did you check by Maria's swing? Yeah. They're getting whupped when they get here. Sorry, Grace. I whup kids. What? So they weren't there either? - They must be at home. KELLER: - Are they here? - They weren't there? - No, they're not at the house. They're not there. ELIZA: I checked the entire house. They're not here. The RV. Dad, there was this RV and they were playing on it. There was... We thought there was someone inside. FRANKLIN: - Wait, nobody... - Where? Where was it? Show me. - You wait here. NANCY: - Let me go! - I'm gonna search the house again. FRANKLIN: - Relax. Relax. KELLER: Go that way. I'll meet you on the other side."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.013276263140141964,
+        0.0026139654219150543,
+        0.01072781253606081,
+        0.0009449624922126532,
+        0.011356699280440807,
+        0.0398680754005909,
+        0.005576875060796738,
+        0.2916457951068878,
+        0.005852319300174713,
+        0.0015251971781253815,
+        0.005607356783002615,
+        0.0023412590380758047,
+        0.0025098726619035006,
+        0.011793320067226887,
+        0.013257197104394436,
+        0.2930506765842438,
+        0.02051727846264839,
+        0.001716415397822857,
+        0.5612342953681946,
+        0.0010610588360577822,
+        0.0023422904778271914,
+        0.005751542281359434,
+        0.004964105319231749,
+        0.002345025772228837,
+        0.0899907574057579,
+        0.01681584306061268,
+        0.004872614983469248,
+        0.06301605701446533
+      ],
+      "goemotions_topk": [
+        "love",
+        "gratitude",
+        "curiosity"
+      ],
+      "goemotions_label": "love",
+      "goemotions_labels": [
+        "love"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Anna? FRANKLIN: Joy! (THUNDER RUMBLING) - Roger, you seen my daughter walk by here? - No. ls there a problem? KELLER: Anna? RALPH: Here! Dad, it was parked right here. KELLER: Anna? Anna? - Hello, hello! FRANKLIN: - Did you see them? RALPH: - No! - Hello! - I couldn't find them! - Were you messing around in this house? RALPH: - No. - Told you not to come here. They were on the RV and we got them off of it. Tell me everything you remember about that RV. - A ladder on the back. - Police, police. Happy Thanksgiving. LOKI: Thanks. Hey, you have any of those fortune cookie things? My boss told me cops don't like fortune cookies. What year were you born? Are you a dragon or a snake or a horse, or...? I'm a monkey. Oh, you're a monkey. You're very intelligent. You have an ability to influence people. Think you could influence your boss to lower the check a little bit? No. I cannot. My boss is a rooster. So he's selfish and eccentric, that's... (CELL PHONE BUZZING) DISPATCHER: All units, all units. An RV was reported matching the description. The vehicle is parked at a rest stop off of Route 46, northbound, past exit 17. Any available units? POLICEMAN 1: (OVER RADIO) This is 12-12 responding. POLICEMAN 2: (OVER RADIO) 10-80 responding. This is 13-40. I'm five minutes out. I'll meet the responding units. POLICEMAN 1: 12-12 standing by. POLICEMAN 2: 10-80 standing by. 13-40. I am on-scene. Be advised, we are moving in. (ENGINE REVVING) LOKI: Don't move, wait! Whoa. Whoa! POLICEMAN 1: Watch out! LOKI: Hey! Don't shoot! Don't shoot! Don't shoot! Don't shoot! LOKI: All right, Sloan, take the right! POLICEMAN 1: Clear! POLICEMAN 2: Clear! Hey! Wait, wait, wait. I got this. Give me that. Hey. Hey, I see you in there. Show me both your hands right now. Hey! I see you in there. Show me your hands! Both hands right now! Nice and slow. Slow. Slow! Slow. Slowly. Both hands. Both fucking hands! (GRUNTING) LOKI: Walk! Walk! Walk! Get up! Get up! Get up! Show me those girls! Show me where you put those girls. Where are those girls? Where are those girls? - Give me the flashlight. POLICEMAN 1: - Sir. Show me where those girls... They in the woods? You put them in the woods? Where did you put those girls? You hear me? What the fuck is this guy on? No, he's high on something. Put this fucking guy in the car.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Anna? FRANKLIN: Joy!  - Roger, you seen my daughter walk by here? - No. ls there a problem? KELLER: Anna? RALPH: Here! Dad, it was parked right here. KELLER: Anna? Anna? - Hello, hello! FRANKLIN: - Did you see them? RALPH: - No! - Hello! - I couldn't find them! - Were you messing around in this house? RALPH: - No. - Told you not to come here. They were on the RV and we got them off of it. Tell me everything you remember about that RV. - A ladder on the back. - Police, police. Happy Thanksgiving. LOKI: Thanks. Hey, you have any of those fortune cookie things? My boss told me cops don't like fortune cookies. What year were you born? Are you a dragon or a snake or a horse, or...? I'm a monkey. Oh, you're a monkey. You're very intelligent. You have an ability to influence people. Think you could influence your boss to lower the check a little bit? No. I cannot. My boss is a rooster. So he's selfish and eccentric, that's...  DISPATCHER: All units, all units. An RV was reported matching the description. The vehicle is parked at a rest stop off of Route 46, northbound, past exit 17. Any available units? POLICEMAN 1:  This is 12-12 responding. POLICEMAN 2:  10-80 responding. This is 13-40. I'm five minutes out. I'll meet the responding units. POLICEMAN 1: 12-12 standing by. POLICEMAN 2: 10-80 standing by. 13-40. I am on-scene. Be advised, we are moving in.  LOKI: Don't move, wait! Whoa. Whoa! POLICEMAN 1: Watch out! LOKI: Hey! Don't shoot! Don't shoot! Don't shoot! Don't shoot! LOKI: All right, Sloan, take the right! POLICEMAN 1: Clear! POLICEMAN 2: Clear! Hey! Wait, wait, wait. I got this. Give me that. Hey. Hey, I see you in there. Show me both your hands right now. Hey! I see you in there. Show me your hands! Both hands right now! Nice and slow. Slow. Slow! Slow. Slowly. Both hands. Both fucking hands!  LOKI: Walk! Walk! Walk! Get up! Get up! Get up! Show me those girls! Show me where you put those girls. Where are those girls? Where are those girls? - Give me the flashlight. POLICEMAN 1: - Sir. Show me where those girls... They in the woods? You put them in the woods? Where did you put those girls? You hear me? What the fuck is this guy on? No, he's high on something. Put this fucking guy in the car."
+      ],
+      "scene_length_chars": 2323,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.08662310987710953,
+        0.4311838150024414,
+        0.3283407390117645,
+        0.01582922600209713,
+        0.003184183267876506,
+        0.09575062245130539,
+        0.01500863116234541,
+        0.2980023920536041,
+        0.012992464005947113,
+        0.000867950904648751,
+        0.018677907064557076,
+        0.009814227931201458,
+        0.0015190438134595752,
+        0.007989581674337387,
+        0.006437297910451889,
+        0.3045061528682709,
+        0.003378702327609062,
+        0.009960652329027653,
+        0.011866592802107334,
+        0.001129336073063314,
+        0.0036635359283536673,
+        0.0008842924726195633,
+        0.0023869103752076626,
+        0.0009370672632940114,
+        0.0016417779261246324,
+        0.0010265186429023743,
+        0.018923800438642502,
+        0.16638129949569702
+      ],
+      "goemotions_topk": [
+        "amusement",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "amusement",
+      "goemotions_labels": [
+        "amusement"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "Get him in the car. - Put him in the fucking car! Walk! - Let's go. Hey, call P.S.P., tell them to send their scent dogs. And seal off the whole area. The entrance, all of it. POLICEMAN 1: - Right. - You, come with me. LOKI: No, they weren't playing on your RV? No. (LOKI GASPS THEN SIGHS) Okay, take a look at them again. - Don't recognize these girls? - I didn't see them. May I sit down? LOKI: What do you do in the RV? - Answer my questions. ALEX: - Sleep there. LOKI: You sleep in there? You were sleeping out there? In the day? Why was the RV parked outside the house? Hmm... I went for a drive? You went for a drive? You weren't driving. I know girls were playing outside your RV. You weren't driving. It was parked. Was it a special day? - Were you planning on taking two little girls? - No. - Have you done that before? - No. LOKI: Did you ask them to come inside? ALEX: No. LOKI: You ask them to come in... - ...and then you take them away? ALEX: - No. LOKI: - You put those girls somewhere? - May I sit? - Come on. - Please don't touch me. I know you put those girls somewhere. - You hide them? - No. How did you hide them. Did you tie them up? - Did you tie them up? - Hmm. Huh? Hey. Hey. Hey. Look, I know you're a good guy. I know you're a decent guy. I'm not telling you you're doing anything bad. I'm just trying to get the right answers. The real ones. That's all I want. Where do you usually park your RV, Alex? My aunt's house. LOKI: Your aunt's house? ALEX: She lets me park it in the back yard. Grass don't grow back there anyway. AUNT: It was my husband's. For sale, if you want it. No, thanks. Would you tell me what you're doing on my property then? I'm just glad to know where he is. He's always home before dark, and... ...I just don't understand. That boy has never been in trouble, not a day in his life. In the summertime, he sleeps out in the camper some, but... ...this time of year he sleeps in here on the sofa bed. That's my husband. We had a fight, jeez, five years ago. Walked out, didn't come back. Alex loved him like a father. LOKI: Where are Alex's real parents? My husband's brother and his girlfriend... ...they died in a car accident when Alex was about 6. LOKI: Sorry to hear that. He doesn't have much. What have you got? Well, this thing's clean.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Get him in the car. - Put him in the fucking car! Walk! - Let's go. Hey, call P.S.P., tell them to send their scent dogs. And seal off the whole area. The entrance, all of it. POLICEMAN 1: - Right. - You, come with me. LOKI: No, they weren't playing on your RV? No.  Okay, take a look at them again. - Don't recognize these girls? - I didn't see them. May I sit down? LOKI: What do you do in the RV? - Answer my questions. ALEX: - Sleep there. LOKI: You sleep in there? You were sleeping out there? In the day? Why was the RV parked outside the house? Hmm... I went for a drive? You went for a drive? You weren't driving. I know girls were playing outside your RV. You weren't driving. It was parked. Was it a special day? - Were you planning on taking two little girls? - No. - Have you done that before? - No. LOKI: Did you ask them to come inside? ALEX: No. LOKI: You ask them to come in... - ...and then you take them away? ALEX: - No. LOKI: - You put those girls somewhere? - May I sit? - Come on. - Please don't touch me. I know you put those girls somewhere. - You hide them? - No. How did you hide them. Did you tie them up? - Did you tie them up? - Hmm. Huh? Hey. Hey. Hey. Look, I know you're a good guy. I know you're a decent guy. I'm not telling you you're doing anything bad. I'm just trying to get the right answers. The real ones. That's all I want. Where do you usually park your RV, Alex? My aunt's house. LOKI: Your aunt's house? ALEX: She lets me park it in the back yard. Grass don't grow back there anyway. AUNT: It was my husband's. For sale, if you want it. No, thanks. Would you tell me what you're doing on my property then? I'm just glad to know where he is. He's always home before dark, and... ...I just don't understand. That boy has never been in trouble, not a day in his life. In the summertime, he sleeps out in the camper some, but... ...this time of year he sleeps in here on the sofa bed. That's my husband. We had a fight, jeez, five years ago. Walked out, didn't come back. Alex loved him like a father. LOKI: Where are Alex's real parents? My husband's brother and his girlfriend... ...they died in a car accident when Alex was about 6. LOKI: Sorry to hear that. He doesn't have much. What have you got? Well, this thing's clean."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.007537368219345808,
+        0.7785666584968567,
+        0.012512486428022385,
+        0.004069281741976738,
+        0.009969960898160934,
+        0.08497816324234009,
+        0.014208001084625721,
+        0.43317508697509766,
+        0.003770614042878151,
+        0.0021323717664927244,
+        0.016650676727294922,
+        0.004092718940228224,
+        0.0012838750844821334,
+        0.0031793557573109865,
+        0.0008388413698412478,
+        0.002902764594182372,
+        0.020049961283802986,
+        0.20862166583538055,
+        0.02772645652294159,
+        0.0004908248083665967,
+        0.013677862472832203,
+        0.0012647504918277264,
+        0.030971363186836243,
+        0.0119199613109231,
+        0.014867505989968777,
+        0.024364367127418518,
+        0.0025243975687772036,
+        0.0970953181385994
+      ],
+      "goemotions_topk": [
+        "amusement",
+        "curiosity",
+        "joy"
+      ],
+      "goemotions_label": "amusement",
+      "goemotions_labels": [
+        "amusement",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "I mean, it's filthy as shit, but we didn't find anything. You didn't find any wool fibers, anything like that? The girls could be wearing some wool gloves or wool hat, no cotton fibers? If he was using this to transport them, I might buy that. But if there had been a struggle, I would have found something. I'd start looking in the woods by the rest stop. Yeah, half the uniformed cops in the state are doing that right now. When you're done with this thing, can you send a crew over to the aunt's house? (INDISTINCT CHATTERING) Anna? Anna? FRANKLIN: Thanks for coming. Franklin Birch. My wife's in here. Honey? Her name's Nancy. Detective Loki is... Honey? These photos are better than the ones my husband gave you. You can see her eyes more clearly. GRACE: So did we pass? I'm sorry, what did you say? The poly thing, the lie detector we took this morning. Did we pass? Oh, yeah. Sorry. Yes. We appreciate your cooperation. It's embarrassing, all the... All this fuss. Everyone's gonna think we're crazy... ...when those two come out of hiding, wherever they are. Do you have some reason to believe they ran away? No. They're happy. They must have run away. I think they must have run away. Right? Um... Your police captain told me that you've solved every case... ...that you've ever been assigned. Is that right? Sorry. I am so sorry. Do you have children, detective? I'm gonna find your daughter. We believe they came back here after they left you at the Birches' yesterday. They were looking for Anna's red whistle. LOKI: Right. I read your statement. I'm Detective Loki. I'm heading up the investigation into your daughter's disappearance. Please sit down. My son already told you that the guy was inside the RV just watching them, right? We haven't found any physical evidence inside the RV. Or his aunt's house where he lives. - Nothing? LOKI: - Alex Jones... ...unfortunately has the I.Q. of a 10-year-old. There's no way someone with the I.Q. of a 10-year-old... ...could abduct two girls in broad daylight, and then... ...somehow make them disappear. Well, how can he drive an RV? If he can't answer a question... Well, he has a legal Pennsylvania license. And he ran, right? They said he tried to run away. Why\"? Why? Why would he run? I've just spent 10 hours questioning this boy.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I mean, it's filthy as shit, but we didn't find anything. You didn't find any wool fibers, anything like that? The girls could be wearing some wool gloves or wool hat, no cotton fibers? If he was using this to transport them, I might buy that. But if there had been a struggle, I would have found something. I'd start looking in the woods by the rest stop. Yeah, half the uniformed cops in the state are doing that right now. When you're done with this thing, can you send a crew over to the aunt's house?  Anna? Anna? FRANKLIN: Thanks for coming. Franklin Birch. My wife's in here. Honey? Her name's Nancy. Detective Loki is... Honey? These photos are better than the ones my husband gave you. You can see her eyes more clearly. GRACE: So did we pass? I'm sorry, what did you say? The poly thing, the lie detector we took this morning. Did we pass? Oh, yeah. Sorry. Yes. We appreciate your cooperation. It's embarrassing, all the... All this fuss. Everyone's gonna think we're crazy... ...when those two come out of hiding, wherever they are. Do you have some reason to believe they ran away? No. They're happy. They must have run away. I think they must have run away. Right? Um... Your police captain told me that you've solved every case... ...that you've ever been assigned. Is that right? Sorry. I am so sorry. Do you have children, detective? I'm gonna find your daughter. We believe they came back here after they left you at the Birches' yesterday. They were looking for Anna's red whistle. LOKI: Right. I read your statement. I'm Detective Loki. I'm heading up the investigation into your daughter's disappearance. Please sit down. My son already told you that the guy was inside the RV just watching them, right? We haven't found any physical evidence inside the RV. Or his aunt's house where he lives. - Nothing? LOKI: - Alex Jones... ...unfortunately has the I.Q. of a 10-year-old. There's no way someone with the I.Q. of a 10-year-old... ...could abduct two girls in broad daylight, and then... ...somehow make them disappear. Well, how can he drive an RV? If he can't answer a question... Well, he has a legal Pennsylvania license. And he ran, right? They said he tried to run away. Why\"? Why? Why would he run? I've just spent 10 hours questioning this boy."
+      ],
+      "scene_length_chars": 2296,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.07016808539628983,
+        0.19920413196086884,
+        0.009482293389737606,
+        0.003261624602600932,
+        0.0035585269797593355,
+        0.11157024651765823,
+        0.06726504117250443,
+        0.6196771264076233,
+        0.002326891990378499,
+        0.011756758205592632,
+        0.002931233262643218,
+        0.038592588156461716,
+        0.24336548149585724,
+        0.0012855040840804577,
+        0.004160646814852953,
+        0.23522786796092987,
+        0.014857244677841663,
+        0.0027547895442694426,
+        0.00456818426027894,
+        0.001231987844221294,
+        0.010750982910394669,
+        0.0038562666159123182,
+        0.023098625242710114,
+        0.006364406552165747,
+        0.20477472245693207,
+        0.01034847367554903,
+        0.0035939887166023254,
+        0.09576370567083359
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "embarrassment",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Okay? I hear what you're saying. Uh... Did you give him a lie detector? You gave us a lie... Did you give him one? I understand what you're asking me. Yes, we did. We gave him a lie detector, and there's no way of... (CHUCKLES) A lie detector doesn't work if you don't understand the questions. Well, maybe he wasn't on his own. How could he drive an RV... - ...if he has an I.Q. of a 10-year-old? LOKI: - We're considering all possibilities. - I don't think you are considering... LOKI: - I hear what you're saying. Listen to me. Shut the fuck up for a fucking second! (GRACE WHIMPERS) This is what I'm gonna need you to do for me. I need you to calm down. I'm sorry. I'm sorry. Please listen to me for a second. LOKI: Mr. Dover, I understand this is an incredibly hard time. But I have every uniformed police officer in this state looking for Anna. I don't understand what any of this means. They said he ran. They said he tried to get away. I don't understand why he would try to run away. We're considering all possibilities, Mr. Dover. I hear what you're saying. I'm not crossing anybody off my list. Just... ...let me do my job. (CELL PHONE VIBRATES) KELLER: Hey! Detective! - Shit. - Hey! He stays in custody until my daughter's found, right? Right? We have a 48 hour hold on him unless we bring charges. Well, charge him with something. Charge him. - Mr. Dover, I understand what you're... - Two girls have got to be worth... ...whatever rule you break to keep that asshole in custody. I know you can't promise me anything. I understand. But I'm asking you to be sure. Be 100 percent sure. Thank you. I appreciate it. So you're positive he's innocent, but you want to hold him? LOKI: Anna's father was a mess this morning. - I understand. But it's not gonna happen. - I was asking for one more day. Fuck you. Oh, no. Find his daughter, he'll forgive you. You don't, he's gonna hate you anyway. So, what's next? LOKI: - I'm knocking on doors all night. - You're coming up on 24 hours missing... - ...and you have exactly shit. - I've got nine level-three sex offenders... ...living within a 10-mile radius of Fairmont Circle. So if you don't mind. CAPTAIN: - Then go. - Yeah. Go. (DOOR CLOSES) It's right here. MAN 1: Look, I'm staying straight, okay? No, it's... Hey, look.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Okay? I hear what you're saying. Uh... Did you give him a lie detector? You gave us a lie... Did you give him one? I understand what you're asking me. Yes, we did. We gave him a lie detector, and there's no way of...  A lie detector doesn't work if you don't understand the questions. Well, maybe he wasn't on his own. How could he drive an RV... - ...if he has an I.Q. of a 10-year-old? LOKI: - We're considering all possibilities. - I don't think you are considering... LOKI: - I hear what you're saying. Listen to me. Shut the fuck up for a fucking second!  This is what I'm gonna need you to do for me. I need you to calm down. I'm sorry. I'm sorry. Please listen to me for a second. LOKI: Mr. Dover, I understand this is an incredibly hard time. But I have every uniformed police officer in this state looking for Anna. I don't understand what any of this means. They said he ran. They said he tried to get away. I don't understand why he would try to run away. We're considering all possibilities, Mr. Dover. I hear what you're saying. I'm not crossing anybody off my list. Just... ...let me do my job.  KELLER: Hey! Detective! - Shit. - Hey! He stays in custody until my daughter's found, right? Right? We have a 48 hour hold on him unless we bring charges. Well, charge him with something. Charge him. - Mr. Dover, I understand what you're... - Two girls have got to be worth... ...whatever rule you break to keep that asshole in custody. I know you can't promise me anything. I understand. But I'm asking you to be sure. Be 100 percent sure. Thank you. I appreciate it. So you're positive he's innocent, but you want to hold him? LOKI: Anna's father was a mess this morning. - I understand. But it's not gonna happen. - I was asking for one more day. Fuck you. Oh, no. Find his daughter, he'll forgive you. You don't, he's gonna hate you anyway. So, what's next? LOKI: - I'm knocking on doors all night. - You're coming up on 24 hours missing... - ...and you have exactly shit. - I've got nine level-three sex offenders... ...living within a 10-mile radius of Fairmont Circle. So if you don't mind. CAPTAIN: - Then go. - Yeah. Go.  It's right here. MAN 1: Look, I'm staying straight, okay? No, it's... Hey, look."
+      ],
+      "scene_length_chars": 2281,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.13338322937488556,
+        0.08529939502477646,
+        0.3196473717689514,
+        0.3325174152851105,
+        0.006200101226568222,
+        0.07630661875009537,
+        0.009375303983688354,
+        0.026643933728337288,
+        0.0020591665524989367,
+        0.002573648700490594,
+        0.03848269581794739,
+        0.006457122508436441,
+        0.0014186386251822114,
+        0.0006792875356040895,
+        0.0019028595415875316,
+        0.32951322197914124,
+        0.002581513486802578,
+        0.0031526202801615,
+        0.008521105162799358,
+        0.0005561057478189468,
+        0.004468344617635012,
+        0.001046947087161243,
+        0.003933332394808531,
+        0.0014627563068643212,
+        0.030646564438939095,
+        0.008876446634531021,
+        0.0007339050644077361,
+        0.094701386988163
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "gratitude",
+        "anger"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Look, I know you're... - I was... LOKI: - Like yourself some German porn, huh? MAN 1: Look, I was... (DOORBELL RINGING) Father! Open up! It's the police! (DOORBELL RINGING) (DOOR BANGS OPEN) (MUSIC PLAYING ON TV) (SNORING) Father. Father. Mind if I take a look around? (SCOFFS) Fucking drunk. (GRUNTS) (GRUNTING) What the fuck? Whoa. Fuck. Aah. Fuck. (SIGHS) PRIEST: Aah! Please, God, God! What's the name of your buddy down there? What's the name? - I don't know his name. - Huh? You don't know his name? - I don't know his name. - You know what? I spent six years in Huntington Boys' Home. You know the Huntington Boys' Home, right? Hurting a fuck like you'd be a treat. Why don't you tell me his name? He didn't tell me his name. He came to me for a confession. He said he'd killed 16 children. He bragged about it. I convinced him to come back here. He said he'd kill more. Sixteen children, huh? - All right, let's go, you fucking chicken-hawk. PRIEST: - Aah! (DOGS BARKING) (CELL PHONE RINGS) - Hey. GRACE: - They're letting him go. - What? GRACE: - The man. The police said they're letting him go today. Oh, okay. I'll take care of it. RALPH: - Dad? - Keep searching. Where are you going? AUNT: They want you to write your whole name. That's good. Mm-hm. Good job. Now you give it to the man. All right. Come on. I don't want you minding these people out here. Don't talk to them. You've got nothing to say to them. REPORTER 1: Hey! REPORTER 2: Alex! POLICEMAN: Back, back. Let them walk. (REPORTERS CHATTERING INDISTINCTLY) (TIRES SCREECHING) REPORTER 3: Alex! REPORTER 4: Come on, Alex. You took those kids, didn't you? I just want to talk. He's a free man, I'm a free man! MAN 1: No! MAN 2: Hey! Tell me what you did with them! Tell me! They didn't cry until I left them. What did you say? What did you say? No, no! No! Fucking get off him! God. Get up! POLICEMAN 1: Get him down! Get him down! POLICEMAN 2: - Move back! Move back! - Come on. Please, just let us go. Thanks for nothing. We're fine. Thank you. Now, I know your dad was a guard at Graterford. And I've got a daughter of my own, so... ...we're gonna pretend this never happened. And as for Alex Jones, he has orders not to leave the commonwealth. - What? - Sir, I need you to go home. All right? - I need you to go home. - What about what I just told you?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Look, I know you're... - I was... LOKI: - Like yourself some German porn, huh? MAN 1: Look, I was...  Father! Open up! It's the police!     Father. Father. Mind if I take a look around?  Fucking drunk.   What the fuck? Whoa. Fuck. Aah. Fuck.  PRIEST: Aah! Please, God, God! What's the name of your buddy down there? What's the name? - I don't know his name. - Huh? You don't know his name? - I don't know his name. - You know what? I spent six years in Huntington Boys' Home. You know the Huntington Boys' Home, right? Hurting a fuck like you'd be a treat. Why don't you tell me his name? He didn't tell me his name. He came to me for a confession. He said he'd killed 16 children. He bragged about it. I convinced him to come back here. He said he'd kill more. Sixteen children, huh? - All right, let's go, you fucking chicken-hawk. PRIEST: - Aah!   - Hey. GRACE: - They're letting him go. - What? GRACE: - The man. The police said they're letting him go today. Oh, okay. I'll take care of it. RALPH: - Dad? - Keep searching. Where are you going? AUNT: They want you to write your whole name. That's good. Mm-hm. Good job. Now you give it to the man. All right. Come on. I don't want you minding these people out here. Don't talk to them. You've got nothing to say to them. REPORTER 1: Hey! REPORTER 2: Alex! POLICEMAN: Back, back. Let them walk.   REPORTER 3: Alex! REPORTER 4: Come on, Alex. You took those kids, didn't you? I just want to talk. He's a free man, I'm a free man! MAN 1: No! MAN 2: Hey! Tell me what you did with them! Tell me! They didn't cry until I left them. What did you say? What did you say? No, no! No! Fucking get off him! God. Get up! POLICEMAN 1: Get him down! Get him down! POLICEMAN 2: - Move back! Move back! - Come on. Please, just let us go. Thanks for nothing. We're fine. Thank you. Now, I know your dad was a guard at Graterford. And I've got a daughter of my own, so... ...we're gonna pretend this never happened. And as for Alex Jones, he has orders not to leave the commonwealth. - What? - Sir, I need you to go home. All right? - I need you to go home. - What about what I just told you?"
+      ],
+      "scene_length_chars": 2329,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.22821393609046936,
+        0.004467976279556751,
+        0.401740700006485,
+        0.1789308488368988,
+        0.0024832026101648808,
+        0.009758295491337776,
+        0.004982600919902325,
+        0.06020551919937134,
+        0.002205990720540285,
+        0.004499446135014296,
+        0.0040894257836043835,
+        0.024242457002401352,
+        0.002141348784789443,
+        0.002306462964043021,
+        0.003203580155968666,
+        0.22189447283744812,
+        0.002269744873046875,
+        0.0027587986551225185,
+        0.00167197291739285,
+        0.00048656429862603545,
+        0.0020815511234104633,
+        0.0021970137022435665,
+        0.0021130801178514957,
+        0.005068673752248287,
+        0.002012939192354679,
+        0.0015304452972486615,
+        0.0049659740179777145,
+        0.278544545173645
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "Why aren't you sending someone to arrest this guy? Tell Detective Loki what you just told me, and he'll definitely look into it. Go ahead. That asshole you promised me you'd keep in custody, right? And you didn't. When I grabbed him in the parking lot, he said right to my face: \"They didn't cry until I left them.\" Right to my fucking face. He said that to you in the parking lot? Right now, yeah. What did I just say? In the parking lot. Before you grabbed me off him. Did anyone else hear it besides you? I don't know. It was quiet. He said it to me. He wanted me to know. LOKI: Are you sure he said that? - What? Are you sure that's what he said? Jesus Christ, you think I'm making this up? Why would I make this up? - Hey, hey, hey. - No. No. - Think about it. Why would I make this up? - I'm not saying that. I'm just asking you a couple questions. I will talk to him. - No, don't talk to him! Arrest him! - Mr. Dover. What did I fucking tell you? What did I tell you? One more day. You sure you didn't say anything to Mr. Dover in the parking lot today? Anything he could have misinterpreted or...? I was right there. They didn't say anything to each other. Man just attacked the boy. Nothing like \"get away from me\" or \"help\" or... ...anything like that? No. Can I speak to Alex alone for a minute? It's all right, sweetie. I'll be right in the next room. (AUNT GROANS) You love your aunt, don't you, Alex? Yes. If you know something you're not telling us, she could go to jail for a very long time. Do you want that for her? After everything she's done for you? No. Mr. Dover, it's Detective Loki. - Have you arrested him? LOKI: - Look, I just came from Alex Jones. He said he didn't say anything to you in the lot. I pushed him pretty hard, he didn't budge. We can't waste any more time on this guy. You're gonna have to trust me. I'll let you know if I have anything new... For the... Fucking A. (GRACE SOBBING) GRACE: The zipper on her coat was broken, and I told her it didn't matter... ...because we were just gonna go right down the street. KELLER: No. No. GRACE: Why hasn't she come home? It's been three days. Why can't you make her come home? I don't understand. I don't understand. It's been too long. Please make her come home. - Please. KELLER: - How many of these...?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Why aren't you sending someone to arrest this guy? Tell Detective Loki what you just told me, and he'll definitely look into it. Go ahead. That asshole you promised me you'd keep in custody, right? And you didn't. When I grabbed him in the parking lot, he said right to my face: \"They didn't cry until I left them.\" Right to my fucking face. He said that to you in the parking lot? Right now, yeah. What did I just say? In the parking lot. Before you grabbed me off him. Did anyone else hear it besides you? I don't know. It was quiet. He said it to me. He wanted me to know. LOKI: Are you sure he said that? - What? Are you sure that's what he said? Jesus Christ, you think I'm making this up? Why would I make this up? - Hey, hey, hey. - No. No. - Think about it. Why would I make this up? - I'm not saying that. I'm just asking you a couple questions. I will talk to him. - No, don't talk to him! Arrest him! - Mr. Dover. What did I fucking tell you? What did I tell you? One more day. You sure you didn't say anything to Mr. Dover in the parking lot today? Anything he could have misinterpreted or...? I was right there. They didn't say anything to each other. Man just attacked the boy. Nothing like \"get away from me\" or \"help\" or... ...anything like that? No. Can I speak to Alex alone for a minute? It's all right, sweetie. I'll be right in the next room.  You love your aunt, don't you, Alex? Yes. If you know something you're not telling us, she could go to jail for a very long time. Do you want that for her? After everything she's done for you? No. Mr. Dover, it's Detective Loki. - Have you arrested him? LOKI: - Look, I just came from Alex Jones. He said he didn't say anything to you in the lot. I pushed him pretty hard, he didn't budge. We can't waste any more time on this guy. You're gonna have to trust me. I'll let you know if I have anything new... For the... Fucking A.  GRACE: The zipper on her coat was broken, and I told her it didn't matter... ...because we were just gonna go right down the street. KELLER: No. No. GRACE: Why hasn't she come home? It's been three days. Why can't you make her come home? I don't understand. I don't understand. It's been too long. Please make her come home. - Please. KELLER: - How many of these...?"
+      ],
+      "scene_length_chars": 2289,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.00457022525370121,
+        0.14443153142929077,
+        0.7739880681037903,
+        0.11759248375892639,
+        0.0009571094415150583,
+        0.029246732592582703,
+        0.015517069958150387,
+        0.2812788188457489,
+        0.005762783344835043,
+        0.008863368071615696,
+        0.015308201313018799,
+        0.012466809712350368,
+        0.0009907576022669673,
+        0.0019795545376837254,
+        0.0026659134309738874,
+        0.006098720710724592,
+        0.003449854673817754,
+        0.007606361526995897,
+        0.005967551376670599,
+        0.0005602315068244934,
+        0.008009999990463257,
+        0.000571730372030288,
+        0.002586807357147336,
+        0.0003447870258241892,
+        0.0025168019346892834,
+        0.0039631980471313,
+        0.004653523676097393,
+        0.010915398597717285
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "amusement"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "How many of these? How many of these? How many? - I don't know! - Shh. Okay, that's all right. Just take one. Here. No. I just want to sleep. I just want to go to sleep. You... You made me feel so safe. You told us that you could protect us from everything. Oh, God. I'm gonna go out and help the police. Just keep an eye on your mother. Your sister needs us to be brave for her. Be brave for her. Be a grown-up for me, okay? Can you do that? Can you do that? I know you're scared. Look at me. Come here. I know you're scared. It's gonna be okay. MAN: (OVER THE RADIO) The former is a reason why we should be very patient... ...the latter why we should be very penitent when we are afflicted. He reminds him that trouble and affliction are what we have all reason... ...to expect in this world. Man is brought into trouble... ...not as man, but as sinful man, who was in transgression. Man born in sin and therefore born to trouble. (KELLER SIGHS) (DOOR OPENS) (DOG WHIMPERS) Come on. Come on, Tucker. (SINGING) Jingle bells, Batman smells Robin laid an egg The Batmobile lost its wheels Joker got away, hey Jingle bells, Batman smells Robin laid an egg Jingle bells, Batman smells Robin laid an egg KELLER: Alex. Lost its wheel That song. Where did you hear those words? Hmm? (TRUCK HORN HONKING) Did you bring a change of clothes like I told you? Yeah. You gonna tell me why? It's better if I just show you. Show me what? - Didn't you used to live here? - Mm-hm. Close the door. Lock it. (DOOR CLOSES THEN LOCK CLICKS) Wow. (KELLER SIGHS) Oh, my God. What did you do? - Keller, what the hell? - I heard him singing the song... ...they were singing. Swear to God, Franklin. The same fucking song. - And I told you what he said in the parking lot. - Then we take him to the police. No. The police won't do shit. He'll just clam up and act crazy like last time. Someone has to make him talk. Someone. Shit, man. This ain't right. What if you're wrong? - I'm not wrong. - But what if you're wrong? What if you only heard what you wanted to hear? What if...? Man, I want my daughter back... - ...as much as you do, but it ain't right. - Franklin, Franklin! We hurt him until he talks, or they're gonna die. - This ain't... - No. No. We hurt him until he talks or they're gonna die.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How many of these? How many of these? How many? - I don't know! - Shh. Okay, that's all right. Just take one. Here. No. I just want to sleep. I just want to go to sleep. You... You made me feel so safe. You told us that you could protect us from everything. Oh, God. I'm gonna go out and help the police. Just keep an eye on your mother. Your sister needs us to be brave for her. Be brave for her. Be a grown-up for me, okay? Can you do that? Can you do that? I know you're scared. Look at me. Come here. I know you're scared. It's gonna be okay. MAN:  The former is a reason why we should be very patient... ...the latter why we should be very penitent when we are afflicted. He reminds him that trouble and affliction are what we have all reason... ...to expect in this world. Man is brought into trouble... ...not as man, but as sinful man, who was in transgression. Man born in sin and therefore born to trouble.    Come on. Come on, Tucker.  Jingle bells, Batman smells Robin laid an egg The Batmobile lost its wheels Joker got away, hey Jingle bells, Batman smells Robin laid an egg Jingle bells, Batman smells Robin laid an egg KELLER: Alex. Lost its wheel That song. Where did you hear those words? Hmm?  Did you bring a change of clothes like I told you? Yeah. You gonna tell me why? It's better if I just show you. Show me what? - Didn't you used to live here? - Mm-hm. Close the door. Lock it.  Wow.  Oh, my God. What did you do? - Keller, what the hell? - I heard him singing the song... ...they were singing. Swear to God, Franklin. The same fucking song. - And I told you what he said in the parking lot. - Then we take him to the police. No. The police won't do shit. He'll just clam up and act crazy like last time. Someone has to make him talk. Someone. Shit, man. This ain't right. What if you're wrong? - I'm not wrong. - But what if you're wrong? What if you only heard what you wanted to hear? What if...? Man, I want my daughter back... - ...as much as you do, but it ain't right. - Franklin, Franklin! We hurt him until he talks, or they're gonna die. - This ain't... - No. No. We hurt him until he talks or they're gonna die."
+      ],
+      "scene_length_chars": 2278,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.011555247008800507,
+        0.005734581034630537,
+        0.20759151875972748,
+        0.1667778640985489,
+        0.001383852562867105,
+        0.549675464630127,
+        0.0066336654126644135,
+        0.07948143035173416,
+        0.00362349022179842,
+        0.0075339884497225285,
+        0.11877036839723587,
+        0.041404496878385544,
+        0.0023818369954824448,
+        0.003129541175439954,
+        0.27378103137016296,
+        0.0008691572584211826,
+        0.0123659148812294,
+        0.005062406416982412,
+        0.0021684232633560896,
+        0.003933296538889408,
+        0.009250503033399582,
+        0.003187448950484395,
+        0.0027466819155961275,
+        0.002128789434209466,
+        0.0016097030602395535,
+        0.027565112337470055,
+        0.05989590287208557,
+        0.032588351517915726
+      ],
+      "goemotions_topk": [
+        "caring",
+        "fear",
+        "anger"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "That's the choice. That's the choice you have to make. I've made my choice. I know what I heard. He's not a person anymore. No, he stopped being a person when he took our daughters. I need your help. This is your last chance. I know you're scared. I know you wanna go home. All right? I know. I don't want to hurt you. I don't. I'm gonna take the tape off, and I want you to tell me where they are. (ALEX WHIMPERS) KELLER: Hey. Come on. ALEX: Did you see my glasses? KELLER: What? ALEX: I can't see. KELLER: If you're not gonna talk, Alex, I'm gonna have to hurt you. Tell me where they are. Where are they? Tell me where they are! LOKI: I'm out here at a house on Fairmont Circle. That house the RV was parked in front of. It's been on the market a couple months. I'm gonna track the owners, see if they know anything. Got any new info on that corpse we found in the priest's basement? DETECTIVE: (OVER THE PHONE) No DNA, dental, or fingerprint matches. LOKI: Nothing. DETECTIVE: (OVER THE PHONE) Priest is sticking to the story too. (SIGHS) All right. WOMAN: Same person who took him, took those girls. I'm sure of it. Wearing out the tape, I guess. I watch it every day after breakfast. It's the only video I have of him. It was before your time. Twenty-six years ago, August 19th. I took a nap in the afternoon, and when I woke up, Barry was gone. No one could ever tell me what happened to him. He was playing in the front yard... ...just a few feet from where they say that RV was parked. What do you think that means? I'm more interested in what you think that means. I don't think we'll ever know. It's just like Barry. No one took them. Nothing happened. They're just gone. CHEMELINSKI: He's gonna say to you. LOKI: Yeah, right. How you doing, Father? I'm getting better. LOKI: So Detective Chemelinski tells me that you have some specifics... ...about the crime you claim that guy committed. The abductor. He was... ...waging a war against God. (CHUCKLING) Great. That's great. I thought you said he had something specific. I'm not... Tell him how he took the kids. He said... ...he took them in daylight. Sometimes... ...more than one child at a time. - He said that? - Yes. Did he say he was with anybody? He did it alone? He... He said he had a family. (SIGHS) That's it?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "That's the choice. That's the choice you have to make. I've made my choice. I know what I heard. He's not a person anymore. No, he stopped being a person when he took our daughters. I need your help. This is your last chance. I know you're scared. I know you wanna go home. All right? I know. I don't want to hurt you. I don't. I'm gonna take the tape off, and I want you to tell me where they are.  KELLER: Hey. Come on. ALEX: Did you see my glasses? KELLER: What? ALEX: I can't see. KELLER: If you're not gonna talk, Alex, I'm gonna have to hurt you. Tell me where they are. Where are they? Tell me where they are! LOKI: I'm out here at a house on Fairmont Circle. That house the RV was parked in front of. It's been on the market a couple months. I'm gonna track the owners, see if they know anything. Got any new info on that corpse we found in the priest's basement? DETECTIVE:  No DNA, dental, or fingerprint matches. LOKI: Nothing. DETECTIVE:  Priest is sticking to the story too.  All right. WOMAN: Same person who took him, took those girls. I'm sure of it. Wearing out the tape, I guess. I watch it every day after breakfast. It's the only video I have of him. It was before your time. Twenty-six years ago, August 19th. I took a nap in the afternoon, and when I woke up, Barry was gone. No one could ever tell me what happened to him. He was playing in the front yard... ...just a few feet from where they say that RV was parked. What do you think that means? I'm more interested in what you think that means. I don't think we'll ever know. It's just like Barry. No one took them. Nothing happened. They're just gone. CHEMELINSKI: He's gonna say to you. LOKI: Yeah, right. How you doing, Father? I'm getting better. LOKI: So Detective Chemelinski tells me that you have some specifics... ...about the crime you claim that guy committed. The abductor. He was... ...waging a war against God.  Great. That's great. I thought you said he had something specific. I'm not... Tell him how he took the kids. He said... ...he took them in daylight. Sometimes... ...more than one child at a time. - He said that? - Yes. Did he say he was with anybody? He did it alone? He... He said he had a family.  That's it?"
+      ],
+      "scene_length_chars": 2284,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33609774708747864,
+        0.1565040946006775,
+        0.006879744585603476,
+        0.0010060095228254795,
+        0.020485108718276024,
+        0.139482319355011,
+        0.03879106044769287,
+        0.222524031996727,
+        0.0017420485382899642,
+        0.0012805447913706303,
+        0.004033318255096674,
+        0.007111670449376106,
+        0.0005619251751340926,
+        0.002687446540221572,
+        0.31370630860328674,
+        0.0005073579377494752,
+        0.00282451044768095,
+        0.004902372136712074,
+        0.002162266755476594,
+        0.004333838354796171,
+        0.003344157477840781,
+        0.0010528718121349812,
+        0.0041601392440497875,
+        0.0004809779638890177,
+        0.0006858790875412524,
+        0.0012267637066543102,
+        0.002519527915865183,
+        0.14566434919834137
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "fear",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "All right. Informative. KELLER: You said they cried when you left them. Look at me. You said they cried when you left them! Now tell me! Where is she? Hmm? Tell me where they are! (GASPS) Just tell me. Just tell me and I'll stop. I'll stop as soon as you tell me. Just... Just tell me where they are. (PANTING) Why won't you tell me? Huh? Why won't you just fucking tell us? (ALEX WHIMPERS AND KELLER SIGHS) He knows. He knows. I can see it in his eyes. He fucking knows. I know you know! Why aren't you fucking telling me? Why? Fine. (TOOLS CLANGING) - Get him up. Get him up. ALEX: - Oh, God. Get up. Get up. Get up! (ALEX PANTING) You gonna make me use this? You gonna tell us? If you don't, I'm gonna use this. Fine. You're doing this to yourself. Just tell us. Tell me. Tell me! Tell me! Tell me! Tell me! Where's my daughter? (KELLER PANTING) REPORTER: (FROM THE TV) Four days have passed since Anna Dover and Joy Birch... ...were last seen by their families. The two girls, aged 6 and 7, are believed to have been... ...playing on this street when they disappeared without a trace. As you can see, despite the cold... ...a lot of people have turned out to show their support. Police are asking that anyone with any information... NANCY: Where have you been? I was searching for her in the woods. FRANKLIN: I'm okay. God. Franklin, what is it? I just need a minute. (NANCY WHIMPERING AND FRANKLIN GAGGING) (HARRIED FOOTSTEPS) (DOG BARKING) (DOG CONTINUES BARKING) (THUDDING) LOKI: What the fuck? Get off of me! Hey! Hey! (LOKI PANTING) Okay. REPORTER 1: And this is who police are saying is a person of interest... ...in the investigation of the two missing girls. This unidentified man... ...who was last seen at last night's candlelight vigil, fled on foot... ...when the investigating detective attempted to question him. Police caution the public not to approach this man... ...but to call police immediately if they do see him. (CAR HORN HONKS) REPORTER 2: Thanks, John, for that update. And now for the weather. We should expect heavy rain into the early evening and... Look, Keller, I mean, just think about it. Why would the police be looking for this man if they didn't think he did it? They did it together. They know each other. I fucking told you. Jones looked me in the eye and he said: \"They only cried when I left them.\" He left them with someone, and he knows where this guy is.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "All right. Informative. KELLER: You said they cried when you left them. Look at me. You said they cried when you left them! Now tell me! Where is she? Hmm? Tell me where they are!  Just tell me. Just tell me and I'll stop. I'll stop as soon as you tell me. Just... Just tell me where they are.  Why won't you tell me? Huh? Why won't you just fucking tell us?  He knows. He knows. I can see it in his eyes. He fucking knows. I know you know! Why aren't you fucking telling me? Why? Fine.  - Get him up. Get him up. ALEX: - Oh, God. Get up. Get up. Get up!  You gonna make me use this? You gonna tell us? If you don't, I'm gonna use this. Fine. You're doing this to yourself. Just tell us. Tell me. Tell me! Tell me! Tell me! Tell me! Where's my daughter?  REPORTER:  Four days have passed since Anna Dover and Joy Birch... ...were last seen by their families. The two girls, aged 6 and 7, are believed to have been... ...playing on this street when they disappeared without a trace. As you can see, despite the cold... ...a lot of people have turned out to show their support. Police are asking that anyone with any information... NANCY: Where have you been? I was searching for her in the woods. FRANKLIN: I'm okay. God. Franklin, what is it? I just need a minute.      LOKI: What the fuck? Get off of me! Hey! Hey!  Okay. REPORTER 1: And this is who police are saying is a person of interest... ...in the investigation of the two missing girls. This unidentified man... ...who was last seen at last night's candlelight vigil, fled on foot... ...when the investigating detective attempted to question him. Police caution the public not to approach this man... ...but to call police immediately if they do see him.  REPORTER 2: Thanks, John, for that update. And now for the weather. We should expect heavy rain into the early evening and... Look, Keller, I mean, just think about it. Why would the police be looking for this man if they didn't think he did it? They did it together. They know each other. I fucking told you. Jones looked me in the eye and he said: \"They only cried when I left them.\" He left them with someone, and he knows where this guy is."
+      ],
+      "scene_length_chars": 2400,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0026958526577800512,
+        0.008898917585611343,
+        0.6989946961402893,
+        0.10794997960329056,
+        0.00244029494933784,
+        0.014242510311305523,
+        0.003968650009483099,
+        0.05271708592772484,
+        0.005427070427685976,
+        0.002692642854526639,
+        0.0038030848372727633,
+        0.011160820722579956,
+        0.001863278797827661,
+        0.002852241275832057,
+        0.0048364601098001,
+        0.15676526725292206,
+        0.010345985181629658,
+        0.0012251907028257847,
+        0.006912339944392443,
+        0.0005126656615175307,
+        0.009015788324177265,
+        0.0036924683954566717,
+        0.014646445401012897,
+        0.0017602794105187058,
+        0.025799095630645752,
+        0.017176201567053795,
+        0.004058193881064653,
+        0.02161349356174469
+      ],
+      "goemotions_topk": [
+        "anger",
+        "gratitude",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "Holly Jones' dog got hit on Southward Street. Alex took the dog for a walk night before last. Never came home. His aunt didn't want to tell us when we called her about it. She said it would get him into trouble or some shit. - You said you'd keep him under surveillance. - You said the guy was innocent. I thought the guy from last night you said was our guy. I don't have money in the budget for watching innocent people. - You said you'd put him under surveillance. - What do you want? Keep your word. Give me a call, I would have been there all night. I would know where he was now. - I need to know where everybody is. - All right, point made. Point made. If you be clear, then I'll be clear. I need to know where everybody is. If you do something different, please tell me. LOKI: Tell me about your RV. What do you do in your RV? It's where I go... ...to be alone. LOKI: What music do you listen to in your RV... ...when you're alone? Radio, tape. LOKI: The RV was parked over on Fairmont Circle? ALEX: No. Is my aunt coming? I... I... I... LOKI: Have you seen these girls? - No. LOKI: You take a look at them. You seen these girls? ALEX: No. LOKI: Did you participate in any way in the abduction of those girls? ALEX: No. Loki! You got a call. (SIGHS) All right. CHECKOUT GIRL: I called as soon as I saw the sketch on TV. He comes in here every week and buys kids' clothes. But he's always buying stuff in different sizes. Caught him messing around with the mannequins once. - What did he pay with? - Cash. All right, give me a call if you hear anything. Okay. KELLER: It's been five days. Maybe five days since they had a drink of water. This could be the last night that matters. (FRANKLIN PANTING) Look, I'll call you after Nancy goes to sleep, all right? Promise. (ALEX WHIMPERING AND KELLER SPEAKING INDISTINCTLY) Where have you been all this time? (KNOCKS ON DOOR) What the hell were you thinking? You tell anyone? Did you? I wanna see him. NANCY: Shh. Please help me. Could you help me find my little girl? Got a picture. See? This my baby. You see her? Her name is Joy. And, um... This is a stuffed animal we got her when she was 2... ...because she's afraid to sleep by herself. Please... ...tell me where my little girl is. Please tell me where my little girl is.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Holly Jones' dog got hit on Southward Street. Alex took the dog for a walk night before last. Never came home. His aunt didn't want to tell us when we called her about it. She said it would get him into trouble or some shit. - You said you'd keep him under surveillance. - You said the guy was innocent. I thought the guy from last night you said was our guy. I don't have money in the budget for watching innocent people. - You said you'd put him under surveillance. - What do you want? Keep your word. Give me a call, I would have been there all night. I would know where he was now. - I need to know where everybody is. - All right, point made. Point made. If you be clear, then I'll be clear. I need to know where everybody is. If you do something different, please tell me. LOKI: Tell me about your RV. What do you do in your RV? It's where I go... ...to be alone. LOKI: What music do you listen to in your RV... ...when you're alone? Radio, tape. LOKI: The RV was parked over on Fairmont Circle? ALEX: No. Is my aunt coming? I... I... I... LOKI: Have you seen these girls? - No. LOKI: You take a look at them. You seen these girls? ALEX: No. LOKI: Did you participate in any way in the abduction of those girls? ALEX: No. Loki! You got a call.  All right. CHECKOUT GIRL: I called as soon as I saw the sketch on TV. He comes in here every week and buys kids' clothes. But he's always buying stuff in different sizes. Caught him messing around with the mannequins once. - What did he pay with? - Cash. All right, give me a call if you hear anything. Okay. KELLER: It's been five days. Maybe five days since they had a drink of water. This could be the last night that matters.  Look, I'll call you after Nancy goes to sleep, all right? Promise.  Where have you been all this time?  What the hell were you thinking? You tell anyone? Did you? I wanna see him. NANCY: Shh. Please help me. Could you help me find my little girl? Got a picture. See? This my baby. You see her? Her name is Joy. And, um... This is a stuffed animal we got her when she was 2... ...because she's afraid to sleep by herself. Please... ...tell me where my little girl is. Please tell me where my little girl is."
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.003926899749785662,
+        0.43926000595092773,
+        0.025521891191601753,
+        0.0021109965164214373,
+        0.0016180924139916897,
+        0.3045057952404022,
+        0.016856355592608452,
+        0.24848657846450806,
+        0.005446095019578934,
+        0.0021374861244112253,
+        0.004146080929785967,
+        0.00490944879129529,
+        0.0006884510512463748,
+        0.0026702748145908117,
+        0.27561330795288086,
+        0.0008136703982017934,
+        0.017777228727936745,
+        0.008539126254618168,
+        0.014519289135932922,
+        0.054828811436891556,
+        0.004541589412838221,
+        0.000420519761973992,
+        0.0037120815832167864,
+        0.0005965000600554049,
+        0.0009029006469063461,
+        0.03113480657339096,
+        0.006616927217692137,
+        0.6243681311607361
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "amusement",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "amusement",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "I know you're gonna tell me. I know you're gonna tell me. I know. Shh, shh. Help me. Help me. KELLER: Franklin, can you close the door to the...? (ALEX YELLS) Nancy! FRANKLIN: What the fuck you doing? KELLER: Aah! (NANCY WHIMPERING) - Goddamn it! Damn! ALEX: - Aah! Let it go. Let it go! (GLASS BREAKING AND KELLER GRUNTING) You untied him? Huh? (KELLER PANTING) That was close. (SIGHS) (SAW BUZZING) (BEEPING) (KNOCKING ON DOOR) NANCY: - What is it? What happened? - Get Franklin. I need to show you something. Did he say anything new? He will soon. You'll see. (SIGHS) No light gets in. There's barely enough room to sit down inside. Shower still works, but we control from out here. And I rigged the water heater so it either comes out scalding or freezing. And, uh, you talk to him through this. It's to remind us... ...in case we start feeling sorry for him. My God. I can't hurt him any more without killing him, so this is the only way. Have you lost your mind, Keller? Do you have a better idea, Franklin? Do you? Go ahead. Let him out, if you want. I'm not gonna stop you. If that's what you really want, you go ahead. You think someone's looking out for our girls the way you're looking out for him? I hope. It's been five days now, man. We're running out of time. - You don't even know it's him. KELLER: - Yeah, I do. - No, you don't. I know you. You don't. KELLER: - I do. Look, I want my baby back... ...as much as you miss Anna. And despite what you think about me... ...I would die for my daughter. But this ain't right. This has to stop. Well, then you better get to work. I'd start with that wall there. NANCY: Franklin. Stop. Franklin, think of Joy. (HAMMER THUDS) I need to get out of this place, Ralph. Everything in this house just makes me want to throw up. Your dad's building? There is no way I'm staying in that crackhouse. It's disgusting. Yeah, okay. We're not gonna help Keller, but we won't stop him either. Let him do what he needs to. We don't know about it anymore. Eliza? Eliza? Eliza? Eliza, open the door! - Eliza? - Is she in there? Honey? - Eliza. - Get out of the way! Hey... Fuck you both. Next time you plan on leaving me here alone... ...maybe you could try at least telling me where you're going. (FLOORBOARD CREAKS THEN GRACE GASPS) Ralph? (FLOORBOARD CREAKS) Anna?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I know you're gonna tell me. I know you're gonna tell me. I know. Shh, shh. Help me. Help me. KELLER: Franklin, can you close the door to the...?  Nancy! FRANKLIN: What the fuck you doing? KELLER: Aah!  - Goddamn it! Damn! ALEX: - Aah! Let it go. Let it go!  You untied him? Huh?  That was close.     NANCY: - What is it? What happened? - Get Franklin. I need to show you something. Did he say anything new? He will soon. You'll see.  No light gets in. There's barely enough room to sit down inside. Shower still works, but we control from out here. And I rigged the water heater so it either comes out scalding or freezing. And, uh, you talk to him through this. It's to remind us... ...in case we start feeling sorry for him. My God. I can't hurt him any more without killing him, so this is the only way. Have you lost your mind, Keller? Do you have a better idea, Franklin? Do you? Go ahead. Let him out, if you want. I'm not gonna stop you. If that's what you really want, you go ahead. You think someone's looking out for our girls the way you're looking out for him? I hope. It's been five days now, man. We're running out of time. - You don't even know it's him. KELLER: - Yeah, I do. - No, you don't. I know you. You don't. KELLER: - I do. Look, I want my baby back... ...as much as you miss Anna. And despite what you think about me... ...I would die for my daughter. But this ain't right. This has to stop. Well, then you better get to work. I'd start with that wall there. NANCY: Franklin. Stop. Franklin, think of Joy.  I need to get out of this place, Ralph. Everything in this house just makes me want to throw up. Your dad's building? There is no way I'm staying in that crackhouse. It's disgusting. Yeah, okay. We're not gonna help Keller, but we won't stop him either. Let him do what he needs to. We don't know about it anymore. Eliza? Eliza? Eliza? Eliza, open the door! - Eliza? - Is she in there? Honey? - Eliza. - Get out of the way! Hey... Fuck you both. Next time you plan on leaving me here alone... ...maybe you could try at least telling me where you're going.  Ralph?  Anna?"
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012841545045375824,
+        0.0056515964679419994,
+        0.5552194714546204,
+        0.014584279619157314,
+        0.000815216451883316,
+        0.33926108479499817,
+        0.0042094080708920956,
+        0.13456851243972778,
+        0.004300233907997608,
+        0.004492730367928743,
+        0.004333877470344305,
+        0.3257480263710022,
+        0.0031045060604810715,
+        0.0020106087904423475,
+        0.023722978308796883,
+        0.015294019132852554,
+        0.022217297926545143,
+        0.0035038224887102842,
+        0.003068026853725314,
+        0.0017844835529103875,
+        0.02287398837506771,
+        0.001734380261041224,
+        0.00143326201941818,
+        0.0013066366082057357,
+        0.0030765843112021685,
+        0.034520410001277924,
+        0.009447913616895676,
+        0.02877865731716156
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": null,
+      "raw_text": "Anna? Anna. Anna? (FLOORBOARD CREAKS) Anna? Mom? - Mom? What are you doing? - Anna was here. It's freezing in here. Mom. Hey, Morn! Sit down. Stop. Calm down. I'm gonna close the window. GRACE: And she wasn't here. And then I heard a sound from my room, and I... I came in and the window was open. And... And it wasn't open before. And then... And then Ralph, he came in... ...and he looked and, um... And then... Then I don't know. Aren't you gonna write this down? (GRACE SIGHS) The basement. I didn't check the basement. We need to check the basement. I'll show you. I'll show you. The kids know they're not allowed down here. They're not supposed to come down here, but I don't know. My husband likes to be prepared for emergencies. Where is your husband, Mrs. Dover? I was gonna ask you. He's been out searching with the police for Anna. Which you should be doing right now. Does he always stay out this late? Yes, he stays out this late when he's looking for my daughter... ...since my daughter has been gone. Yes! Shit. (TRUCK HORN HONKS) (TRUCK HORN HONKING) (TRUCK HORN CONTINUES HONKING) Hey, go ar... Go around. Fuck. Come on, Mr. Dover. Shit. Why are you following me? Get in the car. Why are you following me? Where were you going just now? I parked at the liquor store. I have a bottle of liquor. You're the shit-hot detective. Work it out. I actually meant before that. You were walking in the opposite direction across the parking lot. Towards Campello Street. Yeah, well, I haven't had a drink in nine and a half years. Figured if I walked around the parking lot a while... ...by the time they opened I'd stop wanting it that bad. And then I saw you. Sort of helped me make up my mind. There's a bag of lye in your basement that's half empty. Your wife thinks you've been helping us... ...but we both know that's not true. I used the lye to bury our dog last year. And \"helping the cops\" sounds better than \"I've been driving aimlessly in my truck... ...because I don't know what the fuck else to do.\" Is that what you were doing last Saturday night? Probably. Am I a suspect? No, I'm only asking because you assaulted a man who's now missing. I heard about that. What happened? Thought you had him under surveillance. I'm gonna assume you're asking me because you have no idea.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Anna? Anna. Anna?  Anna? Mom? - Mom? What are you doing? - Anna was here. It's freezing in here. Mom. Hey, Morn! Sit down. Stop. Calm down. I'm gonna close the window. GRACE: And she wasn't here. And then I heard a sound from my room, and I... I came in and the window was open. And... And it wasn't open before. And then... And then Ralph, he came in... ...and he looked and, um... And then... Then I don't know. Aren't you gonna write this down?  The basement. I didn't check the basement. We need to check the basement. I'll show you. I'll show you. The kids know they're not allowed down here. They're not supposed to come down here, but I don't know. My husband likes to be prepared for emergencies. Where is your husband, Mrs. Dover? I was gonna ask you. He's been out searching with the police for Anna. Which you should be doing right now. Does he always stay out this late? Yes, he stays out this late when he's looking for my daughter... ...since my daughter has been gone. Yes! Shit.    Hey, go ar... Go around. Fuck. Come on, Mr. Dover. Shit. Why are you following me? Get in the car. Why are you following me? Where were you going just now? I parked at the liquor store. I have a bottle of liquor. You're the shit-hot detective. Work it out. I actually meant before that. You were walking in the opposite direction across the parking lot. Towards Campello Street. Yeah, well, I haven't had a drink in nine and a half years. Figured if I walked around the parking lot a while... ...by the time they opened I'd stop wanting it that bad. And then I saw you. Sort of helped me make up my mind. There's a bag of lye in your basement that's half empty. Your wife thinks you've been helping us... ...but we both know that's not true. I used the lye to bury our dog last year. And \"helping the cops\" sounds better than \"I've been driving aimlessly in my truck... ...because I don't know what the fuck else to do.\" Is that what you were doing last Saturday night? Probably. Am I a suspect? No, I'm only asking because you assaulted a man who's now missing. I heard about that. What happened? Thought you had him under surveillance. I'm gonna assume you're asking me because you have no idea."
+      ],
+      "scene_length_chars": 2295,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0009976616129279137,
+        0.00109267293009907,
+        0.5452354550361633,
+        0.27134960889816284,
+        0.0013090093852952123,
+        0.00859353132545948,
+        0.019772203639149666,
+        0.35694244503974915,
+        0.0012562680058181286,
+        0.007680937647819519,
+        0.005327966064214706,
+        0.016136644408106804,
+        0.0013647746527567506,
+        0.0006990739493630826,
+        0.012411798350512981,
+        0.0007213542121462524,
+        0.0009423610754311085,
+        0.00031478170421905816,
+        0.0007021953933872283,
+        0.0008795725298114121,
+        0.003718676744028926,
+        0.0003465148329269141,
+        0.0034493596758693457,
+        0.0002766745164990425,
+        0.0007245325832627714,
+        0.0015807427698746324,
+        0.0050966618582606316,
+        0.27870675921440125
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": null,
+      "raw_text": "- Didn't think it was something I'd get away with. - It's not. It couldn't be he skipped town because the asshole is guilty. Couldn't be that. Because that would mean it would be your fault, right? Mr. Dover? - Mr. Dover? - What? You need to take care of yourself and your wife. That's the best thing you can do right now. That little girl is gonna need you when she comes home. Kids gone for more than a week have half as good a chance of being found... ...and after a month, almost none are. Not alive. All right? So forgive me for doing everything I can... You know what? It hasn't been a fucking week. - You're right. It's day fucking six! Day six! - Hasn't been a week. And every day she's wondering why I'm not there to fucking rescue her! - All right. - Do you understand that? Me! Not you! Not you! But me! - Every day! - All right. So forgive me for not going home to have a good night's rest! Now, why don't you look for my fucking daughter rather than fighting...? Hey, hey, hey. Hey. Hey. - Don't follow me. - Hey. Hey. Mr. Dover. Mr. Dover. Don't think I'd let you get behind the wheel after you've been drinking, do you? I'm gonna walk. You look for my daughter. (THUNDER RUMBLING) ANNA: Daddy. Daddy. Look, Daddy, we found it. Anna, where was it? (WHISTLE BLOWS THEN KELLER GASPS) (SHOWER RUNNING THEN ALEX SCREAMING) (CONTINUES SCREAMING) (SHOWER STOPS THEN ALEX WHIMPERS) ALEX: I'm not Alex. I'm not Alex. What? What are you saying? What? - What? ALEX: - I'm... I'm not Alex. KELLER: What, you're not Alex? What? - I'm not Alex. Just a... I don't understand. Just talk to me. I waited and he never came. Come on. No more riddles. Just fucking tell me. He never came. I just... I'll let you go home to your aunt if you tell me where they are. ALEX: I just wanted to play. KELLER: Don't make me do this to you. - And he never came. KELLER: - What were you doing? ALEX: He never came. I just wanted to... Why are you making me do this? Help me, God. (SIGHS) I'm relying on your almighty power and your infinite mercies and promises. I hope to obtain pardon for my sins. (SIGHS) (DOOR ALARM BEEPING) Fuck me. No noise. You shut up. You make any noise, I'm gonna turn on that tap. Hey, rise and shine. I'm not gonna find two girls here, am I? Fuck you. What about Alex Jones? KELLER: What about him?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Didn't think it was something I'd get away with. - It's not. It couldn't be he skipped town because the asshole is guilty. Couldn't be that. Because that would mean it would be your fault, right? Mr. Dover? - Mr. Dover? - What? You need to take care of yourself and your wife. That's the best thing you can do right now. That little girl is gonna need you when she comes home. Kids gone for more than a week have half as good a chance of being found... ...and after a month, almost none are. Not alive. All right? So forgive me for doing everything I can... You know what? It hasn't been a fucking week. - You're right. It's day fucking six! Day six! - Hasn't been a week. And every day she's wondering why I'm not there to fucking rescue her! - All right. - Do you understand that? Me! Not you! Not you! But me! - Every day! - All right. So forgive me for not going home to have a good night's rest! Now, why don't you look for my fucking daughter rather than fighting...? Hey, hey, hey. Hey. Hey. - Don't follow me. - Hey. Hey. Mr. Dover. Mr. Dover. Don't think I'd let you get behind the wheel after you've been drinking, do you? I'm gonna walk. You look for my daughter.  ANNA: Daddy. Daddy. Look, Daddy, we found it. Anna, where was it?     ALEX: I'm not Alex. I'm not Alex. What? What are you saying? What? - What? ALEX: - I'm... I'm not Alex. KELLER: What, you're not Alex? What? - I'm not Alex. Just a... I don't understand. Just talk to me. I waited and he never came. Come on. No more riddles. Just fucking tell me. He never came. I just... I'll let you go home to your aunt if you tell me where they are. ALEX: I just wanted to play. KELLER: Don't make me do this to you. - And he never came. KELLER: - What were you doing? ALEX: He never came. I just wanted to... Why are you making me do this? Help me, God.  I'm relying on your almighty power and your infinite mercies and promises. I hope to obtain pardon for my sins.   Fuck me. No noise. You shut up. You make any noise, I'm gonna turn on that tap. Hey, rise and shine. I'm not gonna find two girls here, am I? Fuck you. What about Alex Jones? KELLER: What about him?"
+      ],
+      "scene_length_chars": 2311,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.010298426263034344,
+        0.0031203560065478086,
+        0.6727846264839172,
+        0.21843703091144562,
+        0.0010426437947899103,
+        0.12432786822319031,
+        0.036726340651512146,
+        0.04819176718592644,
+        0.047874972224235535,
+        0.023655077442526817,
+        0.031256597489118576,
+        0.0028463639318943024,
+        0.002790104364976287,
+        0.006927536800503731,
+        0.009013538248836994,
+        0.002403262769803405,
+        0.007035663817077875,
+        0.002209890866652131,
+        0.00236775865778327,
+        0.002901555271819234,
+        0.12101584672927856,
+        0.003410642733797431,
+        0.008121299557387829,
+        0.0021341422107070684,
+        0.003360167844220996,
+        0.0077965217642486095,
+        0.03850957378745079,
+        0.014879991300404072
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": null,
+      "raw_text": "I came here to drink. I don't want to drink in front of my wife. Look, my father left me this building, all right? You mind giving me a tour? - Why didn't you tell me about this place? KELLER: - I didn't think it mattered. LOKI: Everything matters. It's all pretty much like this. I'm gonna renovate soon. Yeah. Not as organized as your basement, huh? What's up with all the survivor gear in there? Pray for the best, prepare for the worst. LOKI: At least we agree there. Come on, hurry up. (CELL PHONE RINGS) Oh, shit. Hello? The guy you were looking for was just here. He saw me watching him and ran. You get a plate? Yeah. Yeah. Yeah. Go home, Mr. Dover. (KNOCKING ON DOOR) BOB: Hi. Morning. Why'd you run away from me the other night? I've never seen you before. You sure you have the right house? You doing some shopping at the Value Mall lately? Yeah. Ahem. Why, is it a crime to shop there? I can't afford to buy suits from Brooks Brothers. (BOTH CHUCKLING) Yeah, I know. You bought children's clothes. Did I? Must've been in a hurry. Mm-hm. Do you have children? No. I don't have... Have anything... Come on! Christ! (BOB GRUNTS) LOKI: Come here. Come here. (WHIMPERS) Stay. If you move, I'll put a bullet through your fucking head. (FLIES BUZZING) This is 13-40. I need additional unit for search. 437 Carrol Street. Possible kidnapping victims on the premises. (FLIES BUZZING) (GRUNTS) (PANTING) Anna? Fucking... Anna? Joy? Fuck. Fuck. (GASPS) (PANTING) (HISSING) Aah! Fuck! (HISSING) (GROANS) Ah, fuck. (GRUNTS) LOKI: So we've taken photographs of some of the clothing we found in the suspect's house. (INDISTINCT CHATTERING) (NANCY WHIMPERS) (NANCY SOBBING SOFTLY) LOKI: Mr. Dover. Mr. Dover, is your wife here? She's not coming. If you can't make a positive ID on these photographs... ...I'm gonna need her to come in and take a look at them. Have a seat. So he confessed? He said he killed them? We were hoping he was lying, but... We haven't even found any bodies, Mr. Dover, but... ...the Birches positively identified two pieces of clothing. So I'm gonna need you to tell me if you recognize anything. (KELLER GASPS THEN SIGHS) No. Uh... I'm not sure. I don't know. Okay. No. No... (WHIMPERS) That's her... That's her sock. You... You wasted time. You wasted time following me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I came here to drink. I don't want to drink in front of my wife. Look, my father left me this building, all right? You mind giving me a tour? - Why didn't you tell me about this place? KELLER: - I didn't think it mattered. LOKI: Everything matters. It's all pretty much like this. I'm gonna renovate soon. Yeah. Not as organized as your basement, huh? What's up with all the survivor gear in there? Pray for the best, prepare for the worst. LOKI: At least we agree there. Come on, hurry up.  Oh, shit. Hello? The guy you were looking for was just here. He saw me watching him and ran. You get a plate? Yeah. Yeah. Yeah. Go home, Mr. Dover.  BOB: Hi. Morning. Why'd you run away from me the other night? I've never seen you before. You sure you have the right house? You doing some shopping at the Value Mall lately? Yeah. Ahem. Why, is it a crime to shop there? I can't afford to buy suits from Brooks Brothers.  Yeah, I know. You bought children's clothes. Did I? Must've been in a hurry. Mm-hm. Do you have children? No. I don't have... Have anything... Come on! Christ!  LOKI: Come here. Come here.  Stay. If you move, I'll put a bullet through your fucking head.  This is 13-40. I need additional unit for search. 437 Carrol Street. Possible kidnapping victims on the premises.    Anna? Fucking... Anna? Joy? Fuck. Fuck.    Aah! Fuck!   Ah, fuck.  LOKI: So we've taken photographs of some of the clothing we found in the suspect's house.    LOKI: Mr. Dover. Mr. Dover, is your wife here? She's not coming. If you can't make a positive ID on these photographs... ...I'm gonna need her to come in and take a look at them. Have a seat. So he confessed? He said he killed them? We were hoping he was lying, but... We haven't even found any bodies, Mr. Dover, but... ...the Birches positively identified two pieces of clothing. So I'm gonna need you to tell me if you recognize anything.  No. Uh... I'm not sure. I don't know. Okay. No. No...  That's her... That's her sock. You... You wasted time. You wasted time following me."
+      ],
+      "scene_length_chars": 2294,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009552867151796818,
+        0.10986338555812836,
+        0.2872675061225891,
+        0.021940287202596664,
+        0.002787800505757332,
+        0.03182261809706688,
+        0.22872574627399445,
+        0.4148136377334595,
+        0.006371364463120699,
+        0.24765188992023468,
+        0.05502624437212944,
+        0.010311787016689777,
+        0.002955792937427759,
+        0.0015565297799184918,
+        0.00714664114639163,
+        0.0012567124795168638,
+        0.003655237378552556,
+        0.0032737203873693943,
+        0.00819338671863079,
+        0.003724976908415556,
+        0.005801629275083542,
+        0.0002947314060293138,
+        0.004885628819465637,
+        0.0005627590580843389,
+        0.014383828267455101,
+        0.012484841048717499,
+        0.002821505768224597,
+        0.14376142621040344
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "disappointment"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 18,
+      "heading": null,
+      "raw_text": "(SIGHS) You let this happen. Don't talk to them. Eliza told me they're dead. - Is it true? - No. She said they found their bloody clothes... Don't you dare tell your mother that. Don't you dare, you understand me? Now, I need you to listen to me. I need you to stay for a couple of days. Make sure she does not watch the news. When the paper comes, throw it the fuck away. Listen to me! We do not give up on your sister! We do not! I'm gonna find her. I'm gonna bring her home. We do not give up. You're gonna bring her home? She's dead. You can't do anything. You leave me and Mom here while you go out, getting fucking drunk! - You think I can't smell on you? - Shut up! CAPTAIN: How long has this Bob Taylor been working... ...on this map? LOKI: Three and a half hours. CAPTAIN: Think this is gonna lead to the bodies? I sure as shit don't. LOKI: Do me a favor, captain. Go fuck yourself. We weren't getting anywhere questioning him. CAPTAIN: That looks more like a maze than a map. He's got a thing for mazes. I'm going home. Call me if something happens. (LOKI SIGHS) (CHUCKLING) (CHUCKLING THEN HUMMING) (BOB CONTINUES HUMMING) Give me that card, John. The key card. All right, it's done now. Tell me what you're drawing. You said you're drawing a map. That looks like a puzzle. You tell me what you're drawing. (HUMMING) Tell me what you're drawing. - I can't! - Yes, you can. Yes, you can. - Yes, you can. - Oh, shit! Yes, you can! Yes, you can! - Take him! Come on! - Yes, you can! Yes, he can! (GRUNTING) Oh, shit! Gun! Gun! Gun! Bob, don't! Put the gun down! Bob. Bob, put the gun down! Bob. Bob, no! No! No, no, no! Fuck. Go call a fucking R.A.! KELLER: Our Father who art in heaven, hallowed be thy name. Thy kingdom come... ...thy will be done... ...on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses... ...as we... As we for... (SIGHS) He explain this before he ate the bullet? I'm sorry. Fuck your sorry. Save it for the girls' parents. KELLER: I don't know what to do, Alex. I don't know what to do anymore. And what's completely fucked up about all this is I know you know where they are. I think we're done. ALEX: They're in the maze. - That's where you'll find them. - What? What did you say? ALEX: In the maze. What...? What maze?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You let this happen. Don't talk to them. Eliza told me they're dead. - Is it true? - No. She said they found their bloody clothes... Don't you dare tell your mother that. Don't you dare, you understand me? Now, I need you to listen to me. I need you to stay for a couple of days. Make sure she does not watch the news. When the paper comes, throw it the fuck away. Listen to me! We do not give up on your sister! We do not! I'm gonna find her. I'm gonna bring her home. We do not give up. You're gonna bring her home? She's dead. You can't do anything. You leave me and Mom here while you go out, getting fucking drunk! - You think I can't smell on you? - Shut up! CAPTAIN: How long has this Bob Taylor been working... ...on this map? LOKI: Three and a half hours. CAPTAIN: Think this is gonna lead to the bodies? I sure as shit don't. LOKI: Do me a favor, captain. Go fuck yourself. We weren't getting anywhere questioning him. CAPTAIN: That looks more like a maze than a map. He's got a thing for mazes. I'm going home. Call me if something happens.     Give me that card, John. The key card. All right, it's done now. Tell me what you're drawing. You said you're drawing a map. That looks like a puzzle. You tell me what you're drawing.  Tell me what you're drawing. - I can't! - Yes, you can. Yes, you can. - Yes, you can. - Oh, shit! Yes, you can! Yes, you can! - Take him! Come on! - Yes, you can! Yes, he can!  Oh, shit! Gun! Gun! Gun! Bob, don't! Put the gun down! Bob. Bob, put the gun down! Bob. Bob, no! No! No, no, no! Fuck. Go call a fucking R.A.! KELLER: Our Father who art in heaven, hallowed be thy name. Thy kingdom come... ...thy will be done... ...on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses... ...as we... As we for...  He explain this before he ate the bullet? I'm sorry. Fuck your sorry. Save it for the girls' parents. KELLER: I don't know what to do, Alex. I don't know what to do anymore. And what's completely fucked up about all this is I know you know where they are. I think we're done. ALEX: They're in the maze. - That's where you'll find them. - What? What did you say? ALEX: In the maze. What...? What maze?"
+      ],
+      "scene_length_chars": 2293,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0020590920466929674,
+        0.038055550307035446,
+        0.8065826892852783,
+        0.1261122077703476,
+        0.0017064749263226986,
+        0.037639472633600235,
+        0.005221209023147821,
+        0.012945038266479969,
+        0.0032085776329040527,
+        0.0029795095324516296,
+        0.016617605462670326,
+        0.00806343648582697,
+        0.0026998536195605993,
+        0.002645810367539525,
+        0.03170431777834892,
+        0.0012275570770725608,
+        0.0030242179054766893,
+        0.003715081373229623,
+        0.0012539991876110435,
+        0.0007389095262624323,
+        0.008361182175576687,
+        0.00042959474376402795,
+        0.0009766173316165805,
+        0.00017159261915367097,
+        0.0020770912524312735,
+        0.003171417163684964,
+        0.03700486198067665,
+        0.08683416247367859
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 19,
+      "heading": null,
+      "raw_text": "Where is it? Where is the maze? Where do I find it? Alex? Alex, listen to me. I'm gonna get you out of here. Okay? Just tell me where the maze is. Just tell me, man. ALEX: Where is the maze? Come on, tell me. Just tell me where the maze is, okay? Come on, don't fuck with me. Don't fuck with me now. Don't fuck with me, goddamn it. Tell me where they are! Tell me! Tell me! Tell me! Something's gonna get to you, man. Something's gonna get to you! Something's gonna get to you! AUNT: Just a minute! - Can I help you? - Morning, ma'am. Uh... I'm Keller Dover. My little girl was abducted with a friend. What do you want? Uh... I guess I haven't thought this through too good, huh? I... I been thinking a lot about what happened to your nephew. And I know I scared him the other day at the police station, and... What I'm trying to say is I kind of feel responsible for him running away. You wanna come on in? Yeah. My husband and I were very devout at one time. Spent our summers driving around in that camper with our son... ...handing out pamphlets. Spreading the good word. After our son died of cancer... ...we started seeing things differently. Adopting Alex helped... ...but we never got over it. I'm sorry. You look very tired. Yeah, I don't sleep much. I, uh... I keep dreaming about being lost in a maze. I'm sorry. Heh. Alex never talks very much... ...so when people come over here, I hardly know what to say. He doesn't talk much? Well, he talks. Good morning, good night, that sort of thing. Hard to get too much more than that out of him. Had an accident when he was little. After that he started choosing his words a little too carefully. - What...? What kind of accident did he...? - Oh. My husband kept snakes. It wasn't that bad what happened, but Alex had a fear of them and... That's not my favorite memory. I'm sorry. It's none of my business. Oh. Can I get you a cup of tea, Mr. Dover? Oh. Oh, I'm so sorry. I thought you would have known about that already. I say it's better this way. You know, that awful man... ...he would have spent years on Death Row just watching TV and getting fat. Well. Least I don't have to worry about losing you to P.S.P. When forensics is finished with the guy's place, we're gonna deploy the cadaver dogs. Look, kid, we can't always save the day.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Where is it? Where is the maze? Where do I find it? Alex? Alex, listen to me. I'm gonna get you out of here. Okay? Just tell me where the maze is. Just tell me, man. ALEX: Where is the maze? Come on, tell me. Just tell me where the maze is, okay? Come on, don't fuck with me. Don't fuck with me now. Don't fuck with me, goddamn it. Tell me where they are! Tell me! Tell me! Tell me! Something's gonna get to you, man. Something's gonna get to you! Something's gonna get to you! AUNT: Just a minute! - Can I help you? - Morning, ma'am. Uh... I'm Keller Dover. My little girl was abducted with a friend. What do you want? Uh... I guess I haven't thought this through too good, huh? I... I been thinking a lot about what happened to your nephew. And I know I scared him the other day at the police station, and... What I'm trying to say is I kind of feel responsible for him running away. You wanna come on in? Yeah. My husband and I were very devout at one time. Spent our summers driving around in that camper with our son... ...handing out pamphlets. Spreading the good word. After our son died of cancer... ...we started seeing things differently. Adopting Alex helped... ...but we never got over it. I'm sorry. You look very tired. Yeah, I don't sleep much. I, uh... I keep dreaming about being lost in a maze. I'm sorry. Heh. Alex never talks very much... ...so when people come over here, I hardly know what to say. He doesn't talk much? Well, he talks. Good morning, good night, that sort of thing. Hard to get too much more than that out of him. Had an accident when he was little. After that he started choosing his words a little too carefully. - What...? What kind of accident did he...? - Oh. My husband kept snakes. It wasn't that bad what happened, but Alex had a fear of them and... That's not my favorite memory. I'm sorry. It's none of my business. Oh. Can I get you a cup of tea, Mr. Dover? Oh. Oh, I'm so sorry. I thought you would have known about that already. I say it's better this way. You know, that awful man... ...he would have spent years on Death Row just watching TV and getting fat. Well. Least I don't have to worry about losing you to P.S.P. When forensics is finished with the guy's place, we're gonna deploy the cadaver dogs. Look, kid, we can't always save the day."
+      ],
+      "scene_length_chars": 2299,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.006820837035775185,
+        0.0018559651216492057,
+        0.052577998489141464,
+        0.0064389449544250965,
+        0.0042379857040941715,
+        0.09599228948354721,
+        0.028914377093315125,
+        0.2843874394893646,
+        0.0019523227820172906,
+        0.011186111718416214,
+        0.018352221697568893,
+        0.3254431486129761,
+        0.005742555949836969,
+        0.008878674358129501,
+        0.6040850281715393,
+        0.01335607748478651,
+        0.042682092636823654,
+        0.004059973172843456,
+        0.0017741238698363304,
+        0.029066262766718864,
+        0.00714040407910943,
+        0.002524501411244273,
+        0.006586082279682159,
+        0.005985490512102842,
+        0.03863975405693054,
+        0.10728651285171509,
+        0.012679112143814564,
+        0.004038776271045208
+      ],
+      "goemotions_topk": [
+        "fear",
+        "disgust",
+        "curiosity"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "heading": null,
+      "raw_text": "All right? We're just cops. Janitors. So you lost this one, all right? Look, you want fulfillment, you need to find a girl. You know? Start a family, have some kids. Let it go. (CELL PHONE RINGS) Right. (CELL PHONE CONTINUES RINGING) - Yeah? RICH: - Hey, it's Rich. We found something. Guys, let us have a look. Two kid-sized department store mannequins, with their heads caved in. I talked to our lab. They told me the blood we sampled from the plastic containers? Pig's blood. Let's get this covered up. It's supposed to snow soon. Hurry up, okay? It's like he's play-acting. Case in point: Except for the items ID'd by the Dovers and the Birches... ...all the kids' clothes that we found still had tags on them. And that maze book that we found, he made it. Photocopies, pictures from this book we found in the attic. - Ex-FBI agent wrote that. - \"Finding the Invisible Man.\" It's about a theoretical suspect he believed was responsible for a bunch of abductions. It's totally discredited, I guess, but I read some of it. Taylor was abducted when he was a kid. He ran away after three weeks. The captor drugged him on some sort of LSD/Ketamine cocktail. He never remembered and they never caught the guy. Okay, so, he read the book and decided he was taken by the Invisible Man. Now he's doing his best imitation, right? Yeah, he was doing his best imitation. He killed himself last night. How did he do that? I thought he was in custody. Hey. Taylor drew this. It's a map to the bodies. It's a map to the bodies. We found the same design on a pendant we pulled off that corpse. - There's a connection, okay? - Connection is... ...that it's the last maze in the book. It's unsolvable. There's no way out. Your corpse is another wannabe, read the book. What are you saying to me, Rich? What? What are you saying, that this guy is a fake? You're saying that the girls are still out there somewhere? How did Bob Taylor get those clothes? How did...? How did the parents... ...positively ID those clothes? That I can't reconcile. You can't reconcile that? Just keep knocking on doors, looking in windows. Hey, why is that there? Bag that. POLICEMAN 1: Will do, sir. Right away. (PHONE RINGING) (PHONE CONTINUES RINGING) Yes? Yeah, this is she. (MAN SPEAKING INDISTINCTLY OVER THE PHONE) What?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "All right? We're just cops. Janitors. So you lost this one, all right? Look, you want fulfillment, you need to find a girl. You know? Start a family, have some kids. Let it go.  Right.  - Yeah? RICH: - Hey, it's Rich. We found something. Guys, let us have a look. Two kid-sized department store mannequins, with their heads caved in. I talked to our lab. They told me the blood we sampled from the plastic containers? Pig's blood. Let's get this covered up. It's supposed to snow soon. Hurry up, okay? It's like he's play-acting. Case in point: Except for the items ID'd by the Dovers and the Birches... ...all the kids' clothes that we found still had tags on them. And that maze book that we found, he made it. Photocopies, pictures from this book we found in the attic. - Ex-FBI agent wrote that. - \"Finding the Invisible Man.\" It's about a theoretical suspect he believed was responsible for a bunch of abductions. It's totally discredited, I guess, but I read some of it. Taylor was abducted when he was a kid. He ran away after three weeks. The captor drugged him on some sort of LSD/Ketamine cocktail. He never remembered and they never caught the guy. Okay, so, he read the book and decided he was taken by the Invisible Man. Now he's doing his best imitation, right? Yeah, he was doing his best imitation. He killed himself last night. How did he do that? I thought he was in custody. Hey. Taylor drew this. It's a map to the bodies. It's a map to the bodies. We found the same design on a pendant we pulled off that corpse. - There's a connection, okay? - Connection is... ...that it's the last maze in the book. It's unsolvable. There's no way out. Your corpse is another wannabe, read the book. What are you saying to me, Rich? What? What are you saying, that this guy is a fake? You're saying that the girls are still out there somewhere? How did Bob Taylor get those clothes? How did...? How did the parents... ...positively ID those clothes? That I can't reconcile. You can't reconcile that? Just keep knocking on doors, looking in windows. Hey, why is that there? Bag that. POLICEMAN 1: Will do, sir. Right away.   Yes? Yeah, this is she.  What?"
+      ],
+      "scene_length_chars": 2291,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.00037145751412026584,
+        0.0005432174657471478,
+        0.001322822761721909,
+        0.007045620586723089,
+        0.0011494342470541596,
+        0.00032919456134550273,
+        0.17628167569637299,
+        0.14560137689113617,
+        0.00019557469931896776,
+        0.0005067411111667752,
+        0.0031697636004537344,
+        0.0008199149742722511,
+        0.0005916189984418452,
+        0.00018387020099908113,
+        0.0009219188359566033,
+        0.0002244887436972931,
+        0.00021095895499456674,
+        0.00012025087926303968,
+        0.00017603504238650203,
+        0.0001478414487792179,
+        0.0007926879334263504,
+        8.054267527768388e-05,
+        0.0008905811118893325,
+        9.57696684054099e-05,
+        0.00013945969112683088,
+        0.00030128881917335093,
+        0.0007614888600073755,
+        0.73876953125
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "confusion",
+        "curiosity"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "heading": null,
+      "raw_text": "Oh, my God. Wait. Is she...? Ralph! Keller! Keller! We need to go to the hospital! They found Joy, but not Anna! They didn't find Anna! Maybe she'll know where Anna is! Please, we have to go! Keller! Eliza's not picking up. - You should text her. - Yeah. POLICEMAN: - Nobody gets beyond this point. - Don't touch me. - Miss! Wait a minute... - It's okay. GRACE: Nancy. NANCY: Grace. They'll find Anna. I know they will. I know they will. GRACE: I know. - How is she? KELLER: - Is she awake? Joy, were you far from our street? How far from the street were you, Joy? Joy? - You can't be doing this. - How long did it take you...? - Let me ask a question! - Keller! The detective will be back in just a minute. You need to wait. - She's been drugged. - Joy. Sweetheart, just let us know she's alive, okay? Can you just nod your head, baby? Just nod your head? Baby? Can you give us a nod? Can you nod your head for us, please? Joy? KELLER: Joy. (CAR HORN HONKS) You were there. What? I...? I was where? - It put tape on our mouths. FRANKLIN: - Shh. It's okay. It's okay, baby. It's okay. It's okay. Mommy and Daddy are here now, okay? You're all right. - Excuse me. FRANKLIN: - You're all right now. I said nobody's allowed in that room but her family. - Hey! Where you going? - Keller? - Hey! Where's he going? GRACE: - I don't know. Hey! Call downstairs. Don't let him go. Hey! Hey! Hey! Stop that car! Get his truck! Stop it! Hey! (CAR HORN HONKS) (TIRES SCREECHING) I've got you, you fucker. I know where you're going. I know where you're going. (THUDDING NEARBY) (ALEX SHOUTING) (THUDDING NEARBY) (THUDDING THEN ALEX SCREAMING) (ALEX SCREAMS) (KNOCKING ON DOOR) Hello again. Hey. I was hoping you'd let me do some penance. - For what? - Scaring you the other day at the, uh... - At the police station. - You already apologized for that. I know, I was just... You know, I thought maybe you, uh... You could use some help around the... I noticed your door here needs fixing, so I brought my tools and, uh... Oh. I see. I burned myself. Feel a little icky today. But I'm glad you want to talk some more. No need to make excuses. You come on in and make me a cup of tea. Come on in. I don't want to have to hurt you. I know they were here. Put your hands on your head and turn around. Do it. I'm just gonna go.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, my God. Wait. Is she...? Ralph! Keller! Keller! We need to go to the hospital! They found Joy, but not Anna! They didn't find Anna! Maybe she'll know where Anna is! Please, we have to go! Keller! Eliza's not picking up. - You should text her. - Yeah. POLICEMAN: - Nobody gets beyond this point. - Don't touch me. - Miss! Wait a minute... - It's okay. GRACE: Nancy. NANCY: Grace. They'll find Anna. I know they will. I know they will. GRACE: I know. - How is she? KELLER: - Is she awake? Joy, were you far from our street? How far from the street were you, Joy? Joy? - You can't be doing this. - How long did it take you...? - Let me ask a question! - Keller! The detective will be back in just a minute. You need to wait. - She's been drugged. - Joy. Sweetheart, just let us know she's alive, okay? Can you just nod your head, baby? Just nod your head? Baby? Can you give us a nod? Can you nod your head for us, please? Joy? KELLER: Joy.  You were there. What? I...? I was where? - It put tape on our mouths. FRANKLIN: - Shh. It's okay. It's okay, baby. It's okay. It's okay. Mommy and Daddy are here now, okay? You're all right. - Excuse me. FRANKLIN: - You're all right now. I said nobody's allowed in that room but her family. - Hey! Where you going? - Keller? - Hey! Where's he going? GRACE: - I don't know. Hey! Call downstairs. Don't let him go. Hey! Hey! Hey! Stop that car! Get his truck! Stop it! Hey!   I've got you, you fucker. I know where you're going. I know where you're going.       Hello again. Hey. I was hoping you'd let me do some penance. - For what? - Scaring you the other day at the, uh... - At the police station. - You already apologized for that. I know, I was just... You know, I thought maybe you, uh... You could use some help around the... I noticed your door here needs fixing, so I brought my tools and, uh... Oh. I see. I burned myself. Feel a little icky today. But I'm glad you want to talk some more. No need to make excuses. You come on in and make me a cup of tea. Come on in. I don't want to have to hurt you. I know they were here. Put your hands on your head and turn around. Do it. I'm just gonna go."
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.013910699635744095,
+        0.0039396025240421295,
+        0.092889703810215,
+        0.027332952246069908,
+        0.003099996130913496,
+        0.2596881687641144,
+        0.001618148642592132,
+        0.16232530772686005,
+        0.005117513705044985,
+        0.003595354501157999,
+        0.0015654641902074218,
+        0.003413889091461897,
+        0.011947844177484512,
+        0.004779532086104155,
+        0.09135917574167252,
+        0.1936894953250885,
+        0.00678253872320056,
+        0.002238113433122635,
+        0.0014080391265451908,
+        0.016148610040545464,
+        0.08833853155374527,
+        0.0053373537957668304,
+        0.0027024284936487675,
+        0.00793480034917593,
+        0.0037716494407504797,
+        0.002995450282469392,
+        0.011269120499491692,
+        0.36162129044532776
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 22,
+      "heading": null,
+      "raw_text": "Don't touch that bag. Put your hands on your head. Come over here to this counter. Come on. Top drawer. Open it. Mm-hm. Put them on. You don't know me, Mr. Dover. But believe me when I tell you, I won't let you go. You don't have to drink all of it. About a third should do for a man your size. - Something to make you more manageable. - Forget it. Drink it, Mr. Dover, or I'll kill you right here in my kitchen and bring your daughter in here... - ...and have her scrub your brains off the floor. - Where is she? (SIGHS) Drink. Just let me see her. - You want to see her? - Yes. That's your ticket to your daughter right there. Little more, Mr. Dover. Little more. Good, isn't it? That's my darling husband's recipe. Now go on out back. Let me see her. (CELL PHONE RINGS) Take it out of your pocket. Put it in the sink. Put it in the disposal. (CELL PHONE CONTINUES RINGING) Put your car keys on the table. (KELLER SIGHS THEN GROANS) Put your car keys on the table. That's right. Go over to the Trans-Am over there. The car over there. Come on, move it. Get over there. The look on your face. My husband used to have the very same look until we took Alex. He was the first kid we ever took. His name was Jimmy. Or Barry. Can't remember. Doubt he can, either. So many names. Forgot all about Bobby Taylor until I read about him in the paper. Get in the driver's seat. Open the door and get in the car. Making children disappear is the war we wage with God. Makes people lose their faith. Turns them into demons like you. Had to slow down since my husband disappeared. But I do what I can. Start the car. Start the car. (ENGINE STALLING) Keep trying. (ENGINE CHUGS THEN STARTS) Back up. Slowly. Come on. Back up. Come on. Stop. Turn it off. Turn it off! Get out. Think you should know. Alex never laid a hand on those girls. Just wanted to take them for a ride in the camper. I was the one who decided they should stay. Take a look. Maybe your daughter's under there. You never know. Anna. Anna! Anna? Anna! Anna! Anna! I had the girls down there while the police came poking around. Should have left them down there. I was so lonely without Alex. - Now get in there. - What? Get in. You want me to get in there, you're gonna have to shoot me. I'm not gonna get in there just because you asked.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Don't touch that bag. Put your hands on your head. Come over here to this counter. Come on. Top drawer. Open it. Mm-hm. Put them on. You don't know me, Mr. Dover. But believe me when I tell you, I won't let you go. You don't have to drink all of it. About a third should do for a man your size. - Something to make you more manageable. - Forget it. Drink it, Mr. Dover, or I'll kill you right here in my kitchen and bring your daughter in here... - ...and have her scrub your brains off the floor. - Where is she?  Drink. Just let me see her. - You want to see her? - Yes. That's your ticket to your daughter right there. Little more, Mr. Dover. Little more. Good, isn't it? That's my darling husband's recipe. Now go on out back. Let me see her.  Take it out of your pocket. Put it in the sink. Put it in the disposal.  Put your car keys on the table.  Put your car keys on the table. That's right. Go over to the Trans-Am over there. The car over there. Come on, move it. Get over there. The look on your face. My husband used to have the very same look until we took Alex. He was the first kid we ever took. His name was Jimmy. Or Barry. Can't remember. Doubt he can, either. So many names. Forgot all about Bobby Taylor until I read about him in the paper. Get in the driver's seat. Open the door and get in the car. Making children disappear is the war we wage with God. Makes people lose their faith. Turns them into demons like you. Had to slow down since my husband disappeared. But I do what I can. Start the car. Start the car.  Keep trying.  Back up. Slowly. Come on. Back up. Come on. Stop. Turn it off. Turn it off! Get out. Think you should know. Alex never laid a hand on those girls. Just wanted to take them for a ride in the camper. I was the one who decided they should stay. Take a look. Maybe your daughter's under there. You never know. Anna. Anna! Anna? Anna! Anna! Anna! I had the girls down there while the police came poking around. Should have left them down there. I was so lonely without Alex. - Now get in there. - What? Get in. You want me to get in there, you're gonna have to shoot me. I'm not gonna get in there just because you asked."
+      ],
+      "scene_length_chars": 2293,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012566186487674713,
+        0.001089555793441832,
+        0.013207037933170795,
+        0.09122926741838455,
+        0.010338558815419674,
+        0.4443555772304535,
+        0.0009202984510920942,
+        0.02133902907371521,
+        0.006729064974933863,
+        0.036173295229673386,
+        0.005719462409615517,
+        0.0044507370330393314,
+        0.0003735130885615945,
+        0.000569803814869374,
+        0.0323718786239624,
+        0.0009688838035799563,
+        0.010386929847300053,
+        0.000807176111266017,
+        0.0037696126382797956,
+        0.019681992009282112,
+        0.033842783421278,
+        0.0011149485362693667,
+        0.004611408803611994,
+        0.0010319901630282402,
+        0.000447871774667874,
+        0.23473785817623138,
+        0.0008512320346198976,
+        0.5568656325340271
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "sadness"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "caring",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 23,
+      "heading": null,
+      "raw_text": "(GROANING) God! Go on. Get in there. (GRUNTING AND GROANING) That's right. (THUDDING THEN KELLER YELLS) (GROANS) (GROANING) Make yourself a tourniquet. Just might last 24 hours. I'd love for you to still be alive when I dump your daughter's body down there. (GROANING) (BOARD GRATING) Wait. No, wait, wait! Wait! (BOARD THUMPS) KELLER: Oh. (INDISTINCT CHATTERING) Hey. I need you to go over to Holly Jones'. - She needs to be notified. - No. I need to find Dover. - Come on. You're done with Dover. - You want me to go to Holly Jones? I want you to go to Holly Jones' and notify her, please. Pfft. (GROANS THEN PANTS) (GRUNTS) Oh, God. (GROANS) (SIGHS) Almighty God, protect my girl. (VEHICLE APPROACHING) Mrs. Jones? Mrs. Jones? (FLOORBOARD CREAKS) Show me your hands right now. Don't move and show me your fucking hands right now. Stop right now! Show me your fucking hands. Do not move and show me your hands. Make sure they cremate me. I sure as hell don't want to be buried in some box. Both hands! Right now! Right now! Fuck! Anna. Oh, my God. (LOKI GRUNTS THEN PANTS) (GROANING) Anna. (TIRES SCREECHING THEN CAR HORN HONKING) (TIRES SCREECHING) Oh, shit. (CAR HORNS HONKING AND TIRES SCREECHING) (CAR HORNS HONKING) Come on. Come on, Anna. Anna. Come on. Stay with me, Anna. Stay with me, huh? Stay with me, Anna. Stay with me, Anna! It's all right. It's all right, come on. Go, move, move, move! Don't die. Don't die. (TIRES SCREECHING AND CAR HORNS HONKING) It's okay. It's okay. Honey. You're okay. Hey. Hey. Hey! Help! Help! Help. Help! Help! (WOMAN SPEAKING INDISTINCTLY OVER THE PA) Um, Detective Loki? I hope we're not intruding. No. She's doing real good. She's gonna be up and around in a few days, aren't you, buddy? She just wanted to come and say thank you and hi to her hero. Hello. Would you mind giving me a minute? - Yeah. Say goodbye, Joy. - Thank you. - Bye. - I'll be out in a minute. Say goodbye, Anna. She found her whistle? No. She keeps insisting that Joy helped her find it... ...on Thanksgiving before they were taken. But I think she's just confused. I got her a new one. He hasn't contacted me. I know you don't... I know you probably don't believe that, but he hasn't. I believe you. Do you think you're gonna find him? Yeah. And he'll go to jail. Probably. Anyway.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "God! Go on. Get in there.  That's right.    Make yourself a tourniquet. Just might last 24 hours. I'd love for you to still be alive when I dump your daughter's body down there.   Wait. No, wait, wait! Wait!  KELLER: Oh.  Hey. I need you to go over to Holly Jones'. - She needs to be notified. - No. I need to find Dover. - Come on. You're done with Dover. - You want me to go to Holly Jones? I want you to go to Holly Jones' and notify her, please. Pfft.   Oh, God.   Almighty God, protect my girl.  Mrs. Jones? Mrs. Jones?  Show me your hands right now. Don't move and show me your fucking hands right now. Stop right now! Show me your fucking hands. Do not move and show me your hands. Make sure they cremate me. I sure as hell don't want to be buried in some box. Both hands! Right now! Right now! Fuck! Anna. Oh, my God.   Anna.   Oh, shit.   Come on. Come on, Anna. Anna. Come on. Stay with me, Anna. Stay with me, huh? Stay with me, Anna. Stay with me, Anna! It's all right. It's all right, come on. Go, move, move, move! Don't die. Don't die.  It's okay. It's okay. Honey. You're okay. Hey. Hey. Hey! Help! Help! Help. Help! Help!  Um, Detective Loki? I hope we're not intruding. No. She's doing real good. She's gonna be up and around in a few days, aren't you, buddy? She just wanted to come and say thank you and hi to her hero. Hello. Would you mind giving me a minute? - Yeah. Say goodbye, Joy. - Thank you. - Bye. - I'll be out in a minute. Say goodbye, Anna. She found her whistle? No. She keeps insisting that Joy helped her find it... ...on Thanksgiving before they were taken. But I think she's just confused. I got her a new one. He hasn't contacted me. I know you don't... I know you probably don't believe that, but he hasn't. I believe you. Do you think you're gonna find him? Yeah. And he'll go to jail. Probably. Anyway."
+      ],
+      "scene_length_chars": 2300,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.03731624782085419,
+        0.0006614879821427166,
+        0.3464559316635132,
+        0.007973653264343739,
+        0.23892901837825775,
+        0.3443387746810913,
+        0.005761345848441124,
+        0.04234722629189491,
+        0.011719265021383762,
+        0.002904161810874939,
+        0.005598477553576231,
+        0.0028560005594044924,
+        0.0009440514841116965,
+        0.0013859454775229096,
+        0.030479390174150467,
+        0.026971986517310143,
+        0.007575805298984051,
+        0.002667580032721162,
+        0.015148778446018696,
+        0.001698883599601686,
+        0.1290207803249359,
+        0.0020669368095695972,
+        0.005296092480421066,
+        0.007041990291327238,
+        0.0021788093727082014,
+        0.006670701317489147,
+        0.008528552949428558,
+        0.15958523750305176
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "approval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 24,
+      "heading": null,
+      "raw_text": "Thank you for everything. Oh, God. (GRACE SOBS SOFTLY) I miss him. He... He did what he had to do to find Anna... ...and I thank God for that. He's a good man. Bye. MAN 1: That's it. Let's pack it up. - You all done for the night? - Yeah, the ground's frozen solid. It's gonna take weeks to excavate the entire property. Just found some dead snakes and shit. Pray for the best, prepare for the worst, yeah? Night. Night. MAN 2: Shut her down. MAN 3: Yeah, I got it. (MEN CHATTERING INDISTINCTLY) (SIGHS) (WHISTLE BLOWS) (SCOFFS) (WHISTLE BLOWS) (WHISTLE BLOWS) (SCOFFS) (WHISTLE BLOWS) (WHISTLE BLOWS) (ENGLISH US - SDH)",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Thank you for everything. Oh, God.  I miss him. He... He did what he had to do to find Anna... ...and I thank God for that. He's a good man. Bye. MAN 1: That's it. Let's pack it up. - You all done for the night? - Yeah, the ground's frozen solid. It's gonna take weeks to excavate the entire property. Just found some dead snakes and shit. Pray for the best, prepare for the worst, yeah? Night. Night. MAN 2: Shut her down. MAN 3: Yeah, I got it."
+      ],
+      "scene_length_chars": 620,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.04230783134698868,
+        0.0007016235613264143,
+        0.009035056456923485,
+        0.0036016192752867937,
+        0.0012738207587972283,
+        0.13431718945503235,
+        0.0025805323384702206,
+        0.019455641508102417,
+        0.0011965722078457475,
+        0.0006870416691526771,
+        0.003732566023245454,
+        0.018606990575790405,
+        0.00140794413164258,
+        0.001028779661282897,
+        0.00584550853818655,
+        0.9976997971534729,
+        0.0037294640205800533,
+        0.0033082030713558197,
+        0.002252929611131549,
+        0.0006697879871353507,
+        0.00103239924646914,
+        0.0027552733663469553,
+        0.0015028729103505611,
+        0.011450760066509247,
+        0.0029005955439060926,
+        0.004443126730620861,
+        0.0014664764748886228,
+        0.004847203381359577
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "caring",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 24,
+    "lines_per_scene_fallback": 20
+  }
+}

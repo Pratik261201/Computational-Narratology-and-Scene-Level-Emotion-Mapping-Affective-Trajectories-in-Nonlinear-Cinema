@@ -1,0 +1,2074 @@
+{
+  "source_file": "American History X _1998_ - full transcript.txt",
+  "title": "American History X",
+  "year": "1998",
+  "meta_description": null,
+  "num_scenes": 39,
+  "avg_scene_chars": 1671,
+  "characters": [
+    "ALLY",
+    "DAVINA",
+    "HENRY",
+    "JEROME",
+    "MAN 1",
+    "MAN 3",
+    "MURRAY",
+    "SETH"
+  ],
+  "scenes": [
+    {
+      "scene_id": 3,
+      "heading": "[IN NORMAL VOICE]",
+      "raw_text": "[PANTlNG]\nDerek.\nDerek. STACEY: Fucking pervert, Dan. Jesus! Danny, what the fuck are you thinking? There's a black guy outside. He's breaking into your car. DEREK: How long's he been there? I don't know. STACEY: What's going on? Not right now, honey. How many? Danny, how many? One, I think. Is he strapped? Does he have a fucking gun, Danny? Man, l don't fucking know. Wait a second. What the fuck is going on, Derek? Stay right here and be quiet. Jesus. Stay right here. STACEY: Wait a second, Derek. Wait. Derek. Shh, shh. They're right here.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Derek.",
+        "Derek. STACEY: Fucking pervert, Dan. Jesus! Danny, what the fuck are you thinking? There's a black guy outside. He's breaking into your car. DEREK: How long's he been there? I don't know. STACEY: What's going on? Not right now, honey. How many? Danny, how many? One, I think. Is he strapped? Does he have a fucking gun, Danny? Man, l don't fucking know. Wait a second. What the fuck is going on, Derek? Stay right here and be quiet. Jesus. Stay right here. STACEY: Wait a second, Derek. Wait. Derek. Shh, shh. They're right here."
+      ],
+      "scene_length_chars": 546,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0013554308097809553,
+        0.0030004961881786585,
+        0.9819803237915039,
+        0.03898264095187187,
+        0.0008956297533586621,
+        0.002656156662851572,
+        0.00797352846711874,
+        0.07579337060451508,
+        0.007600810844451189,
+        0.0023034424521028996,
+        0.003171612275764346,
+        0.003072697203606367,
+        0.00044347415678203106,
+        0.0030877923127263784,
+        0.001775437267497182,
+        0.0014374521560966969,
+        0.0011369555722922087,
+        0.0014640250010415912,
+        0.002658396027982235,
+        0.00033418426755815744,
+        0.0020104828290641308,
+        0.00036473432555794716,
+        0.0007663227152079344,
+        8.602181333117187e-05,
+        0.0007639435934834182,
+        0.0010874784784391522,
+        0.008793984539806843,
+        0.024850593879818916
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "[GRUNTS]",
+      "raw_text": "MURRAY: I don't have a personal problem with him, okay? SWEENEY: Don't insult my inteIligence, Murray. You hate this child and I think I know why. I went out with his mother a few times. That was 3 years ago. It was nothing. Nothing. RealIy? That paper, Bob, it's a travesty. Arguing for Hitler as a civil-rights hero? You've gotta draw the line. You know Murray, you actually did this to yourself. You told them they could do a report on any book that related to the struggle for civil rights. In plain English. I am not disputing the fact that the child is confused and harbors some sick ideas but l am not ready to give up on him yet. His brother probably put him up to it. I can guarantee you 100 percent his brother did not put him up to this. MURRAY: I find that hard to believe. Whatever. Look! I know he was a good kid and it's a shame what he's been through but that is dangerous. Dangerous in what way? Bob, that goes too far. This racist propaganda, this Mein Kampf psychobabble? He learned this nonsense, Murray, and he can unIearn it too. I wilI not give up on this child yet. I knew it was you. SWEENEY: Danny, get in here. I said, get in here. Get in here! 5, 4, 3, 2....Shut the door. What's it gonna be, Danny? What's what gonna be? This petty crap you're pulling. I don't know. Have a seat.",
+      "characters": [
+        "MURRAY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MURRAY",
+          "text": "I don't have a personal problem with him, okay? SWEENEY: Don't insult my inteIligence, Murray. You hate this child and I think I know why. I went out with his mother a few times. That was 3 years ago. It was nothing. Nothing. RealIy? That paper, Bob, it's a travesty. Arguing for Hitler as a civil-rights hero? You've gotta draw the line. You know Murray, you actually did this to yourself. You told them they could do a report on any book that related to the struggle for civil rights. In plain English. I am not disputing the fact that the child is confused and harbors some sick ideas but l am not ready to give up on him yet. His brother probably put him up to it. I can guarantee you 100 percent his brother did not put him up to this. MURRAY: I find that hard to believe. Whatever. Look! I know he was a good kid and it's a shame what he's been through but that is dangerous. Dangerous in what way? Bob, that goes too far. This racist propaganda, this Mein Kampf psychobabble? He learned this nonsense, Murray, and he can unIearn it too. I wilI not give up on this child yet. I knew it was you. SWEENEY: Danny, get in here. I said, get in here. Get in here! 5, 4, 3, 2....Shut the door. What's it gonna be, Danny? What's what gonna be? This petty crap you're pulling. I don't know. Have a seat."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1308,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0596761479973793,
+        0.0004717772244475782,
+        0.40645283460617065,
+        0.555263340473175,
+        0.000504388939589262,
+        0.004495435394346714,
+        0.004634062759578228,
+        0.035927142947912216,
+        0.0015449158381670713,
+        0.01393122598528862,
+        0.03435361012816429,
+        0.006452217698097229,
+        0.0010977087076753378,
+        0.0011517005041241646,
+        0.04479809105396271,
+        0.0014521107077598572,
+        0.0008867157157510519,
+        0.000335007905960083,
+        0.0004265568859409541,
+        0.0013042434584349394,
+        0.004752492066472769,
+        0.0007035434828139842,
+        0.00231481296941638,
+        0.0003103251801803708,
+        0.0006435976247303188,
+        0.001495257019996643,
+        0.0040881335735321045,
+        0.023790283128619194
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "anger",
+        "admiration"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": "[DANNY CLEARS THROAT]",
+      "raw_text": "How you doing? Fine. Things at home okay? Yeah. Derek got out this morning, did he not? Yeah, he did. He was one of my students. You knew that, right? Honors English. He was a brilliant student. Like you. But he hung out with simple-minded fooIs. Also like you. Look Sweeney, did you bring me in here to talk about Derek? Because what happened to him has nothing to do with me. Everything you do right now has something to do with Derek. Look, l followed directions and l wrote an A paper. \"Mein Kampf\"? I should expel you. Go ahead. Why you don't think I could handle it? No, I think the street would kiIl you. Your rhetoric and your propaganda aren't gonna save you out there. So here's the drilI. I'm your history teacher from now on. We will discuss current events. We will call this class American History X. We meet once a day. All right, your first assignment is to prepare for me a new paper due tomorrow. Come on Sweeney. It took me a week to read Mein Kampf. That isn't fair.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How you doing? Fine. Things at home okay? Yeah. Derek got out this morning, did he not? Yeah, he did. He was one of my students. You knew that, right? Honors English. He was a brilliant student. Like you. But he hung out with simple-minded fooIs. Also like you. Look Sweeney, did you bring me in here to talk about Derek? Because what happened to him has nothing to do with me. Everything you do right now has something to do with Derek. Look, l followed directions and l wrote an A paper. \"Mein Kampf\"? I should expel you. Go ahead. Why you don't think I could handle it? No, I think the street would kiIl you. Your rhetoric and your propaganda aren't gonna save you out there. So here's the drilI. I'm your history teacher from now on. We will discuss current events. We will call this class American History X. We meet once a day. All right, your first assignment is to prepare for me a new paper due tomorrow. Come on Sweeney. It took me a week to read Mein Kampf. That isn't fair."
+      ],
+      "scene_length_chars": 985,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.13476847112178802,
+        0.002303974935784936,
+        0.0026879434008151293,
+        0.0016290496569126844,
+        0.025043681263923645,
+        0.00409567728638649,
+        0.010705460794270039,
+        0.2600964605808258,
+        0.00348479300737381,
+        0.0003011843655258417,
+        0.000764421361964196,
+        0.0006685839616693556,
+        0.0001527168496977538,
+        0.0005054941866546869,
+        0.00048369274009019136,
+        0.0002257403830299154,
+        0.00012898122076876462,
+        0.0003722424735315144,
+        0.0010329852811992168,
+        0.00018870830535888672,
+        0.007546802517026663,
+        0.00027275196043774486,
+        0.003301494289189577,
+        6.432387453969568e-05,
+        0.0001970979938050732,
+        0.0001732589298626408,
+        0.00028965124511159956,
+        0.8064306974411011
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "admiration"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": "[SIGHS]",
+      "raw_text": "Well, what do you want me to do it on? Your brother. Oh, God, man. Please tell me you're joking. No, no. I'm not kidding. I want you to analyze and interpret all the events surrounding Derek's incarceration. How these events helped shape your present perspective concerningl life in contemporary America. The impact on your life. Your family's. Whatever you wanna say, Danny, I'll be the only one reading it. But if it's not on my desk tomorrow morning, you are a ghost at Venice Beach High. Are you clear? Yeah, I'm clear.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Well, what do you want me to do it on? Your brother. Oh, God, man. Please tell me you're joking. No, no. I'm not kidding. I want you to analyze and interpret all the events surrounding Derek's incarceration. How these events helped shape your present perspective concerningl life in contemporary America. The impact on your life. Your family's. Whatever you wanna say, Danny, I'll be the only one reading it. But if it's not on my desk tomorrow morning, you are a ghost at Venice Beach High. Are you clear? Yeah, I'm clear."
+      ],
+      "scene_length_chars": 523,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003654465836007148,
+        0.03508317098021507,
+        0.0008635616977699101,
+        0.011363765224814415,
+        0.0017402619123458862,
+        0.022854240611195564,
+        0.014720913954079151,
+        0.9500502347946167,
+        0.0011361489305272698,
+        0.0005474683130159974,
+        0.006303122267127037,
+        0.00030337285716086626,
+        0.0005421128589659929,
+        0.0012355779763311148,
+        0.0005480238469317555,
+        0.0002827588759828359,
+        0.0004929361748509109,
+        0.0017626178450882435,
+        0.0001290941290790215,
+        0.0004107201239094138,
+        0.0031599171925336123,
+        6.262426904868335e-05,
+        0.0009752481710165739,
+        0.0003658610803540796,
+        0.0005075898952782154,
+        0.0005000566598027945,
+        0.0009737808140926063,
+        0.36939737200737
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "amusement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": "[GRUNTING]",
+      "raw_text": "Telling teacher I'm fucking cheating? Is that what's happening? I never cheated in my life. Beat his motherfucking ass, Henry. I didn't say anything. Why you tripping on me? Why you all kicking him like that? What's up, man? What you scared for? I ain't gonna do nothing.\n[GRUNTS]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Telling teacher I'm fucking cheating? Is that what's happening? I never cheated in my life. Beat his motherfucking ass, Henry. I didn't say anything. Why you tripping on me? Why you all kicking him like that? What's up, man? What you scared for? I ain't gonna do nothing."
+      ],
+      "scene_length_chars": 280,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0020550771150738,
+        0.00042207815567962825,
+        0.9730395674705505,
+        0.08198808133602142,
+        0.0007672489155083895,
+        0.002632003277540207,
+        0.04673908278346062,
+        0.022034065797924995,
+        0.0013049633707851171,
+        0.006552607286721468,
+        0.011583683080971241,
+        0.004144052974879742,
+        0.0007934240275062621,
+        0.0008231342653743923,
+        0.058208756148815155,
+        0.0008190376684069633,
+        0.0017685865750536323,
+        0.0010250888299196959,
+        0.001399728818796575,
+        0.0005662674084305763,
+        0.00105695566162467,
+        0.0007487175753340125,
+        0.001703537069261074,
+        0.00020222044258844107,
+        0.0009102767216973007,
+        0.0012875751126557589,
+        0.010656527243554592,
+        0.008988872170448303
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "fear"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": "[HENRY LAUGHS]",
+      "raw_text": "What's up? Want some too, bitch? Punk. What's wrong with you? You wanna die? Punk-ass white boy.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What's up? Want some too, bitch? Punk. What's wrong with you? You wanna die? Punk-ass white boy."
+      ],
+      "scene_length_chars": 96,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00038295742706395686,
+        0.0016992958262562752,
+        0.3673994839191437,
+        0.6382077932357788,
+        0.0014386838302016258,
+        0.002697719493880868,
+        0.012235424481332302,
+        0.4557884633541107,
+        0.005309180356562138,
+        0.004993763752281666,
+        0.005819377955049276,
+        0.0021068959031254053,
+        0.0005080153350718319,
+        0.00029852314037270844,
+        0.0006345888832584023,
+        0.00036477536195889115,
+        0.00017411894805263728,
+        0.00016924767987802625,
+        0.0005517377285286784,
+        0.000584291759878397,
+        0.001159954466857016,
+        5.2837120165349916e-05,
+        0.002206546487286687,
+        4.459508272702806e-05,
+        0.0001949850411619991,
+        0.000995914451777935,
+        0.001148475450463593,
+        0.0705932080745697
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "curiosity",
+        "anger"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "anger",
+        "annoyance",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": "[BELL RINGS]",
+      "raw_text": "You lucky I gotta go to class. He ain't gonna do nothing. He don't wanna see me and the heater.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You lucky I gotta go to class. He ain't gonna do nothing. He don't wanna see me and the heater."
+      ],
+      "scene_length_chars": 95,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0004910225979983807,
+        0.00024961467715911567,
+        0.00040736785740591586,
+        0.028356416150927544,
+        0.0010361080057919025,
+        0.0010585407726466656,
+        0.0003272503090556711,
+        0.0008124869782477617,
+        0.0004241520946379751,
+        0.013047633692622185,
+        0.007291074842214584,
+        0.0010567678837105632,
+        0.001721966196782887,
+        0.0021103231701999903,
+        0.00021589257812593132,
+        0.0016799920704215765,
+        0.0004860691260546446,
+        0.009514233097434044,
+        3.374294828972779e-05,
+        0.00014619411376770586,
+        0.004032765049487352,
+        0.003273043315857649,
+        0.0013950862921774387,
+        0.03169204667210579,
+        0.0006680252845399082,
+        0.00027325336122885346,
+        0.0004679213452618569,
+        0.9801297187805176
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "relief",
+        "annoyance"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": "[HlSSES]",
+      "raw_text": "HENRY: Lucky the bell rung. I would have clocked that white boy. Punk-ass motherfucker. We'd smoke that fooI. You gotta fucking stand up for yourself. RASMUSSEN: We got a whole file on skinheads here. These skinheads all part of the same gang? RASMUSSEN: Venice Beach Gang. MAN 1 : Where's my buddy? MAN 2: Actually he's doing a stretch at YA. MAN 2: This guy C.C.? MAN 3: That him? MAN 4: Yeah, that's him right there. This morning we have a guest coming in and there he is. Morning. Morning, sir. Good to see you, pal. Morning. Gentlemen, this here is Dr. Bob Sweeney. He's principal over at Venice Beach High. And for some time now, he's been doing outreach work with gangs, both in and out of the can. At 3 years ago, a local kid named Derek Vinyard was sent up for murdering a couple of Crips who were trying to jack his car. Bob taught Vinyard back in high school and he's followed the case kind of closely. He was a skinhead, right? He was more like the skinhead. The protégé of Cameron Alexander. Who? Cameron Alexander. Here you go! Have a look-see. Cameron Alexander, well, he's a Venice Beach landmark. He's probably the biggest distributor and writer of white-power literature and videos in L.A. County. He promotes white-power bands. He writes reviews. And in his spare time, this guy even writes hate columns. Does he have a record? He's pretty clean. Been trying to pin something to him but it doesn't work. Trust me. He's behind all of it. He runs everything out of his house down by the beach. RASMUSSEN: There were no white gangs in Venice Beach before Cameron Alexander and Derek Vinyard hooked up. SWEENEY: Alexander found in Derek his shining prince. Essentially, he used Derek to recruit a slew of insecure frustrated and impressionable kids. This kid Vinyard, well, he's got a lot of baggage as you'll see in this tape that we've gotten courtesy of NBC. REPORTER",
+      "characters": [
+        "HENRY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "HENRY",
+          "text": "Lucky the bell rung. I would have clocked that white boy. Punk-ass motherfucker. We'd smoke that fooI. You gotta fucking stand up for yourself. RASMUSSEN: We got a whole file on skinheads here. These skinheads all part of the same gang? RASMUSSEN: Venice Beach Gang. MAN 1 : Where's my buddy? MAN 2: Actually he's doing a stretch at YA. MAN 2: This guy C.C.? MAN 3: That him? MAN 4: Yeah, that's him right there. This morning we have a guest coming in and there he is. Morning. Morning, sir. Good to see you, pal. Morning. Gentlemen, this here is Dr. Bob Sweeney. He's principal over at Venice Beach High. And for some time now, he's been doing outreach work with gangs, both in and out of the can. At 3 years ago, a local kid named Derek Vinyard was sent up for murdering a couple of Crips who were trying to jack his car. Bob taught Vinyard back in high school and he's followed the case kind of closely. He was a skinhead, right? He was more like the skinhead. The protégé of Cameron Alexander. Who? Cameron Alexander. Here you go! Have a look-see. Cameron Alexander, well, he's a Venice Beach landmark. He's probably the biggest distributor and writer of white-power literature and videos in L.A. County. He promotes white-power bands. He writes reviews. And in his spare time, this guy even writes hate columns. Does he have a record? He's pretty clean. Been trying to pin something to him but it doesn't work. Trust me. He's behind all of it. He runs everything out of his house down by the beach. RASMUSSEN: There were no white gangs in Venice Beach before Cameron Alexander and Derek Vinyard hooked up. SWEENEY: Alexander found in Derek his shining prince. Essentially, he used Derek to recruit a slew of insecure frustrated and impressionable kids. This kid Vinyard, well, he's got a lot of baggage as you'll see in this tape that we've gotten courtesy of NBC. REPORTER"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1885,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.02216605469584465,
+        0.0006171660497784615,
+        0.3818080723285675,
+        0.019069038331508636,
+        0.0018478506244719028,
+        0.0003009687352459878,
+        0.0020896056666970253,
+        0.003615337423980236,
+        0.00034380191937088966,
+        0.0017068780725821853,
+        0.0010589275043457747,
+        0.0037078987807035446,
+        0.0006202459335327148,
+        0.0012233643792569637,
+        0.0004826997173950076,
+        0.0003953825798816979,
+        0.0004457469331100583,
+        0.00031166974804364145,
+        0.000875075114890933,
+        0.0001070115904440172,
+        0.0006419536075554788,
+        0.0017997466493397951,
+        0.005965142510831356,
+        0.0002422883699182421,
+        0.000376481213606894,
+        0.0002420433156657964,
+        0.002270686673000455,
+        0.8299463987350464
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "admiration"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "anger",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": "[ON TV]",
+      "raw_text": ": Earlier today, L.A. County firefighter Dennis Vinyard was shot and killed battling a blaze at a suspected Compton drug den. We're at the Vinyard home right now and Lieutenant Vinyard's oldest son, Derek, has agreed to talk with us fro a moment. Derek, if you could come down here, please, for just a second. Look, I know this is tough but how do you feel right now? How do you think I feel? I think it's typical. Typical, how? While this country's becoming a haven for criminals, so what do you expect? You know, decent, hardworking Americans like my dad are getting rubbed out by social parasites. Parasites? Blacks, browns, yellow, whatever. REPORTER: I don't understand. You're saying you think maybe your father's murder was race-related? Yes, race-related. Every problem in this country is race-related, not just crime like... Immigration, AIDS, welfare. Those are problems of the black community the Hispanic community, the Asian community. They're not white problems. Derek, aren't those issues that deal more with poverty? No, you know. They're not products of their environments either. That's crap. Minorities don't give two shits about this country. They come here to exploit it, not to embrace it. Millions of white European-Americans came here and flourished. You know, within a generation. So what the fuck is the matter with these people? They have to go around shooting at firemen. What this sentence has to do with the murder of your father? Because my father was murdered doing his job. Putting out a fire in a fucking nigger neighborhood he shouldn't have given a shit about. He got shot by a fucking drug dealer who probably still collects a welfare check. That's enough. I'm sorry. Derek Vinyard was quite released from Chino earlier this morning after serving 3 and some-odd years. I think this is something we gotta keep an eye on. If something happens to him, things could get very ugly down by the beach. Just keep it low. DANNY: Venice Beach didn't always look like this. It used to be a great neighborhood. The boardwalk's always been a dump but when my dad moved us out here, Venice was a nice, quiet place to grow up. Over the years though, it's just gone to hell. The gangs are like a plague. They moved west from Inglewood and South Central and basically took over. It ain't fouling you. What's wrong with you?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        ": Earlier today, L.A. County firefighter Dennis Vinyard was shot and killed battling a blaze at a suspected Compton drug den. We're at the Vinyard home right now and Lieutenant Vinyard's oldest son, Derek, has agreed to talk with us fro a moment. Derek, if you could come down here, please, for just a second. Look, I know this is tough but how do you feel right now? How do you think I feel? I think it's typical. Typical, how? While this country's becoming a haven for criminals, so what do you expect? You know, decent, hardworking Americans like my dad are getting rubbed out by social parasites. Parasites? Blacks, browns, yellow, whatever. REPORTER: I don't understand. You're saying you think maybe your father's murder was race-related? Yes, race-related. Every problem in this country is race-related, not just crime like... Immigration, AIDS, welfare. Those are problems of the black community the Hispanic community, the Asian community. They're not white problems. Derek, aren't those issues that deal more with poverty? No, you know. They're not products of their environments either. That's crap. Minorities don't give two shits about this country. They come here to exploit it, not to embrace it. Millions of white European-Americans came here and flourished. You know, within a generation. So what the fuck is the matter with these people? They have to go around shooting at firemen. What this sentence has to do with the murder of your father? Because my father was murdered doing his job. Putting out a fire in a fucking nigger neighborhood he shouldn't have given a shit about. He got shot by a fucking drug dealer who probably still collects a welfare check. That's enough. I'm sorry. Derek Vinyard was quite released from Chino earlier this morning after serving 3 and some-odd years. I think this is something we gotta keep an eye on. If something happens to him, things could get very ugly down by the beach. Just keep it low. DANNY: Venice Beach didn't always look like this. It used to be a great neighborhood. The boardwalk's always been a dump but when my dad moved us out here, Venice was a nice, quiet place to grow up. Over the years though, it's just gone to hell. The gangs are like a plague. They moved west from Inglewood and South Central and basically took over. It ain't fouling you. What's wrong with you?"
+      ],
+      "scene_length_chars": 2343,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.14303208887577057,
+        0.0006572141428478062,
+        0.25612249970436096,
+        0.09899920970201492,
+        0.042410776019096375,
+        0.013218472711741924,
+        0.03698299825191498,
+        0.3378075659275055,
+        0.0010701866121962667,
+        0.030232956632971764,
+        0.04248921573162079,
+        0.0323246568441391,
+        0.0011563723674044013,
+        0.0005997464177198708,
+        0.001921444316394627,
+        0.007994625717401505,
+        0.004709429107606411,
+        0.0005562749574892223,
+        0.0018462827429175377,
+        0.0009620494092814624,
+        0.014087307266891003,
+        0.0014641452580690384,
+        0.03911960497498512,
+        0.0012543655466288328,
+        0.022012123838067055,
+        0.015263009816408157,
+        0.000946515763644129,
+        0.2258574217557907
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "neutral"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 13,
+      "heading": "[ALL YELLlNG INDISTINCTLY]",
+      "raw_text": "JEROME: Fuck all y'alI. I ain't got time for all the bullshit. Fuck y'aIl. MAN: You all right? JEROME: I'm aIl right. Yo, is that that fool you was telling me about? Yeah, that's that motherfucker.",
+      "characters": [
+        "JEROME"
+      ],
+      "dialogues": [
+        {
+          "speaker": "JEROME",
+          "text": "Fuck all y'alI. I ain't got time for all the bullshit. Fuck y'aIl. MAN: You all right? JEROME: I'm aIl right. Yo, is that that fool you was telling me about? Yeah, that's that motherfucker."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 197,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0032740950118750334,
+        0.0020777578465640545,
+        0.9907311797142029,
+        0.07672111690044403,
+        0.0009736174833960831,
+        0.000712377077434212,
+        0.002201807452365756,
+        0.002530493540689349,
+        0.0027696534525603056,
+        0.005134008824825287,
+        0.0031105740927159786,
+        0.007433539256453514,
+        0.0006451968802139163,
+        0.0013748019700869918,
+        0.0008130213827826083,
+        0.0005678407032974064,
+        0.0006708541768603027,
+        0.0016133675817400217,
+        0.0020799883641302586,
+        0.00020839869102928787,
+        0.0005024303100071847,
+        0.0004348472284618765,
+        0.0009002896258607507,
+        7.205412111943588e-05,
+        0.00039966110489331186,
+        0.0009940369054675102,
+        0.00673706503584981,
+        0.011237140744924545
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": "[HlSSES]",
+      "raw_text": "Yeah, man, that's him. Bitch-ass motherfucker. DANNY: That's why Derek started the D.O.C. He said white kids shouldn't have to walk around scared in their own neighborhood. For a while there, he really made it like it was ours again. Throw the ball. Throw the ball. Come on, Seth. Block. Come on, Curtis. Quit chucking it up. Pass the baIl. Pass that thing. D up. Here we go. Come on, let's go. Let's go. Come on. Look at this fucking jungle bunny. He does a spin move every time. Every time. You ain't getting shit, motherfucker. Over here. Over here. This one's for you, boy! Fuck you? Stop that. Who you calling a boy, motherfucker? You lucky motherfucker! I'm through monkeying around with your ass! You pale, pastrami-eating, cracker motherfucker a hundred bucks say I make you my bitch. Hear? He's trying to make ends meet for his cut in welfare. You're fucking on! It's 8-6, Seth. Danny, when l want your fucking opinion, l'll ask for it. Come on, guys, I can't cover this. Come on guys! Help me out here. You have a big fucking mouth, Seth. I can take this niglet down. Seth, you can't take a shit. What the fuck you thinking if you're not the money? Derek, I'll beat him. Give me the money. Help me up. Shut up. We got this game on...You're gonna fucking embarrass us. Shut up! I'll take care of this. Hey. I got a bet. I come in this game right now. Same score, but we play black guys against white guys. Motherfucker. Oh, shit. Name your price, cracker. No money. No money. For these courts. And not just today. For good. If you win, we will walk away. But if we win, no bitching, no fighting right here in front of everybody, you pack up your shit and get your black asses out of here. Man, fuck that. Take this bet, man. 8t to 6, our ball. Let's go. DEREK: Pick him up. Pick him up. Seth, get back and play some D! CAMERON: Come on, Seth. Come on, let's go. All right. Defense! All right. Pass the fucking ball, l was wide open. Damn! Let's go. Let's go, yo. Let's go. Pick, pick, Derek! SETH: Bullshit man! That's fucking offense. Get the fuck out of here. He moved his feet. If you want to go, I'm ready! Don't be throwing your fucking elbows at me! Want to go? Adolf Hitler-wannabe motherfucker? What? Kill that motherfucker! Dead! Chill out, bro. Chill out. Wait, it's cool. lt's cool. ReIax. CAMERON: You okay? Yeah. Just give me some water. You gotta call offense on that shit, Der. Not on game point, Danny. Fuck that! You can't let niggers get away with that shit. Honey, it's game point. Shut them down, Derek. Kick some ass. Watch this. Get that ball. Pass the ball, baby. Pass the ball. Yeah! Bye-bye. Get the fuck off my court. This is my house. Fuck you, bitch. What happened? I dropped the ball! Yeah! Get the fuck out of here! This is my court! Yes!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yeah, man, that's him. Bitch-ass motherfucker. DANNY: That's why Derek started the D.O.C. He said white kids shouldn't have to walk around scared in their own neighborhood. For a while there, he really made it like it was ours again. Throw the ball. Throw the ball. Come on, Seth. Block. Come on, Curtis. Quit chucking it up. Pass the baIl. Pass that thing. D up. Here we go. Come on, let's go. Let's go. Come on. Look at this fucking jungle bunny. He does a spin move every time. Every time. You ain't getting shit, motherfucker. Over here. Over here. This one's for you, boy! Fuck you? Stop that. Who you calling a boy, motherfucker? You lucky motherfucker! I'm through monkeying around with your ass! You pale, pastrami-eating, cracker motherfucker a hundred bucks say I make you my bitch. Hear? He's trying to make ends meet for his cut in welfare. You're fucking on! It's 8-6, Seth. Danny, when l want your fucking opinion, l'll ask for it. Come on, guys, I can't cover this. Come on guys! Help me out here. You have a big fucking mouth, Seth. I can take this niglet down. Seth, you can't take a shit. What the fuck you thinking if you're not the money? Derek, I'll beat him. Give me the money. Help me up. Shut up. We got this game on...You're gonna fucking embarrass us. Shut up! I'll take care of this. Hey. I got a bet. I come in this game right now. Same score, but we play black guys against white guys. Motherfucker. Oh, shit. Name your price, cracker. No money. No money. For these courts. And not just today. For good. If you win, we will walk away. But if we win, no bitching, no fighting right here in front of everybody, you pack up your shit and get your black asses out of here. Man, fuck that. Take this bet, man. 8t to 6, our ball. Let's go. DEREK: Pick him up. Pick him up. Seth, get back and play some D! CAMERON: Come on, Seth. Come on, let's go. All right. Defense! All right. Pass the fucking ball, l was wide open. Damn! Let's go. Let's go, yo. Let's go. Pick, pick, Derek! SETH: Bullshit man! That's fucking offense. Get the fuck out of here. He moved his feet. If you want to go, I'm ready! Don't be throwing your fucking elbows at me! Want to go? Adolf Hitler-wannabe motherfucker? What? Kill that motherfucker! Dead! Chill out, bro. Chill out. Wait, it's cool. lt's cool. ReIax. CAMERON: You okay? Yeah. Just give me some water. You gotta call offense on that shit, Der. Not on game point, Danny. Fuck that! You can't let niggers get away with that shit. Honey, it's game point. Shut them down, Derek. Kick some ass. Watch this. Get that ball. Pass the ball, baby. Pass the ball. Yeah! Bye-bye. Get the fuck off my court. This is my house. Fuck you, bitch. What happened? I dropped the ball! Yeah! Get the fuck out of here! This is my court! Yes!"
+      ],
+      "scene_length_chars": 2777,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.008501182310283184,
+        0.00871675182133913,
+        0.9910240173339844,
+        0.3667967617511749,
+        0.0026533412747085094,
+        0.006948080845177174,
+        0.0025127497501671314,
+        0.006513252854347229,
+        0.021983686834573746,
+        0.011171562597155571,
+        0.003846613224595785,
+        0.03400755673646927,
+        0.02241143211722374,
+        0.007598028518259525,
+        0.002066106302663684,
+        0.009937293827533722,
+        0.0041083600372076035,
+        0.006703398190438747,
+        0.004492695908993483,
+        0.0010446434607729316,
+        0.06326771527528763,
+        0.005118015222251415,
+        0.004983359016478062,
+        0.0010638617677614093,
+        0.005960277747362852,
+        0.0020814009476453066,
+        0.011989583261311054,
+        0.008846577256917953
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "optimism"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 15,
+      "heading": "[SETH LAUGHlNG]",
+      "raw_text": "Yeah. DANNY: Derek wouldn't let us visit him in prison. He said it would make it too hard for him and that if we came, he wouldn't see us anyhow. 3 years without him, just wondering... ...and then at 7:00 this morning, we picked him up outside the gate. DORIS: Come on, Danny. DANNY: The whole ride back, he didn't say anything. l wanted to stay home, but he said, \"No, go to school. I'll see you later.\" Come on! Give the guy a break. What's the matter? You too big to give me a hug, tough guy? DANNY: No, man. Just know you gonna need someone to look after you while you adjust to all this space. Yeah, right. This place is smaller than the old living room. How you doing? How's school? It's good. It's good. You gotta do something about that hair, man. That 'do has gotta go. I don't know. The girls like it, so... I don't. You're keeping it pretty close. You took it all the way down? DANNY: Yeah. Shit, look, l forgot, man. It hurt like shit while they put it on. When did you get that? I got it about a month ago. Cameron made it official. Cameron? Yeah. He put this on you? Yeah.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Yeah. DANNY: Derek wouldn't let us visit him in prison. He said it would make it too hard for him and that if we came, he wouldn't see us anyhow. 3 years without him, just wondering... ...and then at 7:00 this morning, we picked him up outside the gate. DORIS: Come on, Danny. DANNY: The whole ride back, he didn't say anything. l wanted to stay home, but he said, \"No, go to school. I'll see you later.\" Come on! Give the guy a break. What's the matter? You too big to give me a hug, tough guy? DANNY: No, man. Just know you gonna need someone to look after you while you adjust to all this space. Yeah, right. This place is smaller than the old living room. How you doing? How's school? It's good. It's good. You gotta do something about that hair, man. That 'do has gotta go. I don't know. The girls like it, so... I don't. You're keeping it pretty close. You took it all the way down? DANNY: Yeah. Shit, look, l forgot, man. It hurt like shit while they put it on. When did you get that? I got it about a month ago. Cameron made it official. Cameron? Yeah. He put this on you? Yeah."
+      ],
+      "scene_length_chars": 1086,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.49511972069740295,
+        0.001834759023040533,
+        0.0029065152630209923,
+        0.00660164188593626,
+        0.0019008289091289043,
+        0.011922959238290787,
+        0.007687277160584927,
+        0.07462619245052338,
+        0.007423663046211004,
+        0.06543660163879395,
+        0.0032274529803544283,
+        0.0012736576609313488,
+        0.0009178555337712169,
+        0.003343530697748065,
+        0.0011916939401999116,
+        0.0002713494177442044,
+        0.0014794499147683382,
+        0.0005408371216617525,
+        0.0009034239337779582,
+        0.0019680021796375513,
+        0.17878557741641998,
+        0.001821998506784439,
+        0.010066984221339226,
+        0.00035201487480662763,
+        0.0009667330887168646,
+        0.007147376425564289,
+        0.019202884286642075,
+        0.483686625957489
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 16,
+      "heading": "[PHONE RlNGS]",
+      "raw_text": "DAVINA: Hello? What? DAVINA: Hi. Just hang on a second. Derek, it's for you. Nothing. Nothing. I'll grab it. There a phone in the back? I'll get it in the back. I got it. Yeah? Oh, hey. What?",
+      "characters": [
+        "DAVINA"
+      ],
+      "dialogues": [
+        {
+          "speaker": "DAVINA",
+          "text": "Hello? What? DAVINA: Hi. Just hang on a second. Derek, it's for you. Nothing. Nothing. I'll grab it. There a phone in the back? I'll get it in the back. I got it. Yeah? Oh, hey. What?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 191,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.001088632270693779,
+        0.0005250072572380304,
+        0.0002554858510848135,
+        0.00021664400992449373,
+        0.00636772345751524,
+        0.00131427519954741,
+        0.0011935385409742594,
+        0.08434225618839264,
+        0.0015528005314990878,
+        0.00019862537737935781,
+        0.00021243213268462569,
+        0.0006977746379561722,
+        0.0005309933912940323,
+        0.006061749532818794,
+        0.0013711890205740929,
+        0.00016252149362117052,
+        0.000361345213605091,
+        0.00014270225074142218,
+        0.00024477552506141365,
+        0.0002522555005270988,
+        0.0019478857284411788,
+        0.00047776184510439634,
+        0.0012030380312353373,
+        0.00023168597545009106,
+        0.00013795199629385024,
+        0.0001467614492867142,
+        0.005776424892246723,
+        0.9838204383850098
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "approval"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 17,
+      "heading": "[\"BATTLE HYMN OF THE REPUBLIC\"]",
+      "raw_text": "My eyes have seen the glory of the trampling at the zoo We washed ourselves in niggers' blood And all the mongrels' too We're taking down the ZOG machine Jew by Jew, by Jew The white man marches on You think our friend was behind that? Well, you know, I don't even care. I'm gonna take some care of that tonight. My sweet kid. My baby boy. What's with the love fest, you guys?\n[WHISTLlNG \"BATTLE HYMN OF THE REPUBLIC\"]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "My eyes have seen the glory of the trampling at the zoo We washed ourselves in niggers' blood And all the mongrels' too We're taking down the ZOG machine Jew by Jew, by Jew The white man marches on You think our friend was behind that? Well, you know, I don't even care. I'm gonna take some care of that tonight. My sweet kid. My baby boy. What's with the love fest, you guys?"
+      ],
+      "scene_length_chars": 418,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.006307313684374094,
+        0.00033536742557771504,
+        0.014926248230040073,
+        0.005011111497879028,
+        0.00701668718829751,
+        0.9603443741798401,
+        0.001986804185435176,
+        0.25560665130615234,
+        0.005653653759509325,
+        0.006701034028083086,
+        0.0020851187873631716,
+        0.0018126181093975902,
+        0.0009044416365213692,
+        0.0006854021921753883,
+        0.0012144568609073758,
+        0.0006767758168280125,
+        0.003064952325075865,
+        0.001269549480639398,
+        0.4758351445198059,
+        0.003415931249037385,
+        0.055763933807611465,
+        0.0006730622262693942,
+        0.006333514582365751,
+        0.0009298668010160327,
+        0.000512286729644984,
+        0.0069852061569690704,
+        0.0009109791717492044,
+        0.07878850400447845
+      ],
+      "goemotions_topk": [
+        "caring",
+        "love",
+        "curiosity"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring",
+        "love"
+      ]
+    },
+    {
+      "scene_id": 19,
+      "heading": "[KNOCKING ON DOOR]",
+      "raw_text": "No, no, he'll do it. He'll do it. I'll make sure he does it. DAVINA: I'll get it. Came to see the man. Are you sure you can fit through the fucking door? Fuck you! Seth. SETH: What's up, Dan? How you doing? Where's Derek? DAVINA: He's on the phone. Come out, you free motherfucker! Vinyard, where the fuck are you? Vinyard! Hang on. Give me a minute. SETH: Vinyard! No, I'll be out in a minute. I'm being careful. What am l gonna do? I'm not gonna stay in my room the rest of my life, you know. Hold on. Hey. What the fuck is Seth doing here? Did you invite him over? No, he always comes over here. All right. Danny, give me a minute. Just give me one minute. Yeah. Are you still here, Goodyear? You call me a blimp, you fucking Democrat? When was the last time you were actually able to see your feet? Come in here, Danny. DANNY: Seth. Hey, man, you going to Cam's party tonight? Is Davina's ass watertight? You're fucking sick, man. All right, relax. Let me ask you a few questions. Ah, man. I'm not in the mood. I got homework to do. Tell me some of the shit you've learned, fuck-ass, before l pistol-whip you. Okay. l believe in death, destruction, chaos, filth and greed. Cut the shit, Dan. Come on. Tell me what l wanna hear, asshole. You mean that shit about your mother, man? You wanna get fucking beaten, Danny? I'm not fucking talking to you, Davina. Why don't you shut up? Look, you gotta let me do this my own way, all right? I'll take care of it. SETH: Who do you hate, Danny? I hate anyone that isn't white Protestant. SETH: Why? They're a burden to the advancement of the white race. Some of them are all right, l guess. None of them are fucking all right, Danny. Okay! They're all a bunch of fucking freeloaders. Remember what Cam said? \"We don't know them. We don't wanna know them. They're the fucking enemy.\" What don't you like about them? And say it with some fucking conviction. I hate the fact that it's cool to be black these days. SETH: Good. DANNY: l hate this hip-hop fucking influence on white fucking suburbia. Good. DANNY: And I hate Tabitha Soren and all her Zionist MTV fucking pigs telling us we should get along. Save the rhetorical bullshit, Hillary Rodham Clinton because it ain't gonna fucking happen. That's the best shit I've heard come out of your mouth. Danny, no. l feel sorry for you, Danny. I know you don't believe in that shit, right? You don't... Shut up, Davina! No, you shut the fuck up! Get out of the fucking house now, you piece of shit! Please go. Is that any way to taIk to a guest? A friend of the family? Derek hates you and you don't even realize it. Hey, how do you know who l hate, Davina? Fucking A. Back from the dead. God bless Jesus Christ, man. God, I think you lost weight, man. l can get my arms, like, almost all the way around you. 50 fucking pounds, man. Jesus, look at this hair. Holy shit. Yeah, I told him it's gotta go. SETH: It's good to have you back. Grab your jacket, let's get the fuck out of here. Come on! Let's go. All right. l wanna talk to him one second. Look.... Hey, listen, did you pull some kind of shit in school today? No, just the usual. I'm telling you, man, this kid is awesome as hell. Did you turn in a paper on Mein Kampf? Yeah. SETH: That's awesome. You should've... SETH: Sweeney probably shit his pants. He did, man. Is that your idea or Cameron put you up to that? Did he tell you to do that? Well, man, I thought it'd be cool. How'd you know though? How'd you know any of...? Doesn't matter how I know. This kid is smart as hell. Was that Sweeney on the phone? Yeah, Sweeney called to tell... DANNY: Fie on that fucking nigger man. SETH: What are you talking to Sweeney for? DEREK: Relax. He's got to get a fucking life. He pisses me off. Look, no. Sweeney's a good teacher, all right? Sweeney is a nigger on a power trip, Vinyard. That's what he was like when we were there and that's how he is now. And it'll never change either. Hey, Seth. Fuck that nigger! Seth, go away. Go away. What? Are you kidding? No. Go wait in Danny's room. I wanna talk to my brother. I'm glad to see you. I'll be there in one minute. I'm starving. Come here. Seriously, look, Forget this yahoo, alright! He kills bugs for a living. You don't wanna be like that. No. I'm serious. lt's not funny. Sweeney is a good teacher. You can learn a lot from him. So don't fuck it up with small-fry shit like that. You got to be smarter than that. You don't understand. You gotta see the fucking bullshit paper he's making me write. I know about it. He told me all about it. I don't care. And you're gona do it. You do anything he tells you to do. I mean it. I don't want you getting in trouble in school trying to impress me, taking this shit in there, all right? Do you understand what I'm saying? Yeah, I guess. I mean I was doing it because I thought you'd be happy. Well, I'm not. Shit. Listen to that. Yeah, it's been getting worse. Right, look, don't worry about it. I'll talk to you about this later, alright? DANNY: Okay. She's coughing her lungs out and you are blowing this shit in her face all day. Put it out. DANNY: l'm putting it out. All right. Come on. Hey. Come on, I wanna talk to you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No, no, he'll do it. He'll do it. I'll make sure he does it. DAVINA: I'll get it. Came to see the man. Are you sure you can fit through the fucking door? Fuck you! Seth. SETH: What's up, Dan? How you doing? Where's Derek? DAVINA: He's on the phone. Come out, you free motherfucker! Vinyard, where the fuck are you? Vinyard! Hang on. Give me a minute. SETH: Vinyard! No, I'll be out in a minute. I'm being careful. What am l gonna do? I'm not gonna stay in my room the rest of my life, you know. Hold on. Hey. What the fuck is Seth doing here? Did you invite him over? No, he always comes over here. All right. Danny, give me a minute. Just give me one minute. Yeah. Are you still here, Goodyear? You call me a blimp, you fucking Democrat? When was the last time you were actually able to see your feet? Come in here, Danny. DANNY: Seth. Hey, man, you going to Cam's party tonight? Is Davina's ass watertight? You're fucking sick, man. All right, relax. Let me ask you a few questions. Ah, man. I'm not in the mood. I got homework to do. Tell me some of the shit you've learned, fuck-ass, before l pistol-whip you. Okay. l believe in death, destruction, chaos, filth and greed. Cut the shit, Dan. Come on. Tell me what l wanna hear, asshole. You mean that shit about your mother, man? You wanna get fucking beaten, Danny? I'm not fucking talking to you, Davina. Why don't you shut up? Look, you gotta let me do this my own way, all right? I'll take care of it. SETH: Who do you hate, Danny? I hate anyone that isn't white Protestant. SETH: Why? They're a burden to the advancement of the white race. Some of them are all right, l guess. None of them are fucking all right, Danny. Okay! They're all a bunch of fucking freeloaders. Remember what Cam said? \"We don't know them. We don't wanna know them. They're the fucking enemy.\" What don't you like about them? And say it with some fucking conviction. I hate the fact that it's cool to be black these days. SETH: Good. DANNY: l hate this hip-hop fucking influence on white fucking suburbia. Good. DANNY: And I hate Tabitha Soren and all her Zionist MTV fucking pigs telling us we should get along. Save the rhetorical bullshit, Hillary Rodham Clinton because it ain't gonna fucking happen. That's the best shit I've heard come out of your mouth. Danny, no. l feel sorry for you, Danny. I know you don't believe in that shit, right? You don't... Shut up, Davina! No, you shut the fuck up! Get out of the fucking house now, you piece of shit! Please go. Is that any way to taIk to a guest? A friend of the family? Derek hates you and you don't even realize it. Hey, how do you know who l hate, Davina? Fucking A. Back from the dead. God bless Jesus Christ, man. God, I think you lost weight, man. l can get my arms, like, almost all the way around you. 50 fucking pounds, man. Jesus, look at this hair. Holy shit. Yeah, I told him it's gotta go. SETH: It's good to have you back. Grab your jacket, let's get the fuck out of here. Come on! Let's go. All right. l wanna talk to him one second. Look.... Hey, listen, did you pull some kind of shit in school today? No, just the usual. I'm telling you, man, this kid is awesome as hell. Did you turn in a paper on Mein Kampf? Yeah. SETH: That's awesome. You should've... SETH: Sweeney probably shit his pants. He did, man. Is that your idea or Cameron put you up to that? Did he tell you to do that? Well, man, I thought it'd be cool. How'd you know though? How'd you know any of...? Doesn't matter how I know. This kid is smart as hell. Was that Sweeney on the phone? Yeah, Sweeney called to tell... DANNY: Fie on that fucking nigger man. SETH: What are you talking to Sweeney for? DEREK: Relax. He's got to get a fucking life. He pisses me off. Look, no. Sweeney's a good teacher, all right? Sweeney is a nigger on a power trip, Vinyard. That's what he was like when we were there and that's how he is now. And it'll never change either. Hey, Seth. Fuck that nigger! Seth, go away. Go away. What? Are you kidding? No. Go wait in Danny's room. I wanna talk to my brother. I'm glad to see you. I'll be there in one minute. I'm starving. Come here. Seriously, look, Forget this yahoo, alright! He kills bugs for a living. You don't wanna be like that. No. I'm serious. lt's not funny. Sweeney is a good teacher. You can learn a lot from him. So don't fuck it up with small-fry shit like that. You got to be smarter than that. You don't understand. You gotta see the fucking bullshit paper he's making me write. I know about it. He told me all about it. I don't care. And you're gona do it. You do anything he tells you to do. I mean it. I don't want you getting in trouble in school trying to impress me, taking this shit in there, all right? Do you understand what I'm saying? Yeah, I guess. I mean I was doing it because I thought you'd be happy. Well, I'm not. Shit. Listen to that. Yeah, it's been getting worse. Right, look, don't worry about it. I'll talk to you about this later, alright? DANNY: Okay. She's coughing her lungs out and you are blowing this shit in her face all day. Put it out. DANNY: l'm putting it out. All right. Come on. Hey. Come on, I wanna talk to you."
+      ],
+      "scene_length_chars": 5174,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.27580055594444275,
+        0.0069389790296554565,
+        0.8516371846199036,
+        0.31172218918800354,
+        0.0015291431918740273,
+        0.03274447098374367,
+        0.0048118163831532,
+        0.052409227937459946,
+        0.005409194156527519,
+        0.009504077024757862,
+        0.025791680440306664,
+        0.039722710847854614,
+        0.0013874993892386556,
+        0.004858116153627634,
+        0.003169902367517352,
+        0.006091999355703592,
+        0.001958743901923299,
+        0.0035657528787851334,
+        0.002779235364869237,
+        0.0006668147980235517,
+        0.014596355147659779,
+        0.0018622291972860694,
+        0.0018591225380077958,
+        0.00039574471884407103,
+        0.0015038211131468415,
+        0.0021187758538872004,
+        0.00972195714712143,
+        0.007149691227823496
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 20,
+      "heading": "[COUGHING]",
+      "raw_text": "ALLY: Mommy, are you okay? What you doing? Put that out. I'm yelling at him for blowing smoke in your face and you're here sucking on it. Nice thing to come home to, huh? Yeah. You all right?",
+      "characters": [
+        "ALLY"
+      ],
+      "dialogues": [
+        {
+          "speaker": "ALLY",
+          "text": "Mommy, are you okay? What you doing? Put that out. I'm yelling at him for blowing smoke in your face and you're here sucking on it. Nice thing to come home to, huh? Yeah. You all right?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 191,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.8285455107688904,
+        0.01090757455676794,
+        0.02510884217917919,
+        0.09126579016447067,
+        0.010807585902512074,
+        0.06060102954506874,
+        0.002139895688742399,
+        0.3729040026664734,
+        0.0008389788563363254,
+        0.006323900539427996,
+        0.006643431261181831,
+        0.013760797679424286,
+        0.000503974559251219,
+        0.007617958355695009,
+        0.0011239011073485017,
+        0.0002991548099089414,
+        0.0009117098525166512,
+        0.007600914686918259,
+        0.00035594147630035877,
+        0.0005524359876289964,
+        0.0007285934989340603,
+        0.0008448894368484616,
+        0.00045628243242390454,
+        0.0009566908120177686,
+        0.00028364313766360283,
+        0.0021035121753811836,
+        0.006505508907139301,
+        0.005315451417118311
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "annoyance"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 21,
+      "heading": "[SIGHS]",
+      "raw_text": "Look, you gotta take it easy, alright! You gotta get some rest. I want you to take Danny's and my room and we'll hit the couch. No. Don't cut the couch bridges. The couch is fine for now. No, it's not fine. It's not. This is terrible. We can't live like this. We gotta get out of here. ALLY: Can I go with you? Yeah, we all gotta get out of here. That's the point. I can drop out of school and get a job. No, absolutely not. You gotta finish. I'll work something out. Derek, can we please go eat? I'm fucking starving here. I mean I... I don't give a shit! Go wait in the living room! God. I want him out of my house. I know, I know. Look. He's an idiot. He's always been an idiot. Whatever, dude. He can't help it. I gotta do that paper. Look, I'm gonna catch up with you later tonight. Hey, not at Cameron's. What? I need you to stay away from there. Why? I thought we were gonna hang. Trust me. I'll explain it to you later. I just need you to stay away from the party, all right? Whatever. Hey, l'm not kidding. Promise me you're gonna stay away from that party tonight, Danny. I'm not fucking 14 anymore, all right? Whatever. God! Come on, let's go. Where are you parked? Out back. Yeah, that's the whole bunch. Right. DANNY: It didn't take long for Derek to make a name for himself. And Cameron knew just how to use it. You sure you don't wanna stick around? You know I'd love to, but... I gotta be careful. Yeah, I know. We'll see you back at the house then. Right. All right. Good luck. DANNY: He sent Derek to the kids to the frustrated ones. The ones who were sick of getting their asses kicked by black and Mexican gangs. Don't just be some punk, be part of something. DEREK: Let's go. Let's go. Pull it together. DANNY: And everybody ate it up. They did whatever Derek told them to. Let's go. Come on, we're not here to fucking socialize. MAN 1 : Shut the fuck up. MAN 2: Check this shit out, man. CURTIS: You want a Iittle toke? Huh? Go ahead. Curtis, what is that? Aw, come on, Derek. Weed is for niggers. Put that away right now. CURTIS: Aw, Jesus fucking Christ. Have a littIe self-respect. All right, listen up. We need to open our eyes. There's over 2 million illegal immigrants bedding down in this state tonight. This state spent $3 billion last year on services for those people who had no right to be here in the first place. 3 billion dollars. 400 million dollars just to lock up a bunch of illegal immigrant criminals who only got into this country because the fucking lNS decided it's not worth the effort to screen for convicted felons. Who gives a shit? Our government doesn't give a shit. Our border policy is a joke. So is anybody surprised that south of the border they're laughing at us? Laughing at our laws. Yeah. Every night thousands of these parasites stream across the border like some fucking piňata exploded. Don't laugh! There's nothing funny going on here. This is about your life and mine. It's about decent, hardworking Americans falling through the cracks and getting the shaft. Because the government cares more about the constitutional rights of a bunch of people who aren't even citizens of this country! On the Statue of Liberty, it says, \"Give me your tired, your hungry, your poor.\" Well, it's Americans who are tired and hungry and poor. And I say until you take care of that, close the fucking book! Because we're losing. We're losing our right to pursue our destiny. We're losing our freedom so that a bunch of fucking foreigners can come in here and exploit our country. And this isn't something that's going on far away. This isn't something that's happening in places we can't do anything about it. It's happening right here! Right in our neighborhood. Right in that building behind you. Archie Miller ran that grocery store since we were kids here. Dave worked there, Mike worked there. He went under and now some fucking Korean owns it, who fired these guys and is making a killing because he hired 40 fucking border-jumpers. I see this shit going on and I don't see anybody doing anything about it. And it fucking pisses me off! So look around you. This isn't our fucking neighborhood. It's a battlefield. We're on a battlefield tonight. Make a decision. Are we gonna stand on the sidelines, quietly standing there while our country gets raped? MEN: Fuck that. DEREK: Are we gonna ante up and do something about it? Fuck,yeah! Hell, yeah! You're goddamn right we are.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Look, you gotta take it easy, alright! You gotta get some rest. I want you to take Danny's and my room and we'll hit the couch. No. Don't cut the couch bridges. The couch is fine for now. No, it's not fine. It's not. This is terrible. We can't live like this. We gotta get out of here. ALLY: Can I go with you? Yeah, we all gotta get out of here. That's the point. I can drop out of school and get a job. No, absolutely not. You gotta finish. I'll work something out. Derek, can we please go eat? I'm fucking starving here. I mean I... I don't give a shit! Go wait in the living room! God. I want him out of my house. I know, I know. Look. He's an idiot. He's always been an idiot. Whatever, dude. He can't help it. I gotta do that paper. Look, I'm gonna catch up with you later tonight. Hey, not at Cameron's. What? I need you to stay away from there. Why? I thought we were gonna hang. Trust me. I'll explain it to you later. I just need you to stay away from the party, all right? Whatever. Hey, l'm not kidding. Promise me you're gonna stay away from that party tonight, Danny. I'm not fucking 14 anymore, all right? Whatever. God! Come on, let's go. Where are you parked? Out back. Yeah, that's the whole bunch. Right. DANNY: It didn't take long for Derek to make a name for himself. And Cameron knew just how to use it. You sure you don't wanna stick around? You know I'd love to, but... I gotta be careful. Yeah, I know. We'll see you back at the house then. Right. All right. Good luck. DANNY: He sent Derek to the kids to the frustrated ones. The ones who were sick of getting their asses kicked by black and Mexican gangs. Don't just be some punk, be part of something. DEREK: Let's go. Let's go. Pull it together. DANNY: And everybody ate it up. They did whatever Derek told them to. Let's go. Come on, we're not here to fucking socialize. MAN 1 : Shut the fuck up. MAN 2: Check this shit out, man. CURTIS: You want a Iittle toke? Huh? Go ahead. Curtis, what is that? Aw, come on, Derek. Weed is for niggers. Put that away right now. CURTIS: Aw, Jesus fucking Christ. Have a littIe self-respect. All right, listen up. We need to open our eyes. There's over 2 million illegal immigrants bedding down in this state tonight. This state spent $3 billion last year on services for those people who had no right to be here in the first place. 3 billion dollars. 400 million dollars just to lock up a bunch of illegal immigrant criminals who only got into this country because the fucking lNS decided it's not worth the effort to screen for convicted felons. Who gives a shit? Our government doesn't give a shit. Our border policy is a joke. So is anybody surprised that south of the border they're laughing at us? Laughing at our laws. Yeah. Every night thousands of these parasites stream across the border like some fucking piňata exploded. Don't laugh! There's nothing funny going on here. This is about your life and mine. It's about decent, hardworking Americans falling through the cracks and getting the shaft. Because the government cares more about the constitutional rights of a bunch of people who aren't even citizens of this country! On the Statue of Liberty, it says, \"Give me your tired, your hungry, your poor.\" Well, it's Americans who are tired and hungry and poor. And I say until you take care of that, close the fucking book! Because we're losing. We're losing our right to pursue our destiny. We're losing our freedom so that a bunch of fucking foreigners can come in here and exploit our country. And this isn't something that's going on far away. This isn't something that's happening in places we can't do anything about it. It's happening right here! Right in our neighborhood. Right in that building behind you. Archie Miller ran that grocery store since we were kids here. Dave worked there, Mike worked there. He went under and now some fucking Korean owns it, who fired these guys and is making a killing because he hired 40 fucking border-jumpers. I see this shit going on and I don't see anybody doing anything about it. And it fucking pisses me off! So look around you. This isn't our fucking neighborhood. It's a battlefield. We're on a battlefield tonight. Make a decision. Are we gonna stand on the sidelines, quietly standing there while our country gets raped? MEN: Fuck that. DEREK: Are we gonna ante up and do something about it? Fuck,yeah! Hell, yeah! You're goddamn right we are."
+      ],
+      "scene_length_chars": 4426,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.010281930677592754,
+        0.02927492931485176,
+        0.5413206815719604,
+        0.3632928729057312,
+        0.004312026780098677,
+        0.16696301102638245,
+        0.004660884849727154,
+        0.025262501090765,
+        0.02056274190545082,
+        0.05050899460911751,
+        0.08381233364343643,
+        0.13873112201690674,
+        0.0075152269564569,
+        0.002719393465667963,
+        0.15524810552597046,
+        0.009026255458593369,
+        0.009617740288376808,
+        0.004792608320713043,
+        0.0031102404464036226,
+        0.025537675246596336,
+        0.21853895485401154,
+        0.0021163567434996367,
+        0.01589813642203808,
+        0.002630100352689624,
+        0.002481794683262706,
+        0.07190745323896408,
+        0.0111780297011137,
+        0.017617493867874146
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "optimism"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 22,
+      "heading": "[MEN YELLlNG]",
+      "raw_text": "Come here! Don't you know it's against the law to hire fucking border-jumpers, you nip bastard?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Come here! Don't you know it's against the law to hire fucking border-jumpers, you nip bastard?"
+      ],
+      "scene_length_chars": 95,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0018145329086109996,
+        0.0009061624296009541,
+        0.9923259019851685,
+        0.463992714881897,
+        0.0016639494569972157,
+        0.0022761933505535126,
+        0.00231181550770998,
+        0.004538821987807751,
+        0.004546974785625935,
+        0.009983046911656857,
+        0.009600597433745861,
+        0.00479954294860363,
+        0.0015679291682317853,
+        0.0016669274773448706,
+        0.001012997585348785,
+        0.0022034645080566406,
+        0.0009573600837029517,
+        0.0021103715989738703,
+        0.001509356778115034,
+        0.00038409343687817454,
+        0.0011017228243872523,
+        0.0007463802467100322,
+        0.00194045330863446,
+        0.00022007607913110405,
+        0.0014570415951311588,
+        0.00204030005261302,
+        0.00382590270601213,
+        0.0032702891621738672
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disappointment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 23,
+      "heading": "[GRUNTS]",
+      "raw_text": "Fuck that! Fuck that! Sweetheart. No, you don't need this. We're not gonna hurt you. Please! Please, no! You fucking spic! You know? I think this bitch is hungry. This bitch stinks. Get me cleaning products. Smells like fish and chips and guacamole. Here we go. Yeah, that's it.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck that! Fuck that! Sweetheart. No, you don't need this. We're not gonna hurt you. Please! Please, no! You fucking spic! You know? I think this bitch is hungry. This bitch stinks. Get me cleaning products. Smells like fish and chips and guacamole. Here we go. Yeah, that's it."
+      ],
+      "scene_length_chars": 278,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.024098016321659088,
+        0.0011049744207412004,
+        0.9953836798667908,
+        0.06912444531917572,
+        0.0022765786852687597,
+        0.007721127010881901,
+        0.0015357997035607696,
+        0.002835568506270647,
+        0.014072807505726814,
+        0.0075992136262357235,
+        0.018414830788969994,
+        0.02603914402425289,
+        0.0010610042372718453,
+        0.005207460839301348,
+        0.0030610894318670034,
+        0.007279043085873127,
+        0.0027309840079396963,
+        0.005274042021483183,
+        0.00455812131986022,
+        0.0006252402672544122,
+        0.0013037675525993109,
+        0.002923833206295967,
+        0.003597571048885584,
+        0.00039655802538618445,
+        0.0015953629044815898,
+        0.0014743023784831166,
+        0.009284228086471558,
+        0.006650777067989111
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 24,
+      "heading": "[CASHlER CRYING]",
+      "raw_text": "MAN 3: Get the fuck up! MAN 4: Get down!",
+      "characters": [
+        "MAN 3"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN 3",
+          "text": "Get the fuck up! MAN 4: Get down!"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 40,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002467024140059948,
+        0.001132627367042005,
+        0.9903647303581238,
+        0.012906567193567753,
+        0.0012018806301057339,
+        0.004328015726059675,
+        0.0015189144760370255,
+        0.001985318958759308,
+        0.0019311640644446015,
+        0.0022188250441104174,
+        0.003428844502195716,
+        0.0076323868706822395,
+        0.0005776811158284545,
+        0.001639920868910849,
+        0.0009262016974389553,
+        0.0013511369470506907,
+        0.0016812353860586882,
+        0.002492061583325267,
+        0.002793699037283659,
+        0.0001943885872606188,
+        0.00046722425031475723,
+        0.0007815444841980934,
+        0.0012005458120256662,
+        0.0001527496933704242,
+        0.000842659967020154,
+        0.0011009140871465206,
+        0.005062783602625132,
+        0.03343550115823746
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 25,
+      "heading": "[SPEAKS IN SPANlSH]",
+      "raw_text": "Have some fucking beans, you goddamn beaner. Yeah! Take my job. You donkey! MAN 5: Get some of that in there. Throw it on, throw it on. MAN 5: Hey, that's a great color on you, you know. You can get a white woman's job, bitch. MAN 5: A little better than this one? White. MAN 5: You can move up in the world? Asshole! DEREK: Come on! Let's go. We're out of here. Everybody out. Let's go. Now. Now! All right, let's go! Let's go! MAN 3: Let's go. Come on, let's go, let's go, let's go. Let's go. No green card, no fucking work, comprendes? Come on. Come on! DEREK: Go, go, go. We're fucking done! Come on! DANNY: Dad was gone. But things were almost normal again. Derek had a good job. Mom was starting to live a little. Everyone was feeling so good that we just didn't see it coming. Maybe we should have. The irony is that most of the stores that were destroyed during the riots were owned by black people. That's stupid though. I mean why trash your own neighborhood? Well, that's my point. It's an irrational act. It's like an expression of rage by people who feel neglected and turned away by the system. Exactly. I mean, it's like we had in Watts or the riots in Chicago in '68 DEREK: It's crap. I don't buy that for a minute. Calling a riot an irrational expression of rage, that's such a cop-out. It's opportunism at its worst. That's a bunch of people grabbing any excuse they can find to go and loot a store, nothing more. Another fact, these people ripped off the stores in their own communities all reflects the degree to which these people absolutely have no respect for the law at all. And certainly no concept of, like, community or civic responsibility. Wait a minute. White people commit crimes against white people too. But they're not offing each other in record numbers all over America. Look at the statistics, for chrissake. One in every 3 black males is in some phase of the correctional system. Is that a coincidence or do these people have, you know like, a racial commitment to crime? Not only that. They're proud of it. Well, maybe it says something about prejudice in the judicial system. Yeah, if you wanna talk about criminal statistics, you should wanna take a look at the social inequalities that produce them. Yap, yap. You know what? That's exactly what I hate because what you doing, Davina, is taking one thing and calling it something else and just, you know, alleviating the responsibility that these people have for their own actions. You know, it's like saying: \"It's not a riot, it's rage. It's not crime, it's poverty.\" It's just nonsense. It's bullshit. It's exactly what happened in this trial too. Because the media twisted things around so people gotta focused on, you know, these cops whether or not they'd get convicted and whether Rodney King's civil rights had been violated. I mean everybody lost sight of Rodney King himself. I mean he is a multiple felon by his own admission. He's high as a goddamn kite, driving 120 miles an hour down the highway. He gets pulled over by a bunch of cops and he attacks them. He attacked police officers. That's the bottom line. And he walked. And there's some yahoo with a video camera who turned it on halfway through so all we see is them hitting him. Exactly you know. Powell and Koon winding up and cracking him with billy clubs and Briseno's kicking him in the back of the skull. So it looks severe. You know and people behind: \"Oh, this poor guy.\" This poor guy who attacked 4 cops. And those cops end up on the stand defending themselves for using absolutely standard, textbook seIf-defense procedures. I don't think the tape showed that at all. You didn't think so? And what, you're an authority, Ma? Murray, what do you think? I did think that the police used their clubs rather excessively. Who you to say what's excessive? I think it was totally appropriate. I think they're in a better position to make that judgement call than you are. In fact, we as society, grant cops a certain amount of authority to make those callls because we acknowledge that their job is difficult and dangerous. You know? Unfortunately, very few people, like, respect that authority. Look who's talking about respect here, Mr. Junior-KKK. What? Davina. You wanna go to college, Davina. You should learn to listen. Derek. I didn't say I respected laws. I acknowledge a cop's authority. I don't respect any laws that let monkeys like Rodney King back on the street. Second, I am not, as you well know, a member of a low-rent, disorganized bunch of rednecks like the fucking KKK. Please. So take your head out of your ass. You've gotten off the point. I mean I had a point. That wasn't any point. Do you have one? What is your point, Derek? All right, think about this. If Danny had been walking across the street that night and Rodney King had plowed into him. Can we just drop this Rodney King thing? Who would like some dessert? We're having a discussion. We're having a nice discussion, right? If Rodney King had been driving along, hopped up on Chivas Regal and PCP and killed Danny, you'd sing a very different tune about the... I didn't see him hit anybody in the tape and neither did you. He didn't happen to kill anybody. Thank God. Keep it down, okay? Ally's sleeping. If he had, though? Come on, think about it. If that fucking monkey had run some kid over everybody would have a very different opinion of this whole matter. They'd be focused on Rodney King and not on these officers. But instead, he just attacked a few cops. And so all of the sudden it's Hands Across America for this fucking total son of a bitch. I mean, it blows my mind. We're so hung up on this notion we have some obligation to help the struggling black man. You know, cut him some slack until he can overcome these historical injustices. It's crap. This stuff you guys are saying just perpetuates it. All this liberal nonsense. You know. Everyone's turning looking the other way while our country rots from inside out. In Christ, Lincoln freed the slaves, what, like, 130 years ago. How long does it take to get your act together? Well, Jews have been persecuted for over 5000 years. Are you saying that it's wrong to feel sensitive about anti-Semitism? STACEY: Forget that. I'm with you. I am with you alI the way, baby. I'm so sick of these liberal hypocrites. Here we go again. l love this part. This is great! Well, look at the way that they scapegoated Chief Gates. I mean you'd tell me they'd come down that hard on black Willie Williams? No way! Because that videotape was a setup to get rid of Gates. Jesus Christ. Can I please be excused? Yes. No, you cannot. Don't interrupt. Excuse me, I was talking. I listened to you. Don't interrupt her. Who the hell do you think you are? She's right in the middle of making a point. Who the hell do you think you are? Hey Davina, sit down! No. Fuck you! DEREK: Sit down! Be quiet! Shut up! MURRAY: Derek, calm down. Sit down! No. Derek, calm down. Shut up! Don't tell him to shut up! No. Sit your ass down! Fuck move! No. Sit down, shut your mouth! Get out of my way! Move! Goddamn it, Derek, move! Sit down, shut your mouth and give my girlfriend some respect. Derek, what are you trying to prove? Murray, stay out of it! Come here. Hey. Where do you think you're going? Get back. Derek, let her go! Derek, let her go! Stop. DEREK: Come here! You need to learn some fucking manners, Davina. Shut your fucking mouth! Shut up! Derek! Stop! She can't breathe! DORIS: Let her go! Will you apologize? Will you apologize? Are you? You're a fucking asshole. I hate you! What are you doing, Derek? This is your family. Right, my family. So you know what? I don't give two shits about you or anybody else or what you think. You're not part of it you never will be. That has nothing to do with it! DEREK: lt doesn't? You don't think l see what you're trying to do here? You think I'll sit here and smile while some fucking kike tries to fuck my mother? It's never gonna happen, Murray! Fucking forget it. Not on my watch. Not while I'm in this family. I will fucking cut your Shylock nose off and stick it up your ass before I let that happen. Coming in here and poisoning my family's dinner with your Jewish, nigger-loving, hippie bullshit? Fuck you! Yeah, walk out. Asshole-fucking, Cabala-reading motherfucker! Get the fuck out of my house! You see this? That means \"not welcome.\" What did l do? You disgust me, you know that? You disgust me. Bring him to our table, primping your hair and your dress! Don't touch me! All tarted up! What did l do to you? How could you bring him to my father's table? How could you go from Dad to that? Aren't you ashamed? I'm ashamed that you came out of my body! Go run to your fucking kike! Go run to him! It's okay. I'm proud of you, baby. I'm so sorry, Doris. I really am. He's gone. He's just a boy without a father. Doris, you don't know the world your children are living in. Goodbye. Hey. You all right? Take this, you fucking dick! Hey, no. No, come here! Fuck you! Davina, calm down! Get off me! Calm down! Let me go, goddamn it! Sorry. Fuck you! I'm sorry. I would never hurt you. You know that. Come on, I screwed up. I lost control. It's not you. I'm sorry. Come on, I'd never hurt you guys. I'd never hurt you. You know that. I'd do anything for you. I don't believe you. I trust you, Derek.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Have some fucking beans, you goddamn beaner. Yeah! Take my job. You donkey! MAN 5: Get some of that in there. Throw it on, throw it on. MAN 5: Hey, that's a great color on you, you know. You can get a white woman's job, bitch. MAN 5: A little better than this one? White. MAN 5: You can move up in the world? Asshole! DEREK: Come on! Let's go. We're out of here. Everybody out. Let's go. Now. Now! All right, let's go! Let's go! MAN 3: Let's go. Come on, let's go, let's go, let's go. Let's go. No green card, no fucking work, comprendes? Come on. Come on! DEREK: Go, go, go. We're fucking done! Come on! DANNY: Dad was gone. But things were almost normal again. Derek had a good job. Mom was starting to live a little. Everyone was feeling so good that we just didn't see it coming. Maybe we should have. The irony is that most of the stores that were destroyed during the riots were owned by black people. That's stupid though. I mean why trash your own neighborhood? Well, that's my point. It's an irrational act. It's like an expression of rage by people who feel neglected and turned away by the system. Exactly. I mean, it's like we had in Watts or the riots in Chicago in '68 DEREK: It's crap. I don't buy that for a minute. Calling a riot an irrational expression of rage, that's such a cop-out. It's opportunism at its worst. That's a bunch of people grabbing any excuse they can find to go and loot a store, nothing more. Another fact, these people ripped off the stores in their own communities all reflects the degree to which these people absolutely have no respect for the law at all. And certainly no concept of, like, community or civic responsibility. Wait a minute. White people commit crimes against white people too. But they're not offing each other in record numbers all over America. Look at the statistics, for chrissake. One in every 3 black males is in some phase of the correctional system. Is that a coincidence or do these people have, you know like, a racial commitment to crime? Not only that. They're proud of it. Well, maybe it says something about prejudice in the judicial system. Yeah, if you wanna talk about criminal statistics, you should wanna take a look at the social inequalities that produce them. Yap, yap. You know what? That's exactly what I hate because what you doing, Davina, is taking one thing and calling it something else and just, you know, alleviating the responsibility that these people have for their own actions. You know, it's like saying: \"It's not a riot, it's rage. It's not crime, it's poverty.\" It's just nonsense. It's bullshit. It's exactly what happened in this trial too. Because the media twisted things around so people gotta focused on, you know, these cops whether or not they'd get convicted and whether Rodney King's civil rights had been violated. I mean everybody lost sight of Rodney King himself. I mean he is a multiple felon by his own admission. He's high as a goddamn kite, driving 120 miles an hour down the highway. He gets pulled over by a bunch of cops and he attacks them. He attacked police officers. That's the bottom line. And he walked. And there's some yahoo with a video camera who turned it on halfway through so all we see is them hitting him. Exactly you know. Powell and Koon winding up and cracking him with billy clubs and Briseno's kicking him in the back of the skull. So it looks severe. You know and people behind: \"Oh, this poor guy.\" This poor guy who attacked 4 cops. And those cops end up on the stand defending themselves for using absolutely standard, textbook seIf-defense procedures. I don't think the tape showed that at all. You didn't think so? And what, you're an authority, Ma? Murray, what do you think? I did think that the police used their clubs rather excessively. Who you to say what's excessive? I think it was totally appropriate. I think they're in a better position to make that judgement call than you are. In fact, we as society, grant cops a certain amount of authority to make those callls because we acknowledge that their job is difficult and dangerous. You know? Unfortunately, very few people, like, respect that authority. Look who's talking about respect here, Mr. Junior-KKK. What? Davina. You wanna go to college, Davina. You should learn to listen. Derek. I didn't say I respected laws. I acknowledge a cop's authority. I don't respect any laws that let monkeys like Rodney King back on the street. Second, I am not, as you well know, a member of a low-rent, disorganized bunch of rednecks like the fucking KKK. Please. So take your head out of your ass. You've gotten off the point. I mean I had a point. That wasn't any point. Do you have one? What is your point, Derek? All right, think about this. If Danny had been walking across the street that night and Rodney King had plowed into him. Can we just drop this Rodney King thing? Who would like some dessert? We're having a discussion. We're having a nice discussion, right? If Rodney King had been driving along, hopped up on Chivas Regal and PCP and killed Danny, you'd sing a very different tune about the... I didn't see him hit anybody in the tape and neither did you. He didn't happen to kill anybody. Thank God. Keep it down, okay? Ally's sleeping. If he had, though? Come on, think about it. If that fucking monkey had run some kid over everybody would have a very different opinion of this whole matter. They'd be focused on Rodney King and not on these officers. But instead, he just attacked a few cops. And so all of the sudden it's Hands Across America for this fucking total son of a bitch. I mean, it blows my mind. We're so hung up on this notion we have some obligation to help the struggling black man. You know, cut him some slack until he can overcome these historical injustices. It's crap. This stuff you guys are saying just perpetuates it. All this liberal nonsense. You know. Everyone's turning looking the other way while our country rots from inside out. In Christ, Lincoln freed the slaves, what, like, 130 years ago. How long does it take to get your act together? Well, Jews have been persecuted for over 5000 years. Are you saying that it's wrong to feel sensitive about anti-Semitism? STACEY: Forget that. I'm with you. I am with you alI the way, baby. I'm so sick of these liberal hypocrites. Here we go again. l love this part. This is great! Well, look at the way that they scapegoated Chief Gates. I mean you'd tell me they'd come down that hard on black Willie Williams? No way! Because that videotape was a setup to get rid of Gates. Jesus Christ. Can I please be excused? Yes. No, you cannot. Don't interrupt. Excuse me, I was talking. I listened to you. Don't interrupt her. Who the hell do you think you are? She's right in the middle of making a point. Who the hell do you think you are? Hey Davina, sit down! No. Fuck you! DEREK: Sit down! Be quiet! Shut up! MURRAY: Derek, calm down. Sit down! No. Derek, calm down. Shut up! Don't tell him to shut up! No. Sit your ass down! Fuck move! No. Sit down, shut your mouth! Get out of my way! Move! Goddamn it, Derek, move! Sit down, shut your mouth and give my girlfriend some respect. Derek, what are you trying to prove? Murray, stay out of it! Come here. Hey. Where do you think you're going? Get back. Derek, let her go! Derek, let her go! Stop. DEREK: Come here! You need to learn some fucking manners, Davina. Shut your fucking mouth! Shut up! Derek! Stop! She can't breathe! DORIS: Let her go! Will you apologize? Will you apologize? Are you? You're a fucking asshole. I hate you! What are you doing, Derek? This is your family. Right, my family. So you know what? I don't give two shits about you or anybody else or what you think. You're not part of it you never will be. That has nothing to do with it! DEREK: lt doesn't? You don't think l see what you're trying to do here? You think I'll sit here and smile while some fucking kike tries to fuck my mother? It's never gonna happen, Murray! Fucking forget it. Not on my watch. Not while I'm in this family. I will fucking cut your Shylock nose off and stick it up your ass before I let that happen. Coming in here and poisoning my family's dinner with your Jewish, nigger-loving, hippie bullshit? Fuck you! Yeah, walk out. Asshole-fucking, Cabala-reading motherfucker! Get the fuck out of my house! You see this? That means \"not welcome.\" What did l do? You disgust me, you know that? You disgust me. Bring him to our table, primping your hair and your dress! Don't touch me! All tarted up! What did l do to you? How could you bring him to my father's table? How could you go from Dad to that? Aren't you ashamed? I'm ashamed that you came out of my body! Go run to your fucking kike! Go run to him! It's okay. I'm proud of you, baby. I'm so sorry, Doris. I really am. He's gone. He's just a boy without a father. Doris, you don't know the world your children are living in. Goodbye. Hey. You all right? Take this, you fucking dick! Hey, no. No, come here! Fuck you! Davina, calm down! Get off me! Calm down! Let me go, goddamn it! Sorry. Fuck you! I'm sorry. I would never hurt you. You know that. Come on, I screwed up. I lost control. It's not you. I'm sorry. Come on, I'd never hurt you guys. I'd never hurt you. You know that. I'd do anything for you. I don't believe you. I trust you, Derek."
+      ],
+      "scene_length_chars": 9341,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.17700251936912537,
+        0.015245827846229076,
+        0.5311483144760132,
+        0.2860334515571594,
+        0.0044342284090816975,
+        0.018924109637737274,
+        0.011108065024018288,
+        0.05209320783615112,
+        0.0031189543660730124,
+        0.013038416393101215,
+        0.06445909291505814,
+        0.0823998972773552,
+        0.008757841773331165,
+        0.009601885452866554,
+        0.004007241223007441,
+        0.037818312644958496,
+        0.012328210286796093,
+        0.0027862770948559046,
+        0.0037020458839833736,
+        0.0007800883613526821,
+        0.012880682945251465,
+        0.059176404029130936,
+        0.026935866102576256,
+        0.007870925590395927,
+        0.04217888042330742,
+        0.010035622864961624,
+        0.010185541585087776,
+        0.08024150133132935
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 26,
+      "heading": "[FRONT DOOR OPENS]",
+      "raw_text": "Hi. Hi. What are you doing out of bed? Want a plane ride? Yeah. DANNY: Going for takeoff. Woo-hoo! Oh, no. No, no! Don't crash! Gotta go to Mom. She's a crazy flier. Kiss Mom. Oh, yeah. Okay. You don't feel too hot. No, it's in my chest. What are you up to? I'm just thinking. It is a lot of that going around. I don't even know how we got here sometimes. Mom. I feel like I let you all down. I don't even know when it happened. Mom, it's okay. Yeah? Yeah. It's cold in here. No wonder you're sick. No, you don't get sick from cold, you get sick from germs. DANNY: No, you get sick from smoking. You gotta quit it. It's not good for you.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hi. Hi. What are you doing out of bed? Want a plane ride? Yeah. DANNY: Going for takeoff. Woo-hoo! Oh, no. No, no! Don't crash! Gotta go to Mom. She's a crazy flier. Kiss Mom. Oh, yeah. Okay. You don't feel too hot. No, it's in my chest. What are you up to? I'm just thinking. It is a lot of that going around. I don't even know how we got here sometimes. Mom. I feel like I let you all down. I don't even know when it happened. Mom, it's okay. Yeah? Yeah. It's cold in here. No wonder you're sick. No, you don't get sick from cold, you get sick from germs. DANNY: No, you get sick from smoking. You gotta quit it. It's not good for you."
+      ],
+      "scene_length_chars": 637,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.00191051687579602,
+        0.00036359039950184524,
+        0.001279328833334148,
+        0.010392928496003151,
+        0.002019776962697506,
+        0.02683931589126587,
+        0.03971615806221962,
+        0.6166902780532837,
+        0.0019254981307312846,
+        0.22237402200698853,
+        0.019695378839969635,
+        0.0010596703505143523,
+        0.003567405976355076,
+        0.012730017304420471,
+        0.0008906704024411738,
+        0.0005166589980944991,
+        0.0028673657216131687,
+        0.001427834271453321,
+        0.00037330202758312225,
+        0.0055290283635258675,
+        0.0027740304358303547,
+        0.0006446817424148321,
+        0.0310390405356884,
+        0.0075151920318603516,
+        0.0008440630626864731,
+        0.004294444806873798,
+        0.32965216040611267,
+        0.006325771566480398
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "surprise",
+        "disappointment"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 27,
+      "heading": "[LAUGHS]",
+      "raw_text": "What are you looking at me like that for? When are you gonna let that beautifuI hair grow back? The day you quit smoking. Deal. I better get Ally to bed. Say good night to Mom. Then you have to go to bed. Come on. Good night, Mama. Good night, baby. DANNY: Good night, good night. DANNY: I go back to that night again and again in my mind. I try to stop it from happening. I want you out of this house. That's fine. I'll be gone in the morning. STACEY: He can move in with me. DANNY: In my mind, I imagine what would've happened if I hadn't gone into that room and told him. Danny, get down! No, Danny! Mommy! Nigger, you just fucked with the wrong bull. Come here! Get off! You should've learned your place on the fucking basketball court! But you fucking monkeys never get the message! My father gave me that truck, you motherfucker! You ever shoot at firemen? You come here, you shoot at my family? I'm gonna teach you a real lesson, motherfucker. Put your fucking mouth on the curb. Come on, man! Put it on the curb! Right now! That's it. Derek, no! No! DEREK: Now say good night.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What are you looking at me like that for? When are you gonna let that beautifuI hair grow back? The day you quit smoking. Deal. I better get Ally to bed. Say good night to Mom. Then you have to go to bed. Come on. Good night, Mama. Good night, baby. DANNY: Good night, good night. DANNY: I go back to that night again and again in my mind. I try to stop it from happening. I want you out of this house. That's fine. I'll be gone in the morning. STACEY: He can move in with me. DANNY: In my mind, I imagine what would've happened if I hadn't gone into that room and told him. Danny, get down! No, Danny! Mommy! Nigger, you just fucked with the wrong bull. Come here! Get off! You should've learned your place on the fucking basketball court! But you fucking monkeys never get the message! My father gave me that truck, you motherfucker! You ever shoot at firemen? You come here, you shoot at my family? I'm gonna teach you a real lesson, motherfucker. Put your fucking mouth on the curb. Come on, man! Put it on the curb! Right now! That's it. Derek, no! No! DEREK: Now say good night."
+      ],
+      "scene_length_chars": 1084,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.01115838810801506,
+        0.006551804952323437,
+        0.9861221313476562,
+        0.41703686118125916,
+        0.001730413525365293,
+        0.00947977788746357,
+        0.0014563839649781585,
+        0.007204219698905945,
+        0.005135660991072655,
+        0.0050289444625377655,
+        0.026081886142492294,
+        0.011334242299199104,
+        0.0008518974063917994,
+        0.0033877165988087654,
+        0.00121636304538697,
+        0.013845889829099178,
+        0.001493832329288125,
+        0.007779030594974756,
+        0.003087382297962904,
+        0.00029087672010064125,
+        0.004130790941417217,
+        0.0014895524363964796,
+        0.0014519166434183717,
+        0.0004889753181487322,
+        0.0022437514271587133,
+        0.0014098401879891753,
+        0.0027961498126387596,
+        0.004533461760729551
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 28,
+      "heading": "[POLlCE SlRENS WAILING]",
+      "raw_text": "Fucker. Drop your weapon! Put your weapon on the ground! Put your hands up! I said, get your hands up! Now turn around! Put your hands behind your head! Get down on your knees right now! DAVINA: It's all right. It's all right. Let's go. Come on.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fucker. Drop your weapon! Put your weapon on the ground! Put your hands up! I said, get your hands up! Now turn around! Put your hands behind your head! Get down on your knees right now! DAVINA: It's all right. It's all right. Let's go. Come on."
+      ],
+      "scene_length_chars": 245,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0018897725967690349,
+        0.0014625568874180317,
+        0.9258847236633301,
+        0.034040797501802444,
+        0.024883395060896873,
+        0.21456192433834076,
+        0.0008180832955986261,
+        0.015723243355751038,
+        0.004111682064831257,
+        0.0004579746746458113,
+        0.01102471724152565,
+        0.009686839766800404,
+        0.0009116230066865683,
+        0.008974984288215637,
+        0.00596878444775939,
+        0.0038768050726503134,
+        0.0031983288936316967,
+        0.0009421284776180983,
+        0.0020194260869175196,
+        0.0005230906535871327,
+        0.0010045540984719992,
+        0.004452841822057962,
+        0.003305067541077733,
+        0.0009406431345269084,
+        0.001920670154504478,
+        0.0007796795107424259,
+        0.006722740828990936,
+        0.5192821621894836
+      ],
+      "goemotions_topk": [
+        "anger",
+        "neutral",
+        "caring"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 29,
+      "heading": "[KNOCKING ON DOOR]",
+      "raw_text": "Who is that? She ain't gonna open the door? I don't know. Someone's right there fucking looking at us. Hello? Danny, it's for you. DANNY: I'll be right there. Open the door, Danny! It's fucking freezing! Danny, this party's gonna be sick! Come on, Danny!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Who is that? She ain't gonna open the door? I don't know. Someone's right there fucking looking at us. Hello? Danny, it's for you. DANNY: I'll be right there. Open the door, Danny! It's fucking freezing! Danny, this party's gonna be sick! Come on, Danny!"
+      ],
+      "scene_length_chars": 254,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0003254227922298014,
+        0.022060316056013107,
+        0.1640055626630783,
+        0.11533280462026596,
+        0.0002829214499797672,
+        0.004696735646575689,
+        0.003988203592598438,
+        0.03912577033042908,
+        0.006187342572957277,
+        0.002833873964846134,
+        0.008193310350179672,
+        0.03937292844057083,
+        0.004184092860668898,
+        0.006833462510257959,
+        0.724359929561615,
+        0.0005028469604440033,
+        0.005839960649609566,
+        0.0018515369156375527,
+        0.00030252718715928495,
+        0.009102779440581799,
+        0.0060238102450966835,
+        0.00044928566785529256,
+        0.001381462556309998,
+        0.00037254870403558016,
+        0.00029360398184508085,
+        0.004253813065588474,
+        0.10460463166236877,
+        0.07063513994216919
+      ],
+      "goemotions_topk": [
+        "fear",
+        "anger",
+        "annoyance"
+      ],
+      "goemotions_label": "fear",
+      "goemotions_labels": [
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 30,
+      "heading": "[SINGlNG WHITE SUPREMAClST SONG]",
+      "raw_text": "SETH: I'm gonna go get some beers. Hey, what a party, fat Seth? I'm not fat, asshole! I'm husky. What the fuck's up, Seth? Drink up, Danny, before your brother sees you. Holy fuck. He's here? Yeah, right he's here. He's fucking here. Go pay your respects. Fuck you, Seth. Let's go talk to Cameron, Danny. Father Vinyard? How's it going, man? I'm Jason and he is my buddy, Chris. We're friends with your brother. You are a fucking god, man! Oh, shit, yeah. STACEY: Derek! DEREK: Hey. I thought you turned that paper in. I did and now fucking Murray turned me in and so Sweeney's making me write another one. Good old Sweeney. He never stops trying, does he? He's one of those proud-to-be-nigger people. I hate those guys. Now, wait a minute, Danny. He's not proud. He's a manipulative, self-righteous Uncle Tom. He's trying to make you feel guilty about writing about Adolf Hitler. Yeah. Some nigger, some spic writes about Martin Luther King or fucking Cesar \"Commie\" Chavez gets a pat on the head. Yeah. I mean, you can see the hypocrisy in that, can't you? Definitely. STACEY: Come on, let's go. Let's go. No, listen to me. I wanna see you, okay? I do. But I gotta take care of something tonight. Okay. You understand? Yeah. I'm here. When you're ready, I'm here. Look, would you do something with me? Anything. Leave with me. Leave where? Leave here. Leave all this. Just come with me. Why would you wanna leave? They worship you. You're like a god to them. I mean if you think we had it good before, wait till you see what it's like now. Listen, I don't want all that. I don't want my family involved. Everything I've done here has fucked it all up. Do you understand? Would you think what you did was wrong? Oh, baby. Oh, come on. Those niggers got exactly what they deserved and we all know that. I understand you just got out but no one's gonna hurt you. No one can touch you. I mean there's a small army out there. We won't let a bunch of spooks kick us out of here. You're not listening to me, okay? I'm not scared. I don't want it anymore. I'm done with it. I'm through with this. It's.... It's bullshit, Stacey. Listen, you don't need this, Stacey. Come on, trust me. If you wanna be with me, just trust me. Come with me. Come on. You're nuts. You are nuts. No way. I don't think you realize what's been going on here. We are 10 times what we were and we are bloody organized. I mean, it is like nothing you have ever seen! This is a mistake. Forget it. Wait a second. Wait a second. What was a mistake? Stacey, just say goodbye. Just say goodbye. This isn't you. I know you. You don't know anything about me, Stacey. Hey. Are you Danny's brother? Yeah. LlZZY: Tell him Lizzy's looking for him. Lizzy. Thank you. We'll let the niggers, kikes and spics grab for their piece of the pie. Can't blame them. Of course, they're gonna have to fight to get it. And if we scare the fuck out of people and a few people get killed in the process, so be it. DEREK: You'll put that in your paper, Danny? Hey, man. Well, look who's here. The return of the soldier. What are you doing here, Danny? Come on, man. I had to check it out. You knew I was gonna come. CAMERON: Let the kid alone, Derek. He knows when to go to bed. Go wait outside. Come on Der, I'm not doing anything. Come on! There's a little blond girl sitting out there. She keeps asking for you. She's dying. Come on. Ok, well, I gotta check out. Go easy on her. All right. Wait for me right outside. Take it easy. Chill out. You're on safe ground. You don't have to watch your ass around here. Come on, sit down. Relax. You know, I'm sorry. The party was a little quick. But we're just so damned glad you're back, Derek. It's only natural you should feel a little funny. I don't feel funny, Cam. You know, you made the fat kid a little nervous. He thinks the joint messed with your mind. It did. Glory, glory hallelujah Glory, glory hallelujah The white man marches on You see, things have changed since you've been gone, Derek. You talk about organization? Wait till you see what we've done with the Internet. We've got every gang from Seattle to San Diego working together now. They're not competing anymore. They're consolidated. Only thing we lack is a little overall leadership. And that's where you come in. Because people out there, they've got a lot of respect for you, Derek. When you're ready, you'll come talk to me about it. Well, you can forget about that. I'm done with it, Cam. Yeah, well, I know you grew out of that shaved-head bullshit a long time ago, thank God. I like your hair the way it is now. You see, that's what I mean, Derek. We're thinking bigger now. No more of this fucking grocery store. You're not listening to me. I am done with it. All that bullshit out there and all your bullshit too. I'm out. I understand how you feel. I mean you've just done some hard time. Don't you fucking talk to me about hard time. You don't know a thing about it. Yeah, I've done mine. You didn't do shit. I found out about your little prison story. You did 2 months, then rolled over on 2 kids and let them go down for you. So don't feed me your fucking lies, Cameron! All right. This is stupid. I'm done. You go cool off. Get laid. Do something. Get your head on straight, then I'll talk to you. But it doesn't really matter if I don't, does it? Because you got the next crop all lined up and ready to go you fucking chicken hawk! Excuse me? You prey on people, Cam! You use them! I lost 3 years of my life for your fucking phony cause but I am onto you now, you fucking snake. Hey, Derek. Watch it. Be careful. Remember where you are. This is not some fucking country club where you can waltz in and out of here. Shut up! Shut the fuck up! I came in here to tell you one thing: I am out. Out! And Danny is out too. And if you come near my family again, I'm gonna fucking kill you. Well, excuse me, but fuck you, Derek. You can't come barking threats at me. Look, you can do whatever you want but Danny is a good kid. He's not some whining pussy like you. He needs my help and I'm gonna give it to him. If you come near Danny again, I will feed you your fucking heart, Cameron. I won't have to. He'll come to me. I'm more important to him now than you'll ever be.",
+      "characters": [
+        "SETH"
+      ],
+      "dialogues": [
+        {
+          "speaker": "SETH",
+          "text": "I'm gonna go get some beers. Hey, what a party, fat Seth? I'm not fat, asshole! I'm husky. What the fuck's up, Seth? Drink up, Danny, before your brother sees you. Holy fuck. He's here? Yeah, right he's here. He's fucking here. Go pay your respects. Fuck you, Seth. Let's go talk to Cameron, Danny. Father Vinyard? How's it going, man? I'm Jason and he is my buddy, Chris. We're friends with your brother. You are a fucking god, man! Oh, shit, yeah. STACEY: Derek! DEREK: Hey. I thought you turned that paper in. I did and now fucking Murray turned me in and so Sweeney's making me write another one. Good old Sweeney. He never stops trying, does he? He's one of those proud-to-be-nigger people. I hate those guys. Now, wait a minute, Danny. He's not proud. He's a manipulative, self-righteous Uncle Tom. He's trying to make you feel guilty about writing about Adolf Hitler. Yeah. Some nigger, some spic writes about Martin Luther King or fucking Cesar \"Commie\" Chavez gets a pat on the head. Yeah. I mean, you can see the hypocrisy in that, can't you? Definitely. STACEY: Come on, let's go. Let's go. No, listen to me. I wanna see you, okay? I do. But I gotta take care of something tonight. Okay. You understand? Yeah. I'm here. When you're ready, I'm here. Look, would you do something with me? Anything. Leave with me. Leave where? Leave here. Leave all this. Just come with me. Why would you wanna leave? They worship you. You're like a god to them. I mean if you think we had it good before, wait till you see what it's like now. Listen, I don't want all that. I don't want my family involved. Everything I've done here has fucked it all up. Do you understand? Would you think what you did was wrong? Oh, baby. Oh, come on. Those niggers got exactly what they deserved and we all know that. I understand you just got out but no one's gonna hurt you. No one can touch you. I mean there's a small army out there. We won't let a bunch of spooks kick us out of here. You're not listening to me, okay? I'm not scared. I don't want it anymore. I'm done with it. I'm through with this. It's.... It's bullshit, Stacey. Listen, you don't need this, Stacey. Come on, trust me. If you wanna be with me, just trust me. Come with me. Come on. You're nuts. You are nuts. No way. I don't think you realize what's been going on here. We are 10 times what we were and we are bloody organized. I mean, it is like nothing you have ever seen! This is a mistake. Forget it. Wait a second. Wait a second. What was a mistake? Stacey, just say goodbye. Just say goodbye. This isn't you. I know you. You don't know anything about me, Stacey. Hey. Are you Danny's brother? Yeah. LlZZY: Tell him Lizzy's looking for him. Lizzy. Thank you. We'll let the niggers, kikes and spics grab for their piece of the pie. Can't blame them. Of course, they're gonna have to fight to get it. And if we scare the fuck out of people and a few people get killed in the process, so be it. DEREK: You'll put that in your paper, Danny? Hey, man. Well, look who's here. The return of the soldier. What are you doing here, Danny? Come on, man. I had to check it out. You knew I was gonna come. CAMERON: Let the kid alone, Derek. He knows when to go to bed. Go wait outside. Come on Der, I'm not doing anything. Come on! There's a little blond girl sitting out there. She keeps asking for you. She's dying. Come on. Ok, well, I gotta check out. Go easy on her. All right. Wait for me right outside. Take it easy. Chill out. You're on safe ground. You don't have to watch your ass around here. Come on, sit down. Relax. You know, I'm sorry. The party was a little quick. But we're just so damned glad you're back, Derek. It's only natural you should feel a little funny. I don't feel funny, Cam. You know, you made the fat kid a little nervous. He thinks the joint messed with your mind. It did. Glory, glory hallelujah Glory, glory hallelujah The white man marches on You see, things have changed since you've been gone, Derek. You talk about organization? Wait till you see what we've done with the Internet. We've got every gang from Seattle to San Diego working together now. They're not competing anymore. They're consolidated. Only thing we lack is a little overall leadership. And that's where you come in. Because people out there, they've got a lot of respect for you, Derek. When you're ready, you'll come talk to me about it. Well, you can forget about that. I'm done with it, Cam. Yeah, well, I know you grew out of that shaved-head bullshit a long time ago, thank God. I like your hair the way it is now. You see, that's what I mean, Derek. We're thinking bigger now. No more of this fucking grocery store. You're not listening to me. I am done with it. All that bullshit out there and all your bullshit too. I'm out. I understand how you feel. I mean you've just done some hard time. Don't you fucking talk to me about hard time. You don't know a thing about it. Yeah, I've done mine. You didn't do shit. I found out about your little prison story. You did 2 months, then rolled over on 2 kids and let them go down for you. So don't feed me your fucking lies, Cameron! All right. This is stupid. I'm done. You go cool off. Get laid. Do something. Get your head on straight, then I'll talk to you. But it doesn't really matter if I don't, does it? Because you got the next crop all lined up and ready to go you fucking chicken hawk! Excuse me? You prey on people, Cam! You use them! I lost 3 years of my life for your fucking phony cause but I am onto you now, you fucking snake. Hey, Derek. Watch it. Be careful. Remember where you are. This is not some fucking country club where you can waltz in and out of here. Shut up! Shut the fuck up! I came in here to tell you one thing: I am out. Out! And Danny is out too. And if you come near my family again, I'm gonna fucking kill you. Well, excuse me, but fuck you, Derek. You can't come barking threats at me. Look, you can do whatever you want but Danny is a good kid. He's not some whining pussy like you. He needs my help and I'm gonna give it to him. If you come near Danny again, I will feed you your fucking heart, Cameron. I won't have to. He'll come to me. I'm more important to him now than you'll ever be."
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 6240,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.005881057120859623,
+        0.001555970753543079,
+        0.4681624472141266,
+        0.4315962791442871,
+        0.01351812481880188,
+        0.1704726666212082,
+        0.0022679076064378023,
+        0.04150106757879257,
+        0.005524030886590481,
+        0.012172646820545197,
+        0.010168121196329594,
+        0.009939594194293022,
+        0.0014651247765868902,
+        0.0024117736611515284,
+        0.0019186539575457573,
+        0.17762954533100128,
+        0.0023091170005500317,
+        0.00906546413898468,
+        0.0019032564014196396,
+        0.0007459619082510471,
+        0.022185388952493668,
+        0.003764928551390767,
+        0.012343541719019413,
+        0.04557925835251808,
+        0.003072557505220175,
+        0.0018346564611420035,
+        0.004760491196066141,
+        0.028361862525343895
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "gratitude"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 31,
+      "heading": "[GRUNTS]",
+      "raw_text": "Shit! You're a fucking dead man, Vinyard.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Shit! You're a fucking dead man, Vinyard."
+      ],
+      "scene_length_chars": 41,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0053378078155219555,
+        0.0011238829465582967,
+        0.9946759939193726,
+        0.03216230869293213,
+        0.0012618358014151454,
+        0.002410509856417775,
+        0.0008019543602131307,
+        0.0015677491901442409,
+        0.002708605956286192,
+        0.006308685522526503,
+        0.004182260017842054,
+        0.01634399965405464,
+        0.0011284389765933156,
+        0.0016595174092799425,
+        0.0013418365269899368,
+        0.001707827439531684,
+        0.0028748903423547745,
+        0.001972625032067299,
+        0.001984490780159831,
+        0.00018336901848670095,
+        0.0007377926958724856,
+        0.0017962711863219738,
+        0.0014824287500232458,
+        0.0002487930469214916,
+        0.0020150623749941587,
+        0.0021864750888198614,
+        0.0035769527312368155,
+        0.007385970093309879
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disgust"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 32,
+      "heading": "[CAMERON MOANS]",
+      "raw_text": "Hey, hey. Where's Cameron? Where the fuck is he? Hey, Derek. Stay away from me, Stacey. Danny! Why don't you share what you just said to me you piece-of-shit, race-trading nigger! MAN: Fucking nigger? You monkey-fucking traitor! Are you a fucking nigger? Hey, Danny! Come on. He's a fucking nigger. Nigger. Nigger. SETH: Cam's out cold! Where the fuck are you going? MAN: He's got a gun! Yo, back up, back up. DANNY: Seth. You make me fucking sick! Seth! Put down the fucking gun! MAN: Go ahead. Shoot to kill. Shoot him! Do it, Seth! Shoot him! DANNY: Seth. Holy shit. GIRL: Traitor. Kick his ass. Seth! Do it, Seth, do it. STACEY: Do it! Shoot him! SETH: Oh, God. Back up. Move. Back up. Back up. Back the fuck up. Move. Move. Easy, Derek. Hey. Danny, easy. Fuck you. Who do you think you are? Danny, Danny. Relax. Relax. Who do you think you are? Danny. Take it easy, Dan. Take it easy. I fucking hate you, Der! All right. I mean it. Hey, come on. Come on. Shut up. Shut up. Take it easy. What's happened to you, Der? Take it easy. Take it easy. What's happened to you, Der? Come on. Come on. DANNY: This is so fucked. Look. I'm sorry. All right? You weren't supposed to see that tonight. I told you not to come. Fuck you, man. That was so fucked up. I know. I know. God. It wasn't supposed to happen that way, all right? DANNY: That was fucked up. That's all there is to it. Not what I had planned. It just all went to shit. It went to shit. Totally out of control. What's fucking happening to you, man? Hey. Look at me. I can't go back to that, Dan. Can't go back to what? To any of it. Those guys, the gang, that life. I'm done with it. What happened to you up there? GUARD: C Block! Back at the chow! Don't be late today, you piece of shit! Let's go! You wanna eat today? Get up! 5 minutes! This is my fucking house! Get up! What the fuck's your problem, you asshole? Move! Joe, open the fucking gates. All right, back up.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hey, hey. Where's Cameron? Where the fuck is he? Hey, Derek. Stay away from me, Stacey. Danny! Why don't you share what you just said to me you piece-of-shit, race-trading nigger! MAN: Fucking nigger? You monkey-fucking traitor! Are you a fucking nigger? Hey, Danny! Come on. He's a fucking nigger. Nigger. Nigger. SETH: Cam's out cold! Where the fuck are you going? MAN: He's got a gun! Yo, back up, back up. DANNY: Seth. You make me fucking sick! Seth! Put down the fucking gun! MAN: Go ahead. Shoot to kill. Shoot him! Do it, Seth! Shoot him! DANNY: Seth. Holy shit. GIRL: Traitor. Kick his ass. Seth! Do it, Seth, do it. STACEY: Do it! Shoot him! SETH: Oh, God. Back up. Move. Back up. Back up. Back the fuck up. Move. Move. Easy, Derek. Hey. Danny, easy. Fuck you. Who do you think you are? Danny, Danny. Relax. Relax. Who do you think you are? Danny. Take it easy, Dan. Take it easy. I fucking hate you, Der! All right. I mean it. Hey, come on. Come on. Shut up. Shut up. Take it easy. What's happened to you, Der? Take it easy. Take it easy. What's happened to you, Der? Come on. Come on. DANNY: This is so fucked. Look. I'm sorry. All right? You weren't supposed to see that tonight. I told you not to come. Fuck you, man. That was so fucked up. I know. I know. God. It wasn't supposed to happen that way, all right? DANNY: That was fucked up. That's all there is to it. Not what I had planned. It just all went to shit. It went to shit. Totally out of control. What's fucking happening to you, man? Hey. Look at me. I can't go back to that, Dan. Can't go back to what? To any of it. Those guys, the gang, that life. I'm done with it. What happened to you up there? GUARD: C Block! Back at the chow! Don't be late today, you piece of shit! Let's go! You wanna eat today? Get up! 5 minutes! This is my fucking house! Get up! What the fuck's your problem, you asshole? Move! Joe, open the fucking gates. All right, back up."
+      ],
+      "scene_length_chars": 1929,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.0051739211194217205,
+        0.0018740807427093387,
+        0.99462890625,
+        0.0727527067065239,
+        0.001664913259446621,
+        0.006979675497859716,
+        0.004092132207006216,
+        0.014467558823525906,
+        0.009954509325325489,
+        0.016898253932595253,
+        0.004919138271361589,
+        0.012954982928931713,
+        0.002360894810408354,
+        0.0030115109402686357,
+        0.00247807614505291,
+        0.005191322881728411,
+        0.005611215252429247,
+        0.002860061591491103,
+        0.0037078941240906715,
+        0.0006051284144632518,
+        0.002570598851889372,
+        0.0019418909214437008,
+        0.007863343693315983,
+        0.0004060633946210146,
+        0.004489007871598005,
+        0.005506942048668861,
+        0.011173530481755733,
+        0.006083437707275152
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disappointment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 33,
+      "heading": "[BELL RINGS THEN LOCKS BUZZ]",
+      "raw_text": "5 minutes. Step forward. Those beds better be made. DEREK: After 2 days in that place, I didn't think I' was gonna make it a week. GUARD: Come on there, motherfuckers. You wanna eat today, you fucking piece of shit? You white-trash piece of shit. You think you're fucking special like fish? Button that top button. Let's go! Move! Are you fucking eyebaIling me? Don't eyeball-fuck me, asshole. I'll fucking kill you. Fucking keep my eye on you, white piece of shit. Don't fucking eyeball me, boy or I'll fucking skull-fuck you! Step forward. Turn to the left. Step forward to chow. Let's go. Come on. Hey, fish, straight ahead. Straight ahead, fucker. Let's go. DEREK: All the wrong people knew who I was anyway so I figured I'm just gonna put up a flag and hope a friend sees it. That's the catapult right there. How you doing? Good. Have a seat. Spike. Good to meet you. Hey. Don't fuck with me, all right? Because I'm the most dangerous man in this prison. You know why? Because I control the underwear. All right, we pick them up over here and we sort them over there. I hope you work out, all right? Because the last guy they sent me didn't wear no drawers, couldn't read the sizes in the drawers and used to sniff the drawers, all right? We got two sizes: medium and large. All right? All you gotta do is put the mediums with the mediums and the large with the large, all right? Look, it's a boring job, but it's better than that last shit they had me doing. I spent two years in the kitchen, scrubbing hot-ass pots and pans. That, you don't wanna do. All right? So you should be happy that you landed this job, all right? Ain't no telling what the hell they'll have you do in the joint. By the way, what are you in for? Probably robbed some old lady?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "5 minutes. Step forward. Those beds better be made. DEREK: After 2 days in that place, I didn't think I' was gonna make it a week. GUARD: Come on there, motherfuckers. You wanna eat today, you fucking piece of shit? You white-trash piece of shit. You think you're fucking special like fish? Button that top button. Let's go! Move! Are you fucking eyebaIling me? Don't eyeball-fuck me, asshole. I'll fucking kill you. Fucking keep my eye on you, white piece of shit. Don't fucking eyeball me, boy or I'll fucking skull-fuck you! Step forward. Turn to the left. Step forward to chow. Let's go. Come on. Hey, fish, straight ahead. Straight ahead, fucker. Let's go. DEREK: All the wrong people knew who I was anyway so I figured I'm just gonna put up a flag and hope a friend sees it. That's the catapult right there. How you doing? Good. Have a seat. Spike. Good to meet you. Hey. Don't fuck with me, all right? Because I'm the most dangerous man in this prison. You know why? Because I control the underwear. All right, we pick them up over here and we sort them over there. I hope you work out, all right? Because the last guy they sent me didn't wear no drawers, couldn't read the sizes in the drawers and used to sniff the drawers, all right? We got two sizes: medium and large. All right? All you gotta do is put the mediums with the mediums and the large with the large, all right? Look, it's a boring job, but it's better than that last shit they had me doing. I spent two years in the kitchen, scrubbing hot-ass pots and pans. That, you don't wanna do. All right? So you should be happy that you landed this job, all right? Ain't no telling what the hell they'll have you do in the joint. By the way, what are you in for? Probably robbed some old lady?"
+      ],
+      "scene_length_chars": 1757,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.007075697649270296,
+        0.0025455087888985872,
+        0.5119351148605347,
+        0.06503435224294662,
+        0.0010032199788838625,
+        0.003713442012667656,
+        0.0077651143074035645,
+        0.361615926027298,
+        0.028356067836284637,
+        0.004831199534237385,
+        0.003354391548782587,
+        0.017832187935709953,
+        0.0017293293494731188,
+        0.005760788917541504,
+        0.022530201822519302,
+        0.003930511884391308,
+        0.0024071456864476204,
+        0.0021654018200933933,
+        0.002743492601439357,
+        0.0007226177840493619,
+        0.07879653573036194,
+        0.002129442524164915,
+        0.00279049389064312,
+        0.00024214897712226957,
+        0.0015784807037562132,
+        0.0010002866620197892,
+        0.009403559379279613,
+        0.120793417096138
+      ],
+      "goemotions_topk": [
+        "anger",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 34,
+      "heading": "[LAMONT LAUGHS]",
+      "raw_text": "Okay, I know your kind, right? Badass peckerwood with an attitude. Well, let me teIl you something, man. You better watch your ass. Because in the joint you the nigger, not me. DEREK: l was a year in. I thought I was cruising. Then everything started getting complicated. MITCH: I'll take care of that, all right? What the fuck is that? DEREK: What's that all about? Oh, that's just politics, man. Favors, you know. He's doing favors for that fucking spic? Mitch has got a little something extra on the side with them boys, you know. You're kidding, right? No. That's bullshit, man. Somebody should say something to him. What the fuck is he thinking? Mitch is the only reason why you're not a corpse right now. Remember that. You know what? l don't fucking give a shit. I can take care of myself. He shouldn't be doing that. I'm getting sick of it, man. There is a lot of hard talk around here and not a lot of follow-through. I think you'd better chill out on the preaching bullshit, okay? We're getting a little tired of that shit around here. Ease up on it. What are you doing here, Doris? I was in the neighborhood. Well, look, I told you I don't want you all coming up here to see me... I don't care what you told me, okay? I need to talk to you now. So how is everyone? Davina's great. She's getting straight A's almost. And, Ally's walking, starting to talk a little. How's Danny? Danny? Danny. He holds you up so high. He thinks you're the greatest. He's always bragging about you to Cameron and all his new friends. He's starting to remind me of you. Jesus, don't sound so worried, all right? I'm sure he's fine. I mean, he's 16 years old, Doris. He's not gonna be a little angel forever, you know? You think because I watched my first-born fuck up his entire life that I can sit here and see my baby follow him down the same toilet? You know what? I can't fix all this shit from up here, okay? Don't blame this shit to me. I'm not asking you to. Because it all makes me feel bad. I'm trying to get through this and you're just making it harder. You think you're the only one doing time, Derek? You think you're here all alone? You think I'm not in here with you? Fuck, man. Come on man! Look, everyday I watch you go through these sheets like you gonna get to the end of them. Look, nigga, will you chill the fuck out? Goddamn! No matter how fast you get through them, man they're gonna keep bringing them in and bringing them in. Throwing them around ain't gonna do a damned thing but gives you a fucking heart attack. An you know what? That's cool with me. But now you're gonna give me a goddamn heart attack too! I know, I know. I'm just a dumb stupid nigger, right? What do I know? I know I ain't the one getting mad at them damn sheets though. As a matter of fact, the only sheets I get mad at? I'll tell you. All right boys, this is what we gonna do. We gonna hate some niggers. We gonna hate some goddamn niggers. That's all we'll do, is hate some niggers all day. I don't know what a nigger is, but you know we'll hate them. My cousin Derek is in the pen right now working next to a nigger, driving him nigger crazy.\" See? That's the ticket. Nice and easy. Now we can ignore each other in peace. I go, \"What you doing?\" you Know what he tells me? He goes, \"lt's better than the pig I just tried to fuck.\"",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Okay, I know your kind, right? Badass peckerwood with an attitude. Well, let me teIl you something, man. You better watch your ass. Because in the joint you the nigger, not me. DEREK: l was a year in. I thought I was cruising. Then everything started getting complicated. MITCH: I'll take care of that, all right? What the fuck is that? DEREK: What's that all about? Oh, that's just politics, man. Favors, you know. He's doing favors for that fucking spic? Mitch has got a little something extra on the side with them boys, you know. You're kidding, right? No. That's bullshit, man. Somebody should say something to him. What the fuck is he thinking? Mitch is the only reason why you're not a corpse right now. Remember that. You know what? l don't fucking give a shit. I can take care of myself. He shouldn't be doing that. I'm getting sick of it, man. There is a lot of hard talk around here and not a lot of follow-through. I think you'd better chill out on the preaching bullshit, okay? We're getting a little tired of that shit around here. Ease up on it. What are you doing here, Doris? I was in the neighborhood. Well, look, I told you I don't want you all coming up here to see me... I don't care what you told me, okay? I need to talk to you now. So how is everyone? Davina's great. She's getting straight A's almost. And, Ally's walking, starting to talk a little. How's Danny? Danny? Danny. He holds you up so high. He thinks you're the greatest. He's always bragging about you to Cameron and all his new friends. He's starting to remind me of you. Jesus, don't sound so worried, all right? I'm sure he's fine. I mean, he's 16 years old, Doris. He's not gonna be a little angel forever, you know? You think because I watched my first-born fuck up his entire life that I can sit here and see my baby follow him down the same toilet? You know what? I can't fix all this shit from up here, okay? Don't blame this shit to me. I'm not asking you to. Because it all makes me feel bad. I'm trying to get through this and you're just making it harder. You think you're the only one doing time, Derek? You think you're here all alone? You think I'm not in here with you? Fuck, man. Come on man! Look, everyday I watch you go through these sheets like you gonna get to the end of them. Look, nigga, will you chill the fuck out? Goddamn! No matter how fast you get through them, man they're gonna keep bringing them in and bringing them in. Throwing them around ain't gonna do a damned thing but gives you a fucking heart attack. An you know what? That's cool with me. But now you're gonna give me a goddamn heart attack too! I know, I know. I'm just a dumb stupid nigger, right? What do I know? I know I ain't the one getting mad at them damn sheets though. As a matter of fact, the only sheets I get mad at? I'll tell you. All right boys, this is what we gonna do. We gonna hate some niggers. We gonna hate some goddamn niggers. That's all we'll do, is hate some niggers all day. I don't know what a nigger is, but you know we'll hate them. My cousin Derek is in the pen right now working next to a nigger, driving him nigger crazy.\" See? That's the ticket. Nice and easy. Now we can ignore each other in peace. I go, \"What you doing?\" you Know what he tells me? He goes, \"lt's better than the pig I just tried to fuck.\""
+      ],
+      "scene_length_chars": 3322,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.3752891719341278,
+        0.007864508777856827,
+        0.510199785232544,
+        0.8063220977783203,
+        0.027911150828003883,
+        0.05416129156947136,
+        0.004556164611130953,
+        0.047559887170791626,
+        0.004527631681412458,
+        0.03698357194662094,
+        0.016797490417957306,
+        0.08219485729932785,
+        0.0022891126573085785,
+        0.004028868395835161,
+        0.003100467147305608,
+        0.005149422213435173,
+        0.0016836908180266619,
+        0.004465041216462851,
+        0.002308132592588663,
+        0.001516105723567307,
+        0.03578214347362518,
+        0.010236884467303753,
+        0.01006610132753849,
+        0.0023553541395813227,
+        0.0010731506627053022,
+        0.002406420884653926,
+        0.005080916918814182,
+        0.014645055867731571
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "anger",
+        "admiration"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "admiration",
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 35,
+      "heading": "[LAUGHlNG]",
+      "raw_text": "MAN 1: Never lets me finish a joke... MAN 2: Why don't you telI a joke? MAN 3: Did you fuck him too? MAN 1 : Whatever. I get back to win her, she's laying on her back. She likes... What's up? MAN 2: Will you get to the fucking point? Jesus Christ. DEREK: He was taking it from the Mexicans and dealing it out to his own people. He didn't believe in shit. None of them did. Hey. Hey, Vinyard! What? Come on, man. Don't look at me like that. You know what that smells like, right? Come on, don't tell me this smell doesn't remind you of a woman. God, I miss this smell, man. Know, the job I had on the outside wasn't much better than this one. But at least I got to go home every night and lie down next to this sweet smell, man. God, I miss that. You got a woman? Yeah, you got a woman, man. Let me give you some advice. All right? She comes to visit you whatever you do, no matter what, don't let her leave here in a fight, man. Don't let her walk out of here with a bad attitude. Because if you do, you spend next week wondering if she's out getting her fuck on with somebody else. You know what I'm saying? So, when she comes to see you, man, it's nothing but sweet talk through that glass, man. Send her away floating, all right? Because it's not like the real world. You know where you can fight? But it's cool to fight because you can make up and have that make-up sex. You know what I'm saying? That angry sex. That sex with an attitude. Where you just lay on your back and let her take out all that aggression on you. All guys know that, man. That's that good sex. It's that pow, pow, pow. Let her get on top and she's gonna punish you first, right?",
+      "characters": [
+        "MAN 1"
+      ],
+      "dialogues": [
+        {
+          "speaker": "MAN 1",
+          "text": "Never lets me finish a joke... MAN 2: Why don't you telI a joke? MAN 3: Did you fuck him too? MAN 1 : Whatever. I get back to win her, she's laying on her back. She likes... What's up? MAN 2: Will you get to the fucking point? Jesus Christ. DEREK: He was taking it from the Mexicans and dealing it out to his own people. He didn't believe in shit. None of them did. Hey. Hey, Vinyard! What? Come on, man. Don't look at me like that. You know what that smells like, right? Come on, don't tell me this smell doesn't remind you of a woman. God, I miss this smell, man. Know, the job I had on the outside wasn't much better than this one. But at least I got to go home every night and lie down next to this sweet smell, man. God, I miss that. You got a woman? Yeah, you got a woman, man. Let me give you some advice. All right? She comes to visit you whatever you do, no matter what, don't let her leave here in a fight, man. Don't let her walk out of here with a bad attitude. Because if you do, you spend next week wondering if she's out getting her fuck on with somebody else. You know what I'm saying? So, when she comes to see you, man, it's nothing but sweet talk through that glass, man. Send her away floating, all right? Because it's not like the real world. You know where you can fight? But it's cool to fight because you can make up and have that make-up sex. You know what I'm saying? That angry sex. That sex with an attitude. Where you just lay on your back and let her take out all that aggression on you. All guys know that, man. That's that good sex. It's that pow, pow, pow. Let her get on top and she's gonna punish you first, right?"
+        }
+      ],
+      "actions": [],
+      "scene_length_chars": 1656,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.40175575017929077,
+        0.00246071326546371,
+        0.4427574872970581,
+        0.0496925488114357,
+        0.004726689774543047,
+        0.011622250080108643,
+        0.0012341676047071815,
+        0.03113839589059353,
+        0.00212804414331913,
+        0.004470675252377987,
+        0.002218259032815695,
+        0.0071010650135576725,
+        0.0007723808521404862,
+        0.003909250721335411,
+        0.0011610356159508228,
+        0.002721860771998763,
+        0.00789960753172636,
+        0.003450250020250678,
+        0.0024720276705920696,
+        0.00031008548103272915,
+        0.0069989534094929695,
+        0.002227945951744914,
+        0.002470774808898568,
+        0.00033106206683441997,
+        0.001157497870735824,
+        0.03363661468029022,
+        0.007393611595034599,
+        0.2082519829273224
+      ],
+      "goemotions_topk": [
+        "anger",
+        "admiration",
+        "neutral"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "admiration",
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 36,
+      "heading": "[AS WOMAN]",
+      "raw_text": "\"You been a bad boy, huh? You been a bad boy and I'm gonna punish you. I'm gonna put it on you. Don't you ever let me catch you looking at another woman. Yeah. I may forgive you if you bring it. I think I can. I forgive. I forgive. Oh, right there. Right there. You hitting it. My spot. That's it. Right. Yeah. Yeah. Yes. I forgive you. I forgive you. I for...l for... I forgive you. I love you!\" GUARD: Let's keep it moving. How do you figure the Lakers to ever be a bigger dynasty than the Celtics? The Lakers are like a flare-up. A fluke. I mean like...Are you crazy? One good coach for 4 years. The Celtics are like a dynasty! Come on, man. The Celtics were, like, the ugliest team in the history of sports. A dynasty of ugly motherfuckers, man. Look at Kevin McHale. James Worthy. The guy has a head like a melon, 20... No, he had ladies. I can't even talk to you. I don't even know what you're saying. You are tweaking. Boston Celtics. How many is that? That's enough. Enough? All right. I lost count, man. Doesn't matter, man. All right. Who's counting anyway? Alright, I wanna know something. What the fuck landed you in here? You didn't kill anybody. You're too skinny for a gangbanger. Only that a bitch, alright? Don't judge a book by its cover, man. I can throw these things, all right? You know what I'm saying? Whatever. Come on. What did you do? Yo, man, it's none of your business, all right? It's embarrassing, all right? Come on! What? Everybody in here is embarrassed. You think? Nobody in here got away with anything. What did you do? Look, man. I stole a TV, all right? So you stole a TV. What's embarrassing about that? I stole a TV from a store that was right next door to a doughnut shop, all right? I run out, the store owner's running behind me, yelling, bam. I run into 3 cops, all right? Alright, see. I told you it was embarrassing and you laugh. Wait a second. Wait a second. That doesn't make sense. No, you didn't get 6 years for stealing a TV. Come on. I go in the store, I come out, the police officer grabs my arm, TV falls on his foot and breaks it. They said I threw the TV at the officer. Assault. 6 years. Come on. Tell the truth. You chucked it at him or something. Like I said, I came out of the store he grabbed my arm, it fell on his foot. Now what you got for me, baby? What you got for me? There you go, baby. Yeah, baby. That's what I'm talking about! Put some D on him, now. Fuck you. Get a towel! Hold him. Hold him. You wanna be a nigger, sweet boy? Fuck you! We're gonna treat you like one. Come on.\n[GRUNTING]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "\"You been a bad boy, huh? You been a bad boy and I'm gonna punish you. I'm gonna put it on you. Don't you ever let me catch you looking at another woman. Yeah. I may forgive you if you bring it. I think I can. I forgive. I forgive. Oh, right there. Right there. You hitting it. My spot. That's it. Right. Yeah. Yeah. Yes. I forgive you. I forgive you. I for...l for... I forgive you. I love you!\" GUARD: Let's keep it moving. How do you figure the Lakers to ever be a bigger dynasty than the Celtics? The Lakers are like a flare-up. A fluke. I mean like...Are you crazy? One good coach for 4 years. The Celtics are like a dynasty! Come on, man. The Celtics were, like, the ugliest team in the history of sports. A dynasty of ugly motherfuckers, man. Look at Kevin McHale. James Worthy. The guy has a head like a melon, 20... No, he had ladies. I can't even talk to you. I don't even know what you're saying. You are tweaking. Boston Celtics. How many is that? That's enough. Enough? All right. I lost count, man. Doesn't matter, man. All right. Who's counting anyway? Alright, I wanna know something. What the fuck landed you in here? You didn't kill anybody. You're too skinny for a gangbanger. Only that a bitch, alright? Don't judge a book by its cover, man. I can throw these things, all right? You know what I'm saying? Whatever. Come on. What did you do? Yo, man, it's none of your business, all right? It's embarrassing, all right? Come on! What? Everybody in here is embarrassed. You think? Nobody in here got away with anything. What did you do? Look, man. I stole a TV, all right? So you stole a TV. What's embarrassing about that? I stole a TV from a store that was right next door to a doughnut shop, all right? I run out, the store owner's running behind me, yelling, bam. I run into 3 cops, all right? Alright, see. I told you it was embarrassing and you laugh. Wait a second. Wait a second. That doesn't make sense. No, you didn't get 6 years for stealing a TV. Come on. I go in the store, I come out, the police officer grabs my arm, TV falls on his foot and breaks it. They said I threw the TV at the officer. Assault. 6 years. Come on. Tell the truth. You chucked it at him or something. Like I said, I came out of the store he grabbed my arm, it fell on his foot. Now what you got for me, baby? What you got for me? There you go, baby. Yeah, baby. That's what I'm talking about! Put some D on him, now. Fuck you. Get a towel! Hold him. Hold him. You wanna be a nigger, sweet boy? Fuck you! We're gonna treat you like one. Come on."
+      ],
+      "scene_length_chars": 2560,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.3104977607727051,
+        0.03702228143811226,
+        0.5589272379875183,
+        0.377617746591568,
+        0.015393679030239582,
+        0.023557692766189575,
+        0.004688877612352371,
+        0.08049597591161728,
+        0.009398706257343292,
+        0.029860081151127815,
+        0.003529768669977784,
+        0.06487470120191574,
+        0.3426187038421631,
+        0.004451983142644167,
+        0.010941323824226856,
+        0.0042869471944868565,
+        0.00731399143114686,
+        0.009365461766719818,
+        0.16802270710468292,
+        0.00681733014062047,
+        0.04636488854885101,
+        0.01124985609203577,
+        0.012352905236184597,
+        0.0013518608175218105,
+        0.010509129613637924,
+        0.006365766748785973,
+        0.010925681330263615,
+        0.004513865802437067
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "embarrassment"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 38,
+      "heading": "[MEN LAUGHlNG]",
+      "raw_text": "Fuck you. That was real sweet. Fuck you! How is he? Well, he took 6 stitches. SWEENEY: Hey, man.\n[DEREK SOBBING]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck you. That was real sweet. Fuck you! How is he? Well, he took 6 stitches. SWEENEY: Hey, man."
+      ],
+      "scene_length_chars": 112,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.24476386606693268,
+        0.003706441493704915,
+        0.9514807462692261,
+        0.007222817279398441,
+        0.0005596372648142278,
+        0.0010868457611650229,
+        0.0012591646518558264,
+        0.0023017425555735826,
+        0.001565375947393477,
+        0.004540538880974054,
+        0.0006159906624816358,
+        0.02034747041761875,
+        0.0013882080093026161,
+        0.017410144209861755,
+        0.002421271987259388,
+        0.0031152113806456327,
+        0.004884914495050907,
+        0.011577608063817024,
+        0.008974323980510235,
+        0.00017439211660530418,
+        0.000461008952697739,
+        0.009057840332388878,
+        0.002630161354318261,
+        0.000531806901562959,
+        0.0013989926083013415,
+        0.0018451649229973555,
+        0.10435725748538971,
+        0.007235771045088768
+      ],
+      "goemotions_topk": [
+        "anger",
+        "admiration",
+        "surprise"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 40,
+      "heading": "[SWEENEY SlGHS]",
+      "raw_text": "Oh, man, what the hell are you doing here, anyway? Well, I came to talk about Danny but we don't have to do that right now. I brought you some books. Well, what about him? You know? Don't keep me in suspense. He's headed right where you are. Oh, man, you know what? My mother already laid this trip on me, man. Danny's not my responsibility. You know? What do you expect me to do with that? It doesn't help me. Am I supposed to feel guilty? I don't want you to do anything. I need to know the truth about how you feel. Well, what? You think I want him in here? I mean.... I don't know. l don't know what I feel. I'm all... I feel a little inside out. You know, I don't know. There's some things that don't fit. Well, that happens. Look, you are too damn smart to be floating around here pretending you don't see the holes in this bullshit. Listen,you know I said I was confused. I didn't say I didn't believe in it. All right. That's why you have to stay open. Right now, your anger is consuming you. Your anger is shutting down the brain God gave you. God, man.You've been talking about what's going on in me since I was in high school. How the fuck do you know so much about what's going on inside me? No, I know about me. I know about this place. I know about the place you are in. What do you know about the place I'm in? There was a moment when I used to blame everything and everyone for all the pain and suffering and vile things that happened to me that I saw happen to my people. I used to blame everybody. Blame white people. Blame society. Blame God. I didn't get no answers because I was asking the wrong questions. You have to ask the right questions. Like what? Has anything you've done made your life better? No. You gotta help me now. Just help me. Get me out of here, you know? I'm up in 4 months for review. Put in a word for me. I already have. So you're out there, then what? I don't wanna fuck up my family anymore. I'll go as far away as I can get. That's not good enough. You want my help, you gotta do better than that. My help is not unconditional. But running just ain't good enough.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, man, what the hell are you doing here, anyway? Well, I came to talk about Danny but we don't have to do that right now. I brought you some books. Well, what about him? You know? Don't keep me in suspense. He's headed right where you are. Oh, man, you know what? My mother already laid this trip on me, man. Danny's not my responsibility. You know? What do you expect me to do with that? It doesn't help me. Am I supposed to feel guilty? I don't want you to do anything. I need to know the truth about how you feel. Well, what? You think I want him in here? I mean.... I don't know. l don't know what I feel. I'm all... I feel a little inside out. You know, I don't know. There's some things that don't fit. Well, that happens. Look, you are too damn smart to be floating around here pretending you don't see the holes in this bullshit. Listen,you know I said I was confused. I didn't say I didn't believe in it. All right. That's why you have to stay open. Right now, your anger is consuming you. Your anger is shutting down the brain God gave you. God, man.You've been talking about what's going on in me since I was in high school. How the fuck do you know so much about what's going on inside me? No, I know about me. I know about this place. I know about the place you are in. What do you know about the place I'm in? There was a moment when I used to blame everything and everyone for all the pain and suffering and vile things that happened to me that I saw happen to my people. I used to blame everybody. Blame white people. Blame society. Blame God. I didn't get no answers because I was asking the wrong questions. You have to ask the right questions. Like what? Has anything you've done made your life better? No. You gotta help me now. Just help me. Get me out of here, you know? I'm up in 4 months for review. Put in a word for me. I already have. So you're out there, then what? I don't wanna fuck up my family anymore. I'll go as far away as I can get. That's not good enough. You want my help, you gotta do better than that. My help is not unconditional. But running just ain't good enough."
+      ],
+      "scene_length_chars": 2109,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.2866688668727875,
+        0.0025154261384159327,
+        0.45896849036216736,
+        0.24406659603118896,
+        0.003097634529694915,
+        0.10334713011980057,
+        0.06937859207391739,
+        0.2678380608558655,
+        0.003497774014249444,
+        0.09721893817186356,
+        0.415515273809433,
+        0.04549209401011467,
+        0.05449919030070305,
+        0.0035873744636774063,
+        0.005780898500233889,
+        0.00963430106639862,
+        0.003576109418645501,
+        0.002139165997505188,
+        0.004763427190482616,
+        0.004762332420796156,
+        0.08442842960357666,
+        0.0013993242755532265,
+        0.013017338700592518,
+        0.002322011860087514,
+        0.0054633342660963535,
+        0.0027125540655106306,
+        0.023162178695201874,
+        0.005465798079967499
+      ],
+      "goemotions_topk": [
+        "anger",
+        "disapproval",
+        "admiration"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "disapproval"
+      ]
+    },
+    {
+      "scene_id": 41,
+      "heading": "[MITCH LAUGHING]",
+      "raw_text": "Fuck him. Fuck him. Fuck him. Let the niggers have him. Yo, what's up, D? Yo, what's all that bullshit you pulled in the mess hall, man? Are you out of your fucking mind? Are you fucking crazy? D! Look at me, man! You can't make it on your own. Look, I'm not afraid of those fucking pussies, Ok? There was 6 of them and they jumped me. It's not gonna happen again. I hope they fucking try. Look, I'm not talking about your peckerwood friends! They were protecting your stupid ass! You dissed them in public. Now you're on your fucking own! Man, I'm talking about the brothers, all right? They're gonna fuck you, toss your salad, then smoke your motherfucking ass! Tell me something I don't already know. You think I haven't thought about that? They're gonna come for me and there's nothing I can do. What can I do, man? DEREK: So I was right back where I started. Every day, I was sure it was my day. Every time I stepped out of my cell. Every time I got in that shower. I figured it was only a matter of time before they made a move. I just hoped that it'd be quick. But it never came. I couldn't figure it out because I knew some of them were itching for it. But after a while, I just put my head down and read the stuff that Sweeney sent me and I kept to myself. The last 6 months in that place, I was like a ghost. What's up, man? You getting out? Come on, man. What the fuck you waiting on? Get the fuck on out of here, man. Yeah, you know, I got this funny feeling. Oh, yeah? What's that? I'm thinking maybe the only reason I'm getting out of here in one piece is you. Come on, man. Get the fuck out of here, man! You think I'm gonna put my neck on the line for a crazy-ass peckerwood? Yeah. Right. Stupid. That's what I thought. I owe you, man. Man, you don't owe me shit, all right? Yes, I do. You'll be out of here in no time. Come on, man. It's a piece of cake, man. All right? You just take it easy on the brothers, all right? The brothers! God, man. I'm sorry, Der. Sorry that happened to you. No, I'm not. I'm lucky. I feel lucky because it's wrong, Dan. It's wrong and it was eating me up. It was gonna kill me. And I kept asking myself all the time how did I buy into this shit, you know? And it's just because I was pissed off. And nothing I ever did ever took that feeling away. I mean, I killed two guys, Danny. I killed them. And that didn't make me feel any different. It just got me more lost. And I'm tired of feeling pissed off, Danny. I'm just tired of it. And I'm not telling you what to do. I'm really not. But I need you to understand. Because I love you and you're my best friend. Do you understand? Yeah, I understand. All right. Whoo! Jesus.\n[BOTH LAUGHING]",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Fuck him. Fuck him. Fuck him. Let the niggers have him. Yo, what's up, D? Yo, what's all that bullshit you pulled in the mess hall, man? Are you out of your fucking mind? Are you fucking crazy? D! Look at me, man! You can't make it on your own. Look, I'm not afraid of those fucking pussies, Ok? There was 6 of them and they jumped me. It's not gonna happen again. I hope they fucking try. Look, I'm not talking about your peckerwood friends! They were protecting your stupid ass! You dissed them in public. Now you're on your fucking own! Man, I'm talking about the brothers, all right? They're gonna fuck you, toss your salad, then smoke your motherfucking ass! Tell me something I don't already know. You think I haven't thought about that? They're gonna come for me and there's nothing I can do. What can I do, man? DEREK: So I was right back where I started. Every day, I was sure it was my day. Every time I stepped out of my cell. Every time I got in that shower. I figured it was only a matter of time before they made a move. I just hoped that it'd be quick. But it never came. I couldn't figure it out because I knew some of them were itching for it. But after a while, I just put my head down and read the stuff that Sweeney sent me and I kept to myself. The last 6 months in that place, I was like a ghost. What's up, man? You getting out? Come on, man. What the fuck you waiting on? Get the fuck on out of here, man. Yeah, you know, I got this funny feeling. Oh, yeah? What's that? I'm thinking maybe the only reason I'm getting out of here in one piece is you. Come on, man. Get the fuck out of here, man! You think I'm gonna put my neck on the line for a crazy-ass peckerwood? Yeah. Right. Stupid. That's what I thought. I owe you, man. Man, you don't owe me shit, all right? Yes, I do. You'll be out of here in no time. Come on, man. It's a piece of cake, man. All right? You just take it easy on the brothers, all right? The brothers! God, man. I'm sorry, Der. Sorry that happened to you. No, I'm not. I'm lucky. I feel lucky because it's wrong, Dan. It's wrong and it was eating me up. It was gonna kill me. And I kept asking myself all the time how did I buy into this shit, you know? And it's just because I was pissed off. And nothing I ever did ever took that feeling away. I mean, I killed two guys, Danny. I killed them. And that didn't make me feel any different. It just got me more lost. And I'm tired of feeling pissed off, Danny. I'm just tired of it. And I'm not telling you what to do. I'm really not. But I need you to understand. Because I love you and you're my best friend. Do you understand? Yeah, I understand. All right. Whoo! Jesus."
+      ],
+      "scene_length_chars": 2687,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.004962700419127941,
+        0.25203877687454224,
+        0.6591004133224487,
+        0.38144466280937195,
+        0.0027928370982408524,
+        0.015742575749754906,
+        0.008414749056100845,
+        0.0670587420463562,
+        0.029911642894148827,
+        0.040068697184324265,
+        0.0072137643583118916,
+        0.06928249448537827,
+        0.011942570097744465,
+        0.006081291940063238,
+        0.01737215369939804,
+        0.012270939536392689,
+        0.01276417076587677,
+        0.008982356637716293,
+        0.03318924829363823,
+        0.006940243300050497,
+        0.2932036221027374,
+        0.004584056790918112,
+        0.009604847989976406,
+        0.0019709637854248285,
+        0.020297789946198463,
+        0.03316542133688927,
+        0.0065259612165391445,
+        0.002549775643274188
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "optimism"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 43,
+      "heading": "[DORlS COUGHS]",
+      "raw_text": "Hey. Hi. Everything okay? DEREK: No, everything's great. Great. Yeah. You wanna sleep in our room? No, thank you. This is good. I'm fine. You sure? Thank you. All right. Come on, let's go. Good night. I'm gonna take a shower, all right? DANNY: It's hard to look back and see the truth about people you love. I think if you asked Derek why it all went the way it did, and where it all started he'd still say it started when our father was murdered. But the truth is, it started earlier. All right. Are we all meeting together for the game tonight? Yes, definitely. Ben's Burgers, 7:00, then we go watch the big guy play. DORIS: Okay. Yeah. Psyching up for the game? Yeah, I'm always ready for that. I got an English exam 3rd period. I'm having a heart attack. I'm not ready. What's the matter, afraid you're gonna get a B? Might do you good. B minus. Don't laugh. I'm tiring. This guy is different. Dr. Sweeney! This guy's unbelievable. I've never had a teacher like this. He's got two Ph.D.s. I don't know what he's doing teaching at our school. He's not like other teachers. What's he got you reading? We got this essay exam on this book, Native Son. All on this one book. Native Son. What's that? I don't know that. DORIS: That's a big surprise. What? I read. Honey, they don't teach Tom Clancy at school. Well, they don't. So, what is it? What is this Native Son? What is it? It's like this book about this black guy, you know We're doing this whole black literature unit. What is it, Black History Month? No, it's just like.... This guy Sweeney, you know, it's part of the course now. Yeah. What? Nothing. It's just, you know. It's everywhere I look now. What? This affirmative blaction. Honey, a few new books doesn't qualify as affirmative black action. Read the book, ace the guy's test. Just don't swallow everything he feeds you whole. You know, just because you see it on the evening news. I know but like what? All this stuff about making everything equal. It's not that simple. Look, now you got this book, Native Son. What happened to the other books in the course? They're not any good anymore because Mr. Two-Ph.D.s says they aren't? Are you gonna trade in great books for black books? Does that make sense? You gotta question these things, Derek. You gotta look at the whole picture. We're talking about books here. But I'm also talking about my job. I got two black guys on my squad now who got their job over a couple of white guys who actually scored higher on the test. That make sense? Yeah sure, everything's equal now but I got two guys watching my back, responsible for my life who aren't as good as two others. They only got the job because they were black. Not because they were the best. That sucks. DENNlS: Yeah. Is that what America is about? No. America's about \"best man for the job.\" You do your best, you get the job. You know, this affirmative action crap.... I don't know what that's about. It is like some hidden agenda or something going on. You see what I'm saying? Yeah, I do. I don't know, I didn't think about it like that. Well.... This guy, though.... I don't know. Dr. Sweeney, he comes on, like, so strong it's kind of hard not to listen to him. But... I don't know, maybe some of what he says is kind of... It's bullshit. Yeah. Yeah, maybe. No, no. It's nigger bullshit. You see that, don't you? Yeah. You gotta watch out for that. Yeah, I get what you're saying. l will. Good boy. I'm proud of you. Don't worry about it. DANNY: It's 5:40 a.m. and in about one minute, I'm gonna watch the sun come up. I don't know if I've ever done that. Anyway, we're gonna try to pick things up and start over. lt won't be easy but we're all together again. And I feel good. I'm not sure if this paper is what you wanted. If I hit the social significance, or whatever you're looking for. But, for what it's worth, thanks a lot. Wow. You look great. Look at you. Yeah. Gotta dress up for the parole officer. Is she cute? She is a fat guy named Hector. So I'm out of luck. Ma, I just gotta check in, then I'm gonna see about getting my old job back. Great. Good morning. DORIS: Yes, my love. Davina, can you? Your sister's gonna help you, honey. DAVINA: You look great. Knock them dead. Thanks. DAVINA: What would you like to wear? ALLY: I wanna wear my blue dress today. You do look good. Yeah? I feel silly. You look good. DEREK: Yeah? You feel good? Yeah. Yeah. I feel, you know... ...a little.... I'm getting there. I'm getting there. Listen, I don't know.... I don't know if it's okay that I'm here. I wanna be here.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hey. Hi. Everything okay? DEREK: No, everything's great. Great. Yeah. You wanna sleep in our room? No, thank you. This is good. I'm fine. You sure? Thank you. All right. Come on, let's go. Good night. I'm gonna take a shower, all right? DANNY: It's hard to look back and see the truth about people you love. I think if you asked Derek why it all went the way it did, and where it all started he'd still say it started when our father was murdered. But the truth is, it started earlier. All right. Are we all meeting together for the game tonight? Yes, definitely. Ben's Burgers, 7:00, then we go watch the big guy play. DORIS: Okay. Yeah. Psyching up for the game? Yeah, I'm always ready for that. I got an English exam 3rd period. I'm having a heart attack. I'm not ready. What's the matter, afraid you're gonna get a B? Might do you good. B minus. Don't laugh. I'm tiring. This guy is different. Dr. Sweeney! This guy's unbelievable. I've never had a teacher like this. He's got two Ph.D.s. I don't know what he's doing teaching at our school. He's not like other teachers. What's he got you reading? We got this essay exam on this book, Native Son. All on this one book. Native Son. What's that? I don't know that. DORIS: That's a big surprise. What? I read. Honey, they don't teach Tom Clancy at school. Well, they don't. So, what is it? What is this Native Son? What is it? It's like this book about this black guy, you know We're doing this whole black literature unit. What is it, Black History Month? No, it's just like.... This guy Sweeney, you know, it's part of the course now. Yeah. What? Nothing. It's just, you know. It's everywhere I look now. What? This affirmative blaction. Honey, a few new books doesn't qualify as affirmative black action. Read the book, ace the guy's test. Just don't swallow everything he feeds you whole. You know, just because you see it on the evening news. I know but like what? All this stuff about making everything equal. It's not that simple. Look, now you got this book, Native Son. What happened to the other books in the course? They're not any good anymore because Mr. Two-Ph.D.s says they aren't? Are you gonna trade in great books for black books? Does that make sense? You gotta question these things, Derek. You gotta look at the whole picture. We're talking about books here. But I'm also talking about my job. I got two black guys on my squad now who got their job over a couple of white guys who actually scored higher on the test. That make sense? Yeah sure, everything's equal now but I got two guys watching my back, responsible for my life who aren't as good as two others. They only got the job because they were black. Not because they were the best. That sucks. DENNlS: Yeah. Is that what America is about? No. America's about \"best man for the job.\" You do your best, you get the job. You know, this affirmative action crap.... I don't know what that's about. It is like some hidden agenda or something going on. You see what I'm saying? Yeah, I do. I don't know, I didn't think about it like that. Well.... This guy, though.... I don't know. Dr. Sweeney, he comes on, like, so strong it's kind of hard not to listen to him. But... I don't know, maybe some of what he says is kind of... It's bullshit. Yeah. Yeah, maybe. No, no. It's nigger bullshit. You see that, don't you? Yeah. You gotta watch out for that. Yeah, I get what you're saying. l will. Good boy. I'm proud of you. Don't worry about it. DANNY: It's 5:40 a.m. and in about one minute, I'm gonna watch the sun come up. I don't know if I've ever done that. Anyway, we're gonna try to pick things up and start over. lt won't be easy but we're all together again. And I feel good. I'm not sure if this paper is what you wanted. If I hit the social significance, or whatever you're looking for. But, for what it's worth, thanks a lot. Wow. You look great. Look at you. Yeah. Gotta dress up for the parole officer. Is she cute? She is a fat guy named Hector. So I'm out of luck. Ma, I just gotta check in, then I'm gonna see about getting my old job back. Great. Good morning. DORIS: Yes, my love. Davina, can you? Your sister's gonna help you, honey. DAVINA: You look great. Knock them dead. Thanks. DAVINA: What would you like to wear? ALLY: I wanna wear my blue dress today. You do look good. Yeah? I feel silly. You look good. DEREK: Yeah? You feel good? Yeah. Yeah. I feel, you know... ...a little.... I'm getting there. I'm getting there. Listen, I don't know.... I don't know if it's okay that I'm here. I wanna be here."
+      ],
+      "scene_length_chars": 4551,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.32778242230415344,
+        0.0015171724371612072,
+        0.021065568551421165,
+        0.06267057359218597,
+        0.14411234855651855,
+        0.03901861235499382,
+        0.13218779861927032,
+        0.28436794877052307,
+        0.012937895022332668,
+        0.011792585253715515,
+        0.033194247633218765,
+        0.007379746530205011,
+        0.003177002305164933,
+        0.025781987234950066,
+        0.015585142187774181,
+        0.3386927545070648,
+        0.0048850649036467075,
+        0.0038992511108517647,
+        0.003992804791778326,
+        0.002670561196282506,
+        0.18088066577911377,
+        0.15278472006320953,
+        0.03168133646249771,
+        0.022543227300047874,
+        0.008298534899950027,
+        0.002084827283397317,
+        0.17278796434402466,
+        0.03863212466239929
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 44,
+      "heading": "[CAR TIRES SCREECHING]",
+      "raw_text": "I'm gonna get a paper. Cool. What do you want? A maple bar and a large miIk. All right, I got it. Let me get a coffee, a maple bar and a large miIk to go. WAITER: Right away. RASMUSSEN: Hey, Derek. Hey. Derek. We need to talk. What's going on? Cameron Alexander and Seth Ryan are at the lCU at St. John's. They were jumped last night near Ben's Burgur. How bad? Well, it looks like they're gonna live. Then they got lucky. Somebody's gotta lose, though. Aw, what? We were kind of hoping that maybe you'd talk to your old crew. Come on. No way. RASMUSSEN: This is not a good thing. If there's anybody they're gonna listen to, it's you. No. No, l hate to tell you but I'm out. Okay? Those guys are probably gunning for me now. Look, we're asking for your help here, Derek. Did you tell him I was gonna do this? Derek. Come on! This has got nothing to do with me anymore. Yes, it does. It has everything to do with you. What are you doing to me? I mean, you know, I'm doing my best. I'm going like this to just keep my family in the clear. I know. Don't ask me to fix this whole fucking situation. I'm not asking that. It was there before me. You helped create it. You wanna take a break? Now? You take a break, you'll find no peace. The way to find peace is to stick. It's not gonna make a fucking bit of difference. It might. Not a bit. It might. Do you know what you're asking me to do? Do you really know? Yes. I'm asking you to do whatever is in your power to do.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I'm gonna get a paper. Cool. What do you want? A maple bar and a large miIk. All right, I got it. Let me get a coffee, a maple bar and a large miIk to go. WAITER: Right away. RASMUSSEN: Hey, Derek. Hey. Derek. We need to talk. What's going on? Cameron Alexander and Seth Ryan are at the lCU at St. John's. They were jumped last night near Ben's Burgur. How bad? Well, it looks like they're gonna live. Then they got lucky. Somebody's gotta lose, though. Aw, what? We were kind of hoping that maybe you'd talk to your old crew. Come on. No way. RASMUSSEN: This is not a good thing. If there's anybody they're gonna listen to, it's you. No. No, l hate to tell you but I'm out. Okay? Those guys are probably gunning for me now. Look, we're asking for your help here, Derek. Did you tell him I was gonna do this? Derek. Come on! This has got nothing to do with me anymore. Yes, it does. It has everything to do with you. What are you doing to me? I mean, you know, I'm doing my best. I'm going like this to just keep my family in the clear. I know. Don't ask me to fix this whole fucking situation. I'm not asking that. It was there before me. You helped create it. You wanna take a break? Now? You take a break, you'll find no peace. The way to find peace is to stick. It's not gonna make a fucking bit of difference. It might. Not a bit. It might. Do you know what you're asking me to do? Do you really know? Yes. I'm asking you to do whatever is in your power to do."
+      ],
+      "scene_length_chars": 1465,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.002730110427364707,
+        0.0008700854377821088,
+        0.43623048067092896,
+        0.19903284311294556,
+        0.0025863333139568567,
+        0.19129030406475067,
+        0.010236113332211971,
+        0.5118286609649658,
+        0.01563960872590542,
+        0.009491434320807457,
+        0.04561219736933708,
+        0.003240106627345085,
+        0.0008070375770330429,
+        0.004379958380013704,
+        0.005412222817540169,
+        0.0020435843616724014,
+        0.002097668591886759,
+        0.0006537684239447117,
+        0.0015086210332810879,
+        0.0013666092418134212,
+        0.06064067780971527,
+        0.0007272388320416212,
+        0.010387471877038479,
+        0.0007030952838249505,
+        0.0016654487699270248,
+        0.0018113356782123446,
+        0.007198904640972614,
+        0.014880180358886719
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "anger",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 45,
+      "heading": "[SIGHS]",
+      "raw_text": "Man. Fuck. All right. You're gonna get me shot by a bunch of white boys. I doubt it. Yeah, well. We're all gonna have a laugh at that, let me tell you. A ll right. I'm gonna take him to school. I'll be back in half an hour. Come on. SWEENEY: Hey, you. You got something good for me this morning? I'll give it to you, Dr. Sweeney. All right? Yeah, okay. DANNY: What's going on? Come on. This is so bad for Seth, man. I wonder how bad they got fucked up. Yeah. I'm glad they're not dead but other than that, I don't care. Should we visit them? Visit them? No. No, definitely not. Definitely not. Just stay out of it. Listen, too I saw a car cruising by the house last night when I pulled out of there with Seth. If you get home before me, just give a look around the street, all right? Make sure there's nothing going on. Oh, man. This is bad. They're after you, man. It'll cool off. If I made it through Chino, you know, this should be a piece of cake, right? Are you gonna be okay? Yeah, yeah. Okay. What are you gonna do? I don't know. I'll work it out. Hey. Keep your head up, right? Things are gonna be fine. It's gonna be fine. Go turn that paper in. Okay. All right, see you. Hey, hey, Dan. I'll see you at home. All right? Yeah, I'll see you. Hey, good luck, all right? Yeah. See you later.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Man. Fuck. All right. You're gonna get me shot by a bunch of white boys. I doubt it. Yeah, well. We're all gonna have a laugh at that, let me tell you. A ll right. I'm gonna take him to school. I'll be back in half an hour. Come on. SWEENEY: Hey, you. You got something good for me this morning? I'll give it to you, Dr. Sweeney. All right? Yeah, okay. DANNY: What's going on? Come on. This is so bad for Seth, man. I wonder how bad they got fucked up. Yeah. I'm glad they're not dead but other than that, I don't care. Should we visit them? Visit them? No. No, definitely not. Definitely not. Just stay out of it. Listen, too I saw a car cruising by the house last night when I pulled out of there with Seth. If you get home before me, just give a look around the street, all right? Make sure there's nothing going on. Oh, man. This is bad. They're after you, man. It'll cool off. If I made it through Chino, you know, this should be a piece of cake, right? Are you gonna be okay? Yeah, yeah. Okay. What are you gonna do? I don't know. I'll work it out. Hey. Keep your head up, right? Things are gonna be fine. It's gonna be fine. Go turn that paper in. Okay. All right, see you. Hey, hey, Dan. I'll see you at home. All right? Yeah, I'll see you. Hey, good luck, all right? Yeah. See you later."
+      ],
+      "scene_length_chars": 1296,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.008187003433704376,
+        0.017761388793587685,
+        0.05010398477315903,
+        0.18747489154338837,
+        0.06230510026216507,
+        0.47980237007141113,
+        0.002988138934597373,
+        0.17591166496276855,
+        0.015446927398443222,
+        0.0050843823701143265,
+        0.0028764514718204737,
+        0.01769959181547165,
+        0.0011297528399154544,
+        0.005248085595667362,
+        0.00742116617038846,
+        0.0027294594328850508,
+        0.003496586112305522,
+        0.009124191477894783,
+        0.0011129145277664065,
+        0.003079453483223915,
+        0.7049969434738159,
+        0.0027630815748125315,
+        0.006513867527246475,
+        0.013483138754963875,
+        0.0011786685790866613,
+        0.0031651800964027643,
+        0.005439263768494129,
+        0.01847430132329464
+      ],
+      "goemotions_topk": [
+        "optimism",
+        "caring",
+        "annoyance"
+      ],
+      "goemotions_label": "optimism",
+      "goemotions_labels": [
+        "caring",
+        "optimism"
+      ]
+    },
+    {
+      "scene_id": 46,
+      "heading": "[BELL RINGING]",
+      "raw_text": "We're gonna be late. DANNY: We'd better go. Okay. All right. Come on. Fine. All right. I'll catch up with you, all right? See you later. Derek, no! Get out of my way! All right. All right. Get out of my way! Let him go! Oh, no. No! No! Oh, Jesus. No. Oh, no, no. No. Oh, Jesus. God, what did I do? Oh, God. DANNY: So I guess this is where I tell you what I learned. My conclusion, right? Well, my conclusion is hate is baggage. Life's too short to be pissed off all the time. It's just not worth it. Derek says it's always good to end a paper with a quote. He says someone else has already said it best so if you can't top it, steal from them and go out strong. So I picked a guy I thought you'd like: \"We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory will swell when again touched as surely they will be by the better angels of our nature.\"",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We're gonna be late. DANNY: We'd better go. Okay. All right. Come on. Fine. All right. I'll catch up with you, all right? See you later. Derek, no! Get out of my way! All right. All right. Get out of my way! Let him go! Oh, no. No! No! Oh, Jesus. No. Oh, no, no. No. Oh, Jesus. God, what did I do? Oh, God. DANNY: So I guess this is where I tell you what I learned. My conclusion, right? Well, my conclusion is hate is baggage. Life's too short to be pissed off all the time. It's just not worth it. Derek says it's always good to end a paper with a quote. He says someone else has already said it best so if you can't top it, steal from them and go out strong. So I picked a guy I thought you'd like: \"We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory will swell when again touched as surely they will be by the better angels of our nature.\""
+      ],
+      "scene_length_chars": 953,
+      "split_method": "headings_or_brackets",
+      "goemotions_probs": [
+        0.06740075349807739,
+        0.00020851835142821074,
+        0.03923305124044418,
+        0.007817688398063183,
+        0.009532945230603218,
+        0.10444977879524231,
+        0.003941548056900501,
+        0.26179268956184387,
+        0.008951792493462563,
+        0.004883432295173407,
+        0.02929375320672989,
+        0.0023236635606735945,
+        0.009768263436853886,
+        0.03185820206999779,
+        0.014898919500410557,
+        0.04795517027378082,
+        0.00613408861681819,
+        0.0014750787522643805,
+        0.00360031146556139,
+        0.003079858375713229,
+        0.055256135761737823,
+        0.019109874963760376,
+        0.10066984593868256,
+        0.008486365899443626,
+        0.005223041865974665,
+        0.0005513037904165685,
+        0.02065080590546131,
+        0.5213537812232971
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "caring"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "headings_or_brackets",
+    "final_num_scenes": 39,
+    "lines_per_scene_fallback": 20
+  }
+}

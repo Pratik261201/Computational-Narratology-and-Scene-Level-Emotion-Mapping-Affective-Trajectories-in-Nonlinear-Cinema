@@ -1,0 +1,274 @@
+{
+  "source_file": "Hot Fuzz _2007_ - full transcript.txt",
+  "title": "Hot Fuzz",
+  "year": "2007",
+  "meta_description": null,
+  "num_scenes": 5,
+  "avg_scene_chars": 2103,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Police Constable Nicholas Angel. Born and schooled in London. Graduated Canterbury University in 1993 with a double first in politics and sociology. Attended Hendon College of Police Training. Displayed great aptitude in field exercises. Notably, urban pacification and riot control. Back off! Academically excelled in theoretical course work and final year examinations. Received the Baton of Honour. Graduated with distinction into the Metropolitan Police Service. Quickly established an effectiveness and popularity within the community. Use your brain. Proceeded to improve skill base with courses in advanced driving and advanced cycling. Became heavily involved in a number of extra vocational activities. To this day holds the Met record for the 100 metre dash. In 2001 began active duty with the renowned SO 19 armed response unit. Received a bravery award for efforts in the resolution of Operation Crackdown. In the last 12 months has received nine special commendations. Achieved the highest arrest record for any officer in the Met. And sustained three injuries in the line of duty. Most recently in December when wounded by a man dressed as Father Christmas. - Hello, Nicholas. - Hello, Sergeant. - How's the hand? - Still a bit stiff. It can get awfully hairy out there. I'm surprised you weren't snapped up sooner for a nice desk job. That's what I did. I prefer to think my office is out on the street. Indeed, you do. Your arrest record is 400% higher than any other officer. Which is why it's high time that such skills were put to better use. - We're making you Sergeant. - I see. In Sandford, Gloucestershire. - In where, sorry? - In Sandford, Gloucestershire. - That's in the country. - Yes, lovely. Isn't there a Sergeant's position here in London? No. - Can I remain here as a PC? - No. - Do I have any choice in this? - No. Sergeant, I kind of like it here. Well, you've always wanted to transfer to the country. - In 20 years or so, yes. - Well done, you. Hang on, I don't remember telling you that. Yes, you did. You said, \"I'd love to settle down in the country sometime, Janine.\" I'd like to talk to the Inspector. You can speak to the Inspector, but I can promise you he will tell you exactly the same thing as I have. - Hello, Nicholas.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Police Constable Nicholas Angel. Born and schooled in London. Graduated Canterbury University in 1993 with a double first in politics and sociology. Attended Hendon College of Police Training. Displayed great aptitude in field exercises. Notably, urban pacification and riot control. Back off! Academically excelled in theoretical course work and final year examinations. Received the Baton of Honour. Graduated with distinction into the Metropolitan Police Service. Quickly established an effectiveness and popularity within the community. Use your brain. Proceeded to improve skill base with courses in advanced driving and advanced cycling. Became heavily involved in a number of extra vocational activities. To this day holds the Met record for the 100 metre dash. In 2001 began active duty with the renowned SO 19 armed response unit. Received a bravery award for efforts in the resolution of Operation Crackdown. In the last 12 months has received nine special commendations. Achieved the highest arrest record for any officer in the Met. And sustained three injuries in the line of duty. Most recently in December when wounded by a man dressed as Father Christmas. - Hello, Nicholas. - Hello, Sergeant. - How's the hand? - Still a bit stiff. It can get awfully hairy out there. I'm surprised you weren't snapped up sooner for a nice desk job. That's what I did. I prefer to think my office is out on the street. Indeed, you do. Your arrest record is 400% higher than any other officer. Which is why it's high time that such skills were put to better use. - We're making you Sergeant. - I see. In Sandford, Gloucestershire. - In where, sorry? - In Sandford, Gloucestershire. - That's in the country. - Yes, lovely. Isn't there a Sergeant's position here in London? No. - Can I remain here as a PC? - No. - Do I have any choice in this? - No. Sergeant, I kind of like it here. Well, you've always wanted to transfer to the country. - In 20 years or so, yes. - Well done, you. Hang on, I don't remember telling you that. Yes, you did. You said, \"I'd love to settle down in the country sometime, Janine.\" I'd like to talk to the Inspector. You can speak to the Inspector, but I can promise you he will tell you exactly the same thing as I have. - Hello, Nicholas."
+      ],
+      "scene_length_chars": 2266,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.6273755431175232,
+        0.002864426700398326,
+        0.017827557399868965,
+        0.0020057102665305138,
+        0.2235647588968277,
+        0.0481361448764801,
+        0.029886692762374878,
+        0.02175290323793888,
+        0.011137078516185284,
+        0.00682078255340457,
+        0.0024127434007823467,
+        0.002177552320063114,
+        0.008586053736507893,
+        0.011532084085047245,
+        0.005904873367398977,
+        0.008985046297311783,
+        0.006689456757158041,
+        0.003076638327911496,
+        0.24412794411182404,
+        0.0035825585946440697,
+        0.03576013073325157,
+        0.21804706752300262,
+        0.32197606563568115,
+        0.005079020746052265,
+        0.004496419336646795,
+        0.007363730575889349,
+        0.32542064785957336,
+        0.44833627343177795
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "neutral",
+        "surprise"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "How's the hand? - It's still a bit stiff. - And how are things at home? - I'm sorry, sir? How's Janine? We're no longer together, sir. - Right. Then where are you living? - He's staying at the Section House, sir. - With the recruits? - Yes, he's living out of cardboard boxes. Well, then, you're packed already. Nicholas, we're offering you a smashing position with a delightful cottage, in a lovely little place that I think has won Village of the Year I don't know how many times. It'll be good for you. - I don't really know what to say. - Yes? Yes, thank you. No, I'm sorry. I'm gonna have to... - You want to take this higher? - Yes, yes, I do. You want me to bother the Chief Inspector with this? Yes. You want me to get the Chief Inspector to come all the way down here? - Yes, I do. - Okay. Kenneth! - Hello, Nicholas. How's the hand? - Still a bit stiff. - Chief Inspector... - Keep your seat. Now, I know what you're going to say, but the fact is, you've been making us all look bad. I'm sorry, sir? Of course we all appreciate your efforts, but you've been rather letting the side down. It's all about being a team player, Nicholas. You can't be the Sheriff of London. If we let you carry on running round town, you'll continue to be exceptional and we can't have that. You'll put us all out of a job. With respect, sir. - You can't just make people disappear. - Yes, I can. I'm the Chief Inspector. Well, however you spin this, there's one thing you haven't taken into account. And that's what the \"team\" is gonna make of this. - Hello? - Janine, it's me. I know. I'm at work. I know, I'm outside. What's the situation? You know the situation. We've been over this. No, I... I meant here. Two people involved, distinct signs of a struggle. Complete mess. - You are talking about here? - Nicholas, what do you want? Well, I have something important to tell you and I didn't wanna do it over the phone. Janine, I've been transferred. I'm moving away for a while. I'm not Janine. Janine, I've been transferred. I'm moving away for a while. I know. Bob told me. Hello, there. Well, I wanted to tell you in person. And there's no reason we can't be civil with each other. It's not that long ago we were talking about getting married. Yes, but you were already married to the force, weren't you?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How's the hand? - It's still a bit stiff. - And how are things at home? - I'm sorry, sir? How's Janine? We're no longer together, sir. - Right. Then where are you living? - He's staying at the Section House, sir. - With the recruits? - Yes, he's living out of cardboard boxes. Well, then, you're packed already. Nicholas, we're offering you a smashing position with a delightful cottage, in a lovely little place that I think has won Village of the Year I don't know how many times. It'll be good for you. - I don't really know what to say. - Yes? Yes, thank you. No, I'm sorry. I'm gonna have to... - You want to take this higher? - Yes, yes, I do. You want me to bother the Chief Inspector with this? Yes. You want me to get the Chief Inspector to come all the way down here? - Yes, I do. - Okay. Kenneth! - Hello, Nicholas. How's the hand? - Still a bit stiff. - Chief Inspector... - Keep your seat. Now, I know what you're going to say, but the fact is, you've been making us all look bad. I'm sorry, sir? Of course we all appreciate your efforts, but you've been rather letting the side down. It's all about being a team player, Nicholas. You can't be the Sheriff of London. If we let you carry on running round town, you'll continue to be exceptional and we can't have that. You'll put us all out of a job. With respect, sir. - You can't just make people disappear. - Yes, I can. I'm the Chief Inspector. Well, however you spin this, there's one thing you haven't taken into account. And that's what the \"team\" is gonna make of this. - Hello? - Janine, it's me. I know. I'm at work. I know, I'm outside. What's the situation? You know the situation. We've been over this. No, I... I meant here. Two people involved, distinct signs of a struggle. Complete mess. - You are talking about here? - Nicholas, what do you want? Well, I have something important to tell you and I didn't wanna do it over the phone. Janine, I've been transferred. I'm moving away for a while. I'm not Janine. Janine, I've been transferred. I'm moving away for a while. I know. Bob told me. Hello, there. Well, I wanted to tell you in person. And there's no reason we can't be civil with each other. It's not that long ago we were talking about getting married. Yes, but you were already married to the force, weren't you?"
+      ],
+      "scene_length_chars": 2301,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008043566718697548,
+        0.0008086955640465021,
+        0.00871750432997942,
+        0.004000042099505663,
+        0.010873756371438503,
+        0.07634811848402023,
+        0.008685828186571598,
+        0.51181560754776,
+        0.007272731978446245,
+        0.004959252197295427,
+        0.0017976512899622321,
+        0.0006011550431139767,
+        0.003294171066954732,
+        0.0059198313392698765,
+        0.0015715885674580932,
+        0.018845099955797195,
+        0.005371146369725466,
+        0.0005097138928249478,
+        0.0007121958769857883,
+        0.0011655316920951009,
+        0.0019430634565651417,
+        0.0037377371918410063,
+        0.009674168191850185,
+        0.00216961489059031,
+        0.08667068928480148,
+        0.010889355093240738,
+        0.0011475366773083806,
+        0.5434544682502747
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "curiosity",
+        "remorse"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "We're actually supposed to call it \"the service\" now. Official vocab guidelines state that \"force\" is too aggressive. See. It's only ever about the job. - It's all you care about. - That's not true. No, you're right, you do have that rubber plant. - It's a Japanese Peace Lily. - You just can't switch off, Nicholas. And until you find a person you care about more than your job, you never will. Besides, you were the one who suggested we take a break. Yes, well, guilty people often make the first move. Actually, there's something I need to tell you. - You're seeing someone else. - Yes. How did you... - Is it Bob? - No. Does Bob look like the kind of person I'd go out with? It's Dave. Hello, there. I see. Oh, Nicholas. You do realise that window was broken from the inside? Hello there, Nicholas, Frank Butterman here, your new Inspector. I'm just calling with details of your accommodation. We've got you a lovely little cottage on Spencer Hill. Look forward to meeting you anon. Cheerio. Nicholas, Frank again. One other thing about your cottage. It's not ready. It would appear the heavens have opened. - I was hoping to check in. - Check in? But you've always been here. - Excuse me? - Oh, I'm sorry. I thought you were my husband. - You must be Sergeant Angel. - Yes, I am. I'm Joyce Cooper. I trust you had a pleasant trip. Fascist. I beg your pardon? \"System of Government characterised by extreme dictatorship.\" Seven across. - Oh, I see. It's \"fascism.\" - Fascism. Wonderful. Now, we've put you in the Castle Suite. Bernard will escort you up there. Well, actually, I could probably make my own way up. Hag. I beg your pardon? \"Evil old woman considered frightful or ugly.\" It's 12 down. Oh, bless you. - Pint of lager, please, Mary. Right you are, my love. Yes, sir, what can I get you? Could I have a glass of the cranberry juice, please? Certainly. Now, you wouldn't, by any chance, be the new policeman? Police officer, yes. I'm Nicholas Angel. - I'm Roy Porter. This is my wife Mary. - Mary. Welcome to Sandford. If there's anything you need, just let us know. Thank you. Could I borrow your newspaper? It's not ours, love. We're not big fans of the local fish wrapper, are we, Mare? - They listed her age as 55. - When I'm actually 53. Fifty-three. - Pint of lager, please, Mary.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We're actually supposed to call it \"the service\" now. Official vocab guidelines state that \"force\" is too aggressive. See. It's only ever about the job. - It's all you care about. - That's not true. No, you're right, you do have that rubber plant. - It's a Japanese Peace Lily. - You just can't switch off, Nicholas. And until you find a person you care about more than your job, you never will. Besides, you were the one who suggested we take a break. Yes, well, guilty people often make the first move. Actually, there's something I need to tell you. - You're seeing someone else. - Yes. How did you... - Is it Bob? - No. Does Bob look like the kind of person I'd go out with? It's Dave. Hello, there. I see. Oh, Nicholas. You do realise that window was broken from the inside? Hello there, Nicholas, Frank Butterman here, your new Inspector. I'm just calling with details of your accommodation. We've got you a lovely little cottage on Spencer Hill. Look forward to meeting you anon. Cheerio. Nicholas, Frank again. One other thing about your cottage. It's not ready. It would appear the heavens have opened. - I was hoping to check in. - Check in? But you've always been here. - Excuse me? - Oh, I'm sorry. I thought you were my husband. - You must be Sergeant Angel. - Yes, I am. I'm Joyce Cooper. I trust you had a pleasant trip. Fascist. I beg your pardon? \"System of Government characterised by extreme dictatorship.\" Seven across. - Oh, I see. It's \"fascism.\" - Fascism. Wonderful. Now, we've put you in the Castle Suite. Bernard will escort you up there. Well, actually, I could probably make my own way up. Hag. I beg your pardon? \"Evil old woman considered frightful or ugly.\" It's 12 down. Oh, bless you. - Pint of lager, please, Mary. Right you are, my love. Yes, sir, what can I get you? Could I have a glass of the cranberry juice, please? Certainly. Now, you wouldn't, by any chance, be the new policeman? Police officer, yes. I'm Nicholas Angel. - I'm Roy Porter. This is my wife Mary. - Mary. Welcome to Sandford. If there's anything you need, just let us know. Thank you. Could I borrow your newspaper? It's not ours, love. We're not big fans of the local fish wrapper, are we, Mare? - They listed her age as 55. - When I'm actually 53. Fifty-three. - Pint of lager, please, Mary."
+      ],
+      "scene_length_chars": 2300,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.28853338956832886,
+        0.0010037411702796817,
+        0.08475950360298157,
+        0.030352599918842316,
+        0.10237031430006027,
+        0.14813408255577087,
+        0.0063178217969834805,
+        0.2300640195608139,
+        0.13704842329025269,
+        0.0038822528440505266,
+        0.005470602307468653,
+        0.0005764074740000069,
+        0.001560172182507813,
+        0.0025939729530364275,
+        0.0027220379561185837,
+        0.3108755350112915,
+        0.0014254102716222405,
+        0.0006284692790359259,
+        0.00421610614284873,
+        0.0019661353435367346,
+        0.030684754252433777,
+        0.0015680590877309442,
+        0.026085728779435158,
+        0.0013563676038756967,
+        0.003598824143409729,
+        0.0022729423362761736,
+        0.0006231009610928595,
+        0.185275137424469
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "admiration",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "- Right you are, my love. - Excuse me. - What? - When's your birthday? - Twenty-second of February. - What year? - Every year. Get out. - When's your birthday? - Eighth of May, 1969. - You're 37? - Yeah. Get out. When's your birthday? Out. - Is there a problem, Officer? - Yes, there is, Mr Porter. It would appear a number of your patrons are under age. Well, a few of them may be a month or two south of proper. But if they're in here, it stops them getting into trouble out there. Yeah, the way we see it, it's all for the greater good. The greater good. Well, that's as may be, but the law's the law and they'll have to go. - Another cranberry juice? - I'm fine, thank you. I hope you're not planning on driving that. No. Right. I'm taking you to the station. Where is it? What? Move. \"Nicholas Angel.\" - Oh, when did you start? - Tomorrow. Well, I see you've already arrested the whole village. Not exactly. - You in for the night? - Go on, four's free. - Hey, now, I need to speak to him. - He'll be no use till the morning. I see. You really want to process all this lot? - My pen's running out. - Not a problem. - Morning, Sergeant. - Morning. Morning. Morning, Sergeant. Morning, Sergeant. - Lock me up. - I'm sorry? I'm a slasher and I must be stopped. - You're a what? - A slasher of prices. Just kidding. I'm Simon Skinner. I run the local supermarché. Drop in and see me sometime. My discounts are criminal. Catch me later! Morning, Sergeant. Morning, Sergeant. Could you tell the Inspector I've arrived, please? No. Why? He's not in yet. - Well, how's our guest? - Guest? - The inebriate in cell four. - I don't know. Nobody tells me nothing. Can I get cell four open, please? Danny, can you open four? - He's gone. - Oh, my God. Who's gone? - Why are you dressed like a police officer? - Because I am one. Sergeant Angel, at last. Frank Butterman. - I see you've already met my boy. - Yes. Do forgive me. I'm something of a Wild West nut. Speaking of which, that was a fair few outlaws you rounded up last night. Thank you, sir. I admire your enthusiasm and far be it from me to stifle your flair, but this isn't London. Oh, yes, please, Danny. With respect, sir, geographical location shouldn't factor in the application of the law. No, thanks. Statistically, Sandford is the safest village in the country.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Right you are, my love. - Excuse me. - What? - When's your birthday? - Twenty-second of February. - What year? - Every year. Get out. - When's your birthday? - Eighth of May, 1969. - You're 37? - Yeah. Get out. When's your birthday? Out. - Is there a problem, Officer? - Yes, there is, Mr Porter. It would appear a number of your patrons are under age. Well, a few of them may be a month or two south of proper. But if they're in here, it stops them getting into trouble out there. Yeah, the way we see it, it's all for the greater good. The greater good. Well, that's as may be, but the law's the law and they'll have to go. - Another cranberry juice? - I'm fine, thank you. I hope you're not planning on driving that. No. Right. I'm taking you to the station. Where is it? What? Move. \"Nicholas Angel.\" - Oh, when did you start? - Tomorrow. Well, I see you've already arrested the whole village. Not exactly. - You in for the night? - Go on, four's free. - Hey, now, I need to speak to him. - He'll be no use till the morning. I see. You really want to process all this lot? - My pen's running out. - Not a problem. - Morning, Sergeant. - Morning. Morning. Morning, Sergeant. Morning, Sergeant. - Lock me up. - I'm sorry? I'm a slasher and I must be stopped. - You're a what? - A slasher of prices. Just kidding. I'm Simon Skinner. I run the local supermarché. Drop in and see me sometime. My discounts are criminal. Catch me later! Morning, Sergeant. Morning, Sergeant. Could you tell the Inspector I've arrived, please? No. Why? He's not in yet. - Well, how's our guest? - Guest? - The inebriate in cell four. - I don't know. Nobody tells me nothing. Can I get cell four open, please? Danny, can you open four? - He's gone. - Oh, my God. Who's gone? - Why are you dressed like a police officer? - Because I am one. Sergeant Angel, at last. Frank Butterman. - I see you've already met my boy. - Yes. Do forgive me. I'm something of a Wild West nut. Speaking of which, that was a fair few outlaws you rounded up last night. Thank you, sir. I admire your enthusiasm and far be it from me to stifle your flair, but this isn't London. Oh, yes, please, Danny. With respect, sir, geographical location shouldn't factor in the application of the law. No, thanks. Statistically, Sandford is the safest village in the country."
+      ],
+      "scene_length_chars": 2322,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.057149942964315414,
+        0.01910501718521118,
+        0.0031311449129134417,
+        0.0036807721480727196,
+        0.033307675272226334,
+        0.1623314917087555,
+        0.04092025384306908,
+        0.7475955486297607,
+        0.016479089856147766,
+        0.0018011449137702584,
+        0.004024867434054613,
+        0.0009100557654164732,
+        0.004771821200847626,
+        0.005241282284259796,
+        0.0018924676114693284,
+        0.5673631429672241,
+        0.0025104305241256952,
+        0.0017382851801812649,
+        0.010755319148302078,
+        0.0010635718936100602,
+        0.2803405523300171,
+        0.002200283110141754,
+        0.007012430112808943,
+        0.004078022204339504,
+        0.0035967668518424034,
+        0.0028295349329710007,
+        0.027344726026058197,
+        0.02387250028550625
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "But that doesn't mean it requires anything less than a careful and considered approach. There's a reason we accommodate a few of the younglings at the pub. - The greater good? - The greater good. Precisely. Your predecessor assumed that rural policing was easy. Ended up having a nervous breakdown. And Sergeant Popwell was an exceptional officer, truly exceptional. And he had one thing you haven't got. - What's that, sir? - A great big bushy beard. Come on, let's have a mosey around. Locker room. Riot room. Evidence room. Now, how about a trip to the Andes? Detective Sergeant Wainwright and Detective Constable Cartwright. Don't get up. I expect you're wondering why we call them the Andes. - They're both called Andrew? - They said you were good. Also, because talking to them is an uphill struggle, isn't it, Dad? - Fuck off! - Thank you, Danny. Swear Box. All proceeds to the church roof. And this is where it all happens. That is Sergeant Tony Fisher. PC Bob Walker. And that is Saxon. And this is one Doris Thatcher. - She's our only policewoman. - She's not a policewoman. - Yeah, she is. I've seen her bra. - She's a police officer. Being a woman has nothing to do with it. Oh, I don't know. Comes in handy every so often. I could've given you the tour. I've been round the station a few times. And what's upstairs?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "But that doesn't mean it requires anything less than a careful and considered approach. There's a reason we accommodate a few of the younglings at the pub. - The greater good? - The greater good. Precisely. Your predecessor assumed that rural policing was easy. Ended up having a nervous breakdown. And Sergeant Popwell was an exceptional officer, truly exceptional. And he had one thing you haven't got. - What's that, sir? - A great big bushy beard. Come on, let's have a mosey around. Locker room. Riot room. Evidence room. Now, how about a trip to the Andes? Detective Sergeant Wainwright and Detective Constable Cartwright. Don't get up. I expect you're wondering why we call them the Andes. - They're both called Andrew? - They said you were good. Also, because talking to them is an uphill struggle, isn't it, Dad? - Fuck off! - Thank you, Danny. Swear Box. All proceeds to the church roof. And this is where it all happens. That is Sergeant Tony Fisher. PC Bob Walker. And that is Saxon. And this is one Doris Thatcher. - She's our only policewoman. - She's not a policewoman. - Yeah, she is. I've seen her bra. - She's a police officer. Being a woman has nothing to do with it. Oh, I don't know. Comes in handy every so often. I could've given you the tour. I've been round the station a few times. And what's upstairs?"
+      ],
+      "scene_length_chars": 1328,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.43828490376472473,
+        0.0023204628378152847,
+        0.0022197230719029903,
+        0.004067780915647745,
+        0.01144307292997837,
+        0.0017330851405858994,
+        0.017202049493789673,
+        0.27655327320098877,
+        0.0009193611913360655,
+        0.00425118301063776,
+        0.004570108372718096,
+        0.001718976185657084,
+        0.0016378166619688272,
+        0.0017343830550089478,
+        0.0029799044132232666,
+        0.4270320534706116,
+        0.0015193107537925243,
+        0.00018287402053829283,
+        0.0007676953682675958,
+        0.0005092744831927121,
+        0.0011986615136265755,
+        0.023268306627869606,
+        0.046675752848386765,
+        0.0042443834245204926,
+        0.008258919231593609,
+        0.0012513797264546156,
+        0.009084908291697502,
+        0.4699186682701111
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "admiration",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "admiration",
+        "gratitude",
+        "neutral"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 5,
+    "lines_per_scene_fallback": 20
+  }
+}

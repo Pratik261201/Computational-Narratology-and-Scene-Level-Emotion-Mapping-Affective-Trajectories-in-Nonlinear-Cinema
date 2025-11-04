@@ -1,0 +1,65 @@
+{
+  "source_file": "Big Fish _2003_ - full transcript.txt",
+  "title": "Big Fish",
+  "year": "2003",
+  "meta_description": null,
+  "num_scenes": 1,
+  "avg_scene_chars": 426,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "How could you miss your cue? You make me look like a fool out there alone. You weren't alone! Who the hell are you? I'm not going to hurt you. Damn right you're not. GUARD! Tell your men not to bother us! And close that curtain! Please, I need your help. What makes you think we'll help you? And what are we supposed to do when we get to America? I can get you bookings. I know the biggest man in show business. Bigger. Ready?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "How could you miss your cue? You make me look like a fool out there alone. You weren't alone! Who the hell are you? I'm not going to hurt you. Damn right you're not. GUARD! Tell your men not to bother us! And close that curtain! Please, I need your help. What makes you think we'll help you? And what are we supposed to do when we get to America? I can get you bookings. I know the biggest man in show business. Bigger. Ready?"
+      ],
+      "scene_length_chars": 426,
+      "split_method": "single_or_short",
+      "goemotions_probs": [
+        0.008709589019417763,
+        0.0013769658980891109,
+        0.28641802072525024,
+        0.33339253067970276,
+        0.001628126366995275,
+        0.061974190175533295,
+        0.0027531557716429234,
+        0.16568414866924286,
+        0.166717991232872,
+        0.05574445053935051,
+        0.0010264834854751825,
+        0.0007711161160841584,
+        0.0002596669946797192,
+        0.004756402689963579,
+        0.0017785176169127226,
+        0.00037736279773525894,
+        0.0024204475339502096,
+        0.0017150372732430696,
+        0.00044690415961667895,
+        0.002420069882646203,
+        0.059970155358314514,
+        0.0013985702535137534,
+        0.003908777609467506,
+        0.00048026820877566934,
+        0.0008964851731434464,
+        0.004427649080753326,
+        0.013390026986598969,
+        0.07240728288888931
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "anger",
+        "desire"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": []
+    }
+  ],
+  "split_summary": {
+    "initial_method": "single_or_short",
+    "final_num_scenes": 1,
+    "lines_per_scene_fallback": 20
+  }
+}

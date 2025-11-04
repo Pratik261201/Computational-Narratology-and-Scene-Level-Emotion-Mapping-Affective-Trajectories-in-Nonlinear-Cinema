@@ -1,0 +1,680 @@
+{
+  "source_file": "Billy Elliot _2000_ - full transcript.txt",
+  "title": "Billy Elliot",
+  "year": "2000",
+  "meta_description": null,
+  "num_scenes": 13,
+  "avg_scene_chars": 2292,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "No! Grandma. Your eggs. It's Billy. Come on. Fuck! You been playing my records, you little twat! I never played naught. Ow! Nob head! If Dad knew you smoked that stuff, he'd go mental. What? Fuck off, will you? Twat. Here we go, Dad! Come on, man. Dad! Hurry up, Dad, man. We'll be late. I'm telling you, the whole frigging world's gonna be on that picket line this morning. Oi! You tidy our room. Dad! There's not much of this coal left. It's fine. We'll be digging it up again next month. Don't kid yourself. I'm not waiting for youse. Tony. Tony! See you down the picket line, Dad. Leave it, Billy. Mom would've let us. Your 50 pence is on the fridge. Scab! Scab! Scab! Scab! Scab! Scab! Scab! Scab! Scab! Are you sure you're not going to come? Am I fuck. It's a right load of old bollocks. No, it's not. It's a load of shite, kicking people in. Anyway, I don't know why you bother. - I'm good at it. - You're shite. Look at them gloves, man. They went out with the ark. They're me dad's, these. Exactly. Right, lads. Listen up here. Hold it! Oi, oi! Here! Now, because they're using downstairs as a soup kitchen for the striking miners, I'm going to let Mrs Wilkinson use the bottom end of the boxing hall for her ballet lessons. So no hanky-panky. Understood? Yes. Elliot, you're late. Get changed and get in here. All right then, lads. Now, give it all you got! Round one. Well, don't just stand there, Elliot! No! Not again! This is man-to-man combat, not a bloody tea dance. What're you doing, man? Hit him! Greavesy, he's just pissing about. Now, get stuck in and give him a belt. He's like a fanny in a fit. Billy, hit him! Jesus Christ, Billy Elliot! You're a disgrace to them gloves, your father, and the traditions of this boxing hall. You owe us 50 pence. Liberace, will you give it a rest? Billy, punch bag. You're not going until you do it properly. Give these to Mrs Wilkinson and her dance class when you've finished. I'll see you next week. Okay, girls. Left hand on the bar. Thank you, Mr Braithwaite. And... Pretty arms. Bottoms in. Where are you looking, Susan? Lift. Feel the music. Feel it. In time, Debbie, please. And one, and two, and three, and four, and five, six, seven, eight. And one, and two, and three, and four, five. And hold. Hold it. Support yourselves! Don't look at me.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No! Grandma. Your eggs. It's Billy. Come on. Fuck! You been playing my records, you little twat! I never played naught. Ow! Nob head! If Dad knew you smoked that stuff, he'd go mental. What? Fuck off, will you? Twat. Here we go, Dad! Come on, man. Dad! Hurry up, Dad, man. We'll be late. I'm telling you, the whole frigging world's gonna be on that picket line this morning. Oi! You tidy our room. Dad! There's not much of this coal left. It's fine. We'll be digging it up again next month. Don't kid yourself. I'm not waiting for youse. Tony. Tony! See you down the picket line, Dad. Leave it, Billy. Mom would've let us. Your 50 pence is on the fridge. Scab! Scab! Scab! Scab! Scab! Scab! Scab! Scab! Scab! Are you sure you're not going to come? Am I fuck. It's a right load of old bollocks. No, it's not. It's a load of shite, kicking people in. Anyway, I don't know why you bother. - I'm good at it. - You're shite. Look at them gloves, man. They went out with the ark. They're me dad's, these. Exactly. Right, lads. Listen up here. Hold it! Oi, oi! Here! Now, because they're using downstairs as a soup kitchen for the striking miners, I'm going to let Mrs Wilkinson use the bottom end of the boxing hall for her ballet lessons. So no hanky-panky. Understood? Yes. Elliot, you're late. Get changed and get in here. All right then, lads. Now, give it all you got! Round one. Well, don't just stand there, Elliot! No! Not again! This is man-to-man combat, not a bloody tea dance. What're you doing, man? Hit him! Greavesy, he's just pissing about. Now, get stuck in and give him a belt. He's like a fanny in a fit. Billy, hit him! Jesus Christ, Billy Elliot! You're a disgrace to them gloves, your father, and the traditions of this boxing hall. You owe us 50 pence. Liberace, will you give it a rest? Billy, punch bag. You're not going until you do it properly. Give these to Mrs Wilkinson and her dance class when you've finished. I'll see you next week. Okay, girls. Left hand on the bar. Thank you, Mr Braithwaite. And... Pretty arms. Bottoms in. Where are you looking, Susan? Lift. Feel the music. Feel it. In time, Debbie, please. And one, and two, and three, and four, and five, six, seven, eight. And one, and two, and three, and four, five. And hold. Hold it. Support yourselves! Don't look at me."
+      ],
+      "scene_length_chars": 2309,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.006096215918660164,
+        0.023146985098719597,
+        0.18765918910503387,
+        0.6505962014198303,
+        0.0018084606854245067,
+        0.03946307674050331,
+        0.001744076726026833,
+        0.03353443741798401,
+        0.024433141574263573,
+        0.03158694505691528,
+        0.004840939771384001,
+        0.009677670896053314,
+        0.0020403556991368532,
+        0.01818118803203106,
+        0.003439446911215782,
+        0.32542669773101807,
+        0.002645178698003292,
+        0.003381717251613736,
+        0.00041728964424692094,
+        0.00198404211550951,
+        0.08974406868219376,
+        0.0032763450872153044,
+        0.0025414731353521347,
+        0.03572561964392662,
+        0.006949998438358307,
+        0.004111772403120995,
+        0.025199852883815765,
+        0.06650234013795853
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "gratitude",
+        "anger"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Look ahead! Where's your confidence? Come on. And down. Connie. Oh, God. And, Debbie, eyes front. And five, and six, and seven, and stop. For God's sake. Thank you, Mr Braithwaite. Right into the centre, girls, please. Miss? Miss, the keys. Not now. Right, Mr Braithwaite. The Sun Will Come Out Tomorrow. Fat chance. Ready, and... Port de bras forward, and up. Port de bras forward, and up. - Why don't you join in? - Port de bras forward. - Nah. - And up. Port de bras forward. And up, and hold. And three, and four. And, Debbie, straight leg. Seven and eight. And one, and two, and three, and four, and five. Boots off. Seven and eight. - What size are you? - Miss, what about the keys? Into the centre. Go on. I dare you. Prepare. And one, and two, and three, and four, and five, and six, and... And eight, and hold. Hold it. Hold it. Hold it. What have we got here, then? Heel out. Drop your hip. Nice, straight leg. Good arch. Turn that leg out. Right. Class dismissed. Home time. Debbie, get the 50p's. - You owe me 50 pence. - No, I don't! You do. Why don't you bring it along next week? Can't. I'm going to boxing. - But you're crap at boxing. - No, I'm not! Shut up. Thought you enjoyed it. Please yourself, darling. He was your mom's favorite, was Fred Astaire. We used to watch him at the Palace Picture House, and then dance round the front room like lunatics. Marvelous! Mind, they used to say I could've been a professional. Come on, Grandma. Not now. Oh! Grandma! It's this one here! Grandma! It's over here! Tony, do you ever think about death? Fuck off! Night-night, then. Plenty of boys do ballet, you know? Do they now? What boys do ballet? Nobody around here, but plenty of men do. - Poofs. - Not necessarily poofs. Who, like? What about that Wayne Sleep? He's not a poof. He's as fit as an athlete. Bet he couldn't beat Daley Thompson. Maybe not in a race, but in stamina. Why don't you come tomorrow? - You can just watch. - I can't. Gotta go to boxing, haven't I? Please yourself, then. See you around. Aye, see you. Ta-ra. Right, lads. Look sharp. Everybody, out! Turn, turn, and stop. One, two, three. One, two, three. Arms are in fifth. One, two, three. One, two, three. Turn, turn, and stop. One, two, three. One, two, three. Where are those arms? - I don't know what to do. - Follow the others.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Look ahead! Where's your confidence? Come on. And down. Connie. Oh, God. And, Debbie, eyes front. And five, and six, and seven, and stop. For God's sake. Thank you, Mr Braithwaite. Right into the centre, girls, please. Miss? Miss, the keys. Not now. Right, Mr Braithwaite. The Sun Will Come Out Tomorrow. Fat chance. Ready, and... Port de bras forward, and up. Port de bras forward, and up. - Why don't you join in? - Port de bras forward. - Nah. - And up. Port de bras forward. And up, and hold. And three, and four. And, Debbie, straight leg. Seven and eight. And one, and two, and three, and four, and five. Boots off. Seven and eight. - What size are you? - Miss, what about the keys? Into the centre. Go on. I dare you. Prepare. And one, and two, and three, and four, and five, and six, and... And eight, and hold. Hold it. Hold it. Hold it. What have we got here, then? Heel out. Drop your hip. Nice, straight leg. Good arch. Turn that leg out. Right. Class dismissed. Home time. Debbie, get the 50p's. - You owe me 50 pence. - No, I don't! You do. Why don't you bring it along next week? Can't. I'm going to boxing. - But you're crap at boxing. - No, I'm not! Shut up. Thought you enjoyed it. Please yourself, darling. He was your mom's favorite, was Fred Astaire. We used to watch him at the Palace Picture House, and then dance round the front room like lunatics. Marvelous! Mind, they used to say I could've been a professional. Come on, Grandma. Not now. Oh! Grandma! It's this one here! Grandma! It's over here! Tony, do you ever think about death? Fuck off! Night-night, then. Plenty of boys do ballet, you know? Do they now? What boys do ballet? Nobody around here, but plenty of men do. - Poofs. - Not necessarily poofs. Who, like? What about that Wayne Sleep? He's not a poof. He's as fit as an athlete. Bet he couldn't beat Daley Thompson. Maybe not in a race, but in stamina. Why don't you come tomorrow? - You can just watch. - I can't. Gotta go to boxing, haven't I? Please yourself, then. See you around. Aye, see you. Ta-ra. Right, lads. Look sharp. Everybody, out! Turn, turn, and stop. One, two, three. One, two, three. Arms are in fifth. One, two, three. One, two, three. Turn, turn, and stop. One, two, three. One, two, three. Where are those arms? - I don't know what to do. - Follow the others."
+      ],
+      "scene_length_chars": 2322,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0045030624605715275,
+        0.14661772549152374,
+        0.020604250952601433,
+        0.05168923735618591,
+        0.010872715152800083,
+        0.008905076421797276,
+        0.2519259750843048,
+        0.3530232906341553,
+        0.012748532928526402,
+        0.009897696785628796,
+        0.042907122522592545,
+        0.0020077822264283895,
+        0.004400035832077265,
+        0.01739250309765339,
+        0.0009906572522595525,
+        0.3309931457042694,
+        0.0012117628939449787,
+        0.11228146404027939,
+        0.0006084424094296992,
+        0.0008775091846473515,
+        0.035780955106019974,
+        0.0009963528718799353,
+        0.010879921726882458,
+        0.002818058477714658,
+        0.0012884832685813308,
+        0.0007270348723977804,
+        0.007020035292953253,
+        0.10581938177347183
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "confusion"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "Shut up, Debbie! One, two, three. One, two, three. Nice pretty arms. And stop. See? I told you it takes loads of practice. Debbie. What, Mom? What do you call me? Miss. Shove off. So, do we get the pleasure of your company next week? It's just... I feel like a right sissy. Well, don't act like one. Fifty p, please. If you're not coming again, give us your shoes. Nah. You're all right. Right. What are you doing, going around here like creeping Jesus? Naught. We found your nana in the Spar stores. Where have you been? Boxing. Where do you think? What're you doing? I forgot me gloves. They were my dad's gloves. You better take better care of them, okay? Copy down that diagram. You only have five minutes left. Ow. Hurry. This way. You go to ballet every week? Yeah, but don't tell. Why do you need to take lessons? Why do you think? To get better, you divvy. - Do you got to wear a tutu? - Fuck off. They're only meant for lasses. I wear me shorts. You won't ask for a tutu? What for? To dance in. I'd look a right dickhead. I think you'd look wicked. Come on. I don't know why you're looking at that. You can't take that out on a junior ticket. Come on! See you, then. Okay, Billy Elliot, into the centre. Right, now I want you to watch carefully, girls. First, arabesque. Drop your shoulders. Look forward, beyond your fingertips. There! Right. Spin it, Mr Braithwaite. Spin it. Come on. Spin it! Now, focus! Look at yourselves! Look in the mirror! Ahhh! Christ almighty! What was that? What's going on? Nothing. Prepare, one and two. Strong position. Weight on both legs. And, pirouette. And down. Up you get. Find a place on that bloody wall, and focus on that spot. Then whip your head round, and come back to that spot. Prepare. One, and two, and... Fuck it. Have you got the spot? Prepare! - Prepare. - Prepare. Go! Go! Go! Go! Go, Billy! What have I told you about that arm? Right. Back to the bar. You look like a right wanker to me, son. Listen, Jackie. Listen, Jackie. If it was just the 50 pence a session, you know, I can do without it. I don't do it for the money. - What are you talking about? - The boxing, man. I haven't seen hide nor hair of your Billy for months. I was gonna say something, but I thought it might be embarrassing. First I knew about it. He's never got the gloves off.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Shut up, Debbie! One, two, three. One, two, three. Nice pretty arms. And stop. See? I told you it takes loads of practice. Debbie. What, Mom? What do you call me? Miss. Shove off. So, do we get the pleasure of your company next week? It's just... I feel like a right sissy. Well, don't act like one. Fifty p, please. If you're not coming again, give us your shoes. Nah. You're all right. Right. What are you doing, going around here like creeping Jesus? Naught. We found your nana in the Spar stores. Where have you been? Boxing. Where do you think? What're you doing? I forgot me gloves. They were my dad's gloves. You better take better care of them, okay? Copy down that diagram. You only have five minutes left. Ow. Hurry. This way. You go to ballet every week? Yeah, but don't tell. Why do you need to take lessons? Why do you think? To get better, you divvy. - Do you got to wear a tutu? - Fuck off. They're only meant for lasses. I wear me shorts. You won't ask for a tutu? What for? To dance in. I'd look a right dickhead. I think you'd look wicked. Come on. I don't know why you're looking at that. You can't take that out on a junior ticket. Come on! See you, then. Okay, Billy Elliot, into the centre. Right, now I want you to watch carefully, girls. First, arabesque. Drop your shoulders. Look forward, beyond your fingertips. There! Right. Spin it, Mr Braithwaite. Spin it. Come on. Spin it! Now, focus! Look at yourselves! Look in the mirror! Ahhh! Christ almighty! What was that? What's going on? Nothing. Prepare, one and two. Strong position. Weight on both legs. And, pirouette. And down. Up you get. Find a place on that bloody wall, and focus on that spot. Then whip your head round, and come back to that spot. Prepare. One, and two, and... Fuck it. Have you got the spot? Prepare! - Prepare. - Prepare. Go! Go! Go! Go! Go, Billy! What have I told you about that arm? Right. Back to the bar. You look like a right wanker to me, son. Listen, Jackie. Listen, Jackie. If it was just the 50 pence a session, you know, I can do without it. I don't do it for the money. - What are you talking about? - The boxing, man. I haven't seen hide nor hair of your Billy for months. I was gonna say something, but I thought it might be embarrassing. First I knew about it. He's never got the gloves off."
+      ],
+      "scene_length_chars": 2309,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.15897513926029205,
+        0.0020658376161009073,
+        0.4463033974170685,
+        0.27700722217559814,
+        0.019448980689048767,
+        0.35826465487480164,
+        0.0033415283542126417,
+        0.22244413197040558,
+        0.12196149677038193,
+        0.01989750564098358,
+        0.006537896115332842,
+        0.001760285347700119,
+        0.0034086115192621946,
+        0.006819544825702906,
+        0.00855403020977974,
+        0.0021061815787106752,
+        0.0033390799071639776,
+        0.0030139030423015356,
+        0.003375457599759102,
+        0.004053883254528046,
+        0.2179327756166458,
+        0.0056562721729278564,
+        0.03914244845509529,
+        0.0032424756791442633,
+        0.003952478989958763,
+        0.0025544113013893366,
+        0.01600206084549427,
+        0.055952828377485275
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "annoyance"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Send him round to my house. I'll sharp knock some sense into him. Scab! Scab! Step open and balancé, balancé, balancé. Scab! Scab! Scab! Scab! Scab! Scab! Right. Let's do it again. Open, and lift your chest. Right. Let's do it again. Thank you, Mr Braithwaite. Step open. Open your arms. Do it. Pay attention. Arms. Like this. All right? Thank you, Mr Braithwaite. Step really open! Powerful! Proud! You're not concentrating. Yes, I am concentrating. You're not even trying. Can we have a go of it, Miss? Let's do it again. Listen, have you noticed anything weird about our Billy lately? What are you after, like, a list? Aye, aye. Got enough food there, scab? What're you doing? Scabs eat well. You're me best mate. First rule of a union, Gary. You never cross a picket line. We're all fucked if you forget that! We're fucked anyway. In a speech to Tory MPs yesterday, Prime Minister Margaret Thatcher referred to members of the striking National Union of Mineworkers as \"the enemy within\". The speech comes following several months of violent clashes between police officers and striking miners... - See you, then. - Wait. Your breakfast... What the hell's he up to? One, two, three, pas de bourrée. And a one, two, three, and a turn. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. You, out! Now! I beg your pardon? Please, Miss. Don't. All right, which way are we facing? Come on. And a one, two, three, pas de bourrée. Ballet. What's wrong with ballet? What's \"wrong\" with ballet? It's perfectly normal. \"Perfectly normal\"? I used to go to ballet. See? Aye, for your nana. For girls. Not for lads, Billy. Lads do football or boxing or wrestling! Not frigging ballet. What lads do wrestling? Don't start, Billy. I don't see what's wrong with it. You know perfectly well what's wrong with it. - No, I don't. - Yes, you do. - No, I don't! - Yes, you bloody well do. Who do you think I am? You know quite nicely! What? What are you trying to say, Dad? You're asking for a hiding, Son. No, I'm not. Honest. You are, Billy. Billy! It's not just poofs, Dad. Some ballet dancers are as fit as athletes. What about that Wayne Sleep?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Send him round to my house. I'll sharp knock some sense into him. Scab! Scab! Step open and balancé, balancé, balancé. Scab! Scab! Scab! Scab! Scab! Scab! Right. Let's do it again. Open, and lift your chest. Right. Let's do it again. Thank you, Mr Braithwaite. Step open. Open your arms. Do it. Pay attention. Arms. Like this. All right? Thank you, Mr Braithwaite. Step really open! Powerful! Proud! You're not concentrating. Yes, I am concentrating. You're not even trying. Can we have a go of it, Miss? Let's do it again. Listen, have you noticed anything weird about our Billy lately? What are you after, like, a list? Aye, aye. Got enough food there, scab? What're you doing? Scabs eat well. You're me best mate. First rule of a union, Gary. You never cross a picket line. We're all fucked if you forget that! We're fucked anyway. In a speech to Tory MPs yesterday, Prime Minister Margaret Thatcher referred to members of the striking National Union of Mineworkers as \"the enemy within\". The speech comes following several months of violent clashes between police officers and striking miners... - See you, then. - Wait. Your breakfast... What the hell's he up to? One, two, three, pas de bourrée. And a one, two, three, and a turn. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. And a one, two, three, pas de bourrée. You, out! Now! I beg your pardon? Please, Miss. Don't. All right, which way are we facing? Come on. And a one, two, three, pas de bourrée. Ballet. What's wrong with ballet? What's \"wrong\" with ballet? It's perfectly normal. \"Perfectly normal\"? I used to go to ballet. See? Aye, for your nana. For girls. Not for lads, Billy. Lads do football or boxing or wrestling! Not frigging ballet. What lads do wrestling? Don't start, Billy. I don't see what's wrong with it. You know perfectly well what's wrong with it. - No, I don't. - Yes, you do. - No, I don't! - Yes, you bloody well do. Who do you think I am? You know quite nicely! What? What are you trying to say, Dad? You're asking for a hiding, Son. No, I'm not. Honest. You are, Billy. Billy! It's not just poofs, Dad. Some ballet dancers are as fit as athletes. What about that Wayne Sleep?"
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.09094993025064468,
+        0.0008196955895982683,
+        0.03481205180287361,
+        0.297367662191391,
+        0.027976742014288902,
+        0.018722059205174446,
+        0.012471809983253479,
+        0.4387836158275604,
+        0.012932275421917439,
+        0.00514967693015933,
+        0.014632515609264374,
+        0.002065298380330205,
+        0.0015413713408634067,
+        0.008581362664699554,
+        0.001781968865543604,
+        0.33287763595581055,
+        0.0010350387310609221,
+        0.0010539612267166376,
+        0.0005795208853669465,
+        0.0006543875788338482,
+        0.010799444280564785,
+        0.018052158877253532,
+        0.003433323698118329,
+        0.01581287570297718,
+        0.0025532429572194815,
+        0.0010107775451615453,
+        0.004560913424938917,
+        0.13570021092891693
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "He was a ballet dancer. Wayne Sleep? Aye. Listen, Son, from now on you can forget about the fucking ballet. You can forget about the fucking boxing, as well. I'm busting my ass for those 50 pences, and you're... No! From now on, you stay here and look after your nana. Got it? Good. They used to say I could have been a professional dancer - if I'd had the training. - Will you shut up? I hate you! You're a bastard! Get off! Billy! Billy! Billy! Hello. My dad will kill me if he knows I'm here. He stopped you coming to classes. It's not his fault, Miss. That's all right with you, is it? I suppose so. You should stand up to him. You don't know what he's like. Well, that blows it. Blows what, Miss? Debbie? I've heard a lot about you. Durham's little Gene Kelly. Your dad work down the pit, then? Yeah. Must be hard for the family, being out on strike. He is out on strike, isn't he? Of course. I shouldn't worry. It won't last long. Tom, don't. If they had a ballot, they'd be back tomorrow. It's just a few bloody commies, stirring things up. Let's face it. They haven't got a leg to stand on. Who doesn't? The miners. It stands to reason, doesn't it? Some pits are just uneconomical. If it costs more money to pay everybody to dig the coal out than you get for the coal when you sell it, what does that tell you? Don't know. Well, you wanna think about that, don't you, son? Tom. If it was up to me, I'd shut the lot of them down tomorrow. For God's sake. What do you do, Mr Wilkinson? He's been made redundant. I thought he was gonna hit me or something. Don't be silly. He's just under a lot of pressure. That's what Mom says. I think it's because he drinks too much. Does he drink too much, like? He's always pissed. Once he pissed himself. Your dad? 'Cause he's unhappy and that. 'Cause they sleep in separate beds. Why do they sleep in separate beds? So they can't have sex. Do they not have sex, like? Dad did it with this woman from work, but they don't think I know. Do you miss your mom, then? Don't really miss her as such. It's more like just feeling sad. Especially when I remember her all of a sudden. When I forgot that she was dead and that. What about your mom? Does she not have sex? No, she's unfulfilled. That's why she does dancing. She does dancing instead of sex?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "He was a ballet dancer. Wayne Sleep? Aye. Listen, Son, from now on you can forget about the fucking ballet. You can forget about the fucking boxing, as well. I'm busting my ass for those 50 pences, and you're... No! From now on, you stay here and look after your nana. Got it? Good. They used to say I could have been a professional dancer - if I'd had the training. - Will you shut up? I hate you! You're a bastard! Get off! Billy! Billy! Billy! Hello. My dad will kill me if he knows I'm here. He stopped you coming to classes. It's not his fault, Miss. That's all right with you, is it? I suppose so. You should stand up to him. You don't know what he's like. Well, that blows it. Blows what, Miss? Debbie? I've heard a lot about you. Durham's little Gene Kelly. Your dad work down the pit, then? Yeah. Must be hard for the family, being out on strike. He is out on strike, isn't he? Of course. I shouldn't worry. It won't last long. Tom, don't. If they had a ballot, they'd be back tomorrow. It's just a few bloody commies, stirring things up. Let's face it. They haven't got a leg to stand on. Who doesn't? The miners. It stands to reason, doesn't it? Some pits are just uneconomical. If it costs more money to pay everybody to dig the coal out than you get for the coal when you sell it, what does that tell you? Don't know. Well, you wanna think about that, don't you, son? Tom. If it was up to me, I'd shut the lot of them down tomorrow. For God's sake. What do you do, Mr Wilkinson? He's been made redundant. I thought he was gonna hit me or something. Don't be silly. He's just under a lot of pressure. That's what Mom says. I think it's because he drinks too much. Does he drink too much, like? He's always pissed. Once he pissed himself. Your dad? 'Cause he's unhappy and that. 'Cause they sleep in separate beds. Why do they sleep in separate beds? So they can't have sex. Do they not have sex, like? Dad did it with this woman from work, but they don't think I know. Do you miss your mom, then? Don't really miss her as such. It's more like just feeling sad. Especially when I remember her all of a sudden. When I forgot that she was dead and that. What about your mom? Does she not have sex? No, she's unfulfilled. That's why she does dancing. She does dancing instead of sex?"
+      ],
+      "scene_length_chars": 2291,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005915101617574692,
+        0.003329326631501317,
+        0.3453960418701172,
+        0.15419895946979523,
+        0.001030544051900506,
+        0.08204976469278336,
+        0.010421018116176128,
+        0.5578002333641052,
+        0.004793540108948946,
+        0.025381216779351234,
+        0.004075103905051947,
+        0.013342776335775852,
+        0.004050751682370901,
+        0.0013322588056325912,
+        0.007249657530337572,
+        0.0008428511791862547,
+        0.021547727286815643,
+        0.0017407092964276671,
+        0.0015658080810680985,
+        0.0033552292734384537,
+        0.039923448115587234,
+        0.0004270993231330067,
+        0.009959532879292965,
+        0.0007104790420271456,
+        0.006066997069865465,
+        0.32184794545173645,
+        0.002496109576895833,
+        0.01384777296334505
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "sadness"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "Your family's weird. No, they're not. They are, though. They're mental. Get off! See? You're a nutter, you. Debbie! It's time for Billy to go home! Come on, Billy. I'll drop you off at the corner. I'll see you, Debbie. Okay, then. Miss, what have I blown? This'll sound strange, Billy, but for some time now I've been thinking of the Royal Ballet School. Aren't you a bit old, Miss? No, not me. You! I'm the bloody teacher. They hold auditions in Newcastle. I'd never be good enough. I hardly know aught. No. Look, they're not interested in how much ballet you know. They teach you that. That's why they're a ballet school. It's how you move and how you express yourself that's important. Express what? I think you're good enough to go for it. It would mean an awful lot of hard work. But I'm banned. Then maybe I should have a word with him. No, Miss! I could teach you on your own, if you want. We couldn't afford it. I'm not doing it for the money, Billy. But what about Dad? He doesn't need to know. - What about me boxing and that? - Oh, for fuck's sake, Billy! If you want to piss about with your little mates, that's fine with me. All right, don't lose your blob. \"Blob\"? So we could do it private-like? Just you and me. Miss, you don't fancy me, do you? No, Billy. Funnily enough, I don't. Now, piss off. Piss off yourself. See you Monday, then. You coming in or what? What are you doing? Nothing. Just dressing up. Whose dress is that? Come on. - Whose dress is that? - It's me sister's. - Did she give you it? - She doesn't know. Do you wanna try? You can have one of me mom's. Nah. You're all right. What're you doing that for? I'm just trying it on. Christ. Come here. Stay still. There. Won't we get in trouble? Don't be stupid. Me dad does it all the time. He dresses up in your mom's clothes? Only when he thinks everybody's out. Have you got a tutu yet? Do you think being a ballet dancer would be better than being a miner? I don't know. It's just, I've got this audition in Newcastle in a couple of weeks. - What for? - To go to ballet school. Ballet school? Is that in Newcastle? London. You'd have to move with your Tony and everybody? No. By meself. That's a bit steep. Can't you be a ballet dancer here, like? Don't be stupid! So, when you going there, then? I don't know.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Your family's weird. No, they're not. They are, though. They're mental. Get off! See? You're a nutter, you. Debbie! It's time for Billy to go home! Come on, Billy. I'll drop you off at the corner. I'll see you, Debbie. Okay, then. Miss, what have I blown? This'll sound strange, Billy, but for some time now I've been thinking of the Royal Ballet School. Aren't you a bit old, Miss? No, not me. You! I'm the bloody teacher. They hold auditions in Newcastle. I'd never be good enough. I hardly know aught. No. Look, they're not interested in how much ballet you know. They teach you that. That's why they're a ballet school. It's how you move and how you express yourself that's important. Express what? I think you're good enough to go for it. It would mean an awful lot of hard work. But I'm banned. Then maybe I should have a word with him. No, Miss! I could teach you on your own, if you want. We couldn't afford it. I'm not doing it for the money, Billy. But what about Dad? He doesn't need to know. - What about me boxing and that? - Oh, for fuck's sake, Billy! If you want to piss about with your little mates, that's fine with me. All right, don't lose your blob. \"Blob\"? So we could do it private-like? Just you and me. Miss, you don't fancy me, do you? No, Billy. Funnily enough, I don't. Now, piss off. Piss off yourself. See you Monday, then. You coming in or what? What are you doing? Nothing. Just dressing up. Whose dress is that? Come on. - Whose dress is that? - It's me sister's. - Did she give you it? - She doesn't know. Do you wanna try? You can have one of me mom's. Nah. You're all right. What're you doing that for? I'm just trying it on. Christ. Come here. Stay still. There. Won't we get in trouble? Don't be stupid. Me dad does it all the time. He dresses up in your mom's clothes? Only when he thinks everybody's out. Have you got a tutu yet? Do you think being a ballet dancer would be better than being a miner? I don't know. It's just, I've got this audition in Newcastle in a couple of weeks. - What for? - To go to ballet school. Ballet school? Is that in Newcastle? London. You'd have to move with your Tony and everybody? No. By meself. That's a bit steep. Can't you be a ballet dancer here, like? Don't be stupid! So, when you going there, then? I don't know."
+      ],
+      "scene_length_chars": 2294,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.001446426846086979,
+        0.03332213684916496,
+        0.029713930562138557,
+        0.026309719309210777,
+        0.002024762099608779,
+        0.059348106384277344,
+        0.009612925350666046,
+        0.6190023422241211,
+        0.03344055265188217,
+        0.009485050104558468,
+        0.0025946854148060083,
+        0.0022885396610945463,
+        0.012013663537800312,
+        0.014112171716988087,
+        0.04150175675749779,
+        0.0007052291184663773,
+        0.0024859439581632614,
+        0.005626550409942865,
+        0.0007845860091038048,
+        0.018077464774250984,
+        0.06312619894742966,
+        0.00038593681529164314,
+        0.01747795008122921,
+        0.0004908141563646495,
+        0.0012747753644362092,
+        0.002973301336169243,
+        0.011206335388123989,
+        0.33584925532341003
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "I haven't even got in yet. What does your dad say? He doesn't know. Fucking hell. Are you not going to tell him? Not yet, anyway. He might be quite pleased about it. He could rent your room out. He couldn't. What about our Tony? What do you reckon? I think you shouldn't bother. Why not? I'd miss you. Fucking hell. Brought your things? I don't know if they're right, Miss. If they're special to you, they're right. What are they for? To give us some ideas for a dance. Come on, then. Let's see them. What's that? It's a letter. I can see it's a letter. It's me mom's. She wrote it for when I was 18, but I opened it. Here. \"To my son Billy.\" \"Dear Billy.\" \"I know I must seem like a distant memory to you,\" \"which is probably a good thing.\" \"It will have been a long time,\" \"and I will have missed seeing you grow.\" \"Missed you crying, laughing,\" \"and shouting.\" \"I will have missed telling you off.\" \"But please know that I was always there.\" \"With you through everything.\" \"With you through everything.\" \"I always will be.\" \"And I am proud to have known you,\" \"and I am proud that you were mine.\" \"Always be yourself.\" \"I love you forever.\" \"Mom.\" She must've been a very special woman, your mother. No, she was just me mom. I brought tape and all. What is it? I Love to Boogie. It's one of our Tony's. Spin it! Go on! And tap. Go! Grandma, tea time. Where are you going? Go back to sleep. It's 4:00. You weren't thinking of taking it with you? If you just wanna stand round getting the shit kicked out of you, that's your funeral. But some of us are ready to fight back for once. They're already after you, for fuck's sake. You're no good to us in jail. I don't plan on getting caught. What's going on? You, get back to bed! Both of you! Fuck you. Put it down. You gonna stop me? I'm warning you. You haven't got it in you. You're finished! Since Mom died you're nothing but a useless twat. What the fuck are you gonna do about it? Stop it! What the fuck are you looking at? You haven't been practicing. Prepare. One, two. And one, and two... Get up. Miss, I can't do it. That's because you're not concentrating. I am concentrating. You're not even trying! I am, Miss! Do it again. Can't. You do it again. No! Shit! I'm sorry. It's all right for you. It's not you who has to do it!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I haven't even got in yet. What does your dad say? He doesn't know. Fucking hell. Are you not going to tell him? Not yet, anyway. He might be quite pleased about it. He could rent your room out. He couldn't. What about our Tony? What do you reckon? I think you shouldn't bother. Why not? I'd miss you. Fucking hell. Brought your things? I don't know if they're right, Miss. If they're special to you, they're right. What are they for? To give us some ideas for a dance. Come on, then. Let's see them. What's that? It's a letter. I can see it's a letter. It's me mom's. She wrote it for when I was 18, but I opened it. Here. \"To my son Billy.\" \"Dear Billy.\" \"I know I must seem like a distant memory to you,\" \"which is probably a good thing.\" \"It will have been a long time,\" \"and I will have missed seeing you grow.\" \"Missed you crying, laughing,\" \"and shouting.\" \"I will have missed telling you off.\" \"But please know that I was always there.\" \"With you through everything.\" \"With you through everything.\" \"I always will be.\" \"And I am proud to have known you,\" \"and I am proud that you were mine.\" \"Always be yourself.\" \"I love you forever.\" \"Mom.\" She must've been a very special woman, your mother. No, she was just me mom. I brought tape and all. What is it? I Love to Boogie. It's one of our Tony's. Spin it! Go on! And tap. Go! Grandma, tea time. Where are you going? Go back to sleep. It's 4:00. You weren't thinking of taking it with you? If you just wanna stand round getting the shit kicked out of you, that's your funeral. But some of us are ready to fight back for once. They're already after you, for fuck's sake. You're no good to us in jail. I don't plan on getting caught. What's going on? You, get back to bed! Both of you! Fuck you. Put it down. You gonna stop me? I'm warning you. You haven't got it in you. You're finished! Since Mom died you're nothing but a useless twat. What the fuck are you gonna do about it? Stop it! What the fuck are you looking at? You haven't been practicing. Prepare. One, two. And one, and two... Get up. Miss, I can't do it. That's because you're not concentrating. I am concentrating. You're not even trying! I am, Miss! Do it again. Can't. You do it again. No! Shit! I'm sorry. It's all right for you. It's not you who has to do it!"
+      ],
+      "scene_length_chars": 2285,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.17134274542331696,
+        0.00390424276702106,
+        0.6167604327201843,
+        0.026069119572639465,
+        0.002141806297004223,
+        0.11148277670145035,
+        0.005741103086620569,
+        0.04683024808764458,
+        0.013515408150851727,
+        0.026228098198771477,
+        0.031950194388628006,
+        0.003872121684253216,
+        0.002306660870090127,
+        0.00763465603813529,
+        0.0029589671175926924,
+        0.002579648979008198,
+        0.028782011941075325,
+        0.039191871881484985,
+        0.3085222840309143,
+        0.0009987045777961612,
+        0.014090842567384243,
+        0.07253231853246689,
+        0.016045862808823586,
+        0.002537362975999713,
+        0.008964651264250278,
+        0.25361236929893494,
+        0.010305591858923435,
+        0.017617488279938698
+      ],
+      "goemotions_topk": [
+        "anger",
+        "love",
+        "sadness"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "I know. You don't know anything! What do you know in your posh house with your husband that pisses himself? You're the same as everybody else. All you want is to tell me what to do. Now wait a minute! Look, I don't wanna do your stupid fucking audition! You only want me to do it for your own benefit! Look, Billy... Because you're a failure! Don't you dare talk to me like that! You don't even have a proper dancing school! You're stuck in some crummy boxing hall. Don't pick on me 'cause you fucked up your own life! Can I put a tape on, Miss? All right, if you must. It's cush, isn't it? So, is there a story, then, Miss? Of course. It's about a woman who's captured by an evil magician. Sounds crap. And this woman, this beautiful woman, is forced to be a swan. Except for a few hours every night when she becomes alive. When she becomes real again. And then one night, she meets this young prince, and he falls in love with her. And she realizes, this is the one thing that will allow her to become a real woman once more. So then what happens? He promises to marry her and then goes off with someone else, of course. So she has to be a swan for good? She dies. Because the prince didn't love her? Come on. It's time to go. It's only a ghost story. Come on! No! No. No. It's me. It's Billy. Little one. Oi! Little one. What have I told you about drinking out of the bottle? Sorry, Mom. Well, put it back. One, lift and reach. Down, and one. Breathe and stretch. Stretch, and one. Lift and stretch. Back, and one. Lift, and lengthen that foot. And it's one. Extend. Reach out. Lift and breathe. And one. Lift out, and close. And one. Lift. When's the audition, then? Tomorrow morning. I'll miss you if you go away. Who do you think's better? Fred Astaire or Ginger Rogers? Billy, do you not fancy us, like? Don't know. Never really thought about it. If you want, I'll show you me fanny. No. You're all right. Get inside! The union leader! Get him! Get down! Thanks, pet. Wanker! Keep away from there, son. Shit. Tony! Tony, come back! Go on. Get in there! Off you go, mate! Miss, I've got a problem with the audition. Hello? Hello! Right, this is for Court Four. Tony Elliot, George Brunton, - Gary Cummings. - What's the time? - Colin Woodward. - 10:10. Robert Taylor. Oh, Billy! Hello. Can I help you?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I know. You don't know anything! What do you know in your posh house with your husband that pisses himself? You're the same as everybody else. All you want is to tell me what to do. Now wait a minute! Look, I don't wanna do your stupid fucking audition! You only want me to do it for your own benefit! Look, Billy... Because you're a failure! Don't you dare talk to me like that! You don't even have a proper dancing school! You're stuck in some crummy boxing hall. Don't pick on me 'cause you fucked up your own life! Can I put a tape on, Miss? All right, if you must. It's cush, isn't it? So, is there a story, then, Miss? Of course. It's about a woman who's captured by an evil magician. Sounds crap. And this woman, this beautiful woman, is forced to be a swan. Except for a few hours every night when she becomes alive. When she becomes real again. And then one night, she meets this young prince, and he falls in love with her. And she realizes, this is the one thing that will allow her to become a real woman once more. So then what happens? He promises to marry her and then goes off with someone else, of course. So she has to be a swan for good? She dies. Because the prince didn't love her? Come on. It's time to go. It's only a ghost story. Come on! No! No. No. It's me. It's Billy. Little one. Oi! Little one. What have I told you about drinking out of the bottle? Sorry, Mom. Well, put it back. One, lift and reach. Down, and one. Breathe and stretch. Stretch, and one. Lift and stretch. Back, and one. Lift, and lengthen that foot. And it's one. Extend. Reach out. Lift and breathe. And one. Lift out, and close. And one. Lift. When's the audition, then? Tomorrow morning. I'll miss you if you go away. Who do you think's better? Fred Astaire or Ginger Rogers? Billy, do you not fancy us, like? Don't know. Never really thought about it. If you want, I'll show you me fanny. No. You're all right. Get inside! The union leader! Get him! Get down! Thanks, pet. Wanker! Keep away from there, son. Shit. Tony! Tony, come back! Go on. Get in there! Off you go, mate! Miss, I've got a problem with the audition. Hello? Hello! Right, this is for Court Four. Tony Elliot, George Brunton, - Gary Cummings. - What's the time? - Colin Woodward. - 10:10. Robert Taylor. Oh, Billy! Hello. Can I help you?"
+      ],
+      "scene_length_chars": 2307,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.017938414588570595,
+        0.001050331280566752,
+        0.2367686629295349,
+        0.2719244658946991,
+        0.001046154648065567,
+        0.020799750462174416,
+        0.010662668384611607,
+        0.26712143421173096,
+        0.003664867952466011,
+        0.10041344165802002,
+        0.05206960067152977,
+        0.003838182194158435,
+        0.002028123242780566,
+        0.009858598932623863,
+        0.0025946523528546095,
+        0.32492631673812866,
+        0.013902037404477596,
+        0.0017446217825636268,
+        0.0017155761597678065,
+        0.003181916894391179,
+        0.01185096800327301,
+        0.004782250616699457,
+        0.008717949502170086,
+        0.014914960600435734,
+        0.004543628543615341,
+        0.11405061930418015,
+        0.029492603614926338,
+        0.09945371747016907
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "annoyance",
+        "curiosity"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "- I was looking for... - They're out. Sorry. - Billy. - Please, Miss. Don't. What's going on, Billy? Who the fuck are you? I think we better go inside. I know this might be difficult for you, but today Billy missed a very important audition. Audition? For the Royal Ballet School. The Royal Ballet? School. It's where they teach the ballet. You've got to be joking, love. No, I'm perfectly serious. Have you any idea of what we're going through? I've been in a fucking cell all night, and you come around here talking shite! And, you! Fucking ballet! What are you trying to do, make him a fucking scab for the rest of his life? Look at him! He's only 11, for fuck's sake! You've gotta start training from when you're young. Shut it! I'm not having any brother of mine running around like a right twat for your gratification. Excuse me. This is not for my gratification. And what good's it gonna do him? You're not taking him away. He's only a bairn! What about giving him a childhood? I don't want a childhood. I want to be a ballet dancer. And anyway, what do you know about it? What qualifications have you got? I haven't come here to defend meself. Well, for all we know, you could be some fucking nutter. I should get the fucking Social on to you. I think you should calm yourself down, son. You say he can dance. Well, go on, then. - Let's see this fucking dancing. - No. This is ridiculous. If you're a fucking ballet dancer, then let's be having you. Don't you dare! What sort of a teacher are you? He's got the chance to dance. Now, you're fucking telling him not to. Dance, you little twat! No? So piss off. He's not doing any more fucking ballet, and if you go anywhere near him again, I'll smack you one, you middle-class cow! You know nothing about me, you sanctimonious little shit! He won't grow up to race whippets, or grow leeks, or piss his wages up the wall! He's been with me... Ahhh! Billy! Billy! Billy! Billy, come on! Hurry up. Merry Christmas, everybody! Do you think she'll mind? Shut it, Billy. She's dead. Well, Merry Christmas, everybody. - Merry Christmas. - Merry Christmas. Merry Christmas. Fucking great Christmas this has been. Go on. Have some. Where'd you get it? - Me dad's got loads in the kitchen. - Won't he notice? He never knows how much is there.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- I was looking for... - They're out. Sorry. - Billy. - Please, Miss. Don't. What's going on, Billy? Who the fuck are you? I think we better go inside. I know this might be difficult for you, but today Billy missed a very important audition. Audition? For the Royal Ballet School. The Royal Ballet? School. It's where they teach the ballet. You've got to be joking, love. No, I'm perfectly serious. Have you any idea of what we're going through? I've been in a fucking cell all night, and you come around here talking shite! And, you! Fucking ballet! What are you trying to do, make him a fucking scab for the rest of his life? Look at him! He's only 11, for fuck's sake! You've gotta start training from when you're young. Shut it! I'm not having any brother of mine running around like a right twat for your gratification. Excuse me. This is not for my gratification. And what good's it gonna do him? You're not taking him away. He's only a bairn! What about giving him a childhood? I don't want a childhood. I want to be a ballet dancer. And anyway, what do you know about it? What qualifications have you got? I haven't come here to defend meself. Well, for all we know, you could be some fucking nutter. I should get the fucking Social on to you. I think you should calm yourself down, son. You say he can dance. Well, go on, then. - Let's see this fucking dancing. - No. This is ridiculous. If you're a fucking ballet dancer, then let's be having you. Don't you dare! What sort of a teacher are you? He's got the chance to dance. Now, you're fucking telling him not to. Dance, you little twat! No? So piss off. He's not doing any more fucking ballet, and if you go anywhere near him again, I'll smack you one, you middle-class cow! You know nothing about me, you sanctimonious little shit! He won't grow up to race whippets, or grow leeks, or piss his wages up the wall! He's been with me... Ahhh! Billy! Billy! Billy! Billy, come on! Hurry up. Merry Christmas, everybody! Do you think she'll mind? Shut it, Billy. She's dead. Well, Merry Christmas, everybody. - Merry Christmas. - Merry Christmas. Merry Christmas. Fucking great Christmas this has been. Go on. Have some. Where'd you get it? - Me dad's got loads in the kitchen. - Won't he notice? He never knows how much is there."
+      ],
+      "scene_length_chars": 2288,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.012088690884411335,
+        0.00904298946261406,
+        0.6324892044067383,
+        0.4602714478969574,
+        0.0022206720896065235,
+        0.027289072051644325,
+        0.00341789610683918,
+        0.03854796662926674,
+        0.028659725561738014,
+        0.050583869218826294,
+        0.3046199381351471,
+        0.009294223971664906,
+        0.0018060688162222505,
+        0.13271592557430267,
+        0.0018254270544275641,
+        0.003299249103292823,
+        0.003953089471906424,
+        0.19338637590408325,
+        0.015468801371753216,
+        0.002060114173218608,
+        0.011914323084056377,
+        0.003682435257360339,
+        0.005335815250873566,
+        0.0021151211112737656,
+        0.0030581438913941383,
+        0.010954800993204117,
+        0.007567174732685089,
+        0.018945764750242233
+      ],
+      "goemotions_topk": [
+        "anger",
+        "annoyance",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger",
+        "annoyance"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "Tastes like piss. You get used to it. Here. Maybe you could run away or something. You know, join a dancing troupe. Don't be so stupid. Well, maybe it's all for the best. What do you mean? You won't have to go away or nothing. My hands are freezing. Give us them here. What are you doing? Nothing. Just warming your hands up. You're not a poof or aught? What gave you that impression? Aren't me hands cold? I quite like it. Just 'cause I like ballet doesn't mean I'm a poof, you know? You won't tell anyone, will you? Come on. It's fucking freezing in here. Here. - What's this? - Just put it on. A tutu. George. George. There's somebody in the club. ...this kangaroo, he's walking away over it, right? And he's called Norman. And then round the corner came this wallaby. Plié, first. What's a plié? It's French. Why's it French? I don't know. Second. Like a princess. Second, and down. And first. Carry on. Fifth. Shoulders down, long neck. How do I look? Shut up, you poof. Fuck off! Second, and down. And first. Fifth. Second. Down. First. Fifth. Jackie. Jackie, man. Here. Give us your hand. Dance! Dad! Go home, Son. Is this a friend of yours, then? How much is it gonna cost? And a happy Christmas to you, too. Not as much as you might think. Maybe two grand. - But there's a good chance the council's... - Two grand? I was talking about the auditions. Look, it's just a matter of the trip to London. I'll give you the money for the fare. I didn't come here to be patronized. Oh, no one's trying to patronize you. You're being ridiculous. - Am I? - Yes! Thanks for everything you've done for Billy. But he is my son, isn't he? I'll handle this myself. Hey, fellow. Name. You. Paul. Surname. - Felton. - Felton. Shorty. You. - What? Thorpe. - Thorpe. - Smith. - Smith. - Glenton. - Glenton. - Kerner. - Kerner. Is that the lot, then? Fucking hell. I never thought I'd see you down here. Things change. Right, you, name. Jackie Elliot. Well, glad to see you've come to your senses. Who's a big man now? Right. Okay, you lot. Over here. All aboard the skylark. Look lively. Can't smoke on here, mate. These are private buses. Scab! Scab! Scab! Scab! Scab! Scab! Keep back! Scab! Scab! Scab! Scab! Scab! Scab... Fuck off! Dad! Dad! Give us a hand. Dad! What the fuck are you doing? Dad, you can't go back! Not now! Look at the state of us, man.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Tastes like piss. You get used to it. Here. Maybe you could run away or something. You know, join a dancing troupe. Don't be so stupid. Well, maybe it's all for the best. What do you mean? You won't have to go away or nothing. My hands are freezing. Give us them here. What are you doing? Nothing. Just warming your hands up. You're not a poof or aught? What gave you that impression? Aren't me hands cold? I quite like it. Just 'cause I like ballet doesn't mean I'm a poof, you know? You won't tell anyone, will you? Come on. It's fucking freezing in here. Here. - What's this? - Just put it on. A tutu. George. George. There's somebody in the club. ...this kangaroo, he's walking away over it, right? And he's called Norman. And then round the corner came this wallaby. Plié, first. What's a plié? It's French. Why's it French? I don't know. Second. Like a princess. Second, and down. And first. Carry on. Fifth. Shoulders down, long neck. How do I look? Shut up, you poof. Fuck off! Second, and down. And first. Fifth. Second. Down. First. Fifth. Jackie. Jackie, man. Here. Give us your hand. Dance! Dad! Go home, Son. Is this a friend of yours, then? How much is it gonna cost? And a happy Christmas to you, too. Not as much as you might think. Maybe two grand. - But there's a good chance the council's... - Two grand? I was talking about the auditions. Look, it's just a matter of the trip to London. I'll give you the money for the fare. I didn't come here to be patronized. Oh, no one's trying to patronize you. You're being ridiculous. - Am I? - Yes! Thanks for everything you've done for Billy. But he is my son, isn't he? I'll handle this myself. Hey, fellow. Name. You. Paul. Surname. - Felton. - Felton. Shorty. You. - What? Thorpe. - Thorpe. - Smith. - Smith. - Glenton. - Glenton. - Kerner. - Kerner. Is that the lot, then? Fucking hell. I never thought I'd see you down here. Things change. Right, you, name. Jackie Elliot. Well, glad to see you've come to your senses. Who's a big man now? Right. Okay, you lot. Over here. All aboard the skylark. Look lively. Can't smoke on here, mate. These are private buses. Scab! Scab! Scab! Scab! Scab! Scab! Keep back! Scab! Scab! Scab! Scab! Scab! Scab... Fuck off! Dad! Dad! Give us a hand. Dad! What the fuck are you doing? Dad, you can't go back! Not now! Look at the state of us, man."
+      ],
+      "scene_length_chars": 2346,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009252706542611122,
+        0.003535321680828929,
+        0.32050254940986633,
+        0.11243650317192078,
+        0.0019664408173412085,
+        0.006139866542071104,
+        0.1378791183233261,
+        0.4871269762516022,
+        0.003397006308659911,
+        0.0032255398109555244,
+        0.0005423703114502132,
+        0.002211975399404764,
+        0.0007848786190152168,
+        0.008693506009876728,
+        0.0010445531224831939,
+        0.32193294167518616,
+        0.001042077667079866,
+        0.005903106648474932,
+        0.002546504605561495,
+        0.0009751190082170069,
+        0.010173550806939602,
+        0.0020955135114490986,
+        0.004998384974896908,
+        0.0011277205776423216,
+        0.0007103069801814854,
+        0.001092129503376782,
+        0.012775267474353313,
+        0.06985581666231155
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "What we got to offer the poor sod? You can't do this! Not now! Not after all this time! Not after everything we've been through! It's for wee Billy! He may be a fucking genius for all we know! For fuck's sake, Dad! You can't do this, man! Dad! Dad! Tony! He's only 11, for fuck's sake. He's a kid. He's just a fucking little kid. I'm sorry. I'm sorry. Please. Please. I'm sorry, Son. We're finished, Son. What choice have we got? Let's give the boy a fucking chance! Please. Please, don't do this to me. Dad, we'll find him some money. We'll find it for him. What the fuck is he doing, Tony? It's okay. He's gonna be okay. Just get him out of here, Tony. Away. Leave it. Go on. Leave it. Let's go home, Dad. Dad's right, you know. Mom would've let you. All them 50 pences. Here. It was a toss-up between a new punch bag or you. It's not even enough for the bed and breakfast, man. Forget about it. You're dreaming. Look at youse. Fucking scrabbling round for 50 pences. You've got to do better than that. How! I'm gonna have a raffle at the welfare. And I'm gonna organize a concert. Thanks, George. Sheila's not got that kind of money. She can't even keep the soup kitchen open. George said we can have another whip-round. Billy, there's no money left. Get that through your head, man! The lads will always dip into their buckets if we ask them. George, you know there's nothing left. Stop putting ideas in his head, man! Come on, lads. Dig deep for the miners. Is that absolutely necessary? Walk normal, will you? So what's it like, like? What's what like? London. I don't know, son. I never made it past Durham. Have you never been, like? Why would I want to go to London? It's the capital city. Well, there's no mines in London. Christ. Is that all you think about? Can I help you? Billy Elliot. We've come for an audition. You mean William Elliot? Yeah, William. Yes. Can you go upstairs, please? - This way? - Yes. Thanks. - This your first time? - Yeah. I've been doing this for two years now. Hello. Nerve-racking, isn't it? Where are you from? Everington, County Durham. Durham? Isn't there an amazing cathedral? Don't know. Never been. Up on the box, please. All right, bend over. Right down. And come up. And up. Head down. Tiny curvature here. Head down! How tiny? Might not be a problem. Come on.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What we got to offer the poor sod? You can't do this! Not now! Not after all this time! Not after everything we've been through! It's for wee Billy! He may be a fucking genius for all we know! For fuck's sake, Dad! You can't do this, man! Dad! Dad! Tony! He's only 11, for fuck's sake. He's a kid. He's just a fucking little kid. I'm sorry. I'm sorry. Please. Please. I'm sorry, Son. We're finished, Son. What choice have we got? Let's give the boy a fucking chance! Please. Please, don't do this to me. Dad, we'll find him some money. We'll find it for him. What the fuck is he doing, Tony? It's okay. He's gonna be okay. Just get him out of here, Tony. Away. Leave it. Go on. Leave it. Let's go home, Dad. Dad's right, you know. Mom would've let you. All them 50 pences. Here. It was a toss-up between a new punch bag or you. It's not even enough for the bed and breakfast, man. Forget about it. You're dreaming. Look at youse. Fucking scrabbling round for 50 pences. You've got to do better than that. How! I'm gonna have a raffle at the welfare. And I'm gonna organize a concert. Thanks, George. Sheila's not got that kind of money. She can't even keep the soup kitchen open. George said we can have another whip-round. Billy, there's no money left. Get that through your head, man! The lads will always dip into their buckets if we ask them. George, you know there's nothing left. Stop putting ideas in his head, man! Come on, lads. Dig deep for the miners. Is that absolutely necessary? Walk normal, will you? So what's it like, like? What's what like? London. I don't know, son. I never made it past Durham. Have you never been, like? Why would I want to go to London? It's the capital city. Well, there's no mines in London. Christ. Is that all you think about? Can I help you? Billy Elliot. We've come for an audition. You mean William Elliot? Yeah, William. Yes. Can you go upstairs, please? - This way? - Yes. Thanks. - This your first time? - Yeah. I've been doing this for two years now. Hello. Nerve-racking, isn't it? Where are you from? Everington, County Durham. Durham? Isn't there an amazing cathedral? Don't know. Never been. Up on the box, please. All right, bend over. Right down. And come up. And up. Head down. Tiny curvature here. Head down! How tiny? Might not be a problem. Come on."
+      ],
+      "scene_length_chars": 2309,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.004965920466929674,
+        0.0008802160737104714,
+        0.25991711020469666,
+        0.016878539696335793,
+        0.005672519560903311,
+        0.03570319339632988,
+        0.01066630706191063,
+        0.5016042590141296,
+        0.005352414678782225,
+        0.005416204687207937,
+        0.003639790927991271,
+        0.003067322075366974,
+        0.001172341755591333,
+        0.003637644462287426,
+        0.0008831666200421751,
+        0.6516692042350769,
+        0.006933945696800947,
+        0.00067136186407879,
+        0.0008717032033018768,
+        0.0004097612400073558,
+        0.0065526501275599,
+        0.0009464791510254145,
+        0.0034885129425674677,
+        0.0025044248905032873,
+        0.02026713453233242,
+        0.06604743003845215,
+        0.005030914209783077,
+        0.014383048750460148
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "anger"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "Keep going. Right. All right. Jump up, William. It's Billy. Billy Elliot. Two, three, and four. Dad. Dad! Dad, for fuck's sake! I changed me mind. Get back in there! Don't be so stupid! And you are? Billy Elliot from Everington. I beg your pardon? Billy Elliot. Yes, of course. Come to the bar, please, Billy. Left arm on the bar. Feet first. Arms second. Demi-plié, and hold. Now, Billy, we'd like to see you move to some music. Do you have a piece prepared? Thank you. You all right? What's the matter? It was a waste of fucking time! Don't be upset. It's only a stupid audition. - It's all right. - Fuck off! There's always next year. Look, fuck off, will you! You bent bastard! What on earth is going on here? How did it go? Shit! Mr Elliot, I'm afraid that mutual respect and self-discipline are absolute prerequisites for any pupil in this school. Such displays of violence cannot be tolerated under any circumstances. Do you understand? I realize we shall have to consider this very seriously, and it will be bound to affect our final decision. Yes, well, just a few questions, then. Billy, can you tell us why you first became interested in the ballet? Don't know. Just was. Well, was there any particular aspect of the ballet which caught your imagination? The dancing. He dances all the time. Every night after school. Yes. Well, we have a very enthusiastic letter from Mrs Wilkinson, and she has told us of your personal circumstances. Mr Elliot, are you a fan of the ballet? I wouldn't exactly say I was an expert. You do realize that all pupils must attain the highest standards, not just in ballet, but in their ordinary academic work. No child can succeed without the 100% support of the family. You are completely behind Billy. Are you not? Yes. Yes, of course. Do you want to ask us any questions? No, not really. No. Well, in that case, we shall let you know in due course. Just one last question. Can I ask you, Billy, what does it feel like when you're dancing? Don't know. Sort of feels good. It's sort of stiff and that, but once I get going, then I forget everything. And, sort of disappear. Sort of disappear. Like I feel a change in me whole body. Like there's fire in me body. I'm just there, flying. Like a bird. Like electricity. Yeah. Like electricity.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Keep going. Right. All right. Jump up, William. It's Billy. Billy Elliot. Two, three, and four. Dad. Dad! Dad, for fuck's sake! I changed me mind. Get back in there! Don't be so stupid! And you are? Billy Elliot from Everington. I beg your pardon? Billy Elliot. Yes, of course. Come to the bar, please, Billy. Left arm on the bar. Feet first. Arms second. Demi-plié, and hold. Now, Billy, we'd like to see you move to some music. Do you have a piece prepared? Thank you. You all right? What's the matter? It was a waste of fucking time! Don't be upset. It's only a stupid audition. - It's all right. - Fuck off! There's always next year. Look, fuck off, will you! You bent bastard! What on earth is going on here? How did it go? Shit! Mr Elliot, I'm afraid that mutual respect and self-discipline are absolute prerequisites for any pupil in this school. Such displays of violence cannot be tolerated under any circumstances. Do you understand? I realize we shall have to consider this very seriously, and it will be bound to affect our final decision. Yes, well, just a few questions, then. Billy, can you tell us why you first became interested in the ballet? Don't know. Just was. Well, was there any particular aspect of the ballet which caught your imagination? The dancing. He dances all the time. Every night after school. Yes. Well, we have a very enthusiastic letter from Mrs Wilkinson, and she has told us of your personal circumstances. Mr Elliot, are you a fan of the ballet? I wouldn't exactly say I was an expert. You do realize that all pupils must attain the highest standards, not just in ballet, but in their ordinary academic work. No child can succeed without the 100% support of the family. You are completely behind Billy. Are you not? Yes. Yes, of course. Do you want to ask us any questions? No, not really. No. Well, in that case, we shall let you know in due course. Just one last question. Can I ask you, Billy, what does it feel like when you're dancing? Don't know. Sort of feels good. It's sort of stiff and that, but once I get going, then I forget everything. And, sort of disappear. Sort of disappear. Like I feel a change in me whole body. Like there's fire in me body. I'm just there, flying. Like a bird. Like electricity. Yeah. Like electricity."
+      ],
+      "scene_length_chars": 2281,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.04477367922663689,
+        0.002229253062978387,
+        0.3112727999687195,
+        0.04159888997673988,
+        0.11883115023374557,
+        0.036846745759248734,
+        0.0060156588442623615,
+        0.3702690899372101,
+        0.03049376793205738,
+        0.0012395490193739533,
+        0.0035839893389493227,
+        0.0021130836103111506,
+        0.001358570414595306,
+        0.2568517029285431,
+        0.07063852995634079,
+        0.26476654410362244,
+        0.004364594351500273,
+        0.0075560384429991245,
+        0.005699097644537687,
+        0.0034601904917508364,
+        0.0063943988643586636,
+        0.019500402733683586,
+        0.11910546571016312,
+        0.003470831783488393,
+        0.0031770586501806974,
+        0.0017813189188018441,
+        0.011703099124133587,
+        0.1733199954032898
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "Have a safe journey home. Mr Elliot, good luck with the strike. Toast! I think you should get yourself a trade, son. Something useful. I could have been a professional dancer. What happened to the dinosaurs, Miss? They were crushed as well, and the pressure of all of this caused the plants and trees to change into coal. - Ow! - That's what must have happened to her. Michael Caffrey, if you have got something to say, you can say it to the class. Sorry, Miss. So, gradually, over hundreds of thousands of years... Post! This is it. - Have you heard anything yet? - Not yet. You'll have no problem, man. Fingers crossed. I got in. He did it! He fucking did it! Jackie, have you not heard, man? We're going back. Strike's over, Jackie. The union caved in yesterday. I think I'm scared, Dad. That's okay, Son. We're all scared. Well, if I don't like it, can I still come back? You kidding? We've let out your room. Whoo! Four, five, six, seven, eight. And one, two, three, four, five, six, seven. Keep going, girls! Three, four, five... Miss, I just came to tell you. It's all right, Billy. I heard it from Debbie. Look, it was just... Well, you know, after everything. - I'll miss you, Miss. - No, you won't. I will. Honest. This is when you go out and find life, and all those other things. The best of luck, Billy. Right. Back to the bar, girls. And again. Thank you. One, two, three, four... Debbie, eyes front. Seven and eight. And one, two, three, four, five, six, seven... - Was she there? - Yeah. - You'll miss the bus. - We're off. I'll take it. Give us the bag. Okay, right, we don't have time for this. I'll take it. Good-bye, Billy. See you. Oi! Dancing boy! We'll miss the bus, Billy. Will you stop being an old fucking woman? See you, then. I'll miss you. What? Can't hear you. Dad. Come on, man. We're gonna be late. Dad! Come on! Show's just started. Excuse me. Can you tell Billy Elliot that his family's here? - Sorry, mate. - It's all right, Tony. It's me, Michael. Remember? It's Michael. What the bloody hell are you doing here? I wouldn't have missed it for the world. Stand by, please. Billy, your family are here. Thanks.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Have a safe journey home. Mr Elliot, good luck with the strike. Toast! I think you should get yourself a trade, son. Something useful. I could have been a professional dancer. What happened to the dinosaurs, Miss? They were crushed as well, and the pressure of all of this caused the plants and trees to change into coal. - Ow! - That's what must have happened to her. Michael Caffrey, if you have got something to say, you can say it to the class. Sorry, Miss. So, gradually, over hundreds of thousands of years... Post! This is it. - Have you heard anything yet? - Not yet. You'll have no problem, man. Fingers crossed. I got in. He did it! He fucking did it! Jackie, have you not heard, man? We're going back. Strike's over, Jackie. The union caved in yesterday. I think I'm scared, Dad. That's okay, Son. We're all scared. Well, if I don't like it, can I still come back? You kidding? We've let out your room. Whoo! Four, five, six, seven, eight. And one, two, three, four, five, six, seven. Keep going, girls! Three, four, five... Miss, I just came to tell you. It's all right, Billy. I heard it from Debbie. Look, it was just... Well, you know, after everything. - I'll miss you, Miss. - No, you won't. I will. Honest. This is when you go out and find life, and all those other things. The best of luck, Billy. Right. Back to the bar, girls. And again. Thank you. One, two, three, four... Debbie, eyes front. Seven and eight. And one, two, three, four, five, six, seven... - Was she there? - Yeah. - You'll miss the bus. - We're off. I'll take it. Give us the bag. Okay, right, we don't have time for this. I'll take it. Good-bye, Billy. See you. Oi! Dancing boy! We'll miss the bus, Billy. Will you stop being an old fucking woman? See you, then. I'll miss you. What? Can't hear you. Dad. Come on, man. We're gonna be late. Dad! Come on! Show's just started. Excuse me. Can you tell Billy Elliot that his family's here? - Sorry, mate. - It's all right, Tony. It's me, Michael. Remember? It's Michael. What the bloody hell are you doing here? I wouldn't have missed it for the world. Stand by, please. Billy, your family are here. Thanks."
+      ],
+      "scene_length_chars": 2144,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.013098367489874363,
+        0.009087100625038147,
+        0.0196017287671566,
+        0.013114404864609241,
+        0.0023575362283736467,
+        0.0826461911201477,
+        0.008902530185878277,
+        0.07352033257484436,
+        0.006005832459777594,
+        0.029061898589134216,
+        0.00532535882666707,
+        0.0052920444868505,
+        0.0067547280341386795,
+        0.008426123298704624,
+        0.33175691962242126,
+        0.5828688740730286,
+        0.07910040766000748,
+        0.00724595645442605,
+        0.0016227640444412827,
+        0.02317390777170658,
+        0.11838149279356003,
+        0.015579032711684704,
+        0.012347597628831863,
+        0.05138090252876282,
+        0.03272203728556633,
+        0.33065319061279297,
+        0.020889675244688988,
+        0.009246084839105606
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "fear",
+        "sadness"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 13,
+    "lines_per_scene_fallback": 20
+  }
+}

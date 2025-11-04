@@ -1,0 +1,375 @@
+{
+  "source_file": "Triangle _2007_ - full transcript.txt",
+  "title": "Triangle",
+  "year": "2007",
+  "meta_description": null,
+  "num_scenes": 7,
+  "avg_scene_chars": 2058,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Make up your mind. You can't pay anymore. You'll lose your house. Look, I'll save a space with my taxi. You bring the 3 guys and drop 'em off. I move my taxi and you take my space. The 3 guys rob the jewelry store. Sit back and relax. You wait for 'em to come out. Then you drive 'em straight to Kam Tin junkyard. The rest is all set up. Deal? What if my car breaks down? What about red lights? I can't run 'em. Pretend they're green. Don't spoil everything. We only get one chance. What if the engine dies? I'll be in my car. I'll pick you up. Excuse me! What will I drive? A van. Too slow to lose the cops. Do you trust me? Yes. But give me the van first. I want to test drive it. No problem. They should try somewhere else. It's too dangerous. Why? Too many traffic lights. One red light and we're dead. Here. For your daughter's birthday. Something kids like? It's all the rage. See if she likes it. I can always change it. I put your shop on the market. Let's talk about it later. Leave the talking to later. You really want to sell your shop? Sam, we're buddies... I saw you talk to Fai. I don't know what your are up to. Don't do anything dumb. Look on the bright side, antique dealer. Making money, that's all we think of. If it was easy, you'd be rich, not a taxi driver. Antique dealer, you're hard-pressed, like us. We're all hard-pressed. Never mind. I can help you find a solution. Is it money? I know a place that'll make you rich. Here's my card. I've given you the option. Up to you to decide if you're interested. Here's a gold coin. The antique dealer will know what it's worth. I'm pregnant. I'm pregnant. My husband's infertile. The doctors confirmed it. He's gonna find out. What should I do? And he's been giving me pills. What pills? Are you sick? No. That's why I'm scared. He says they're vitamins, but he won't show me the bottle. He bought an insurance policy in my name. I'm scared. His first wife disappeared in strange circumstances. He was living off the insurance money. But it's all gone. He's hard-pressed. Don't worry. I'll have him watched. He won't hurt you. Mr Lee, it'd be a shame to melt it. Never mind. I need money. Mok? What is it, Sam? The gold coin... What? It's unusual. I want you to take a look. Got the guy's card? Chan Fok Shui... Let's call him, get to the bottom of this.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Make up your mind. You can't pay anymore. You'll lose your house. Look, I'll save a space with my taxi. You bring the 3 guys and drop 'em off. I move my taxi and you take my space. The 3 guys rob the jewelry store. Sit back and relax. You wait for 'em to come out. Then you drive 'em straight to Kam Tin junkyard. The rest is all set up. Deal? What if my car breaks down? What about red lights? I can't run 'em. Pretend they're green. Don't spoil everything. We only get one chance. What if the engine dies? I'll be in my car. I'll pick you up. Excuse me! What will I drive? A van. Too slow to lose the cops. Do you trust me? Yes. But give me the van first. I want to test drive it. No problem. They should try somewhere else. It's too dangerous. Why? Too many traffic lights. One red light and we're dead. Here. For your daughter's birthday. Something kids like? It's all the rage. See if she likes it. I can always change it. I put your shop on the market. Let's talk about it later. Leave the talking to later. You really want to sell your shop? Sam, we're buddies... I saw you talk to Fai. I don't know what your are up to. Don't do anything dumb. Look on the bright side, antique dealer. Making money, that's all we think of. If it was easy, you'd be rich, not a taxi driver. Antique dealer, you're hard-pressed, like us. We're all hard-pressed. Never mind. I can help you find a solution. Is it money? I know a place that'll make you rich. Here's my card. I've given you the option. Up to you to decide if you're interested. Here's a gold coin. The antique dealer will know what it's worth. I'm pregnant. I'm pregnant. My husband's infertile. The doctors confirmed it. He's gonna find out. What should I do? And he's been giving me pills. What pills? Are you sick? No. That's why I'm scared. He says they're vitamins, but he won't show me the bottle. He bought an insurance policy in my name. I'm scared. His first wife disappeared in strange circumstances. He was living off the insurance money. But it's all gone. He's hard-pressed. Don't worry. I'll have him watched. He won't hurt you. Mr Lee, it'd be a shame to melt it. Never mind. I need money. Mok? What is it, Sam? The gold coin... What? It's unusual. I want you to take a look. Got the guy's card? Chan Fok Shui... Let's call him, get to the bottom of this."
+      ],
+      "scene_length_chars": 2323,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.003660147311165929,
+        0.00199613138101995,
+        0.019382458180189133,
+        0.012289534322917461,
+        0.02357611618936062,
+        0.35976162552833557,
+        0.011114035733044147,
+        0.6022780537605286,
+        0.013605661690235138,
+        0.002161487238481641,
+        0.004096921067684889,
+        0.007316151633858681,
+        0.002436346374452114,
+        0.004005630034953356,
+        0.5681493282318115,
+        0.0010744435712695122,
+        0.00981688592582941,
+        0.0017018970102071762,
+        0.0015740852104499936,
+        0.02331448905169964,
+        0.1718573421239853,
+        0.0021164254285395145,
+        0.00828633364289999,
+        0.001633510342799127,
+        0.0013277424732223153,
+        0.005409033503383398,
+        0.004141198471188545,
+        0.11226678639650345
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "fear",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "caring",
+        "curiosity",
+        "fear"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Use a public phone. No answer. Why would he give us that coin? No-one gives out money for no reason. This must be a TV gag. Stop washing dishes! I told you to stop washing dishes! Why? I'll pay your debts. You got no money. You're a nobody! I've got money. I'll pay off the debts. You drive a taxi. You don't have money. Just leave! What's this? Remember last night? You asked to try the car. I was drunk. Forget what I said. We can't do this. Getting cold feet? Sam, I made this soup for you. Thanks. You treat him better than your own son. That's because he's a good boy. Mok was right. We shouldn't break the law. I'm meeting the \"Brothers\"! We're stuck. Be reasonable, don't do this! Count me out. Brother Dragon, Brother Kun... Order something. The food's delicious. Where's the driver? He's busy. What? He can't come. Don't mess with us! Is he our driver? Don't know him. My phone's broken. I'll use yours. No problem. What's his name? I'll call him. I'll do it. Lee Bo Sam. I'll call him... Wong Jin Wen? I'll find a driver in 2 days. What's the problem? Got some numbers you don't want us to see? Absolutely not. If in 3 days, you haven't brought us a driver... you'll end up in a wheelchair. Understood. Take care. \"Chan Fok Shui...\" \"was hospitalized 4 months ago for a serious illness.\" \"Last night around 10 PM,\" \"he left the hospital on his own\" \"and was found dead at home\" \"at 5 AM this morning.\" \"The cause of death is not suspicious.\" \"Chan Fok Shui owns a construction business...\" The guy we met... Chan Fok Shui. No wonder he didn't answer our calls. He was dead. You called him? So what? Where's the gold coin? Let me see. He had a website. He's here. Who? My husband. Maybe the password's his name... The password... Honey... why are you here? Do you meet May here? Don't deny it! I checked your messages! May is my best friend! PASSWORD I've given you the option. Up to you to decide if you're interested. The Legislative Council? Women's restroom, first floor. What Chan wanted us to find is underneath. What's in the chest? Women's restroom? How do we get in the building? Follow his map. A public passageway runs along the building. There's a door to the water control room. There are fountains outside. The pipes are connected. From the control room, you follow the pipe to the basement.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Use a public phone. No answer. Why would he give us that coin? No-one gives out money for no reason. This must be a TV gag. Stop washing dishes! I told you to stop washing dishes! Why? I'll pay your debts. You got no money. You're a nobody! I've got money. I'll pay off the debts. You drive a taxi. You don't have money. Just leave! What's this? Remember last night? You asked to try the car. I was drunk. Forget what I said. We can't do this. Getting cold feet? Sam, I made this soup for you. Thanks. You treat him better than your own son. That's because he's a good boy. Mok was right. We shouldn't break the law. I'm meeting the \"Brothers\"! We're stuck. Be reasonable, don't do this! Count me out. Brother Dragon, Brother Kun... Order something. The food's delicious. Where's the driver? He's busy. What? He can't come. Don't mess with us! Is he our driver? Don't know him. My phone's broken. I'll use yours. No problem. What's his name? I'll call him. I'll do it. Lee Bo Sam. I'll call him... Wong Jin Wen? I'll find a driver in 2 days. What's the problem? Got some numbers you don't want us to see? Absolutely not. If in 3 days, you haven't brought us a driver... you'll end up in a wheelchair. Understood. Take care. \"Chan Fok Shui...\" \"was hospitalized 4 months ago for a serious illness.\" \"Last night around 10 PM,\" \"he left the hospital on his own\" \"and was found dead at home\" \"at 5 AM this morning.\" \"The cause of death is not suspicious.\" \"Chan Fok Shui owns a construction business...\" The guy we met... Chan Fok Shui. No wonder he didn't answer our calls. He was dead. You called him? So what? Where's the gold coin? Let me see. He had a website. He's here. Who? My husband. Maybe the password's his name... The password... Honey... why are you here? Do you meet May here? Don't deny it! I checked your messages! May is my best friend! PASSWORD I've given you the option. Up to you to decide if you're interested. The Legislative Council? Women's restroom, first floor. What Chan wanted us to find is underneath. What's in the chest? Women's restroom? How do we get in the building? Follow his map. A public passageway runs along the building. There's a door to the water control room. There are fountains outside. The pipes are connected. From the control room, you follow the pipe to the basement."
+      ],
+      "scene_length_chars": 2314,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.001005292171612382,
+        0.0007723582093603909,
+        0.12026108056306839,
+        0.09877917170524597,
+        0.0022271403577178717,
+        0.0393381305038929,
+        0.01199318002909422,
+        0.5740671753883362,
+        0.0022223470732569695,
+        0.0013434990542009473,
+        0.008917736820876598,
+        0.001107189804315567,
+        0.0006429777713492513,
+        0.001990007469430566,
+        0.0013122507371008396,
+        0.12202349305152893,
+        0.0022479805629700422,
+        0.0007846908993087709,
+        0.0015896776458248496,
+        0.00029158679535612464,
+        0.0006348335300572217,
+        0.0008671532850712538,
+        0.002830239711329341,
+        0.0016166336135938764,
+        0.0012573611456900835,
+        0.001475884928368032,
+        0.014036268927156925,
+        0.41312113404273987
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "When they built the subway, the building was damaged, then renovated. Chan was one of the construction workers. That must be when he found the chest. The Legislative Council. Worse than a bank Come over here. A snitch told us 3 mainlanders are planning a heist. See if you get any leads. Yes, sir! What? Sam wants out? See me tomorrow. We'll talk then. I can't convince him. Sam's got cold feet. He wants out? Remember what I paid you? We have a new job. There's a place with a hidden chest... He's going to steal it. Steal what? What's bigger than the jewelry store? The Legislative Council. A chest in the basement. Your last installment. Don't try to screw me. Brother Dragon. Brother Kun, Brother Big Head. Are you with a friend? I'm alone. Found a driver yet? Yes. He's trying the car. Enjoy the sauna. Brother Kun. Talk. The guy in the sauna is the driver. I've told him about the heist. But he refuses to be the driver. Get all the tools ready... Get all the tools ready... Can't mess up. This is Wen. Leave me a message. This is Ling. He's getting the tools ready. I think he's going to the Legislative Council. Miss, is everything OK? He locked me up. But I managed to escape. Where are you? In a taxi, going to the hospital. I'm going to the Legislative Council. I'll come to the hospital after. Wen, where are you? What's the matter? There's a hit and run case, a guy died at the scene. Go over and handle it. Do you hear me? The cop! I'll get to it. We're gonna get caught. Hey, they're not after us. Must be another case. Stand back. My mom says it's dinnertime. \"Until mountains crumble, streams run dry.\" \"Until thunder rumbles in winter, snow falls in summer.\" \"And earth mingles with sky. Not till then do us part.\" How's my baby? The test says you're not pregnant. Stop thinking too much. Still taking the tranquilizers? Don't take them on an empty stomach. What do you make of this? In the Tang Dynasty, there was a period of time, rich people gave robes made of gold to loved ones. Chan was smart. He cemented the chest to preserve the body. A sword as a burial gift, is that common? Not for women. She took her life to be with her husband. What did the doctor say? That I'm pregnant. Told me to rest. You almost lost the baby. We can't stay here. We must leave Hong Kong.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "When they built the subway, the building was damaged, then renovated. Chan was one of the construction workers. That must be when he found the chest. The Legislative Council. Worse than a bank Come over here. A snitch told us 3 mainlanders are planning a heist. See if you get any leads. Yes, sir! What? Sam wants out? See me tomorrow. We'll talk then. I can't convince him. Sam's got cold feet. He wants out? Remember what I paid you? We have a new job. There's a place with a hidden chest... He's going to steal it. Steal what? What's bigger than the jewelry store? The Legislative Council. A chest in the basement. Your last installment. Don't try to screw me. Brother Dragon. Brother Kun, Brother Big Head. Are you with a friend? I'm alone. Found a driver yet? Yes. He's trying the car. Enjoy the sauna. Brother Kun. Talk. The guy in the sauna is the driver. I've told him about the heist. But he refuses to be the driver. Get all the tools ready... Get all the tools ready... Can't mess up. This is Wen. Leave me a message. This is Ling. He's getting the tools ready. I think he's going to the Legislative Council. Miss, is everything OK? He locked me up. But I managed to escape. Where are you? In a taxi, going to the hospital. I'm going to the Legislative Council. I'll come to the hospital after. Wen, where are you? What's the matter? There's a hit and run case, a guy died at the scene. Go over and handle it. Do you hear me? The cop! I'll get to it. We're gonna get caught. Hey, they're not after us. Must be another case. Stand back. My mom says it's dinnertime. \"Until mountains crumble, streams run dry.\" \"Until thunder rumbles in winter, snow falls in summer.\" \"And earth mingles with sky. Not till then do us part.\" How's my baby? The test says you're not pregnant. Stop thinking too much. Still taking the tranquilizers? Don't take them on an empty stomach. What do you make of this? In the Tang Dynasty, there was a period of time, rich people gave robes made of gold to loved ones. Chan was smart. He cemented the chest to preserve the body. A sword as a burial gift, is that common? Not for women. She took her life to be with her husband. What did the doctor say? That I'm pregnant. Told me to rest. You almost lost the baby. We can't stay here. We must leave Hong Kong."
+      ],
+      "scene_length_chars": 2292,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005141320172697306,
+        0.001977314008399844,
+        0.17313148081302643,
+        0.023345880210399628,
+        0.000915373966563493,
+        0.073013536632061,
+        0.014576956629753113,
+        0.6429091095924377,
+        0.007360642310231924,
+        0.008591905236244202,
+        0.0025161607190966606,
+        0.003569452092051506,
+        0.0021288704592734575,
+        0.0015737749636173248,
+        0.0054468014277517796,
+        0.00032177288085222244,
+        0.012176270596683025,
+        0.0008385003893636167,
+        0.002431444125249982,
+        0.0020680727902799845,
+        0.015775883570313454,
+        0.0005482212291099131,
+        0.010483868420124054,
+        0.00040160410571843386,
+        0.0021124789491295815,
+        0.06293659657239914,
+        0.006796715315431356,
+        0.42018914222717285
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "And go where? You said you'd get rid of my husband. He knows about us, he'll kill me. There's about 300 ounces of gold... It's worth over 1 million dollars. Sam, if we take the robe apart, it's not worth anything. Antiques have no set price. We must keep it intact. What does that mean? No set price? What will we make? What's that for? To show it to an expert. Was I in it? No. I'll take a souvenir photo. Where are you? In a bar, with clients. Which bar? I'll join you. Don't say. She knows the cop. What did you say? What did you say? I saw them chatting in the cybercaf?. She took her life to be with her husband. There you are. Where were you all evening? A business meeting. Business? What business? We need money! We'll lose the house! Did you see May? Tell me, did you see her? Go to her and don't come back! Go! And don't come back! Go! Go! And don't come back! Go! Go! \"Until mountains crumble...\" \"streams run dry...\" \"Until thunder rumbles in winter, snow falls in summer.\" This will calm you down. I'm sorry. \"The police confirm an unidentified male was killed\" \"by a stolen police pistol.\" \"The police are tracing the cartridges to owner.\" \"Anyone who knew the victim should contact the authorities.\" The factory's far from the center. 35,000 square feet. It's empty. The owner's gone. He wants to kill me. I'm gonna die like his ex-wife. She died in a car crash. Nothing suspicious. Otherwise I'd arrest him. \"The body found yesterday\" \"at Wing Lok St.\" \"Still hasn't been identified.\" \"The.38 cartridges at the crime scene\" \"do come from a police pistol.\" \"The police have issued a warrant against its owner.\" Where's Mok? Antique dealer! He's not here. It's still here. Who is Mok? Tell me about him. He was in the army, he killed before. How did he get the money to open this shop? He sold some antiques he found for a fortune. If he's rich, why's he selling his shop? His shares failed. Know him well? Not really... We were only drinking buddies. As for you, you like cars, your mom is a cook... I don't know much about you either. Sometimes I don't even know myself. Perhaps when it's over, we'll know each other better. I saw him at the stall. Why was he there? No idea. Really? You're lying. The guy with my wife is a cop. You knew. He told me... Oh, yeah? They weren't just chatting.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "And go where? You said you'd get rid of my husband. He knows about us, he'll kill me. There's about 300 ounces of gold... It's worth over 1 million dollars. Sam, if we take the robe apart, it's not worth anything. Antiques have no set price. We must keep it intact. What does that mean? No set price? What will we make? What's that for? To show it to an expert. Was I in it? No. I'll take a souvenir photo. Where are you? In a bar, with clients. Which bar? I'll join you. Don't say. She knows the cop. What did you say? What did you say? I saw them chatting in the cybercaf?. She took her life to be with her husband. There you are. Where were you all evening? A business meeting. Business? What business? We need money! We'll lose the house! Did you see May? Tell me, did you see her? Go to her and don't come back! Go! And don't come back! Go! Go! And don't come back! Go! Go! \"Until mountains crumble...\" \"streams run dry...\" \"Until thunder rumbles in winter, snow falls in summer.\" This will calm you down. I'm sorry. \"The police confirm an unidentified male was killed\" \"by a stolen police pistol.\" \"The police are tracing the cartridges to owner.\" \"Anyone who knew the victim should contact the authorities.\" The factory's far from the center. 35,000 square feet. It's empty. The owner's gone. He wants to kill me. I'm gonna die like his ex-wife. She died in a car crash. Nothing suspicious. Otherwise I'd arrest him. \"The body found yesterday\" \"at Wing Lok St.\" \"Still hasn't been identified.\" \"The.38 cartridges at the crime scene\" \"do come from a police pistol.\" \"The police have issued a warrant against its owner.\" Where's Mok? Antique dealer! He's not here. It's still here. Who is Mok? Tell me about him. He was in the army, he killed before. How did he get the money to open this shop? He sold some antiques he found for a fortune. If he's rich, why's he selling his shop? His shares failed. Know him well? Not really... We were only drinking buddies. As for you, you like cars, your mom is a cook... I don't know much about you either. Sometimes I don't even know myself. Perhaps when it's over, we'll know each other better. I saw him at the stall. Why was he there? No idea. Really? You're lying. The guy with my wife is a cop. You knew. He told me... Oh, yeah? They weren't just chatting."
+      ],
+      "scene_length_chars": 2306,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0006201280630193651,
+        0.0005302159697748721,
+        0.014568686485290527,
+        0.005807831417769194,
+        0.00087695725960657,
+        0.019030015915632248,
+        0.14280006289482117,
+        0.7264054417610168,
+        0.0017003234243020415,
+        0.006256886292248964,
+        0.0020402749069035053,
+        0.0007979068905115128,
+        0.0015885382890701294,
+        0.0013110550353303552,
+        0.005663169547915459,
+        0.0006487876526080072,
+        0.0190675500780344,
+        0.00042846958967857063,
+        0.0007968678255565464,
+        0.0006491411477327347,
+        0.0017782715149223804,
+        0.0006556073785759509,
+        0.003816115902736783,
+        0.000641458376776427,
+        0.05387585237622261,
+        0.06122784689068794,
+        0.0022974952589720488,
+        0.24780994653701782
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "confusion"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "I saw them! So you knew? You saw it all. You didn't react when she hit you? You didn't say a word. I know she looks like your ex-wife. You know what she's like! Hey! What about you? My \"friend\" makes me work for gangsters? You needed money! What kind of guy are you? I was trying to help you. What is your motive? Tell me... I didn't force you. I didn't force you. Mr. Chung... Where is he? In the shop. This is a wonderful find. We go way back. I'll pay cash for it. What's your offer? 5 million dollars, 200,000 upfront. How much? 5 million. My offer's only good for today. Please excuse us, we have to discuss it. I rather take the money today. What if by tomorrow I'm dead! I'd be happy with 1 million. Give me one day. I'll get a better price. One day. One more day? It's not safe to leave it here! If it's not safe here... where, then? His place? Your place? My place is safer. If you don't feel safe, no place is safe. You want him dead? Fai! What took you so long? Are you in trouble again? No. My passport? Passport? What's the rush? No problem. Don't worry. Mom, this hand cream is for you. Make sure you use it. For me? Use it after washing dishes. On your face too. Good boy. It's for your face and hands. Your skin's all dry. Are you leaving? Yes, I need to go. What's the rush? Here, this is for rent. I'll spare your life if you find us a driver. A life for a life. Or else you and your old mother will both die. Is that clear? Crystal-clear. How'd you find me? What do you think? Where's the chest? Brother Wen? Not checking your messages, you jerk? I've been busy. I can imagine. Nice catch. What's it worth? Let's find a place and meet up. We'll talk it over. Meet at the food stall. OK. I smell my wife's perfume. Slow down. When did it start? Stop! You're not a rally driver anymore! Stop, dammit! Stop! You screw my wife? Yes or no? Stop! Did you screw my wife? Yes! So what? Do you want your mom to eat tonight? Yes, I would like that. Brother Wen, you're late! Such familiarity! You're the spy who squealed to the cops! When did you start screwing my wife? 3 years ago! 3 years. Tell her to come. Mom, listen, stay away from the food stall! Where's the robe? Where's Sam? Vanished. Were you in a fight? Disinfect your wound. Don't bother calling him, I tried. He's not answering. What are you two up to?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I saw them! So you knew? You saw it all. You didn't react when she hit you? You didn't say a word. I know she looks like your ex-wife. You know what she's like! Hey! What about you? My \"friend\" makes me work for gangsters? You needed money! What kind of guy are you? I was trying to help you. What is your motive? Tell me... I didn't force you. I didn't force you. Mr. Chung... Where is he? In the shop. This is a wonderful find. We go way back. I'll pay cash for it. What's your offer? 5 million dollars, 200,000 upfront. How much? 5 million. My offer's only good for today. Please excuse us, we have to discuss it. I rather take the money today. What if by tomorrow I'm dead! I'd be happy with 1 million. Give me one day. I'll get a better price. One day. One more day? It's not safe to leave it here! If it's not safe here... where, then? His place? Your place? My place is safer. If you don't feel safe, no place is safe. You want him dead? Fai! What took you so long? Are you in trouble again? No. My passport? Passport? What's the rush? No problem. Don't worry. Mom, this hand cream is for you. Make sure you use it. For me? Use it after washing dishes. On your face too. Good boy. It's for your face and hands. Your skin's all dry. Are you leaving? Yes, I need to go. What's the rush? Here, this is for rent. I'll spare your life if you find us a driver. A life for a life. Or else you and your old mother will both die. Is that clear? Crystal-clear. How'd you find me? What do you think? Where's the chest? Brother Wen? Not checking your messages, you jerk? I've been busy. I can imagine. Nice catch. What's it worth? Let's find a place and meet up. We'll talk it over. Meet at the food stall. OK. I smell my wife's perfume. Slow down. When did it start? Stop! You're not a rally driver anymore! Stop, dammit! Stop! You screw my wife? Yes or no? Stop! Did you screw my wife? Yes! So what? Do you want your mom to eat tonight? Yes, I would like that. Brother Wen, you're late! Such familiarity! You're the spy who squealed to the cops! When did you start screwing my wife? 3 years ago! 3 years. Tell her to come. Mom, listen, stay away from the food stall! Where's the robe? Where's Sam? Vanished. Were you in a fight? Disinfect your wound. Don't bother calling him, I tried. He's not answering. What are you two up to?"
+      ],
+      "scene_length_chars": 2326,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.05114136263728142,
+        0.0032323359046131372,
+        0.323149174451828,
+        0.17121700942516327,
+        0.02978363446891308,
+        0.3336261510848999,
+        0.008573804050683975,
+        0.7520716786384583,
+        0.012721306644380093,
+        0.0031501275952905416,
+        0.003792381612583995,
+        0.0020538081880658865,
+        0.001040456467308104,
+        0.004151690751314163,
+        0.004068494308739901,
+        0.001746680587530136,
+        0.0023154192604124546,
+        0.0026387881953269243,
+        0.0025582872331142426,
+        0.0025382726453244686,
+        0.02255222387611866,
+        0.0007886002422310412,
+        0.005438284482806921,
+        0.0012301556998863816,
+        0.002310020150616765,
+        0.0028998106718063354,
+        0.0055035739205777645,
+        0.01683705486357212
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "caring",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "Sam... the robe's gone. Where are you? When you have no choice, you have to do what you hate most. I know everything. You broke my heart. I'm sorry. He forced me into this. Forgive me. What're you doing? Answer me! Drop the gun! Drop the gun! Drop the gun! Don't shoot... Is it gold? Son of a bitch! I'll kill you! You're crazy! You're dead! I'll kill you! You're totally crazy! Until mountains crumble and streams run dry Until snow falls in summer and earth mingles with sky Not till than do us part Recognize him? You sent him to steal the robe? No. He sent you to the antique shop? You won't believe me. You trust him more than me? I can give up our friendship and money. But I didn't betray you. Let him go. For the robe, I got 8 million. His car smelled of your perfume. You sent him to the antique shop! Don't touch me! Go to hell. Honey! Honey... Honey... What shall we do? Gotta find the cop. The hospital first! For 8 million, we'll find the cop first. She's in danger! When you have no choice... You do the right thing! The cop... where do we find him? At the hospital, what do we tell the cops? What do we own up to? So, you believed him! We'll say she fell. That sucks. He didn't follow us. Morning... You've got 4 flat tires... Need some help? $500 for one tire... $1,000 for two... $1,500 for three... $2,000 for all four. No kidding? This is a set-up! Call the tow truck yourself. But there's no network here. Let me earn a bit. It's a con! You putting me on? $500 for one tire! $1,000 for two! $1,500 for three! $2,000... Honey... Morning... This must be fate. It's inevitable. Honey, are you OK? I'll give you an extra $1,000. Fix our car first. Have a drink in the village. I'll call you when it's ready. Satisfaction guaranteed. I'll give you a discount next time. The gun! What will you have? 4 white teas. Have a seat. Open it. What for? That's enough. Hey, buddy. It's Wen. When's the first boat? Philippines, Thailand, anywhere. My phone won't work here. I'll call you in half an hour. Thanks. Feel free to use it. Give me egg noodles. Sure. Get out of here. Go on. Morning... Damn, the fuse blew! Got it! Let's go! Where's Fai? How are ya, aunt? Cooking in the dark? Fuse keeps blowing! I'll have to start over! You brought a lot of people for a few guns... The money? Guns! I'm here, it's OK.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Sam... the robe's gone. Where are you? When you have no choice, you have to do what you hate most. I know everything. You broke my heart. I'm sorry. He forced me into this. Forgive me. What're you doing? Answer me! Drop the gun! Drop the gun! Drop the gun! Don't shoot... Is it gold? Son of a bitch! I'll kill you! You're crazy! You're dead! I'll kill you! You're totally crazy! Until mountains crumble and streams run dry Until snow falls in summer and earth mingles with sky Not till than do us part Recognize him? You sent him to steal the robe? No. He sent you to the antique shop? You won't believe me. You trust him more than me? I can give up our friendship and money. But I didn't betray you. Let him go. For the robe, I got 8 million. His car smelled of your perfume. You sent him to the antique shop! Don't touch me! Go to hell. Honey! Honey... Honey... What shall we do? Gotta find the cop. The hospital first! For 8 million, we'll find the cop first. She's in danger! When you have no choice... You do the right thing! The cop... where do we find him? At the hospital, what do we tell the cops? What do we own up to? So, you believed him! We'll say she fell. That sucks. He didn't follow us. Morning... You've got 4 flat tires... Need some help? $500 for one tire... $1,000 for two... $1,500 for three... $2,000 for all four. No kidding? This is a set-up! Call the tow truck yourself. But there's no network here. Let me earn a bit. It's a con! You putting me on? $500 for one tire! $1,000 for two! $1,500 for three! $2,000... Honey... Morning... This must be fate. It's inevitable. Honey, are you OK? I'll give you an extra $1,000. Fix our car first. Have a drink in the village. I'll call you when it's ready. Satisfaction guaranteed. I'll give you a discount next time. The gun! What will you have? 4 white teas. Have a seat. Open it. What for? That's enough. Hey, buddy. It's Wen. When's the first boat? Philippines, Thailand, anywhere. My phone won't work here. I'll call you in half an hour. Thanks. Feel free to use it. Give me egg noodles. Sure. Get out of here. Go on. Morning... Damn, the fuse blew! Got it! Let's go! Where's Fai? How are ya, aunt? Cooking in the dark? Fuse keeps blowing! I'll have to start over! You brought a lot of people for a few guns... The money? Guns! I'm here, it's OK."
+      ],
+      "scene_length_chars": 2318,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005556879565119743,
+        0.0009478490683250129,
+        0.3332221210002899,
+        0.008485552854835987,
+        0.005534859839826822,
+        0.047122787684202194,
+        0.006994791328907013,
+        0.2415505200624466,
+        0.004751516971737146,
+        0.0020547707099467516,
+        0.004247855395078659,
+        0.001885700854472816,
+        0.0010170788737013936,
+        0.0024368923623114824,
+        0.01316087692975998,
+        0.32561370730400085,
+        0.004440915305167437,
+        0.0010526188416406512,
+        0.0026342023629695177,
+        0.0007303860620595515,
+        0.021860679611563683,
+        0.001381021924316883,
+        0.0011926316656172276,
+        0.0014259685995057225,
+        0.0022490296978503466,
+        0.0015552934492006898,
+        0.007034987676888704,
+        0.3397234380245209
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "anger",
+        "gratitude"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": []
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "Wrong bag, we have to go back! Freeze! Freeze! Where's the bag? Where's your bag? My bag... What's in that bag? Where is it? Stand back! Pick it up. Open it. You too! Is it yours? No. Not again! We're going in circles. This way! We're back here again! We're trapped. What should we do? Get down! Come here! Shoot. You killed in the army. Shoot. I had no choice. Nor do we now! We do. Run! All that for this. All for nothing. Not now. Let's go to the hospital. Let's go home. I'm tired. Let's go home. Don't stop. Of course not.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Wrong bag, we have to go back! Freeze! Freeze! Where's the bag? Where's your bag? My bag... What's in that bag? Where is it? Stand back! Pick it up. Open it. You too! Is it yours? No. Not again! We're going in circles. This way! We're back here again! We're trapped. What should we do? Get down! Come here! Shoot. You killed in the army. Shoot. I had no choice. Nor do we now! We do. Run! All that for this. All for nothing. Not now. Let's go to the hospital. Let's go home. I'm tired. Let's go home. Don't stop. Of course not."
+      ],
+      "scene_length_chars": 527,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.0008729952969588339,
+        0.0008385200635530055,
+        0.0885348841547966,
+        0.003809554036706686,
+        0.0011188137577846646,
+        0.05026676133275032,
+        0.007589485961943865,
+        0.8070110082626343,
+        0.007769437972456217,
+        0.0011813838500529528,
+        0.01180614810436964,
+        0.0015516874846071005,
+        0.0033019923139363527,
+        0.003588557243347168,
+        0.022038251161575317,
+        0.002400729339569807,
+        0.005110884550958872,
+        0.000302889064187184,
+        0.0013635390205308795,
+        0.0016287193866446614,
+        0.0018110693199560046,
+        0.0007974853506311774,
+        0.022857729345560074,
+        0.0003854518581647426,
+        0.003968621138483286,
+        0.00173135322984308,
+        0.006385273765772581,
+        0.3077184855937958
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "anger"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 7,
+    "lines_per_scene_fallback": 20
+  }
+}

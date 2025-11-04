@@ -1,0 +1,689 @@
+{
+  "source_file": "Napoleon Dynamite _2004_ - full transcript.txt",
+  "title": "Napoleon Dynamite",
+  "year": "2004",
+  "meta_description": null,
+  "num_scenes": 13,
+  "avg_scene_chars": 2300,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "What are you gonna do today, Napoleon? Whatever I feel like I want to do. Gosh! Your current event, Napoleon. Last week, Japanese scientists explaced... placed explosive detonators at the bottom of Lake Loch Ness... to blow Nessie out of the water. Sir Curt Godfrey of the Nessie Alliance... summoned the help of Scotland's local wizards... to cast a protective spell over the lake and its local residents... and all those who seek for the peaceful existence of our underwater ally. Yes. Yes. Yes. Yes. Hey, Napoleon, what'd you do all last summer again? I told you. I spent it with my uncle in Alaska hunting wolverines. - Did you shoot any? - Yes, like 50 of 'em. They kept tryin' to attack my cousins. What the heck would you do in a situation like that? - What kind of gun did you use? - A frickin' 12-gauge. What do you think? You think you're funny? Just watch your step. But I didn't... Hey, could I use your guys's phone for a sec? - Is there anything wrong? - I don't feel very good. - Hi. - Is Grandma there? No, she's getting her hair done. - What do you need? - Can you just go get her for me? - I'm really busy right now. - Well, just tell her to come get me. - Why? - 'Cause I don't feel good. - Well, have you talked to the school nurse? - No, she doesn't know anything. - Will you just come get me? - No. Well, will you do me a favour then? - What? - Can you bring me my ChapStick? - No, Napoleon. - But my lips hurt real bad. Just borrow some from the school nurse. I know she has, like, five sticks in her drawer. I'm not gonna use hers, you sicko. See ya. Idiot! David Dempke, please come to the office. - David Dempke. - You do understand English? This isn't that complex. Look, the cafeteria's down the hall... to the right and downstairs. Hey, is that a new kid or something? Napoleon, this is Pedro. Would you mind showing him where his locker is? Sure. Come on. You know, there's, like, a butt load of gangs at this school. This one gang kept wanting me to join 'cause I'm pretty good with a bow staff. Do you ride the bus to school? No. I ride my bike. - What kind of bike do you have? - It's a Sledgehammer. Dang! You got shocks, pegs. Lucky! You ever take it off any sweet jumps? You got, like, three feet of air that time. Can I try it really quick?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What are you gonna do today, Napoleon? Whatever I feel like I want to do. Gosh! Your current event, Napoleon. Last week, Japanese scientists explaced... placed explosive detonators at the bottom of Lake Loch Ness... to blow Nessie out of the water. Sir Curt Godfrey of the Nessie Alliance... summoned the help of Scotland's local wizards... to cast a protective spell over the lake and its local residents... and all those who seek for the peaceful existence of our underwater ally. Yes. Yes. Yes. Yes. Hey, Napoleon, what'd you do all last summer again? I told you. I spent it with my uncle in Alaska hunting wolverines. - Did you shoot any? - Yes, like 50 of 'em. They kept tryin' to attack my cousins. What the heck would you do in a situation like that? - What kind of gun did you use? - A frickin' 12-gauge. What do you think? You think you're funny? Just watch your step. But I didn't... Hey, could I use your guys's phone for a sec? - Is there anything wrong? - I don't feel very good. - Hi. - Is Grandma there? No, she's getting her hair done. - What do you need? - Can you just go get her for me? - I'm really busy right now. - Well, just tell her to come get me. - Why? - 'Cause I don't feel good. - Well, have you talked to the school nurse? - No, she doesn't know anything. - Will you just come get me? - No. Well, will you do me a favour then? - What? - Can you bring me my ChapStick? - No, Napoleon. - But my lips hurt real bad. Just borrow some from the school nurse. I know she has, like, five sticks in her drawer. I'm not gonna use hers, you sicko. See ya. Idiot! David Dempke, please come to the office. - David Dempke. - You do understand English? This isn't that complex. Look, the cafeteria's down the hall... to the right and downstairs. Hey, is that a new kid or something? Napoleon, this is Pedro. Would you mind showing him where his locker is? Sure. Come on. You know, there's, like, a butt load of gangs at this school. This one gang kept wanting me to join 'cause I'm pretty good with a bow staff. Do you ride the bus to school? No. I ride my bike. - What kind of bike do you have? - It's a Sledgehammer. Dang! You got shocks, pegs. Lucky! You ever take it off any sweet jumps? You got, like, three feet of air that time. Can I try it really quick?"
+      ],
+      "scene_length_chars": 2277,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.030704179778695107,
+        0.004484234843403101,
+        0.006875038146972656,
+        0.008612233214080334,
+        0.04640137031674385,
+        0.011255952529609203,
+        0.028922952711582184,
+        0.9284577965736389,
+        0.006665442138910294,
+        0.019361699000000954,
+        0.004945656750351191,
+        0.00267646461725235,
+        0.00146624690387398,
+        0.013345091603696346,
+        0.0030372226610779762,
+        0.0006378980469889939,
+        0.0031591507140547037,
+        0.0010009874822571874,
+        0.0010899084154516459,
+        0.0019169222796335816,
+        0.008742371574044228,
+        0.0005967699107713997,
+        0.004169609863311052,
+        0.00042870151810348034,
+        0.0006704796105623245,
+        0.013622223399579525,
+        0.12125467509031296,
+        0.02577928639948368
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "surprise",
+        "approval"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "Dang it! I love the way... your sandy hair... floats in the air. To me it's like a lullaby. I'm just flying by, oh, so high... like a kite tied to a stake. How was school? The worst day of my life. What do you think? Well, I want you to go see if Tina wants some of this. Kip hasn't done flipping anything today. Look, tonight me and your... Kip, listen! What? Tonight me and your aunt are gonna go visit some friends... and we're not gonna be back till tomorrow. We're gettin' low on steak, so I got Lyle comin' over tomorrow to take care of it. - Well, what's there to eat? - Knock it off, Napoleon. Make yourself a dang quesadilla! Fine! I'll be back tomorrow. Stay home and eat all the freakin' chips, Kip! Napoleon, don't be jealous that I've been chatting online with babes all day. Besides, we both know I'm training to become a cage fighter. Since when, Kip? You have the worst reflexes of all time. - Try and hit me, Napoleon. - What? I said come down here and see what happens if you try and hit me. Such an idiot. Let me see what your best move is. I'll go get it. Geez! Um, hello. Would you like to look like this? This is a girl. Because for a limited time only... glamour shots by Deb are 75% off. I already get my hair cut at the Cuttin' Corral. Well, maybe you'd be interested in some home-woven handicrafts. I'm Rex, founder of the Rex Kwon Do Self-Defense System. After one week with me in my dojo, you'll be prepared to defend yourself... with the strength of a grizzly... The reflexes of a puma... and the wisdom of a man. Come down today for your free trial lesson! In here we have some boondoggle key chains. A must-have for this season's fashion. I already made, like, infinity of those at Scout camp. Well, is anyone else here? I'm trying to earn money for college. Your mom goes to college. Let's bring in that... Tina, you fat lard. Come get some dinner. Tina, eat. Eat the food. Eat the food! It'd be nice if you could pull me into town. My name is Rex, and if you study with my eight-week program... you will learn a system of self-defense... that I developed over two seasons of fighting in the Octagon. It's called Rex Kwon Do! I need a volunteer. Okay, you'll do. Come up here. Bow to your sensei. Bow to your sensei! Okay. Now, I'm gonna give you one chance.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Dang it! I love the way... your sandy hair... floats in the air. To me it's like a lullaby. I'm just flying by, oh, so high... like a kite tied to a stake. How was school? The worst day of my life. What do you think? Well, I want you to go see if Tina wants some of this. Kip hasn't done flipping anything today. Look, tonight me and your... Kip, listen! What? Tonight me and your aunt are gonna go visit some friends... and we're not gonna be back till tomorrow. We're gettin' low on steak, so I got Lyle comin' over tomorrow to take care of it. - Well, what's there to eat? - Knock it off, Napoleon. Make yourself a dang quesadilla! Fine! I'll be back tomorrow. Stay home and eat all the freakin' chips, Kip! Napoleon, don't be jealous that I've been chatting online with babes all day. Besides, we both know I'm training to become a cage fighter. Since when, Kip? You have the worst reflexes of all time. - Try and hit me, Napoleon. - What? I said come down here and see what happens if you try and hit me. Such an idiot. Let me see what your best move is. I'll go get it. Geez! Um, hello. Would you like to look like this? This is a girl. Because for a limited time only... glamour shots by Deb are 75% off. I already get my hair cut at the Cuttin' Corral. Well, maybe you'd be interested in some home-woven handicrafts. I'm Rex, founder of the Rex Kwon Do Self-Defense System. After one week with me in my dojo, you'll be prepared to defend yourself... with the strength of a grizzly... The reflexes of a puma... and the wisdom of a man. Come down today for your free trial lesson! In here we have some boondoggle key chains. A must-have for this season's fashion. I already made, like, infinity of those at Scout camp. Well, is anyone else here? I'm trying to earn money for college. Your mom goes to college. Let's bring in that... Tina, you fat lard. Come get some dinner. Tina, eat. Eat the food. Eat the food! It'd be nice if you could pull me into town. My name is Rex, and if you study with my eight-week program... you will learn a system of self-defense... that I developed over two seasons of fighting in the Octagon. It's called Rex Kwon Do! I need a volunteer. Okay, you'll do. Come up here. Bow to your sensei. Bow to your sensei! Okay. Now, I'm gonna give you one chance."
+      ],
+      "scene_length_chars": 2290,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.02053350955247879,
+        0.006645719986408949,
+        0.018813492730259895,
+        0.03724698722362518,
+        0.0311434268951416,
+        0.22987954318523407,
+        0.010101699270308018,
+        0.32250097393989563,
+        0.16150011122226715,
+        0.0035444798413664103,
+        0.0015277996426448226,
+        0.002438497729599476,
+        0.0016283434815704823,
+        0.07384763658046722,
+        0.001435382873751223,
+        0.00683212885633111,
+        0.0008049149182625115,
+        0.009054336696863174,
+        0.3338101804256439,
+        0.0027730276342481375,
+        0.3708380162715912,
+        0.005761304404586554,
+        0.002528697019442916,
+        0.0009084881166927516,
+        0.0005702112684957683,
+        0.0007165516726672649,
+        0.005379451904445887,
+        0.38002142310142517
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "optimism",
+        "love"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "optimism",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "One chance, people. Give me your best shot. All right. That was pretty good. Okay. Now, watch this, everybody. Grab my arm. The other arm. My other arm. Okay, now watch this. I'm just gonna break the wrist and walk away. Break the wrist, walk away. - Geez! - Okay. It's just that simple. Now, I want you to kick me. Come on. Kick me. Okay, do it again. Do it again. - Ouch. - Okay. You'll block it every time. Have a seat. Now, in addition to what you just saw... if you study with my eight-week program, you're gonna learn these things. First off... Rex Kwon Do, we use the buddy system. No more flyin' solo. You need somebody watching your back at all times.! Second off, you're gonna learn to discipline your image. Do you think I got where I am today... because I dress like Peter Pan here? Take a look at what I'm wearing, people. Do you think anybody wants a roundhouse kick to the face... while I'm wearin' these bad boys? Forget about it. Last off... my students will learn about self-respect. Do you think anybody thinks I'm a failure because I go home to Starla at night? Forget about it.! Now, for only $300, you can sign up right now... for my eight-week program. Well, that place was a rip-off. Hey, Lyle. Nothin' on here works smooth. So me and you are pretty much friends by now, right? Yes. So, you got my back and everything? What? Never mind. - Have you heard about the dance? - Yes. Have you met anyone to ask yet? No. But I probably will after school. Who you gonna ask? That girl over there. She braided my hair one time... Summer Wheatly? How the heck are you gonna do that? Build her a cake or something. Yeah, my old girlfriend from Oklahoma... was gonna fly out here for the dance... but she couldn't 'cause she's doing some modelling right now. Is she hot? See for yourself. Wow. Yeah, I took her to the mall to get some glamour shots for her birthday one year. - I like her bangs. - Me too. How long did it take you to grow that moustache? A couple of days. I wish I could grow one. Are you gonna eat your Tots? No. Can I have 'em? You see that girl over there? She came over to my house the other day. - Why? - I don't know... but she left all this crap on my porch. She's pretty good-looking. Do you dare me to go talk to her? Sure. I see you're drinking one-percent.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "One chance, people. Give me your best shot. All right. That was pretty good. Okay. Now, watch this, everybody. Grab my arm. The other arm. My other arm. Okay, now watch this. I'm just gonna break the wrist and walk away. Break the wrist, walk away. - Geez! - Okay. It's just that simple. Now, I want you to kick me. Come on. Kick me. Okay, do it again. Do it again. - Ouch. - Okay. You'll block it every time. Have a seat. Now, in addition to what you just saw... if you study with my eight-week program, you're gonna learn these things. First off... Rex Kwon Do, we use the buddy system. No more flyin' solo. You need somebody watching your back at all times.! Second off, you're gonna learn to discipline your image. Do you think I got where I am today... because I dress like Peter Pan here? Take a look at what I'm wearing, people. Do you think anybody wants a roundhouse kick to the face... while I'm wearin' these bad boys? Forget about it. Last off... my students will learn about self-respect. Do you think anybody thinks I'm a failure because I go home to Starla at night? Forget about it.! Now, for only $300, you can sign up right now... for my eight-week program. Well, that place was a rip-off. Hey, Lyle. Nothin' on here works smooth. So me and you are pretty much friends by now, right? Yes. So, you got my back and everything? What? Never mind. - Have you heard about the dance? - Yes. Have you met anyone to ask yet? No. But I probably will after school. Who you gonna ask? That girl over there. She braided my hair one time... Summer Wheatly? How the heck are you gonna do that? Build her a cake or something. Yeah, my old girlfriend from Oklahoma... was gonna fly out here for the dance... but she couldn't 'cause she's doing some modelling right now. Is she hot? See for yourself. Wow. Yeah, I took her to the mall to get some glamour shots for her birthday one year. - I like her bangs. - Me too. How long did it take you to grow that moustache? A couple of days. I wish I could grow one. Are you gonna eat your Tots? No. Can I have 'em? You see that girl over there? She came over to my house the other day. - Why? - I don't know... but she left all this crap on my porch. She's pretty good-looking. Do you dare me to go talk to her? Sure. I see you're drinking one-percent."
+      ],
+      "scene_length_chars": 2296,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.5396154522895813,
+        0.002029171446338296,
+        0.08689525723457336,
+        0.31732305884361267,
+        0.01517800334841013,
+        0.005992792546749115,
+        0.004690180998295546,
+        0.2766976058483124,
+        0.006677830126136541,
+        0.007894025184214115,
+        0.0018104357877746224,
+        0.0016500785714015365,
+        0.0015105168567970395,
+        0.013496396131813526,
+        0.0009558923193253577,
+        0.003080076305195689,
+        0.0006322969566099346,
+        0.001445016241632402,
+        0.0013476855820044875,
+        0.00044549282756634057,
+        0.021251389756798744,
+        0.005542902275919914,
+        0.004231680650264025,
+        0.0007522927480749786,
+        0.0009252613526768982,
+        0.0009338243980892003,
+        0.008097191341221333,
+        0.06098569557070732
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "annoyance",
+        "curiosity"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Is that 'cause you think you're fat? 'Cause you're not. You could be drinking whole if you wanted to. Well, I have all your equipment in my locker. You should probably come get it 'cause I can't fit my nunchakus in there anymore. Where's your locker? Hey, can I have one of your key chains? Hello? Napoleon, give me some of your Tots. - No, go find your own. - Come on. Give me some of your Tots. No. I'm freakin' starved. I didn't get to eat anything today. G... Gross. Freakin' idiot! Tina, come get some ham. What are you doing here, Uncle Rico? Your grandma took a little spill at the sand dunes today, broke her coccyx. What? Since when does she go to the dunes? Looks like there's a lot you don't know about her. - So, when's Grandma coming back? - I don't know. Not sure. You don't have to stay here with us. We're not babies. Talk to your Auntie Caroline. Well, Kip is, like, 32 years old. I don't mind if you stay. Thanks, Kip. What the flip was Grandma doin' at the sand dunes? She was on a date... with her boyfriend. Boyfriend? Hey, you guys want to see my video? So, what do you think? - It's pretty cool, I guess. - Oh. Man, I wish I could go back in time. I'd take state. This is pretty much the worst video ever made. Napoleon, like anyone can even know that. You know what, Napoleon? You can leave. You guys are retarded. Hey, check that out. So, you and Tammy still together? No. Not really. - Why is that? - Well... she's jealous. Says I'm livin' too much in '82. Well, I dumped her. What about your girlfriend? Well, things are gettin' pretty serious right now. I mean, we chat online for, like, two hours every day... so I guess you could say things are gettin' pretty serious. I'm just really tryin' to raise a few bucks right now so I can bring her around for a few days. Yep. Well, what's she look like? She's, uh... She's got sandy blonde hair. She's, uh, pretty-look... pretty good-looking face, but... I'm just gettin' really... just kinda T.O.'d... because, I mean, she hasn't even sent me a full body shot yet. Hey, you know... I got a little project... that we might be able to make a little moola with. Really? That sounds pretty good. Have you ever heard of nylon polymer? Go for it. Back in '82, I used to be able to throw a pigskin a quarter mile.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Is that 'cause you think you're fat? 'Cause you're not. You could be drinking whole if you wanted to. Well, I have all your equipment in my locker. You should probably come get it 'cause I can't fit my nunchakus in there anymore. Where's your locker? Hey, can I have one of your key chains? Hello? Napoleon, give me some of your Tots. - No, go find your own. - Come on. Give me some of your Tots. No. I'm freakin' starved. I didn't get to eat anything today. G... Gross. Freakin' idiot! Tina, come get some ham. What are you doing here, Uncle Rico? Your grandma took a little spill at the sand dunes today, broke her coccyx. What? Since when does she go to the dunes? Looks like there's a lot you don't know about her. - So, when's Grandma coming back? - I don't know. Not sure. You don't have to stay here with us. We're not babies. Talk to your Auntie Caroline. Well, Kip is, like, 32 years old. I don't mind if you stay. Thanks, Kip. What the flip was Grandma doin' at the sand dunes? She was on a date... with her boyfriend. Boyfriend? Hey, you guys want to see my video? So, what do you think? - It's pretty cool, I guess. - Oh. Man, I wish I could go back in time. I'd take state. This is pretty much the worst video ever made. Napoleon, like anyone can even know that. You know what, Napoleon? You can leave. You guys are retarded. Hey, check that out. So, you and Tammy still together? No. Not really. - Why is that? - Well... she's jealous. Says I'm livin' too much in '82. Well, I dumped her. What about your girlfriend? Well, things are gettin' pretty serious right now. I mean, we chat online for, like, two hours every day... so I guess you could say things are gettin' pretty serious. I'm just really tryin' to raise a few bucks right now so I can bring her around for a few days. Yep. Well, what's she look like? She's, uh... She's got sandy blonde hair. She's, uh, pretty-look... pretty good-looking face, but... I'm just gettin' really... just kinda T.O.'d... because, I mean, she hasn't even sent me a full body shot yet. Hey, you know... I got a little project... that we might be able to make a little moola with. Really? That sounds pretty good. Have you ever heard of nylon polymer? Go for it. Back in '82, I used to be able to throw a pigskin a quarter mile."
+      ],
+      "scene_length_chars": 2281,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.33336341381073,
+        0.003656367538496852,
+        0.008106671273708344,
+        0.26277878880500793,
+        0.0031031782273203135,
+        0.01692609302699566,
+        0.012521694414317608,
+        0.5017455220222473,
+        0.009824291802942753,
+        0.11088181287050247,
+        0.005754323210567236,
+        0.04364335164427757,
+        0.006303634960204363,
+        0.0188310369849205,
+        0.00429757172241807,
+        0.22408026456832886,
+        0.003949782811105251,
+        0.013729817233979702,
+        0.0012259744107723236,
+        0.0015960574382916093,
+        0.012104533612728119,
+        0.019508475437760353,
+        0.0109111862257123,
+        0.051426053047180176,
+        0.0012548234080895782,
+        0.0035711226519197226,
+        0.018888264894485474,
+        0.11732456088066101
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "annoyance"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "- Are you serious? - I'm dead serious. Watch this. What the heck are you doing? That's what I'm talkin' about. I better go. How much you want to make a bet I can throw a football over them mountains? Yeah. If coach would've put me in fourth quarter... we'd have been state champions, no doubt. No doubt in my mind. You better believe things would have been different. I'd have gone pro... in a heartbeat. I'd be makin' millions of dollars and... livin' in a... big ol' mansion somewhere. You know, soakin' it up in a hot tub with my soul mate. Kip... I reckon you know a lot about cyberspace. Y- You ever come across anything like time travel? Easy. I've already looked into it for myself. Right on. Right on. Is Pedro here today? I don't think so. Why? Just wondering. Can you, uh, give this to him for me? Okay. Hey, Summer, you want to play me? God. - What are you drawing? - A liger. What's a liger? It's pretty much my favourite animal. It's like a lion and a tiger mixed. Bred for its skills in magic. Where's your friend? I don't know. Did you see him today? No. Neither did I. - Do you need a ride? - No. I missed the bus today, but my uncle's coming to get me. Oh. See ya. Right. I... I think... just a little bit east of the cemetery is a good little area right here. We should do it right there. Don't go down here, 'cause they don't have any money. So, how long are we talkin' about workin'? What are you... You're already losing your steam? No. I just... I have a chat room meeting at 4:00. I gotta be back here by then. - All right, you just start a little earlier. That's all. - All right. Or else work afterwards. How long's the chat room? Geez, sometimes up to three, four hours maybe. Maybe not. I don't know. You... You pay the bills for that? Does that cost money every time you're on, like for minutes on the phone? Yeah. Grandma's still payin' per minute. She gets kind of pissed at me sometimes 'cause I'm on there so long. I'll bet she does. I'd be throwin' you out the window. - Bueno. - Hello? - Who's this? - Napoleon Dynamite. - Who? - Napoleon Dynamite. - I'm one of Pedro's best friends. - Your name is Napoleon? Yes. Is Pedro there? No, he's not here right now. Okay, bye. See, Crystal Street. That's for you. I'm goin' to Adams Park. They got some money in Adams Park.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- Are you serious? - I'm dead serious. Watch this. What the heck are you doing? That's what I'm talkin' about. I better go. How much you want to make a bet I can throw a football over them mountains? Yeah. If coach would've put me in fourth quarter... we'd have been state champions, no doubt. No doubt in my mind. You better believe things would have been different. I'd have gone pro... in a heartbeat. I'd be makin' millions of dollars and... livin' in a... big ol' mansion somewhere. You know, soakin' it up in a hot tub with my soul mate. Kip... I reckon you know a lot about cyberspace. Y- You ever come across anything like time travel? Easy. I've already looked into it for myself. Right on. Right on. Is Pedro here today? I don't think so. Why? Just wondering. Can you, uh, give this to him for me? Okay. Hey, Summer, you want to play me? God. - What are you drawing? - A liger. What's a liger? It's pretty much my favourite animal. It's like a lion and a tiger mixed. Bred for its skills in magic. Where's your friend? I don't know. Did you see him today? No. Neither did I. - Do you need a ride? - No. I missed the bus today, but my uncle's coming to get me. Oh. See ya. Right. I... I think... just a little bit east of the cemetery is a good little area right here. We should do it right there. Don't go down here, 'cause they don't have any money. So, how long are we talkin' about workin'? What are you... You're already losing your steam? No. I just... I have a chat room meeting at 4:00. I gotta be back here by then. - All right, you just start a little earlier. That's all. - All right. Or else work afterwards. How long's the chat room? Geez, sometimes up to three, four hours maybe. Maybe not. I don't know. You... You pay the bills for that? Does that cost money every time you're on, like for minutes on the phone? Yeah. Grandma's still payin' per minute. She gets kind of pissed at me sometimes 'cause I'm on there so long. I'll bet she does. I'd be throwin' you out the window. - Bueno. - Hello? - Who's this? - Napoleon Dynamite. - Who? - Napoleon Dynamite. - I'm one of Pedro's best friends. - Your name is Napoleon? Yes. Is Pedro there? No, he's not here right now. Okay, bye. See, Crystal Street. That's for you. I'm goin' to Adams Park. They got some money in Adams Park."
+      ],
+      "scene_length_chars": 2300,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.008165043778717518,
+        0.002385565312579274,
+        0.0020925572607666254,
+        0.011948846280574799,
+        0.005621541291475296,
+        0.00862821564078331,
+        0.019336314871907234,
+        0.8370011448860168,
+        0.025427641347050667,
+        0.011614009737968445,
+        0.0016482056817039847,
+        0.0007886388339102268,
+        0.001079993904568255,
+        0.02167271263897419,
+        0.0009001891012303531,
+        0.0007135529885999858,
+        0.0012905572075396776,
+        0.003225531429052353,
+        0.0015648932894691825,
+        0.0019201785326004028,
+        0.22209316492080688,
+        0.00041610622429288924,
+        0.005609410349279642,
+        0.0006928068469278514,
+        0.0012817701790481806,
+        0.0028542850632220507,
+        0.10162623971700668,
+        0.3216246962547302
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "What? Let's go, Kipper. I think we should take this... - someplace a little more private. - That's a good idea. Please. Please. Be good to me. Please, keep going. Dead on. Dead on. Yes! Before we get started on our new project, I have a few concerns. First off, I'm concerned about your transportation situation. I mean, do you... you got a car you can borrow from someone? Well, that's the problem right now. At the moment, nothing comes to mind. You can borrow my van for the time being. I... I do better on foot anyway. We also need some way to make us look official, like we got all the answers. How about some gold bracelets? We need, like, some name tags... with our picture on it, all laminated and whatnot. I mean, we gotta look legit, man. That's true. That's true. Say, you know of a... a place we can get our picture taken... like a... a photo store? Okay. Turn your head on more of a slant. Now, make a fist... and slowly ease it up underneath your chin. - This is looking really good. - You can say that again. Okay, hold still right there. Now, just imagine you're weightless. You're in the middle of the ocean... surrounded by tiny little sea horses. That was the one. I think that's gonna come out really nice. Uh, you did it? Wow. Wow, that felt really relaxed. Thanks, Deb. You're up, Kip. Is there some kind of vest that I can wear? - Where have you been? - I got sick. Has Summer said anything to you yet? No, not yet. Well, she said no. She did? - Well, what about that other girl? - What other girl? - The one that left all that crap on your porch. - You mean Deb? - Yes, her. - What about her? - Well, I asked her out too. - What? Well, nobody's gonna go out with me. - Have you asked anybody yet? - No, but who would? - I don't even have any good skills. - What do you mean? You know, like... nunchaku skills, bow hunting skills... computer hacking skills. Girls only want boyfriends who have great skills. Aren't you pretty good at drawing, like... animals and warriors and stuff? Yes. Probably the best that I know of. Just draw a picture of the girl you want to take out... and give it to her for, like, a gift or something. That's a pretty good idea. Now, if you invest in the 24-piece set... I'm gonna throw in a little gift. So, what's the gift? I bet you folks don't have one of these.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "What? Let's go, Kipper. I think we should take this... - someplace a little more private. - That's a good idea. Please. Please. Be good to me. Please, keep going. Dead on. Dead on. Yes! Before we get started on our new project, I have a few concerns. First off, I'm concerned about your transportation situation. I mean, do you... you got a car you can borrow from someone? Well, that's the problem right now. At the moment, nothing comes to mind. You can borrow my van for the time being. I... I do better on foot anyway. We also need some way to make us look official, like we got all the answers. How about some gold bracelets? We need, like, some name tags... with our picture on it, all laminated and whatnot. I mean, we gotta look legit, man. That's true. That's true. Say, you know of a... a place we can get our picture taken... like a... a photo store? Okay. Turn your head on more of a slant. Now, make a fist... and slowly ease it up underneath your chin. - This is looking really good. - You can say that again. Okay, hold still right there. Now, just imagine you're weightless. You're in the middle of the ocean... surrounded by tiny little sea horses. That was the one. I think that's gonna come out really nice. Uh, you did it? Wow. Wow, that felt really relaxed. Thanks, Deb. You're up, Kip. Is there some kind of vest that I can wear? - Where have you been? - I got sick. Has Summer said anything to you yet? No, not yet. Well, she said no. She did? - Well, what about that other girl? - What other girl? - The one that left all that crap on your porch. - You mean Deb? - Yes, her. - What about her? - Well, I asked her out too. - What? Well, nobody's gonna go out with me. - Have you asked anybody yet? - No, but who would? - I don't even have any good skills. - What do you mean? You know, like... nunchaku skills, bow hunting skills... computer hacking skills. Girls only want boyfriends who have great skills. Aren't you pretty good at drawing, like... animals and warriors and stuff? Yes. Probably the best that I know of. Just draw a picture of the girl you want to take out... and give it to her for, like, a gift or something. That's a pretty good idea. Now, if you invest in the 24-piece set... I'm gonna throw in a little gift. So, what's the gift? I bet you folks don't have one of these."
+      ],
+      "scene_length_chars": 2316,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.46135154366493225,
+        0.001195985940285027,
+        0.0017661484889686108,
+        0.004850863013416529,
+        0.16977639496326447,
+        0.315558522939682,
+        0.05023033544421196,
+        0.5949761271476746,
+        0.005509613547474146,
+        0.0035132712218910456,
+        0.004186124075204134,
+        0.0019392188405618072,
+        0.0030919311102479696,
+        0.006580405402928591,
+        0.006019385065883398,
+        0.3325950503349304,
+        0.0017103446880355477,
+        0.00435650022700429,
+        0.0010196897201240063,
+        0.0077256630174815655,
+        0.059059012681245804,
+        0.003867581719532609,
+        0.006333394441753626,
+        0.030082980170845985,
+        0.0019768348429352045,
+        0.0014362750807777047,
+        0.019753986969590187,
+        0.005906842183321714
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "I want that. You see, this ain't your run-of-the-mill crapper-ware. These are some serious NuPont fiber-woven bowls. So, if we purchase the 24-piece set... the mini sail boat is included? That's correct, sir. Lance, you look like a strong young pup. Why don't you see if you can give that a nice tear. Don't hurt yourself now. I can't do it. Can't. So, uh... how does the dealio sound to you? Dang it. - Is Trisha here? - Oh, I'm sorry, she's not. - She's at a friend's house right now. - Well, hey, Napoleon. - Napoleon's my nephew. - Oh, that's nice. Could you just give this to her for me? - I certainly could. - Thanks. Bye-bye. Poor kid. I've been takin' care of him while his grandma's in the hospital. He still wets the bed and everything. You're kidding. Yeah, he's a tender little guy. He still gets beat up and whatnot. Anyway, uh... so we still feelin' pretty good about this, uh, 32-piece set here? What the crap was Uncle Rico doin' at my girlfriend's house? Napoleon, let go of me! I think you're bruisin' my neck meat! Fine. What the heck are you guys doin'? Tryin' to ruin my life and make me look like a friggin' idiot? I'm out makin' some sweet moola with Uncle Rico. Geez, I think you ripped my mole off. - I did? - Yeah, is it bleeding? A little bit. Hey, Kip. I wish you wouldn't look at me like that, Napoleon. I wish you'd get out of my life and shut up. I'm gonna tell you somethin'. While you're playin' patty-cake with your friend Pedro... your Uncle Rico... is makin' 120 bucks. I could make that much money in five seconds. Geez. Yeah, right, Napoleon. I made, like, 75 bucks today. Napoleon, it looks like you don't have a job. So why don't you get out there and feed Tina. Why don't you go eat a decroded piece of crap. There's a lot more where this came from... if you go to the dance with me. Yours truly, Napoleon Dynamite. You know you're gonna go to that dance with that boy. By noon I need them 8,000 hens moved into their new cages. Sometimes they don't want to cooperate. But you give 'em a good shakin', they'll settle down for ya. Do the chickens have large talons? - Do they have what? - Large talons. I don't understand a word you just said. Okay, you meet me back here about noon, and, uh... we'll have a little lunch waitin' for ya.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I want that. You see, this ain't your run-of-the-mill crapper-ware. These are some serious NuPont fiber-woven bowls. So, if we purchase the 24-piece set... the mini sail boat is included? That's correct, sir. Lance, you look like a strong young pup. Why don't you see if you can give that a nice tear. Don't hurt yourself now. I can't do it. Can't. So, uh... how does the dealio sound to you? Dang it. - Is Trisha here? - Oh, I'm sorry, she's not. - She's at a friend's house right now. - Well, hey, Napoleon. - Napoleon's my nephew. - Oh, that's nice. Could you just give this to her for me? - I certainly could. - Thanks. Bye-bye. Poor kid. I've been takin' care of him while his grandma's in the hospital. He still wets the bed and everything. You're kidding. Yeah, he's a tender little guy. He still gets beat up and whatnot. Anyway, uh... so we still feelin' pretty good about this, uh, 32-piece set here? What the crap was Uncle Rico doin' at my girlfriend's house? Napoleon, let go of me! I think you're bruisin' my neck meat! Fine. What the heck are you guys doin'? Tryin' to ruin my life and make me look like a friggin' idiot? I'm out makin' some sweet moola with Uncle Rico. Geez, I think you ripped my mole off. - I did? - Yeah, is it bleeding? A little bit. Hey, Kip. I wish you wouldn't look at me like that, Napoleon. I wish you'd get out of my life and shut up. I'm gonna tell you somethin'. While you're playin' patty-cake with your friend Pedro... your Uncle Rico... is makin' 120 bucks. I could make that much money in five seconds. Geez. Yeah, right, Napoleon. I made, like, 75 bucks today. Napoleon, it looks like you don't have a job. So why don't you get out there and feed Tina. Why don't you go eat a decroded piece of crap. There's a lot more where this came from... if you go to the dance with me. Yours truly, Napoleon Dynamite. You know you're gonna go to that dance with that boy. By noon I need them 8,000 hens moved into their new cages. Sometimes they don't want to cooperate. But you give 'em a good shakin', they'll settle down for ya. Do the chickens have large talons? - Do they have what? - Large talons. I don't understand a word you just said. Okay, you meet me back here about noon, and, uh... we'll have a little lunch waitin' for ya."
+      ],
+      "scene_length_chars": 2276,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.16133248805999756,
+        0.014796114526689053,
+        0.021358748897910118,
+        0.3200795352458954,
+        0.0014830882428213954,
+        0.3176104724407196,
+        0.0055185467936098576,
+        0.4394443929195404,
+        0.12765730917453766,
+        0.019195320084691048,
+        0.008104191161692142,
+        0.002498523099347949,
+        0.0014528442407026887,
+        0.004429880063980818,
+        0.001531981979496777,
+        0.28669023513793945,
+        0.005840738769620657,
+        0.007562069222331047,
+        0.001645031850785017,
+        0.0018990967655554414,
+        0.08565028756856918,
+        0.0027157634031027555,
+        0.0019942002836614847,
+        0.009058060124516487,
+        0.00836441945284605,
+        0.007615853101015091,
+        0.0033820841927081347,
+        0.21286635100841522
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "annoyance",
+        "caring"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Well, dig in. Over there, in that pig pen... I found a couple of Shoshone arrowheads. Can't find my chequebook. Hope you don't mind I pay you in change. Six dollars. That's, like, a dollar an hour. Hello? - Hi. Is Napoleon there? - Yes. - Can I talk to him? - You already are. Oh. Napoleon, this is Trisha. I'm just calling to tell you that... I can go to the dance with you. And also... I wanted to thank you for the beautiful drawing you did of me. - It's hanging in my bedroom. - Really? Took me, like, three hours to finish the shading on your upper lip. It's probably the best drawing I've ever done. Yeah, it's really... nice. Yeah, well, I'll probably pick you up at 6:00 for the dance. - Is that okay? - That's fine. Okay, bye. Bye. - Who was that? - Trisha. - Who's she? - My woman I'm takin' to the dance. - You draw her a picture? - Heck, yes, I did! Well, what are you going to wear to the dance? Just, like, a silk shirt or something. - What are you gonna wear? - Dad has something for me. But you should probably get a suit. Pedro, how do you feel about that one? It looks nice. Yeah. It looks pretty sweet. It looks awesome. That suit, it's... It's incredible. I need you to give me a ride in an hour. Where to? The dance. - You takin' my client's daughter? - Yes. We need to pick her up too. Well, Uncle Rico's got a sale to finalize in Bonita in five minutes. Can't you take me and then drop me off when you're done or whatever? Well, I'll be back in a minute. Don't disturb me while I'm in there. Well, hurry up, 'cause I gotta get Trisha. Hi. I got your 24-piece set right here. So you guys are, like, Pedro's cousins with all the sweet hookups? Simón. Is Trisha here? Who's that in my driveway? That's my ride. Do you wanna go over by my friend Pedro and dance really quick? Napoleon. When did you get here? Just a couple minutes ago. Have you guys seen Trisha anywhere? No. Oh. She probably just went to the bathroom. Are you guys having a killer time? Yes. If you can't find Trisha, I'll let you dance with Deb for a few songs. I like your sleeves. They're real big. Thank you. I made them myself. So you and Pedro are getting really serious now? No. We're just friends. Huh. How your glamour shots been going lately? Pretty good. I could do a personal portrait sometime...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Well, dig in. Over there, in that pig pen... I found a couple of Shoshone arrowheads. Can't find my chequebook. Hope you don't mind I pay you in change. Six dollars. That's, like, a dollar an hour. Hello? - Hi. Is Napoleon there? - Yes. - Can I talk to him? - You already are. Oh. Napoleon, this is Trisha. I'm just calling to tell you that... I can go to the dance with you. And also... I wanted to thank you for the beautiful drawing you did of me. - It's hanging in my bedroom. - Really? Took me, like, three hours to finish the shading on your upper lip. It's probably the best drawing I've ever done. Yeah, it's really... nice. Yeah, well, I'll probably pick you up at 6:00 for the dance. - Is that okay? - That's fine. Okay, bye. Bye. - Who was that? - Trisha. - Who's she? - My woman I'm takin' to the dance. - You draw her a picture? - Heck, yes, I did! Well, what are you going to wear to the dance? Just, like, a silk shirt or something. - What are you gonna wear? - Dad has something for me. But you should probably get a suit. Pedro, how do you feel about that one? It looks nice. Yeah. It looks pretty sweet. It looks awesome. That suit, it's... It's incredible. I need you to give me a ride in an hour. Where to? The dance. - You takin' my client's daughter? - Yes. We need to pick her up too. Well, Uncle Rico's got a sale to finalize in Bonita in five minutes. Can't you take me and then drop me off when you're done or whatever? Well, I'll be back in a minute. Don't disturb me while I'm in there. Well, hurry up, 'cause I gotta get Trisha. Hi. I got your 24-piece set right here. So you guys are, like, Pedro's cousins with all the sweet hookups? Simón. Is Trisha here? Who's that in my driveway? That's my ride. Do you wanna go over by my friend Pedro and dance really quick? Napoleon. When did you get here? Just a couple minutes ago. Have you guys seen Trisha anywhere? No. Oh. She probably just went to the bathroom. Are you guys having a killer time? Yes. If you can't find Trisha, I'll let you dance with Deb for a few songs. I like your sleeves. They're real big. Thank you. I made them myself. So you and Pedro are getting really serious now? No. We're just friends. Huh. How your glamour shots been going lately? Pretty good. I could do a personal portrait sometime..."
+      ],
+      "scene_length_chars": 2295,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.35602644085884094,
+        0.0021378889214247465,
+        0.0005467068403959274,
+        0.0014682278269901872,
+        0.008311651647090912,
+        0.005889830645173788,
+        0.008261468261480331,
+        0.7174579501152039,
+        0.016646286472678185,
+        0.0009926983620971441,
+        0.0013919916236773133,
+        0.0006148430984467268,
+        0.0007559940568171442,
+        0.008305833674967289,
+        0.0007145162089727819,
+        0.3435710668563843,
+        0.00048715900629758835,
+        0.0018824851140379906,
+        0.0018606068333610892,
+        0.0003464392793830484,
+        0.26173874735832214,
+        0.0007437649765051901,
+        0.001031149527989328,
+        0.0006453191745094955,
+        0.0007962621748447418,
+        0.000695474969688803,
+        0.0014222682220861316,
+        0.02359187789261341
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "if you wanted to come over. Okay. Do you think people will vote for me? Heck, yes. I'd vote for you. Like, what are my skills? Well, you have a sweet bike... and you're really good at hookin' up with chicks. Plus you're, like, the only guy at school who has a moustache. That's true. If you need to use any of my skills, I can do whatever you want. Thanks. If I win, you can be my secretary or something. Sweet! Plus I could be your bodyguard too. Or, like, Secret Service captain or... whatever. Okay. Is that yours? Don't touch it. It's Uncle Rico's. What's it for? It's a time machine, Napoleon. He bought it online. - Yeah, right. - It works, Napoleon. You don't even know. Have you guys tried it yet? No. - So, are you ready? - Yeah. Hold on. I forgot to put in the crystals. Okay, turn it on. Kill... the pow... Kill... Turn it off! Turn it off! It's a piece of crap. It doesn't work. Well, I could've told you that. I-I said the 12 pack, not the 24 pack. You're just gonna have to mix and match. Shut up. Say it so the whole world can hear. Well, put it back. Napoleon, you know we can't afford the fun pack. You think money grows on trees in this family? Take it back. Get some Pampers for you and your brother while you're at it. We can use a little of this. I can tell you that. We can use those. The defect in that one is bleach. - That's correct. - Yes! This tastes like the cow got into an onion patch. - Correct. - Yes! They're pretty good except for one little problem. That little guy right there, he has nipple number five. A good dairy cow should have, like, four. Well done. - Vote for Summer. - Vote for Summer. Vote for Summer. Thanks. - Yeah. - Hi guys. Vote for Summer. Hi. Vote for Summer. Hi, ladies. Vote for Summer. You guys voting? - Do you think it's kinda warm in here? - No. I think it's... They have the heater on or something. It seems pretty good to me. You don't feel like your head is burning or... or anything? No. I'm gonna go home and lay down. Okay. See ya. - Vote for Summer. - Yeah, right. - I'm not votin' for her. - Then who are you gonna vote for? I'm votin' for Pedro Sanchez. Who do you think? Hey, Don, can I have one of those buttons? Hey. Vote for Summer. Hi. Vote for Summer. So, that guy in Florida give you your money back yet? Oh, I wrote him an e-mail, sayin' I'm gonna contact the authorities...",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "if you wanted to come over. Okay. Do you think people will vote for me? Heck, yes. I'd vote for you. Like, what are my skills? Well, you have a sweet bike... and you're really good at hookin' up with chicks. Plus you're, like, the only guy at school who has a moustache. That's true. If you need to use any of my skills, I can do whatever you want. Thanks. If I win, you can be my secretary or something. Sweet! Plus I could be your bodyguard too. Or, like, Secret Service captain or... whatever. Okay. Is that yours? Don't touch it. It's Uncle Rico's. What's it for? It's a time machine, Napoleon. He bought it online. - Yeah, right. - It works, Napoleon. You don't even know. Have you guys tried it yet? No. - So, are you ready? - Yeah. Hold on. I forgot to put in the crystals. Okay, turn it on. Kill... the pow... Kill... Turn it off! Turn it off! It's a piece of crap. It doesn't work. Well, I could've told you that. I-I said the 12 pack, not the 24 pack. You're just gonna have to mix and match. Shut up. Say it so the whole world can hear. Well, put it back. Napoleon, you know we can't afford the fun pack. You think money grows on trees in this family? Take it back. Get some Pampers for you and your brother while you're at it. We can use a little of this. I can tell you that. We can use those. The defect in that one is bleach. - That's correct. - Yes! This tastes like the cow got into an onion patch. - Correct. - Yes! They're pretty good except for one little problem. That little guy right there, he has nipple number five. A good dairy cow should have, like, four. Well done. - Vote for Summer. - Vote for Summer. Vote for Summer. Thanks. - Yeah. - Hi guys. Vote for Summer. Hi. Vote for Summer. Hi, ladies. Vote for Summer. You guys voting? - Do you think it's kinda warm in here? - No. I think it's... They have the heater on or something. It seems pretty good to me. You don't feel like your head is burning or... or anything? No. I'm gonna go home and lay down. Okay. See ya. - Vote for Summer. - Yeah, right. - I'm not votin' for her. - Then who are you gonna vote for? I'm votin' for Pedro Sanchez. Who do you think? Hey, Don, can I have one of those buttons? Hey. Vote for Summer. Hi. Vote for Summer. So, that guy in Florida give you your money back yet? Oh, I wrote him an e-mail, sayin' I'm gonna contact the authorities..."
+      ],
+      "scene_length_chars": 2351,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.17794029414653778,
+        0.005191011354327202,
+        0.0007629557512700558,
+        0.002481824951246381,
+        0.033581096678972244,
+        0.014070217497646809,
+        0.013547302223742008,
+        0.357343465089798,
+        0.003645902266725898,
+        0.0013244167203083634,
+        0.005987478420138359,
+        0.00036407689913176,
+        0.00040191979496739805,
+        0.002416473813354969,
+        0.0004127735737711191,
+        0.4645744562149048,
+        0.0004891725839115679,
+        0.011523652821779251,
+        0.0008239923627115786,
+        0.0001181727639050223,
+        0.032646700739860535,
+        0.002194235334172845,
+        0.00124955119099468,
+        0.0024691750295460224,
+        0.0009993560379371047,
+        0.0003268940781708807,
+        0.0006369890761561692,
+        0.17750418186187744
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "curiosity",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "if I don't get a refund in full. Don't you ever wish you could go back... with all the knowledge you have now? Tsk. I guess so. Well, I'll tell you somethin' right now. You'd find your soul mate. - I've already got a soul mate. - Oh, yeah. What's her name again? - Lafawnduh. - Lafawnduh. Huh. - How's she doin'? - Well, I think I'm gonna need some time off. She's flyin' out from Detroit for a few days. Well, what about work? Well, haven't... haven't you studied up on the new product? - Yes. - Well, do you know it backwards and front? Basically. Why don't you sell some to that girlfriend of yours? You might as well do somethin' while you're doin' nothin'. Because she doesn't need any. That's why. Hey. I did some drawings for the flyers. Thanks. Why do you got your hood on like that? Well, when I came home from school, my head started to get really hot. So I drank some cold water, but it didn't do nothing. So I laid in the bathtub for a while... but then I realized that it was my hair that was making my head so hot. So I went into my kitchen, and I shaved it all off. I don't want anyone to see. I know what you mean. There's just so many options. That one's good. Looks like a medieval warrior. You know, you're right. That's a good one. Sorry. I think this matches your season, Pedro. Thank you. - Vote for Pedro. - Vote for Pedro. - Vote for Pedro. - Vote for Pedro. - Vote for me. - Vote for Pedro. - Vote for Pedro. - Vote for me. - Vote for Pedro. - Vote for Pedro. Vote for Pedro. - Vote for... Pedro. - Vote for Pedro. Hey, give me 50 cents so I can buy a pop. - I don't have any, Randy. - Come on. I'll pay you back. I don't have... Stop. - Don't. Stop. Stop. - I'll do this to you. Don't. Here. Here. - How's your neck? - Stings. That's too bad. Pedro offers you his protection. - Hey, let me borrow your bike. - No. - Come on. I'll give you some chips. - No. Like a wash, and then you blow-dry it with bleach. Yeah. It's so cool. Hey, you Trisha? - Yeah. - You remember me? I'm a friend of your mom's. I'm... I'm Napoleon's uncle. Uncle Rico. - Oh. Yeah. - Hey, could you do me a favour? Could you give your mom a couple of these and... tell 'em to hand 'em out to her friends or whoever? 'Kay. You girls give me a call if you feel like you could use some. Have a nice day. Why the heck you throwin' crap at my van, Napoleon?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "if I don't get a refund in full. Don't you ever wish you could go back... with all the knowledge you have now? Tsk. I guess so. Well, I'll tell you somethin' right now. You'd find your soul mate. - I've already got a soul mate. - Oh, yeah. What's her name again? - Lafawnduh. - Lafawnduh. Huh. - How's she doin'? - Well, I think I'm gonna need some time off. She's flyin' out from Detroit for a few days. Well, what about work? Well, haven't... haven't you studied up on the new product? - Yes. - Well, do you know it backwards and front? Basically. Why don't you sell some to that girlfriend of yours? You might as well do somethin' while you're doin' nothin'. Because she doesn't need any. That's why. Hey. I did some drawings for the flyers. Thanks. Why do you got your hood on like that? Well, when I came home from school, my head started to get really hot. So I drank some cold water, but it didn't do nothing. So I laid in the bathtub for a while... but then I realized that it was my hair that was making my head so hot. So I went into my kitchen, and I shaved it all off. I don't want anyone to see. I know what you mean. There's just so many options. That one's good. Looks like a medieval warrior. You know, you're right. That's a good one. Sorry. I think this matches your season, Pedro. Thank you. - Vote for Pedro. - Vote for Pedro. - Vote for Pedro. - Vote for Pedro. - Vote for me. - Vote for Pedro. - Vote for Pedro. - Vote for me. - Vote for Pedro. - Vote for Pedro. Vote for Pedro. - Vote for... Pedro. - Vote for Pedro. Hey, give me 50 cents so I can buy a pop. - I don't have any, Randy. - Come on. I'll pay you back. I don't have... Stop. - Don't. Stop. Stop. - I'll do this to you. Don't. Here. Here. - How's your neck? - Stings. That's too bad. Pedro offers you his protection. - Hey, let me borrow your bike. - No. - Come on. I'll give you some chips. - No. Like a wash, and then you blow-dry it with bleach. Yeah. It's so cool. Hey, you Trisha? - Yeah. - You remember me? I'm a friend of your mom's. I'm... I'm Napoleon's uncle. Uncle Rico. - Oh. Yeah. - Hey, could you do me a favour? Could you give your mom a couple of these and... tell 'em to hand 'em out to her friends or whoever? 'Kay. You girls give me a call if you feel like you could use some. Have a nice day. Why the heck you throwin' crap at my van, Napoleon?"
+      ],
+      "scene_length_chars": 2349,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3018847107887268,
+        0.0027788628358393908,
+        0.0038241089787334204,
+        0.204135000705719,
+        0.007239544298499823,
+        0.1882072538137436,
+        0.023878464475274086,
+        0.03250451013445854,
+        0.0024427936878055334,
+        0.006824250798672438,
+        0.008206452243030071,
+        0.0006821492570452392,
+        0.0008479484240524471,
+        0.0010406614746898413,
+        0.0004583117552101612,
+        0.3918798267841339,
+        0.0007462901994585991,
+        0.0006373687065206468,
+        0.004297951236367226,
+        0.001422908273525536,
+        0.010893761180341244,
+        0.0020338816102594137,
+        0.07455223053693771,
+        0.002514827996492386,
+        0.010411996394395828,
+        0.004391019698232412,
+        0.0010695366654545069,
+        0.38070598244667053
+      ],
+      "goemotions_topk": [
+        "gratitude",
+        "neutral",
+        "admiration"
+      ],
+      "goemotions_label": "gratitude",
+      "goemotions_labels": [
+        "gratitude",
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Everybody at school thinks I'm a freakin' idiot 'cause of you. You're gonna clean my van... right now. Get off of me, you bodaggit. Higher. No, no, higher. Yeah! Yeah! Yeah. Hit it! Dang. Look, Pedro. I don't know how they do things down in Juarez... but here in Idaho we have a little something called pride. Understand? Smashing in the face of a piñata that resembles Summer Wheatly... is a disgrace to you, me and the entire Gem State. Welcome to D-Qwon's Dance Grooves. Are you ready to get your groove on? - Yes. - All right, then. Let's get started. Are you disqualified? No. They just made me take down the flyers as a penalty for the piñatas. Can you still run for president? Yes. I don't understand. He say... you're not allowed to smash piñatas that look like real people. But we do it in Mexico all the time. Your hair looked great today. Thank you. All right. See you tomorrow, Pedro. Who are you? - I'm Lafawnduh. - What are you doing here? I'm waiting for Kip. - Kip? - Why are you so sweaty? - I been practising. - Mmm. - Practising what? - Some dance moves. You like dancing? My chores are done. - So, you ready, Lafawnduh? - I am, honey. Sorry, Napoleon. We're just runnin' a little bit late for some prime rib. - Tell Uncle Rico not to wait up for me. - Here. You might like that. My cousin made it. I'll be waitin' outside for you, baby. Bye, Napoleon. See ya. Lafawnduh is the best thing that has ever happened to me. I'm a hundred percent positive that she's my soul mate. Napoleon, I'm sure there's a babe out there for you too. Peace out. See ya. Is this what you were looking for? Nah, I was thinkin' of somethin' a little more... soft around the edges. Hmm. Well... I have a nice, soft pink sheet I could hang... and I could wrap you in some foam or... something billowy? Yeah, billowy's good. It'd be really nice if I could get the fan going. I could hang some tinsel from the top. You know, Deborah, you have... striking features. Such a soft face should be complimented with a... soft body. Mr. Rico? My friends and clients, they call me Uncle Rico. What are you doing? Shh. Don't say another word. Napoleon told me you'd be interested. Napoleon? You stop wishin', and call me when you're ready. - Hello? - Napoleon? - Yeah. Who's this? - It's Deb... and I'm calling to let you know I think you're a shallow friend.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Everybody at school thinks I'm a freakin' idiot 'cause of you. You're gonna clean my van... right now. Get off of me, you bodaggit. Higher. No, no, higher. Yeah! Yeah! Yeah. Hit it! Dang. Look, Pedro. I don't know how they do things down in Juarez... but here in Idaho we have a little something called pride. Understand? Smashing in the face of a piñata that resembles Summer Wheatly... is a disgrace to you, me and the entire Gem State. Welcome to D-Qwon's Dance Grooves. Are you ready to get your groove on? - Yes. - All right, then. Let's get started. Are you disqualified? No. They just made me take down the flyers as a penalty for the piñatas. Can you still run for president? Yes. I don't understand. He say... you're not allowed to smash piñatas that look like real people. But we do it in Mexico all the time. Your hair looked great today. Thank you. All right. See you tomorrow, Pedro. Who are you? - I'm Lafawnduh. - What are you doing here? I'm waiting for Kip. - Kip? - Why are you so sweaty? - I been practising. - Mmm. - Practising what? - Some dance moves. You like dancing? My chores are done. - So, you ready, Lafawnduh? - I am, honey. Sorry, Napoleon. We're just runnin' a little bit late for some prime rib. - Tell Uncle Rico not to wait up for me. - Here. You might like that. My cousin made it. I'll be waitin' outside for you, baby. Bye, Napoleon. See ya. Lafawnduh is the best thing that has ever happened to me. I'm a hundred percent positive that she's my soul mate. Napoleon, I'm sure there's a babe out there for you too. Peace out. See ya. Is this what you were looking for? Nah, I was thinkin' of somethin' a little more... soft around the edges. Hmm. Well... I have a nice, soft pink sheet I could hang... and I could wrap you in some foam or... something billowy? Yeah, billowy's good. It'd be really nice if I could get the fan going. I could hang some tinsel from the top. You know, Deborah, you have... striking features. Such a soft face should be complimented with a... soft body. Mr. Rico? My friends and clients, they call me Uncle Rico. What are you doing? Shh. Don't say another word. Napoleon told me you'd be interested. Napoleon? You stop wishin', and call me when you're ready. - Hello? - Napoleon? - Yeah. Who's this? - It's Deb... and I'm calling to let you know I think you're a shallow friend."
+      ],
+      "scene_length_chars": 2343,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.3832714557647705,
+        0.0005122743896208704,
+        0.05810615420341492,
+        0.23404212296009064,
+        0.01887626387178898,
+        0.0838671401143074,
+        0.0629676878452301,
+        0.35388636589050293,
+        0.02999379299581051,
+        0.020908856764435768,
+        0.01219478715211153,
+        0.0010804574703797698,
+        0.0011830838629975915,
+        0.010275092907249928,
+        0.0008989989873953164,
+        0.2250441163778305,
+        0.0022895776201039553,
+        0.002670312998816371,
+        0.0022840218152850866,
+        0.0008866069256328046,
+        0.3102867305278778,
+        0.004070125985890627,
+        0.00961363036185503,
+        0.002970803529024124,
+        0.004196104593575001,
+        0.0032286345958709717,
+        0.010094556026160717,
+        0.03946508839726448
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "optimism"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "- What the heck are you even talkin' about? - Don't lie, Napoleon. Your Uncle Rico made it very clear how you feel about me. What? I don't need herbal enhancers to feel good about myself. And if you're so concerned about that, why don't you try eating some yourself? Right on. Grandma just called and said you're supposed to go home. - She didn't tell me anything. - Too bad. She says she doesn't want you here... when she gets back because you've been ruining everybody's lives and eatin' all our steak. - I'm not goin' anywhere, Napoleon. - Get off my property! It's a free country. I can do whatever I want. Get off my property, or I'll call the cops on you. Well, then do it. Go on. Maybe I will. Gosh! - Hello? - Pedro? - How's it goin'? - Good. Deb just called me. She pretty much hates me by now. - Why? - 'Cause my Uncle Rico's an idiot! Do you have anything to give to her? No, not unless she likes fish. - Are you still gonna give your speech tomorrow? - Yes. - Do you already know what you're gonna say? - Yes... but not all of it. Just tell 'em that... their wildest dreams will come true if they vote for you. I'll see you tomorrow, Pedro. Dang it! What do you think you're doing? Now, if you look right here, we have Sally Johnson from Manitou, Colorado. Would you like to read her testimonial right there? Sure. Um... \"After using Bust Must Plus, I have such big bosoms...\" I don't feel comfortable reading this. Oh, that's fine. That's fine. But do you feel comfortable with me? You could be... somewhere around, uh... here. Come here, boy! Well, I never thought I would make it here today. I would be a great class president because... I promise to put two new pop machines in the cafeteria, and... I'm also gonna get a glitter Bonnebell dispenser for all the girls' bathrooms. Oh, we're gonna get new cheerleading uniforms. Anyway, I think I'd be a great class president, so, uh... who wants to eat chimini-changas next year? Not me. See, with me, it will be summer all year long. Vote for Summer. And now Summer will perform her skit with members of our very own Happy Hands Club. Your speech is up next. Your skit had better be pretty good. - A skit? - You perform a skit after your speech, Pedro. What? A flippin' skit? Why didn't anybody tell us about this?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "- What the heck are you even talkin' about? - Don't lie, Napoleon. Your Uncle Rico made it very clear how you feel about me. What? I don't need herbal enhancers to feel good about myself. And if you're so concerned about that, why don't you try eating some yourself? Right on. Grandma just called and said you're supposed to go home. - She didn't tell me anything. - Too bad. She says she doesn't want you here... when she gets back because you've been ruining everybody's lives and eatin' all our steak. - I'm not goin' anywhere, Napoleon. - Get off my property! It's a free country. I can do whatever I want. Get off my property, or I'll call the cops on you. Well, then do it. Go on. Maybe I will. Gosh! - Hello? - Pedro? - How's it goin'? - Good. Deb just called me. She pretty much hates me by now. - Why? - 'Cause my Uncle Rico's an idiot! Do you have anything to give to her? No, not unless she likes fish. - Are you still gonna give your speech tomorrow? - Yes. - Do you already know what you're gonna say? - Yes... but not all of it. Just tell 'em that... their wildest dreams will come true if they vote for you. I'll see you tomorrow, Pedro. Dang it! What do you think you're doing? Now, if you look right here, we have Sally Johnson from Manitou, Colorado. Would you like to read her testimonial right there? Sure. Um... \"After using Bust Must Plus, I have such big bosoms...\" I don't feel comfortable reading this. Oh, that's fine. That's fine. But do you feel comfortable with me? You could be... somewhere around, uh... here. Come here, boy! Well, I never thought I would make it here today. I would be a great class president because... I promise to put two new pop machines in the cafeteria, and... I'm also gonna get a glitter Bonnebell dispenser for all the girls' bathrooms. Oh, we're gonna get new cheerleading uniforms. Anyway, I think I'd be a great class president, so, uh... who wants to eat chimini-changas next year? Not me. See, with me, it will be summer all year long. Vote for Summer. And now Summer will perform her skit with members of our very own Happy Hands Club. Your speech is up next. Your skit had better be pretty good. - A skit? - You perform a skit after your speech, Pedro. What? A flippin' skit? Why didn't anybody tell us about this?"
+      ],
+      "scene_length_chars": 2279,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.45314744114875793,
+        0.002180396346375346,
+        0.22833867371082306,
+        0.08926098793745041,
+        0.003961996641010046,
+        0.006274419371038675,
+        0.0034596796613186598,
+        0.12064095586538315,
+        0.009787754155695438,
+        0.006720359902828932,
+        0.001043988624587655,
+        0.0033064400777220726,
+        0.0018403575522825122,
+        0.08312242478132248,
+        0.0016463734209537506,
+        0.0016306218458339572,
+        0.001385586685501039,
+        0.007849249988794327,
+        0.000673823116812855,
+        0.00027419018442742527,
+        0.30375027656555176,
+        0.0045528593473136425,
+        0.003751992015168071,
+        0.0010905907256528735,
+        0.0008124872110784054,
+        0.0009016261901706457,
+        0.06625564396381378,
+        0.011677626520395279
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "optimism",
+        "anger"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "I don't want to be president anyway. Pedro, just listen to your heart. That's what I do. I'll just tell them that I have nothing to say. Hello. I don't have much to say. But I think it would be good to have some holy Santos brought to the high school... to guard the hallway and to bring us good luck. El Santo Niño de Atocha is a good one. My Aunt Concha has seen him. And... we have a great F.F.A. Schedule lined up... And I'd like to see more of that. If you vote for me, all of your wildest dreams will come true. Thank you. Up next, I hope you'll enjoy a skit by Pedro Sanchez. I caught you a delicious bass. You wanna play me? I, uh, would like to give you this advice. And a fella give me some years ago. He said, \"When an argument arises... \"if you go outside and take, uh, a nice walk... \"you'll calm down and then you can come back and it won't be an argument. \"And you'll find that helps your health. \"All that fresh air and exercise will do you a lot of good.\" Is there anything else you'd like to ask about? Pedro. - Where the heck's Napoleon? - I don't know. Lafawnduh Lucas, do you take Kipland Ronald Dynamite... to be your lawful wedded husband... to honour in sickness and health till death do you part? I do. Kipland Ronald Dynamite... do you take Lafawnduh Lucas to be your lawful wedded wife... in sickness and health till death do you part? You know I do. By the authority vested in me, I pronounce you man and wife. You may kiss the bride. ♪ Why do you love me ♪ ♪ Why do you need me ♪ ♪ Always and forever ♪ ♪ We met in a chat room ♪ ♪ Now our love can fully bloom ♪ ♪ Sure the World Wide Web is great ♪ ♪ But you, you make me salvivate ♪ ♪ Yes, I love technology ♪ ♪ But not as much as you, you see ♪ ♪ But I still love technology ♪ ♪ Always and forever ♪ ♪ Our love is like a flock of doves ♪ ♪ Flying up to heaven above ♪ ♪ Always and forever ♪ ♪ Always and forever ♪ ♪ Yes, our love is truly great ♪ ♪ Always and forever ♪ ♪ Why do you need me ♪ ♪ Why do you love me ♪ Sorry I'm late. I just got done taming a wild honeymoon stallion for you guys. Hey, Deb, can you take a photo of me on the horse real quick? Sure. Thanks. I hope your guys's experiences are unforgettable. Lookee, lookee. A little keepsake for you guys.\n\nLucky.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "I don't want to be president anyway. Pedro, just listen to your heart. That's what I do. I'll just tell them that I have nothing to say. Hello. I don't have much to say. But I think it would be good to have some holy Santos brought to the high school... to guard the hallway and to bring us good luck. El Santo Niño de Atocha is a good one. My Aunt Concha has seen him. And... we have a great F.F.A. Schedule lined up... And I'd like to see more of that. If you vote for me, all of your wildest dreams will come true. Thank you. Up next, I hope you'll enjoy a skit by Pedro Sanchez. I caught you a delicious bass. You wanna play me? I, uh, would like to give you this advice. And a fella give me some years ago. He said, \"When an argument arises... \"if you go outside and take, uh, a nice walk... \"you'll calm down and then you can come back and it won't be an argument. \"And you'll find that helps your health. \"All that fresh air and exercise will do you a lot of good.\" Is there anything else you'd like to ask about? Pedro. - Where the heck's Napoleon? - I don't know. Lafawnduh Lucas, do you take Kipland Ronald Dynamite... to be your lawful wedded husband... to honour in sickness and health till death do you part? I do. Kipland Ronald Dynamite... do you take Lafawnduh Lucas to be your lawful wedded wife... in sickness and health till death do you part? You know I do. By the authority vested in me, I pronounce you man and wife. You may kiss the bride. ♪ Why do you love me ♪ ♪ Why do you need me ♪ ♪ Always and forever ♪ ♪ We met in a chat room ♪ ♪ Now our love can fully bloom ♪ ♪ Sure the World Wide Web is great ♪ ♪ But you, you make me salvivate ♪ ♪ Yes, I love technology ♪ ♪ But not as much as you, you see ♪ ♪ But I still love technology ♪ ♪ Always and forever ♪ ♪ Our love is like a flock of doves ♪ ♪ Flying up to heaven above ♪ ♪ Always and forever ♪ ♪ Always and forever ♪ ♪ Yes, our love is truly great ♪ ♪ Always and forever ♪ ♪ Why do you need me ♪ ♪ Why do you love me ♪ Sorry I'm late. I just got done taming a wild honeymoon stallion for you guys. Hey, Deb, can you take a photo of me on the horse real quick? Sure. Thanks. I hope your guys's experiences are unforgettable. Lookee, lookee. A little keepsake for you guys.",
+        "Lucky."
+      ],
+      "scene_length_chars": 2257,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.017493518069386482,
+        0.003335412358865142,
+        0.006823851261287928,
+        0.003348546102643013,
+        0.04203299805521965,
+        0.055229414254426956,
+        0.02615201473236084,
+        0.6492050886154175,
+        0.06943363696336746,
+        0.003265470964834094,
+        0.005830388981848955,
+        0.003927665296941996,
+        0.008274062536656857,
+        0.016590580344200134,
+        0.00213238806463778,
+        0.36960065364837646,
+        0.00848467368632555,
+        0.008322641253471375,
+        0.6240055561065674,
+        0.001518755336292088,
+        0.6214589476585388,
+        0.005264999810606241,
+        0.02973426878452301,
+        0.00535636255517602,
+        0.01931053213775158,
+        0.009329329244792461,
+        0.005000442732125521,
+        0.008624562062323093
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "love",
+        "optimism"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity",
+        "gratitude",
+        "love",
+        "optimism"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 13,
+    "lines_per_scene_fallback": 20
+  }
+}

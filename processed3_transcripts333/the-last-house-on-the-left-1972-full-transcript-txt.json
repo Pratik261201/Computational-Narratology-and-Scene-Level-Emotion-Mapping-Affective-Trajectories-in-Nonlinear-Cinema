@@ -1,0 +1,736 @@
+{
+  "source_file": "The Last House on the Left _1972_ - full transcript.txt",
+  "title": "The Last House on the Left",
+  "year": "1972",
+  "meta_description": null,
+  "num_scenes": 14,
+  "avg_scene_chars": 2191,
+  "characters": [],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": null,
+      "raw_text": "Hello, Cassie! Hiya, girl. Hello there. Now, let's see. Looks like Mari's getting cards from half the civilized world. Mari Collingwood. Mari Collingwood. Mari Collingwood. You'd think she's the only kid to reach the age of 17. Of course, she is about the prettiest piece I've ever seen. Mari Collingwood, you hurry up! Okay, okay. Drill sergeant. Did you call the repair service? Mmm-hmm. Did you tell them I was a physician and had to have a phone? No, actually, I told them you were an international bookie and I was 10 months pregnant with quintuplets. Hey, what's new in the outside world? Same old stuff, murder and mayhem. What's for dinner tonight? Freezer's full, take your choice. What's that supposed to mean? Mari, I want you to be careful tonight. Your mother tells me the place you're going is in a bad neighborhood. I will, Daddy. No bra? Of course not! Nobody wears those anymore. Nobody except us drill sergeants. Yeah, but look, Estelle. You can see her nipples as plain as day. Daddy, don't be so clinical. But it's immodest. Then I'll get some sandpaper! Look, young lady, when I was your age... When you were my age, you all wore brassieres that made your tits stick out like torpedoes. Tits! What's this \"tits\" business? Sounds like I'm back in the barracks. All right, then. Mammary glands. They used to tie them up like little lunatics in straitjackets - and they stuffed socks in their bras. - Mari! You told me that yourself, Mother. If God had meant women to go around with their busts exposed, Mari Collingwood, he wouldn't have given us clothes! Who are you gonna see tonight? - Bloodlust. - Bloodlust? Yeah, Bloodlust. What's wrong with them? I was just reading about them. Aren't they the guys that dismember live chickens during their act? They only did that once, Daddy. Don't you feel sorry for the chicken? Oh, Daddy, I couldn't tell you the nights I cried myself to sleep over that chicken. Hey, have you seen the car keys? On the table. I think it's crazy. What's crazy? All that blood and violence. I thought you were supposed to be the love generation. Hey, that reminds me. What? Here's a little something for you. Just a gift to tide you over till tomorrow. Oh, Daddy! Daddy. Oh, Mother. It's nice. Well, maybe it'll bring you luck.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Hello, Cassie! Hiya, girl. Hello there. Now, let's see. Looks like Mari's getting cards from half the civilized world. Mari Collingwood. Mari Collingwood. Mari Collingwood. You'd think she's the only kid to reach the age of 17. Of course, she is about the prettiest piece I've ever seen. Mari Collingwood, you hurry up! Okay, okay. Drill sergeant. Did you call the repair service? Mmm-hmm. Did you tell them I was a physician and had to have a phone? No, actually, I told them you were an international bookie and I was 10 months pregnant with quintuplets. Hey, what's new in the outside world? Same old stuff, murder and mayhem. What's for dinner tonight? Freezer's full, take your choice. What's that supposed to mean? Mari, I want you to be careful tonight. Your mother tells me the place you're going is in a bad neighborhood. I will, Daddy. No bra? Of course not! Nobody wears those anymore. Nobody except us drill sergeants. Yeah, but look, Estelle. You can see her nipples as plain as day. Daddy, don't be so clinical. But it's immodest. Then I'll get some sandpaper! Look, young lady, when I was your age... When you were my age, you all wore brassieres that made your tits stick out like torpedoes. Tits! What's this \"tits\" business? Sounds like I'm back in the barracks. All right, then. Mammary glands. They used to tie them up like little lunatics in straitjackets - and they stuffed socks in their bras. - Mari! You told me that yourself, Mother. If God had meant women to go around with their busts exposed, Mari Collingwood, he wouldn't have given us clothes! Who are you gonna see tonight? - Bloodlust. - Bloodlust? Yeah, Bloodlust. What's wrong with them? I was just reading about them. Aren't they the guys that dismember live chickens during their act? They only did that once, Daddy. Don't you feel sorry for the chicken? Oh, Daddy, I couldn't tell you the nights I cried myself to sleep over that chicken. Hey, have you seen the car keys? On the table. I think it's crazy. What's crazy? All that blood and violence. I thought you were supposed to be the love generation. Hey, that reminds me. What? Here's a little something for you. Just a gift to tide you over till tomorrow. Oh, Daddy! Daddy. Oh, Mother. It's nice. Well, maybe it'll bring you luck."
+      ],
+      "scene_length_chars": 2273,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.40553584694862366,
+        0.00252265902236104,
+        0.01747993938624859,
+        0.00968245230615139,
+        0.010868427343666553,
+        0.04595790430903435,
+        0.00448573799803853,
+        0.4409908950328827,
+        0.03692060708999634,
+        0.01167865376919508,
+        0.0032398777548223734,
+        0.0031119361519813538,
+        0.0015887022018432617,
+        0.3250111937522888,
+        0.020130634307861328,
+        0.009047187864780426,
+        0.018674805760383606,
+        0.05880159139633179,
+        0.058216359466314316,
+        0.004191082902252674,
+        0.06196143105626106,
+        0.06436016410589218,
+        0.027993446215987206,
+        0.015299600549042225,
+        0.0022657027002424,
+        0.05033576115965843,
+        0.1967102438211441,
+        0.023335212841629982
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "admiration",
+        "excitement"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": null,
+      "raw_text": "By the way, who are you going out with tonight? Anyone we know? Well, Phyllis Stone. Phyllis Stone? But, yeah... I know you don't like her, Mother, but I'm safe with her. She comes from that neighborhood. What neighborhood? Where the concert is. You know, from that slum. I'm sure she does. Come on! I got something for us. What? Come on. You'll see. - Okay. Oh! - Hurry up. 'Who's Phyllis Stone? \"You make her sound like the bride of Frankenstein.' 'She's the girl that takes care of the horses 'down the Johnson place, isn't she, Mari?' 'What worries you?' 'From what Nancy Springer tells me, 'that's not all she takes care of down there.' Mari tells me you're from Manhattan. What does your father do? 'Oh, my parents are in the iron and steel business.' Iron and steel, both together. How unusual. Yeah, well, my mother irons, and my father steals. 'Come on, Mari.' I wish we had some decent grass. -Yeah, it'd be nice to get stoned. -You don't have any, do you, Mari? No! Of course not. Me? Maybe we can get some before the concert. Yeah, the concert. I wonder what it would be like to make it with Bloodlust. It would just be really soft. Like in a whole bunch of cotton. You know what I mean? - Cotton? - No! Soft and gentle. - Oh, give me a break! - Really sensitive, not wild and gory. God! - You're too much, man. Cotton! - No. It's Bloodlust, man! Like, they're crazy! Like cotton candy, you know. The leaves are beautiful. Yep! They're really starting to change. I guess winter's coming on. Yep. Hey, I changed. I changed this winter. What do you mean, you changed? I mean, my breasts filled out. Yeah, didn't you notice? Look. I mean, they were nothing last summer. I didn't know you last summer. I know. Well, they have. Well, congratulations! Come on. I feel like a woman for the first time in my life. Yeah? Rodney Johnson! You're crazy! 'The police have already spread their dragnet over a five-state area 'in their effort to apprehend the fugitives...' 'Far out! This is gorgeous.' \"According to reliable sources...' 'Leave that on, Phyllis. I want to hear it.' 'The daring daylight escape of the two convicted murderers, \"dope pushers and rapists cost the lives of two prison guards 'and surprisingly, the life of a German shepherd. \"According to eyewitness reports, the animal, 'which was sent after the two fleeing men, was kicked to death 'by a young, animal-like woman who leaped from the getaway car.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "By the way, who are you going out with tonight? Anyone we know? Well, Phyllis Stone. Phyllis Stone? But, yeah... I know you don't like her, Mother, but I'm safe with her. She comes from that neighborhood. What neighborhood? Where the concert is. You know, from that slum. I'm sure she does. Come on! I got something for us. What? Come on. You'll see. - Okay. Oh! - Hurry up. 'Who's Phyllis Stone? \"You make her sound like the bride of Frankenstein.' 'She's the girl that takes care of the horses 'down the Johnson place, isn't she, Mari?' 'What worries you?' 'From what Nancy Springer tells me, 'that's not all she takes care of down there.' Mari tells me you're from Manhattan. What does your father do? 'Oh, my parents are in the iron and steel business.' Iron and steel, both together. How unusual. Yeah, well, my mother irons, and my father steals. 'Come on, Mari.' I wish we had some decent grass. -Yeah, it'd be nice to get stoned. -You don't have any, do you, Mari? No! Of course not. Me? Maybe we can get some before the concert. Yeah, the concert. I wonder what it would be like to make it with Bloodlust. It would just be really soft. Like in a whole bunch of cotton. You know what I mean? - Cotton? - No! Soft and gentle. - Oh, give me a break! - Really sensitive, not wild and gory. God! - You're too much, man. Cotton! - No. It's Bloodlust, man! Like, they're crazy! Like cotton candy, you know. The leaves are beautiful. Yep! They're really starting to change. I guess winter's coming on. Yep. Hey, I changed. I changed this winter. What do you mean, you changed? I mean, my breasts filled out. Yeah, didn't you notice? Look. I mean, they were nothing last summer. I didn't know you last summer. I know. Well, they have. Well, congratulations! Come on. I feel like a woman for the first time in my life. Yeah? Rodney Johnson! You're crazy! 'The police have already spread their dragnet over a five-state area 'in their effort to apprehend the fugitives...' 'Far out! This is gorgeous.' \"According to reliable sources...' 'Leave that on, Phyllis. I want to hear it.' 'The daring daylight escape of the two convicted murderers, \"dope pushers and rapists cost the lives of two prison guards 'and surprisingly, the life of a German shepherd. \"According to eyewitness reports, the animal, 'which was sent after the two fleeing men, was kicked to death 'by a young, animal-like woman who leaped from the getaway car."
+      ],
+      "scene_length_chars": 2424,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.497732549905777,
+        0.008609666489064693,
+        0.004507093224674463,
+        0.002639085054397583,
+        0.018411779776215553,
+        0.0007680632988922298,
+        0.010676559060811996,
+        0.3940909802913666,
+        0.020704735070466995,
+        0.002271312987431884,
+        0.0013416040455922484,
+        0.004021479282528162,
+        0.0006775702349841595,
+        0.053327228873968124,
+        0.002377336146309972,
+        0.00040122377686202526,
+        0.0008302503265440464,
+        0.0005335651221685112,
+        0.0022093041334301233,
+        0.0006112005212344229,
+        0.005103031639009714,
+        0.001582934521138668,
+        0.017211737111210823,
+        0.00016500837227795273,
+        0.00044416426680982113,
+        0.0018934424733743072,
+        0.0660712942481041,
+        0.2660601735115051
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "curiosity",
+        "neutral"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": null,
+      "raw_text": "'The alleged driver of the car was Junior Stillo. 'Junior Stillo is the illegitimate son of the leader of the two escapees, 'Krug Stillo, who was serving a life sentence for the 1966 triple slaying 'of a priest and two nuns. 'Krug Stillo is reputed to have hooked his own son on heroin 'to control the youngster's life. \"The man is armed and considered extremely dangerous. \"The second escaped convict is identified as Fred \"Weasel\" Podowski, \"who has a long police record for child molesting, peeping Tom-ism 'and assault with a deadly weapon. \"The three men were accompanied in their getaway by an unknown woman 'described only as young, strong and animal-like. 'Police believe the four may still be in the New York City area 'but expect them to try to leave the state within the next 48 hours.' Thanks. Sounds like good advice. ♪ I'm singin' in the rain ♪ Sadie! - Yeah? - Hurry up out of there! I want to take a bath, too. Okay, okay! Hey, what do you think of your new clothes? I handpicked them at Korvette's. Wonderful. -Who is it? -It's ♪. Edgar Hoover. - Any trouble? - No. Where's Sadie? Taking a bath. Hey, is Junior back yet? Yeah, and I'm here, too. Send him in with my beer, okay? You heard her. Go to the icebox and get a beer. There's a lady in there, man. Here's your beer, Sadie. There he is, the man of the hour. Thank you. You glad your old man's out of the clink? Yeah, sure. You know, it's really a shame you don't get along better with Krug. You got to change your head around. Become someone else altogether. I've been thinking about names and everything. How does \"Agatha Greenwood\" grab you? Like something out of Brighter Day. Yeah, you're probably right. What do you want to be? - A frog. - You look like a frog. If I was a frog, I'd have my own lily pad. I could sit there all day long, just... I could do that, man, and nobody would bother me. I could watch the flies. -Better watch him, Krug! -Hey. Leave Sadie alone, you little toad, or I'll squash you flat as a lily pad. -Do we have time before the concert? -Sure, don't worry about it. Goodie! I want to have at least two scoops. I know exactly what I'm going to have. Mint chocolate chip. - A mint chocolate chip? - Yeah. No, I don't like that. What's this yellow stuff right here?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "'The alleged driver of the car was Junior Stillo. 'Junior Stillo is the illegitimate son of the leader of the two escapees, 'Krug Stillo, who was serving a life sentence for the 1966 triple slaying 'of a priest and two nuns. 'Krug Stillo is reputed to have hooked his own son on heroin 'to control the youngster's life. \"The man is armed and considered extremely dangerous. \"The second escaped convict is identified as Fred \"Weasel\" Podowski, \"who has a long police record for child molesting, peeping Tom-ism 'and assault with a deadly weapon. \"The three men were accompanied in their getaway by an unknown woman 'described only as young, strong and animal-like. 'Police believe the four may still be in the New York City area 'but expect them to try to leave the state within the next 48 hours.' Thanks. Sounds like good advice. ♪ I'm singin' in the rain ♪ Sadie! - Yeah? - Hurry up out of there! I want to take a bath, too. Okay, okay! Hey, what do you think of your new clothes? I handpicked them at Korvette's. Wonderful. -Who is it? -It's ♪. Edgar Hoover. - Any trouble? - No. Where's Sadie? Taking a bath. Hey, is Junior back yet? Yeah, and I'm here, too. Send him in with my beer, okay? You heard her. Go to the icebox and get a beer. There's a lady in there, man. Here's your beer, Sadie. There he is, the man of the hour. Thank you. You glad your old man's out of the clink? Yeah, sure. You know, it's really a shame you don't get along better with Krug. You got to change your head around. Become someone else altogether. I've been thinking about names and everything. How does \"Agatha Greenwood\" grab you? Like something out of Brighter Day. Yeah, you're probably right. What do you want to be? - A frog. - You look like a frog. If I was a frog, I'd have my own lily pad. I could sit there all day long, just... I could do that, man, and nobody would bother me. I could watch the flies. -Better watch him, Krug! -Hey. Leave Sadie alone, you little toad, or I'll squash you flat as a lily pad. -Do we have time before the concert? -Sure, don't worry about it. Goodie! I want to have at least two scoops. I know exactly what I'm going to have. Mint chocolate chip. - A mint chocolate chip? - Yeah. No, I don't like that. What's this yellow stuff right here?"
+      ],
+      "scene_length_chars": 2267,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.03576958552002907,
+        0.0181028563529253,
+        0.005544732790440321,
+        0.11463730782270432,
+        0.17847822606563568,
+        0.03168189153075218,
+        0.009213144890964031,
+        0.4869016110897064,
+        0.012705746106803417,
+        0.0051469276659190655,
+        0.23635387420654297,
+        0.01473161205649376,
+        0.0026843661908060312,
+        0.006212037522345781,
+        0.0034799883142113686,
+        0.07083326578140259,
+        0.0037832511588931084,
+        0.005873581860214472,
+        0.0033457810059189796,
+        0.0007245121523737907,
+        0.012638643383979797,
+        0.00578544894233346,
+        0.014503472484648228,
+        0.007980209775269032,
+        0.005716083571314812,
+        0.0035928767174482346,
+        0.002471956890076399,
+        0.3156655728816986
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "neutral",
+        "disapproval"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": null,
+      "raw_text": "Lemon sherbet. Sherbet. I don't want sherbet. Oh, can I taste yours? Make your own. What do you want? I don't want that. I want... What else do you have? Banana Royal, Neapolitan, Maple Walnut, Tutti-Frutti... - Nut! - Nuts for the nut. Big goon, put me down! I hate you! Let me up. Hey, forget it! You got the cream of American manhood here. The cream of American manhood. That's good, Krug! Shut up! And get away from my woman. Your woman? I thought she was our woman. Just a minute! Buzz off! I'm not neither of yours woman. I am my own frigging woman! -She's right, Krug. -You shut up! Hey, what have you been doing? Reading them creep women lib magazines while I was up in the jug? Maybe. Why don't you just lay back and enjoy being inferior? Zoom off! You male chauvinist dog! - Pig, Sadie. - What? Male chauvinist pig. Okay, you male chauvinist pig! -She's right, Krug. -You shut up! I ain't putting out anymore until I get a couple of more chicks around here. Couple of more chicks? Yeah. Equal representation. - What, are you crazy? - She's right, Krug. Get out of here! God! This neighborhood's awful. It's so dirty. My mother was right. Come on, it's not awful, it's just funky. That's all. Dirt all over the place. Keep your eyes open for someone who might be dealing. Yeah. -Want me to ask him? -Yeah. Go ahead. Hey, man. You don't know where we could score on some good grass, do you? - Nah, I don't know that stuff. - Thanks. - Bummer. - Come on. Oh, man! Hey, hey, lady! Come on back here. Let's get together. Yeah? I do happen to have in my possession an extra ounce of good stuff. Oh yeah, what kind? Colombian. - Colombian? - Yeah. Far out! - How much? - $20. $20, and it's Colombian? Yeah, well, you know, I need the money, but if that's too high... No, no, no! That's great. We'll take it. How do we get it? Oh, uh... This is my roommate, Sam. Hiya, girls! This is my sister, Martha. Martha, these girls, you know, want to buy some grass. Come on in. Come on in. - Gotcha! - Oh, shit! Hey, stick around a while. How about a bite? Yeah, I'd like a little something to eat myself. Nice going, junkie. Here's your yum-yums. - So much for him. - Now, I don't want you girls to worry. I mean, we just wanted some company. That's all, you know. No, it wasn't that expensive at all. Looks good.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Lemon sherbet. Sherbet. I don't want sherbet. Oh, can I taste yours? Make your own. What do you want? I don't want that. I want... What else do you have? Banana Royal, Neapolitan, Maple Walnut, Tutti-Frutti... - Nut! - Nuts for the nut. Big goon, put me down! I hate you! Let me up. Hey, forget it! You got the cream of American manhood here. The cream of American manhood. That's good, Krug! Shut up! And get away from my woman. Your woman? I thought she was our woman. Just a minute! Buzz off! I'm not neither of yours woman. I am my own frigging woman! -She's right, Krug. -You shut up! Hey, what have you been doing? Reading them creep women lib magazines while I was up in the jug? Maybe. Why don't you just lay back and enjoy being inferior? Zoom off! You male chauvinist dog! - Pig, Sadie. - What? Male chauvinist pig. Okay, you male chauvinist pig! -She's right, Krug. -You shut up! I ain't putting out anymore until I get a couple of more chicks around here. Couple of more chicks? Yeah. Equal representation. - What, are you crazy? - She's right, Krug. Get out of here! God! This neighborhood's awful. It's so dirty. My mother was right. Come on, it's not awful, it's just funky. That's all. Dirt all over the place. Keep your eyes open for someone who might be dealing. Yeah. -Want me to ask him? -Yeah. Go ahead. Hey, man. You don't know where we could score on some good grass, do you? - Nah, I don't know that stuff. - Thanks. - Bummer. - Come on. Oh, man! Hey, hey, lady! Come on back here. Let's get together. Yeah? I do happen to have in my possession an extra ounce of good stuff. Oh yeah, what kind? Colombian. - Colombian? - Yeah. Far out! - How much? - $20. $20, and it's Colombian? Yeah, well, you know, I need the money, but if that's too high... No, no, no! That's great. We'll take it. How do we get it? Oh, uh... This is my roommate, Sam. Hiya, girls! This is my sister, Martha. Martha, these girls, you know, want to buy some grass. Come on in. Come on in. - Gotcha! - Oh, shit! Hey, stick around a while. How about a bite? Yeah, I'd like a little something to eat myself. Nice going, junkie. Here's your yum-yums. - So much for him. - Now, I don't want you girls to worry. I mean, we just wanted some company. That's all, you know. No, it wasn't that expensive at all. Looks good."
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.23335905373096466,
+        0.01901194266974926,
+        0.09671024233102798,
+        0.5130522847175598,
+        0.09123411774635315,
+        0.005253068637102842,
+        0.003075102111324668,
+        0.39441990852355957,
+        0.002021940192207694,
+        0.005834124982357025,
+        0.01064357440918684,
+        0.25202006101608276,
+        0.0023186372127383947,
+        0.030020585283637047,
+        0.001934196799993515,
+        0.2509913742542267,
+        0.0009847384644672275,
+        0.0019595702178776264,
+        0.000532631587702781,
+        0.00041345355566591024,
+        0.002856089035049081,
+        0.004023959394544363,
+        0.0022935690358281136,
+        0.00691855326294899,
+        0.00131121592130512,
+        0.0011127362959086895,
+        0.020627988502383232,
+        0.011549579910933971
+      ],
+      "goemotions_topk": [
+        "annoyance",
+        "curiosity",
+        "disgust"
+      ],
+      "goemotions_label": "annoyance",
+      "goemotions_labels": [
+        "annoyance",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": null,
+      "raw_text": "This room belongs in a magazine. Not bad, if I do say so. Hmm. I feel like a bridegroom. I'm hearing bells. I have a cake in the oven. Come on. A cake? You wanted some grass? What do you want with some grass? Hey, you guys ain't cows, is ya? Little cows looking for some grass? Let me hear you moo. Come on. Yeah, but they got some cute little udders on them. You guys let us the hell out of here, or I'm going to start screaming! Hey, you gonna scream? Listen. Let me give you a little bit of free advice. If you make one peep... Cockeyed as hell. John, I should have bought one at the bakery. They had such pretty ones there. Nonsense. It's truly remarkable. Come on in the living room. I want to attack you. Listen. Why don't you guys let us go? We know you were just kidding around. - Oh, yes. - We'll split, and we won't say anything to anybody, I swear. You must think we're pretty stupid. No. We ain't stupid. We might be horny old pigs, but we ain't stupid. Get your hands away, Sadie. Come on, Krug. I had her first. Please. I said get your hands away, bitch! Chicken breast. Phyllis! Do that again, and you're dead. Easy, Weasel. We don't want to off somebody the first night out. I mean, it'd be a shame to get this floor all messed up with blood. Be so messy. You see, there are other ways to do things. No! Stop it. No. No. Castle's ready. Here's to the princess. To the princess! To her queen. Come on! Okay, sweetheart, I'll put you right on top of your friend here. Take it easy, you could hurt 'em. They're okay. Okay, the both of you settle down, you got a long ride ahead. I'm outta here. Yes. 'It's pretty common, you know?* Yes, I understand. \"Sure she hasn't called? No, she hasn't. 'Well, sorry I couldn't have been of more help.' Why, thank you very much. You're very kind. - Goodbye. - 'Goodbye.' Nothing? The theater manager said that concert was over at 2:00 this morning. Well, it's dawn now. We'll wait an hour, then we'll call the police. Come on! Things are not that bad. At least we have our phone again. She's all right. Staying out all night, well, it's classic. It's a kid's way of saying she's grown up. It's that damn Phyllis Stone's fault. All right, don't, Estelle! Now, she'll come home. Let her have a fling. Taking them girls, you know, that's the kind of crime people never forgive you for.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "This room belongs in a magazine. Not bad, if I do say so. Hmm. I feel like a bridegroom. I'm hearing bells. I have a cake in the oven. Come on. A cake? You wanted some grass? What do you want with some grass? Hey, you guys ain't cows, is ya? Little cows looking for some grass? Let me hear you moo. Come on. Yeah, but they got some cute little udders on them. You guys let us the hell out of here, or I'm going to start screaming! Hey, you gonna scream? Listen. Let me give you a little bit of free advice. If you make one peep... Cockeyed as hell. John, I should have bought one at the bakery. They had such pretty ones there. Nonsense. It's truly remarkable. Come on in the living room. I want to attack you. Listen. Why don't you guys let us go? We know you were just kidding around. - Oh, yes. - We'll split, and we won't say anything to anybody, I swear. You must think we're pretty stupid. No. We ain't stupid. We might be horny old pigs, but we ain't stupid. Get your hands away, Sadie. Come on, Krug. I had her first. Please. I said get your hands away, bitch! Chicken breast. Phyllis! Do that again, and you're dead. Easy, Weasel. We don't want to off somebody the first night out. I mean, it'd be a shame to get this floor all messed up with blood. Be so messy. You see, there are other ways to do things. No! Stop it. No. No. Castle's ready. Here's to the princess. To the princess! To her queen. Come on! Okay, sweetheart, I'll put you right on top of your friend here. Take it easy, you could hurt 'em. They're okay. Okay, the both of you settle down, you got a long ride ahead. I'm outta here. Yes. 'It's pretty common, you know?* Yes, I understand. \"Sure she hasn't called? No, she hasn't. 'Well, sorry I couldn't have been of more help.' Why, thank you very much. You're very kind. - Goodbye. - 'Goodbye.' Nothing? The theater manager said that concert was over at 2:00 this morning. Well, it's dawn now. We'll wait an hour, then we'll call the police. Come on! Things are not that bad. At least we have our phone again. She's all right. Staying out all night, well, it's classic. It's a kid's way of saying she's grown up. It's that damn Phyllis Stone's fault. All right, don't, Estelle! Now, she'll come home. Let her have a fling. Taking them girls, you know, that's the kind of crime people never forgive you for."
+      ],
+      "scene_length_chars": 2333,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.4020528793334961,
+        0.14001908898353577,
+        0.0030362652614712715,
+        0.03984919190406799,
+        0.023289715871214867,
+        0.03618428111076355,
+        0.005062086042016745,
+        0.032920144498348236,
+        0.0025123676750808954,
+        0.008825091645121574,
+        0.008846637792885303,
+        0.0034668610896915197,
+        0.0012150179827585816,
+        0.021747857332229614,
+        0.001863066921941936,
+        0.28608471155166626,
+        0.0015501003945246339,
+        0.0028923426289111376,
+        0.0012298747897148132,
+        0.00047008463297970593,
+        0.008415238000452518,
+        0.006115184631198645,
+        0.005506457295268774,
+        0.04044853523373604,
+        0.012755378149449825,
+        0.0019540879875421524,
+        0.004790782928466797,
+        0.10276097059249878
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "gratitude",
+        "amusement"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 6,
+      "heading": null,
+      "raw_text": "A sex crime. Shut up, Weasel! You're disturbing my rhythm. How would you do this sex crime business, anyway? My brother Sol, the plumber, he makes twice as much money as me and gets three weeks vacation, too. Shut up, shithead! You think the cops is closing in on us? I don't know, I just got this feeling at the back of my neck. Maybe you got crabs. Sex crime! I wonder what the meanest, foulest, rottenest, raunchiest sex crime ever was. Hey, Sadie! What do you think the sex crime of the century was? Oh, shit! Hey, I'm serious! I ought to kill you. How 'bout the Boston Strangler? I always admired him. - Bush league! - I got it! - You sure? - Yeah! Frood! - Frood? - Sigmund Frood! Do you remember when a telephone pole was just a telephone pole? Yeah. Not anymore, sweetheart. It's a giant puh-hay-lis. - Puh-hay-lis? - Puh-hay-lis? I can't even look at the Grand Canyon anymore without crossing my legs. It's bullshit. This icing is delicious. You must get a lot of hysterical parents calling you now, huh, Sheriff? Well, it's not that unusual, Mrs. Collingwood. Oh? No, we've been getting a lot of calls like this in the past three or four years. Kids running off to the big city for a few days. Now, chances are that Mari will be back before supper. Still, it's wise of you to call us, Dr. Collingwood. At least all our phones are working. That's just great! We're a million miles from nowhere, too! King car of the road! All right, what's the matter? It stopped! Hey, I think I found the trouble. This thing pulled out, and it's all covered with oil. Christ, didn't they teach you nothing in reform school? Take it easy on him, he's just a kid. I know, but when I was his age, I could fix any car in two seconds. You schmuck. Hey, Krug, where the hell are we? I just have the strangest feeling we should be doing something more. Now, hold on, Mrs. Collingwood. Now Harry, my deputy Harry, he's down there in the radio car. He's calling New York right now. And if we hear anything... Here he is right now. What did you hear, Harry? New York police say they don't have anybody answering Mari's description in jail or on ice. -Harry... -It's their term. Guy in the morgue says he hasn't had a kid on ice all day. First time in five years. Is that the last of the cake?",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "A sex crime. Shut up, Weasel! You're disturbing my rhythm. How would you do this sex crime business, anyway? My brother Sol, the plumber, he makes twice as much money as me and gets three weeks vacation, too. Shut up, shithead! You think the cops is closing in on us? I don't know, I just got this feeling at the back of my neck. Maybe you got crabs. Sex crime! I wonder what the meanest, foulest, rottenest, raunchiest sex crime ever was. Hey, Sadie! What do you think the sex crime of the century was? Oh, shit! Hey, I'm serious! I ought to kill you. How 'bout the Boston Strangler? I always admired him. - Bush league! - I got it! - You sure? - Yeah! Frood! - Frood? - Sigmund Frood! Do you remember when a telephone pole was just a telephone pole? Yeah. Not anymore, sweetheart. It's a giant puh-hay-lis. - Puh-hay-lis? - Puh-hay-lis? I can't even look at the Grand Canyon anymore without crossing my legs. It's bullshit. This icing is delicious. You must get a lot of hysterical parents calling you now, huh, Sheriff? Well, it's not that unusual, Mrs. Collingwood. Oh? No, we've been getting a lot of calls like this in the past three or four years. Kids running off to the big city for a few days. Now, chances are that Mari will be back before supper. Still, it's wise of you to call us, Dr. Collingwood. At least all our phones are working. That's just great! We're a million miles from nowhere, too! King car of the road! All right, what's the matter? It stopped! Hey, I think I found the trouble. This thing pulled out, and it's all covered with oil. Christ, didn't they teach you nothing in reform school? Take it easy on him, he's just a kid. I know, but when I was his age, I could fix any car in two seconds. You schmuck. Hey, Krug, where the hell are we? I just have the strangest feeling we should be doing something more. Now, hold on, Mrs. Collingwood. Now Harry, my deputy Harry, he's down there in the radio car. He's calling New York right now. And if we hear anything... Here he is right now. What did you hear, Harry? New York police say they don't have anybody answering Mari's description in jail or on ice. -Harry... -It's their term. Guy in the morgue says he hasn't had a kid on ice all day. First time in five years. Is that the last of the cake?"
+      ],
+      "scene_length_chars": 2275,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.4037047326564789,
+        0.01825634203851223,
+        0.3392629623413086,
+        0.3116348683834076,
+        0.0035488822031766176,
+        0.002337517449632287,
+        0.02548343874514103,
+        0.14736796915531158,
+        0.002830657409504056,
+        0.007928316481411457,
+        0.0052491906099021435,
+        0.030576497316360474,
+        0.004409594926983118,
+        0.002612591488286853,
+        0.038966674357652664,
+        0.0016499714693054557,
+        0.004967377055436373,
+        0.001078957342542708,
+        0.005107196047902107,
+        0.0010762899182736874,
+        0.02074580453336239,
+        0.002242918824777007,
+        0.014089386910200119,
+        0.0003766648005694151,
+        0.002016710350289941,
+        0.0025359669234603643,
+        0.04260561987757683,
+        0.3382042646408081
+      ],
+      "goemotions_topk": [
+        "admiration",
+        "anger",
+        "neutral"
+      ],
+      "goemotions_label": "admiration",
+      "goemotions_labels": [
+        "admiration"
+      ]
+    },
+    {
+      "scene_id": 7,
+      "heading": null,
+      "raw_text": "There's a tool kit in the trunk. I want you to start this goddamn car. Bitch! She bit me! Krug, this ain't getting us out of the state. She bit me! That bitch bit me! Weasel, we're gonna have a little fun. -Krug. -Car's on the blink, Weasel. No, Krug. As long as we got you brats along... What are you gonna do? We ain't going to be able to call a mechanic, go to a gas station, nothing. We'll get the phone company hustling on the service so we can get a call from her. It'll be all right. You know, kids get ants in their pants sometimes. She's just letting off a little steam. Come on, there! Dig these crazy woods, man. Come on, Junior. Come on. Come on. Move it. Let's go to the right, down by the water. All right. Who do you suppose that is? I don't recognize it. Looks like someone got stuck. Want to go out, have a look? No, no. Come on, let's go, kid. We got more important things to do. That ain't going to find us Mari Collingwood. Weasel, take out your knife. Now I'm gonna tell this little lady here to do something. And if she doesn't do exactly what I tell her to, I want you to cut her... I want you to cut her friend. Oh, brother! -Untie 'em. Untie 'em. -Come on. - Hey. - He's talking to you. Come here. Come here. Piss your pants. Piss your pants! I said, piss your pants. You sick mother... Piss your pants. Do it! Watch her pee. She's doing it. Look at that! Oh, God! Hell! That's beautiful. Now, take 'em off. I said, take 'em off! You're so sick! Oh, yeah! Take 'em off! I told you about her. She's got lovely legs. This is really a riot, man! I dig it! Take 'em off! Take it all off. She got her little panties all stained. Can we get Weasel a pair of those pants? Do you want a pair of those pants, Weasel? How about some with a couple of hearts on them? She's got a good-looking ass on her. Come on, we're going to play. Up we go. Hit her. Hard! Sock it to her, baby. I said, hit her. I'm sorry, I'm sorry, Mari. Hit her in the stomach with all your might. Stop it! Stop it! You're gonna kill someone if you're not careful. What the hell are you doing? Oh, shit! You guys got to be crazy, man. Loosen her up a little bit. Wait a minute. Oh, baby, don't... Come on, sweetheart. Don't worry about it. You'll have plenty of time to feel the pain. You know, Weasel here is a specialist with a twist.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "There's a tool kit in the trunk. I want you to start this goddamn car. Bitch! She bit me! Krug, this ain't getting us out of the state. She bit me! That bitch bit me! Weasel, we're gonna have a little fun. -Krug. -Car's on the blink, Weasel. No, Krug. As long as we got you brats along... What are you gonna do? We ain't going to be able to call a mechanic, go to a gas station, nothing. We'll get the phone company hustling on the service so we can get a call from her. It'll be all right. You know, kids get ants in their pants sometimes. She's just letting off a little steam. Come on, there! Dig these crazy woods, man. Come on, Junior. Come on. Come on. Move it. Let's go to the right, down by the water. All right. Who do you suppose that is? I don't recognize it. Looks like someone got stuck. Want to go out, have a look? No, no. Come on, let's go, kid. We got more important things to do. That ain't going to find us Mari Collingwood. Weasel, take out your knife. Now I'm gonna tell this little lady here to do something. And if she doesn't do exactly what I tell her to, I want you to cut her... I want you to cut her friend. Oh, brother! -Untie 'em. Untie 'em. -Come on. - Hey. - He's talking to you. Come here. Come here. Piss your pants. Piss your pants! I said, piss your pants. You sick mother... Piss your pants. Do it! Watch her pee. She's doing it. Look at that! Oh, God! Hell! That's beautiful. Now, take 'em off. I said, take 'em off! You're so sick! Oh, yeah! Take 'em off! I told you about her. She's got lovely legs. This is really a riot, man! I dig it! Take 'em off! Take it all off. She got her little panties all stained. Can we get Weasel a pair of those pants? Do you want a pair of those pants, Weasel? How about some with a couple of hearts on them? She's got a good-looking ass on her. Come on, we're going to play. Up we go. Hit her. Hard! Sock it to her, baby. I said, hit her. I'm sorry, I'm sorry, Mari. Hit her in the stomach with all your might. Stop it! Stop it! You're gonna kill someone if you're not careful. What the hell are you doing? Oh, shit! You guys got to be crazy, man. Loosen her up a little bit. Wait a minute. Oh, baby, don't... Come on, sweetheart. Don't worry about it. You'll have plenty of time to feel the pain. You know, Weasel here is a specialist with a twist."
+      ],
+      "scene_length_chars": 2322,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.19846941530704498,
+        0.15245047211647034,
+        0.28700917959213257,
+        0.14494414627552032,
+        0.0028499439358711243,
+        0.3452276289463043,
+        0.02729489840567112,
+        0.022396370768547058,
+        0.012891544960439205,
+        0.004392096772789955,
+        0.013440816663205624,
+        0.04670041427016258,
+        0.005565808620303869,
+        0.002013174584135413,
+        0.0253616776317358,
+        0.002687502419576049,
+        0.03796287253499031,
+        0.0033731963485479355,
+        0.0030426529701799154,
+        0.004819197114557028,
+        0.11655980348587036,
+        0.0029642507433891296,
+        0.012503317557275295,
+        0.003422339679673314,
+        0.04458284005522728,
+        0.019076308235526085,
+        0.005490701645612717,
+        0.35148024559020996
+      ],
+      "goemotions_topk": [
+        "neutral",
+        "caring",
+        "anger"
+      ],
+      "goemotions_label": "neutral",
+      "goemotions_labels": [
+        "neutral"
+      ]
+    },
+    {
+      "scene_id": 8,
+      "heading": null,
+      "raw_text": "Do it! Get it off! Leave her alone! Come on. - We got to do it. - I can't. I can't. I can't. I know, it's sick. I know. It's okay. I know. It's sick. But it's okay. It's just you and me here. Nobody else. Just you and me, okay? Do it. It's okay. It's all right. We're not going to hurt you. You already hurt her! What do you think you're doing? No, Doc Collingwood, still no word on Mari. But we'll let you know just as soon as we hear something. Yes, sir. Yes, sir. Yes. Well, I'm glad you got your phone fixed. Yeah, Doc, now you just stick right by that phone 'cause she might call, you know. 'I'm holding you personally responsible.' Yes, sir. 'Call me if anything comes up.' Yeah, okay. - 'Goodbye.' - Bye. Hot damn, I wish I was something else sometimes. You mean, like a duck or something? No, you damn fool! I mean something else besides being a policeman. Doc Collingwood again, huh? Doc Collingwood. I bet she shacked up with Wilbur Cranshaw. That shows how much you know, \"cause Wilbur's gone up to Coopersburg with Sweet Lily. Who the hell is Sweet Lily? Well, it's his pig. He went up to Coopersburg. He's gonna enter her in some fair up there. Wilbur always was a little strange. I remember he left town real sudden once before. Just before his collie came down with a litter of pups. I'm going up to the car to see if I can find something to cut some firewood with. Firewood? Yeah, you know, you know, heat things up a little bit. Oh, yeah. You can handle things while I'm gone, can't you? Oh, sure. Hey, listen, I'm really cold. Do you think it'd be okay if I just put on my clothes? Just till Krug comes back. I'm really cold. Okay? Sure. Go ahead. Listen, I'm gonna make a run for it. When they go after me, you go and get help, okay? Okay. Okay. You want to play? Junior! Watch that other girl. Don't let nothing happen to her. I'm going to get you! Man, I got to give up cigarettes. - Shut up! - Junior? Is that your real name? I told you to shut up, or I'll slap you silly. I'm gonna give you another name. I'm gonna give you another name. I'm gonna call you Willow. - Willow. Willow. - Willow. Because you're kind of beautiful, and you shake when the wind blows. - Krug is the wind. - Let me alone. Krug's gonna really be pissed off we lost her. Split up, okay? Go that way.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Do it! Get it off! Leave her alone! Come on. - We got to do it. - I can't. I can't. I can't. I know, it's sick. I know. It's okay. I know. It's sick. But it's okay. It's just you and me here. Nobody else. Just you and me, okay? Do it. It's okay. It's all right. We're not going to hurt you. You already hurt her! What do you think you're doing? No, Doc Collingwood, still no word on Mari. But we'll let you know just as soon as we hear something. Yes, sir. Yes, sir. Yes. Well, I'm glad you got your phone fixed. Yeah, Doc, now you just stick right by that phone 'cause she might call, you know. 'I'm holding you personally responsible.' Yes, sir. 'Call me if anything comes up.' Yeah, okay. - 'Goodbye.' - Bye. Hot damn, I wish I was something else sometimes. You mean, like a duck or something? No, you damn fool! I mean something else besides being a policeman. Doc Collingwood again, huh? Doc Collingwood. I bet she shacked up with Wilbur Cranshaw. That shows how much you know, \"cause Wilbur's gone up to Coopersburg with Sweet Lily. Who the hell is Sweet Lily? Well, it's his pig. He went up to Coopersburg. He's gonna enter her in some fair up there. Wilbur always was a little strange. I remember he left town real sudden once before. Just before his collie came down with a litter of pups. I'm going up to the car to see if I can find something to cut some firewood with. Firewood? Yeah, you know, you know, heat things up a little bit. Oh, yeah. You can handle things while I'm gone, can't you? Oh, sure. Hey, listen, I'm really cold. Do you think it'd be okay if I just put on my clothes? Just till Krug comes back. I'm really cold. Okay? Sure. Go ahead. Listen, I'm gonna make a run for it. When they go after me, you go and get help, okay? Okay. Okay. You want to play? Junior! Watch that other girl. Don't let nothing happen to her. I'm going to get you! Man, I got to give up cigarettes. - Shut up! - Junior? Is that your real name? I told you to shut up, or I'll slap you silly. I'm gonna give you another name. I'm gonna give you another name. I'm gonna call you Willow. - Willow. Willow. - Willow. Because you're kind of beautiful, and you shake when the wind blows. - Krug is the wind. - Let me alone. Krug's gonna really be pissed off we lost her. Split up, okay? Go that way."
+      ],
+      "scene_length_chars": 2296,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.31250080466270447,
+        0.04352991282939911,
+        0.2873342037200928,
+        0.2786116898059845,
+        0.003985037561506033,
+        0.4112439453601837,
+        0.0018809061730280519,
+        0.1675579696893692,
+        0.019552158191800117,
+        0.006514497566968203,
+        0.008858882822096348,
+        0.009906303137540817,
+        0.001168610411696136,
+        0.0022765779867768288,
+        0.008642294444143772,
+        0.002057132078334689,
+        0.0037215379998087883,
+        0.009895437397062778,
+        0.0029852918814867735,
+        0.0024178954772651196,
+        0.05916361138224602,
+        0.0021615412551909685,
+        0.0027256233152002096,
+        0.0012605645461007953,
+        0.001489635556936264,
+        0.0029576190281659365,
+        0.0025173567701131105,
+        0.26022830605506897
+      ],
+      "goemotions_topk": [
+        "caring",
+        "admiration",
+        "anger"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 9,
+      "heading": null,
+      "raw_text": "You bitch! Slow down! Willow, do you have a girlfriend? Sure, I got lots of girlfriends just waiting to get me. I don't think you do. No, you're right. I want to give you something. I don't want that. - It's worth a lot. See? - I don't want it. I want to be your friend. You want to get free. -I want to be your friend. -Sadie, where'd she go? I want to be your friend. I can get you a fix. Yeah. You can get me a fix? Yeah, you'd like that. -Yeah. I'd like it. -Sadie! Over there! My father, he works with addicts. He's got it in his house. It's here. I can get you methadone. I can get you methadone, just as quick as that. Really! Come on, let's get out of here. - What, are you crazy? - I live over there. I live across the street. Come on, please! - I can't leave! - Please. - Krug will kill me. - No, not if you're not here. Son of a bitch. 'Attention all townships. Attention all townships. 'We got a late bulletin on the fugitives 'Krug Stillo and Weasel Podowski and their two accomplices. 'State police got a filling station attendant down in Riverdale, 'says he gassed them up and gave them directions to Corrington.' Hey, they're up our way! \"These guys might be coming our way, heading for Canada. 'Once again, description of that escape vehicle as follows. 'Dark green 1958 Cadillac convertible 'bearing license plate number E2546. 'Repeat, Edna 25... How long does it take to get to the Collingwoods'? - About 25 minutes. - Make it 15. Oh, God. If you would just relax, listen, I can help you. I'll get you out of this. You stupid dyke! Sadie! I'm gonna kill you. You all right, Sadie? Yeah, I'm okay. Let me up. Come on! There she is! I'm gonna Kill that bitch. -Feel better now? -Yeah, I'm okay. How did she get so close to the road? She threw some dirt in my face. We caught her, though. What are you worried about? Goddamn car stopped. You're out of gas, you idiot! Out of gas? God damn! See? I told you she wasn't going far. How's your back, baby? Junior! You said my name was Willow. Willow, then! You've got to be a man and do something for once. Mari, what would you do? What would you do if you were me? Fuck! Phyllis! They're coming after us. Going somewhere? - Phyllis? - Phyllis? Did she get away? - Take this, pigs! - Get outta here. We hate cops! God damn! Oh, yeah.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You bitch! Slow down! Willow, do you have a girlfriend? Sure, I got lots of girlfriends just waiting to get me. I don't think you do. No, you're right. I want to give you something. I don't want that. - It's worth a lot. See? - I don't want it. I want to be your friend. You want to get free. -I want to be your friend. -Sadie, where'd she go? I want to be your friend. I can get you a fix. Yeah. You can get me a fix? Yeah, you'd like that. -Yeah. I'd like it. -Sadie! Over there! My father, he works with addicts. He's got it in his house. It's here. I can get you methadone. I can get you methadone, just as quick as that. Really! Come on, let's get out of here. - What, are you crazy? - I live over there. I live across the street. Come on, please! - I can't leave! - Please. - Krug will kill me. - No, not if you're not here. Son of a bitch. 'Attention all townships. Attention all townships. 'We got a late bulletin on the fugitives 'Krug Stillo and Weasel Podowski and their two accomplices. 'State police got a filling station attendant down in Riverdale, 'says he gassed them up and gave them directions to Corrington.' Hey, they're up our way! \"These guys might be coming our way, heading for Canada. 'Once again, description of that escape vehicle as follows. 'Dark green 1958 Cadillac convertible 'bearing license plate number E2546. 'Repeat, Edna 25... How long does it take to get to the Collingwoods'? - About 25 minutes. - Make it 15. Oh, God. If you would just relax, listen, I can help you. I'll get you out of this. You stupid dyke! Sadie! I'm gonna kill you. You all right, Sadie? Yeah, I'm okay. Let me up. Come on! There she is! I'm gonna Kill that bitch. -Feel better now? -Yeah, I'm okay. How did she get so close to the road? She threw some dirt in my face. We caught her, though. What are you worried about? Goddamn car stopped. You're out of gas, you idiot! Out of gas? God damn! See? I told you she wasn't going far. How's your back, baby? Junior! You said my name was Willow. Willow, then! You've got to be a man and do something for once. Mari, what would you do? What would you do if you were me? Fuck! Phyllis! They're coming after us. Going somewhere? - Phyllis? - Phyllis? Did she get away? - Take this, pigs! - Get outta here. We hate cops! God damn! Oh, yeah."
+      ],
+      "scene_length_chars": 2295,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.005931973922997713,
+        0.004013424273580313,
+        0.5587413311004639,
+        0.028307059779763222,
+        0.0035690702497959137,
+        0.15791724622249603,
+        0.005475966725498438,
+        0.2567708194255829,
+        0.17209796607494354,
+        0.0038346548099070787,
+        0.00840824842453003,
+        0.007448937743902206,
+        0.0009645012323744595,
+        0.006362749729305506,
+        0.2723570764064789,
+        0.0006906120106577873,
+        0.00749722495675087,
+        0.004740820731967688,
+        0.007487830240279436,
+        0.003754566190764308,
+        0.032899562269449234,
+        0.001317251124419272,
+        0.0015155329601839185,
+        0.00038408185355365276,
+        0.0014230151427909732,
+        0.003161730244755745,
+        0.009958368726074696,
+        0.030553072690963745
+      ],
+      "goemotions_topk": [
+        "anger",
+        "fear",
+        "curiosity"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 10,
+      "heading": null,
+      "raw_text": "You're gonna get yours. You are really gonna get yours. Little woolly. \"Now I lay me down to sleep \"I pray the Lord my soul to keep \"If I shall die before I wake \"I pray the Lord my soul to take.\" Junior! Go up to the car and get the suitcases. Let's get washed up and the hell out of here. Yeah. Let's do that. Good grief, Frank. We've been walking for nigh on an hour now. It's seven o'clock and we've still got a good 10 miles to go. If you got any better ideas, Harry, you just come right out with them. 'Cause I can't think of any other way to get from here to there or any other place either, without riding or walking. And since riding is out, thanks to you, you lamebrain you, then walking is the only thing that's left. Listen. What? I hear something. All I hear is you, you damn fool. Who the hell do you think you are? Tonto? It's a truck. And some chickens, too. Chickens? I only tell you what the road tells me. Listen, Ada, we got a problem here. This is serious business. Now we got to get to the Collingwood place right away. Now, this is police business, and this is an emergency, you hear? Can you help us out? Have to ride on the roof. On the roof? It's the only place I have any room. Fasten your seatbelts! Proceed, Ada. Now, listen, Harry, if you tell any of the boys at the lodge about this, I'm gonna fix your wagon. God Sam! What in thunder's going on here, Ada? It's got its maximum load. I couldn't get another chicken on here without it stalling. And now I got you two on here, and you two ain't chickens! You mean this truck won't start with us on it? You said it! Listen, Ada, you're gonna have to take some of those chickens off that truck and let us on, you hear? How much do you weigh, Deputy? 185. Why? How much you weigh, Sheriff? - About 180. - Bullshit. Well, maybe 190. I don't weigh myself every morning. That's 11 crates of chickens. And that ain't hay. Now look, Ada, you know I'm a solemnly sworn officer of the law? Now, I got the law on my side, Ada. And, Sheriff, I got the chickens and the truck! Water! Water! You found water, chief. Still got some in your eye. Yeah? You get it. How's that? How's that? Did I get everything? - Am I clean? - Help me out of here. Come on. - Am I clean? - Yeah. Atta girl! Have a look, Sadie.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "You're gonna get yours. You are really gonna get yours. Little woolly. \"Now I lay me down to sleep \"I pray the Lord my soul to keep \"If I shall die before I wake \"I pray the Lord my soul to take.\" Junior! Go up to the car and get the suitcases. Let's get washed up and the hell out of here. Yeah. Let's do that. Good grief, Frank. We've been walking for nigh on an hour now. It's seven o'clock and we've still got a good 10 miles to go. If you got any better ideas, Harry, you just come right out with them. 'Cause I can't think of any other way to get from here to there or any other place either, without riding or walking. And since riding is out, thanks to you, you lamebrain you, then walking is the only thing that's left. Listen. What? I hear something. All I hear is you, you damn fool. Who the hell do you think you are? Tonto? It's a truck. And some chickens, too. Chickens? I only tell you what the road tells me. Listen, Ada, we got a problem here. This is serious business. Now we got to get to the Collingwood place right away. Now, this is police business, and this is an emergency, you hear? Can you help us out? Have to ride on the roof. On the roof? It's the only place I have any room. Fasten your seatbelts! Proceed, Ada. Now, listen, Harry, if you tell any of the boys at the lodge about this, I'm gonna fix your wagon. God Sam! What in thunder's going on here, Ada? It's got its maximum load. I couldn't get another chicken on here without it stalling. And now I got you two on here, and you two ain't chickens! You mean this truck won't start with us on it? You said it! Listen, Ada, you're gonna have to take some of those chickens off that truck and let us on, you hear? How much do you weigh, Deputy? 185. Why? How much you weigh, Sheriff? - About 180. - Bullshit. Well, maybe 190. I don't weigh myself every morning. That's 11 crates of chickens. And that ain't hay. Now look, Ada, you know I'm a solemnly sworn officer of the law? Now, I got the law on my side, Ada. And, Sheriff, I got the chickens and the truck! Water! Water! You found water, chief. Still got some in your eye. Yeah? You get it. How's that? How's that? Did I get everything? - Am I clean? - Help me out of here. Come on. - Am I clean? - Yeah. Atta girl! Have a look, Sadie."
+      ],
+      "scene_length_chars": 2271,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.009767618030309677,
+        0.0035799138713628054,
+        0.24128800630569458,
+        0.16125962138175964,
+        0.012444473803043365,
+        0.37603381276130676,
+        0.0019366921624168754,
+        0.4854324758052826,
+        0.024385662749409676,
+        0.0036247584503144026,
+        0.0010347099741920829,
+        0.017359476536512375,
+        0.0021648614201694727,
+        0.005561020690947771,
+        0.02248549647629261,
+        0.32839837670326233,
+        0.006285840645432472,
+        0.001486217137426138,
+        0.0010398454032838345,
+        0.00886048935353756,
+        0.019968897104263306,
+        0.00955478847026825,
+        0.006828685756772757,
+        0.010155624710023403,
+        0.0042128493078053,
+        0.004297823645174503,
+        0.010540426708757877,
+        0.22895877063274384
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "caring",
+        "gratitude"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "caring",
+        "curiosity"
+      ]
+    },
+    {
+      "scene_id": 11,
+      "heading": null,
+      "raw_text": "Is my tie okay? Beautiful, baby! Yeah. -Gee, thanks! -You're welcome. -John! -I'm in here! We've got guests. I'm sorry. Guests! Who is it? Get your foot off the table! Being in this house makes me wish I was a lady. This place is in the middle of nowhere, you know that? What are you doing with the Holy Bible? \"Dearly beloved, we are gathered here...\" Hey, Weasel, what are you doing? Nothing. Who in the world is it? I didn't know anyone was coming over. John, I want you to meet Harvey Wilson and his wife, Dorothy. - How are you? - Sam Hardy. Sam. - And Dave Rizalski. - David. Do you know their car broke down right out front, John? Oh? Anything serious? -Yeah, I'm afraid we blew a rod. -Oh, no. Well, Willie's Esso station is the only garage I know, and they close at 6:00. Well, it wouldn't make any difference anyway. The phone is still dead. They wanted us to drive them to a motel, but I said that would be up to you... Mari still has the car. It's all right, we've got plenty of room. Absolutely. Why, we have a perfectly good guest room. And, well, there's Mari's room, I suppose. Are you sure we're not gonna put you folks to any trouble? Nonsense! Our home is yours. Let me get your bags. No, no, no! Frank here is younger. He can handle it. Well, why don't I show you to your rooms? Come on. Fine. Here, and through there. Okay? I'll put some towels in the bathroom for you, and you can wash up if you like. Bacon and eggs all right in the morning? - Thank you. - That's marvelous. Okay, well, we'll be in the living room, and you can join us if you like. Okay, just make yourselves comfortable. Much obliged. Come on! Very nice. Very nice. The lady of the house is nice, too. Hey, Krug, I want my fix, man. Go jump! -Krug? -Yeah? Look at this. What? Guess who lives here? I wonder what the odds are on that. Couldn't even tell you. Feel like playing \"Three Thirds of a Ghost\" or something? How would you like me to put my boot up your ass sideways? I'm sorry I don't have anything better to offer you, but... It's been such a confusing day. Hell, you've got a lot to offer. I mean, this food is impeccable. Are you folks on vacation? No. We're sort of on a business trip. What sort of business are you in? - Plumbing. - Insurance. Well, which is it? You see, we're actually in both.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Is my tie okay? Beautiful, baby! Yeah. -Gee, thanks! -You're welcome. -John! -I'm in here! We've got guests. I'm sorry. Guests! Who is it? Get your foot off the table! Being in this house makes me wish I was a lady. This place is in the middle of nowhere, you know that? What are you doing with the Holy Bible? \"Dearly beloved, we are gathered here...\" Hey, Weasel, what are you doing? Nothing. Who in the world is it? I didn't know anyone was coming over. John, I want you to meet Harvey Wilson and his wife, Dorothy. - How are you? - Sam Hardy. Sam. - And Dave Rizalski. - David. Do you know their car broke down right out front, John? Oh? Anything serious? -Yeah, I'm afraid we blew a rod. -Oh, no. Well, Willie's Esso station is the only garage I know, and they close at 6:00. Well, it wouldn't make any difference anyway. The phone is still dead. They wanted us to drive them to a motel, but I said that would be up to you... Mari still has the car. It's all right, we've got plenty of room. Absolutely. Why, we have a perfectly good guest room. And, well, there's Mari's room, I suppose. Are you sure we're not gonna put you folks to any trouble? Nonsense! Our home is yours. Let me get your bags. No, no, no! Frank here is younger. He can handle it. Well, why don't I show you to your rooms? Come on. Fine. Here, and through there. Okay? I'll put some towels in the bathroom for you, and you can wash up if you like. Bacon and eggs all right in the morning? - Thank you. - That's marvelous. Okay, well, we'll be in the living room, and you can join us if you like. Okay, just make yourselves comfortable. Much obliged. Come on! Very nice. Very nice. The lady of the house is nice, too. Hey, Krug, I want my fix, man. Go jump! -Krug? -Yeah? Look at this. What? Guess who lives here? I wonder what the odds are on that. Couldn't even tell you. Feel like playing \"Three Thirds of a Ghost\" or something? How would you like me to put my boot up your ass sideways? I'm sorry I don't have anything better to offer you, but... It's been such a confusing day. Hell, you've got a lot to offer. I mean, this food is impeccable. Are you folks on vacation? No. We're sort of on a business trip. What sort of business are you in? - Plumbing. - Insurance. Well, which is it? You see, we're actually in both."
+      ],
+      "scene_length_chars": 2299,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.6083001494407654,
+        0.006605580914765596,
+        0.011974796652793884,
+        0.005645109806209803,
+        0.014578242786228657,
+        0.0491163432598114,
+        0.30532872676849365,
+        0.6769685745239258,
+        0.021181384101510048,
+        0.022473638877272606,
+        0.0098127955570817,
+        0.009181945584714413,
+        0.011700469069182873,
+        0.06232672557234764,
+        0.29130712151527405,
+        0.6589630842208862,
+        0.023770766332745552,
+        0.00747460825368762,
+        0.022177577018737793,
+        0.020212994888424873,
+        0.012996375560760498,
+        0.035202063620090485,
+        0.00727546913549304,
+        0.009592859074473381,
+        0.016610493883490562,
+        0.018670283257961273,
+        0.23452937602996826,
+        0.009059012867510319
+      ],
+      "goemotions_topk": [
+        "curiosity",
+        "gratitude",
+        "admiration"
+      ],
+      "goemotions_label": "curiosity",
+      "goemotions_labels": [
+        "admiration",
+        "curiosity",
+        "gratitude"
+      ]
+    },
+    {
+      "scene_id": 12,
+      "heading": null,
+      "raw_text": "We sell insurance to plumbing companies. You know, in case they steal some toilets or something. Yeah. Junior. Stop it! Stop it! -Willow! -Stop it! You're gonna kill someone. Willow. I'm sorry. You don't mind if I smoke, do you? I'm sorry! I'm sorry! Shut up, you little creep! I should've killed you down at the lake! Shut up! You're worse than your goddamn mother! You see, Dave upstairs, he lost one of our biggest accounts last week. International Bathtub and Sink. $500,000 account, down the drain, so to speak. He kind of takes the blame on himself. Hasn't got over it yet. Any more spaghetti left? Goddamn high-class, tight-ass freakos. All that goddamn silverware. Who do they think they are, anyway? People in China eating with sticks, and these creeps got 16 utensils for every pea on the plate. Take it easy. It don't make no matter, one way or the other. Where's that goddamn son of mine? He's taking a piss, or something. Did you get him his fix? Screw him. Is there anything I can do in there? - Are you all right? - Yeah. Yeah, I'm fine. I'm fine. Let me call my husband. He's a doctor. No, no, lady, please! I'm all right. I'm all right. Easy. Easy does it. You okay? What the hell have you been doing? Nothing. Look, man! I got to have a fix! After breakfast. -Hey, Krug. -Yeah? I want my fix, man. Look, man! Cut it out! -I got to have a fix! -Screw off. Krug, we gotta get out of here! If they find out we killed their kid... You shut up, or you'll wind up in the lake with her! - Oh, God, John. - Jesus Christ! Isn't there anything we can do for her? - Nothing. - John. She's dead. Oh, my baby! Oh, baby. Oh, my baby! Don't move. Open your mouth, please. Don't move. Open your mouth, please. -Lights. -Lights. -Chisel. -Don't move. Chisel. Hammer. Hammer. Wider now. Wider. Don't move. No good. Hello. What are you doing up so late? Oh, uh... I thought I heard noises. But it was just a dog in the garbage can outside. I got a little hungry. Thought I might raid the icebox. Well, I must say, you... You do look like a man with a huge appetite. I mean, all that spaghetti tonight and everything. Yeah, that's true. Say, where's your husband? I couldn't help noticing that your room was empty. Oh, he's there. He somehow finds me too hard to... - Well, he's afraid of me. - You're kidding.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "We sell insurance to plumbing companies. You know, in case they steal some toilets or something. Yeah. Junior. Stop it! Stop it! -Willow! -Stop it! You're gonna kill someone. Willow. I'm sorry. You don't mind if I smoke, do you? I'm sorry! I'm sorry! Shut up, you little creep! I should've killed you down at the lake! Shut up! You're worse than your goddamn mother! You see, Dave upstairs, he lost one of our biggest accounts last week. International Bathtub and Sink. $500,000 account, down the drain, so to speak. He kind of takes the blame on himself. Hasn't got over it yet. Any more spaghetti left? Goddamn high-class, tight-ass freakos. All that goddamn silverware. Who do they think they are, anyway? People in China eating with sticks, and these creeps got 16 utensils for every pea on the plate. Take it easy. It don't make no matter, one way or the other. Where's that goddamn son of mine? He's taking a piss, or something. Did you get him his fix? Screw him. Is there anything I can do in there? - Are you all right? - Yeah. Yeah, I'm fine. I'm fine. Let me call my husband. He's a doctor. No, no, lady, please! I'm all right. I'm all right. Easy. Easy does it. You okay? What the hell have you been doing? Nothing. Look, man! I got to have a fix! After breakfast. -Hey, Krug. -Yeah? I want my fix, man. Look, man! Cut it out! -I got to have a fix! -Screw off. Krug, we gotta get out of here! If they find out we killed their kid... You shut up, or you'll wind up in the lake with her! - Oh, God, John. - Jesus Christ! Isn't there anything we can do for her? - Nothing. - John. She's dead. Oh, my baby! Oh, baby. Oh, my baby! Don't move. Open your mouth, please. Don't move. Open your mouth, please. -Lights. -Lights. -Chisel. -Don't move. Chisel. Hammer. Hammer. Wider now. Wider. Don't move. No good. Hello. What are you doing up so late? Oh, uh... I thought I heard noises. But it was just a dog in the garbage can outside. I got a little hungry. Thought I might raid the icebox. Well, I must say, you... You do look like a man with a huge appetite. I mean, all that spaghetti tonight and everything. Yeah, that's true. Say, where's your husband? I couldn't help noticing that your room was empty. Oh, he's there. He somehow finds me too hard to... - Well, he's afraid of me. - You're kidding."
+      ],
+      "scene_length_chars": 2308,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.0068166437558829784,
+        0.2942768633365631,
+        0.5262311697006226,
+        0.041339460760354996,
+        0.004145542625337839,
+        0.31481650471687317,
+        0.007594164460897446,
+        0.21046404540538788,
+        0.007625021040439606,
+        0.005800256971269846,
+        0.004544126335531473,
+        0.013264426030218601,
+        0.005866748746484518,
+        0.0035326452925801277,
+        0.026657037436962128,
+        0.0029352090787142515,
+        0.010067406110465527,
+        0.00425691669806838,
+        0.003171158954501152,
+        0.0033685488160699606,
+        0.040645573288202286,
+        0.0016583073884248734,
+        0.01894843950867653,
+        0.0011234573321416974,
+        0.028801141306757927,
+        0.007940794341266155,
+        0.022624043747782707,
+        0.04025379568338394
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "amusement"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    },
+    {
+      "scene_id": 13,
+      "heading": null,
+      "raw_text": "Oh, no, I only wish I was. I could make love to a looker like you with my hands tied behind my back. Let's go over to the couch. No, no, no! Not here. John might hear us and come in. Why don't we go outside? Outside? Please. I want you. Let's go outside. You know, I've always dreamed of a man who could take me easily. Almost like you said, with your hands tied behind your back. Baby, believe me, I can literally do that. I'm so super. God damn it. Here. Tie me up. No, I couldn't! I thought it was just some girlish fantasy. I know no man could do that. I said, tie me up. Well... Okay, now you just unzip me, and that's all I'll need you for. Okay. You got it caught. On your little thing! How did I do that? - Shall I just give it a little yank? - No! No, no, don't do that! Just ease it down. Nice and easy. That's it. Poor little fellow. It's not little. You just scared it, that's all. Just wait. You bitch. I think I'm gonna come. Are you sure, my love? Sweet mama! Here I come! - What's going on? - I don't know. Shut up. Krug, it's Weasel! What the hell has happened to him? What's the trouble, Doc? Shut your filthy mouth! Now, take it easy, Doc. Don't do anything I wouldn't do. Put the lights on! Son of a bitch. Boy. You can do better than that, come on. Right here. Come on, come on, right here. Oh, boy, you're almost as good as Sadie. Why don't you get something to help you? Come on. Maybe one of the andirons or something, you know. Let's even up the odds. Who's this? Hello, there. You remember me? Come on, Doc. We're just playing games now. We're just beginning. And what did you do with Weasel? What did you do with him? What's your name, little angel? Mari. Mari. She was a lot tougher than you were, Doc. She took a while to Kill. She was really tough. We had a hard time with her. But you're just a pussy! A real pussy. Come on now, Doc. You can do better than that. Just a couple of more, Doc. Maybe one more for me. What the hell are you doing? Oh, you wanna Kill me. I'll do it. Okay, well, let me help you. I really will. Now, I want you to hold the gun out, just like that, see? You see that little notch in the back? That little bump in the front? I want you to kind of get them lined up. That's right. You're not shaking that much. I know you can aim the gun. Just get them lined up, and pull the trigger.",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "Oh, no, I only wish I was. I could make love to a looker like you with my hands tied behind my back. Let's go over to the couch. No, no, no! Not here. John might hear us and come in. Why don't we go outside? Outside? Please. I want you. Let's go outside. You know, I've always dreamed of a man who could take me easily. Almost like you said, with your hands tied behind your back. Baby, believe me, I can literally do that. I'm so super. God damn it. Here. Tie me up. No, I couldn't! I thought it was just some girlish fantasy. I know no man could do that. I said, tie me up. Well... Okay, now you just unzip me, and that's all I'll need you for. Okay. You got it caught. On your little thing! How did I do that? - Shall I just give it a little yank? - No! No, no, don't do that! Just ease it down. Nice and easy. That's it. Poor little fellow. It's not little. You just scared it, that's all. Just wait. You bitch. I think I'm gonna come. Are you sure, my love? Sweet mama! Here I come! - What's going on? - I don't know. Shut up. Krug, it's Weasel! What the hell has happened to him? What's the trouble, Doc? Shut your filthy mouth! Now, take it easy, Doc. Don't do anything I wouldn't do. Put the lights on! Son of a bitch. Boy. You can do better than that, come on. Right here. Come on, come on, right here. Oh, boy, you're almost as good as Sadie. Why don't you get something to help you? Come on. Maybe one of the andirons or something, you know. Let's even up the odds. Who's this? Hello, there. You remember me? Come on, Doc. We're just playing games now. We're just beginning. And what did you do with Weasel? What did you do with him? What's your name, little angel? Mari. Mari. She was a lot tougher than you were, Doc. She took a while to Kill. She was really tough. We had a hard time with her. But you're just a pussy! A real pussy. Come on now, Doc. You can do better than that. Just a couple of more, Doc. Maybe one more for me. What the hell are you doing? Oh, you wanna Kill me. I'll do it. Okay, well, let me help you. I really will. Now, I want you to hold the gun out, just like that, see? You see that little notch in the back? That little bump in the front? I want you to kind of get them lined up. That's right. You're not shaking that much. I know you can aim the gun. Just get them lined up, and pull the trigger."
+      ],
+      "scene_length_chars": 2339,
+      "split_method": "punct_chunk_2200",
+      "goemotions_probs": [
+        0.010034801438450813,
+        0.0019687707535922527,
+        0.26208820939064026,
+        0.011663377285003662,
+        0.0018455422250553966,
+        0.42149510979652405,
+        0.010778076015412807,
+        0.3302220404148102,
+        0.34708622097969055,
+        0.009987433440983295,
+        0.003626155434176326,
+        0.0030200763139873743,
+        0.0007721724105067551,
+        0.00641839811578393,
+        0.037940844893455505,
+        0.003237619996070862,
+        0.004607752896845341,
+        0.0025897359009832144,
+        0.006092520896345377,
+        0.0043266466818749905,
+        0.061055880039930344,
+        0.0009663982782512903,
+        0.004883197136223316,
+        0.0004729483916889876,
+        0.001508984831161797,
+        0.0026962654665112495,
+        0.009251936338841915,
+        0.09504365175962448
+      ],
+      "goemotions_topk": [
+        "caring",
+        "desire",
+        "curiosity"
+      ],
+      "goemotions_label": "caring",
+      "goemotions_labels": [
+        "caring"
+      ]
+    },
+    {
+      "scene_id": 14,
+      "heading": null,
+      "raw_text": "No. Come on. Pull the trigger. I'm gonna Kill you, Krug. You always were a loser. Junior, I wanna talk to you. Listen to Daddy. Come on. Now, I want you to take the gun, then I want you to turn around and I want you to put it in your mouth and I want you to blow your brains out! -No! -No. Not at me. I want you to take the gun, and I want you to put it in your mouth and I want you to blow your brains out! No! - Blow your brains out! - No! Blow your... Sorry, Krug. But I could only find one shell. - You better get out of here! - Sadie! Get away from me! You're not going to get away from me! Get off of me! Let's just get it over with! John! For God's sake, don't!",
+      "characters": [],
+      "dialogues": [],
+      "actions": [
+        "No. Come on. Pull the trigger. I'm gonna Kill you, Krug. You always were a loser. Junior, I wanna talk to you. Listen to Daddy. Come on. Now, I want you to take the gun, then I want you to turn around and I want you to put it in your mouth and I want you to blow your brains out! -No! -No. Not at me. I want you to take the gun, and I want you to put it in your mouth and I want you to blow your brains out! No! - Blow your brains out! - No! Blow your... Sorry, Krug. But I could only find one shell. - You better get out of here! - Sadie! Get away from me! You're not going to get away from me! Get off of me! Let's just get it over with! John! For God's sake, don't!"
+      ],
+      "scene_length_chars": 668,
+      "split_method": "punct_chunk_2200_tail",
+      "goemotions_probs": [
+        0.003649126971140504,
+        0.004209368955343962,
+        0.9717444181442261,
+        0.019310077652335167,
+        0.0019094387535005808,
+        0.23624584078788757,
+        0.0007575914496555924,
+        0.005633320193737745,
+        0.030574414879083633,
+        0.0019485406810417771,
+        0.05546132102608681,
+        0.006106061860918999,
+        0.0009751237230375409,
+        0.002516077598556876,
+        0.027368679642677307,
+        0.0033608819358050823,
+        0.009699476882815361,
+        0.005207615904510021,
+        0.004260089248418808,
+        0.0005858149379491806,
+        0.006716619711369276,
+        0.001570798922330141,
+        0.0006985088693909347,
+        0.0004579290107358247,
+        0.008100436069071293,
+        0.004857996013015509,
+        0.0024326967541128397,
+        0.005645687226206064
+      ],
+      "goemotions_topk": [
+        "anger",
+        "caring",
+        "disapproval"
+      ],
+      "goemotions_label": "anger",
+      "goemotions_labels": [
+        "anger"
+      ]
+    }
+  ],
+  "split_summary": {
+    "initial_method": "punct_chunk_2200",
+    "final_num_scenes": 14,
+    "lines_per_scene_fallback": 20
+  }
+}
